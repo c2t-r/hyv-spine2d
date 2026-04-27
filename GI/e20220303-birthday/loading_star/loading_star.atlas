@@ -1,0 +1,10 @@
+loading_star.png
+size:49,95
+filter:Linear,Linear
+loading_xx1
+bounds:2,26,45,67
+offsets:12,2,70,70
+loading_xx2
+bounds:2,2,22,37
+offsets:24,17,70,70
+rotate:90

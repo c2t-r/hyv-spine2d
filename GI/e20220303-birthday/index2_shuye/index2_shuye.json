@@ -1,0 +1,484 @@
+{
+  "skeleton": {
+    "hash": "CnvFmTz0pS4",
+    "spine": "4.0-from-4.1.21",
+    "x": -254,
+    "y": -74,
+    "width": 507,
+    "height": 148
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "index2_day_shuye_c",
+      "parent": "root",
+      "x": -239.08,
+      "y": 1.14
+    },
+    {
+      "name": "index2_day_shuye_a",
+      "parent": "root",
+      "x": 9.62,
+      "y": 60.58
+    },
+    {
+      "name": "index2_day_shuye_b",
+      "parent": "root",
+      "x": 238.26,
+      "y": -8.24
+    },
+    {
+      "name": "index2_day_shuye_d",
+      "parent": "root",
+      "x": 175.17,
+      "y": -65.07
+    },
+    {
+      "name": "index2_day_shuye_a2",
+      "parent": "index2_day_shuye_a"
+    },
+    {
+      "name": "index2_day_shuye_b2",
+      "parent": "index2_day_shuye_b"
+    },
+    {
+      "name": "index2_day_shuye_c2",
+      "parent": "index2_day_shuye_c"
+    },
+    {
+      "name": "index2_day_shuye_d2",
+      "parent": "index2_day_shuye_d"
+    }
+  ],
+  "slots": [
+    {
+      "name": "index2_day_shuye_d",
+      "bone": "index2_day_shuye_d2",
+      "attachment": "index2_night_shuye_d"
+    },
+    {
+      "name": "index2_day_shuye_c",
+      "bone": "index2_day_shuye_c2",
+      "attachment": "index2_night_shuye_c"
+    },
+    {
+      "name": "index2_day_shuye_b",
+      "bone": "index2_day_shuye_b2",
+      "attachment": "index2_night_shuye_b"
+    },
+    {
+      "name": "index2_day_shuye_a",
+      "bone": "index2_day_shuye_a2",
+      "attachment": "index2_night_shuye_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "index2_day_shuye_a": {
+          "index2_day_shuye_a": {
+            "x": -1.12,
+            "y": 1.42,
+            "width": 29,
+            "height": 24
+          },
+          "index2_night_shuye_a": {
+            "x": -1.12,
+            "y": 1.42,
+            "width": 29,
+            "height": 24
+          }
+        },
+        "index2_day_shuye_b": {
+          "index2_day_shuye_b": {
+            "x": -0.76,
+            "y": 1.24,
+            "width": 31,
+            "height": 26
+          },
+          "index2_night_shuye_b": {
+            "x": -0.76,
+            "y": 1.24,
+            "width": 31,
+            "height": 26
+          }
+        },
+        "index2_day_shuye_c": {
+          "index2_day_shuye_c": {
+            "x": 1.08,
+            "y": -0.14,
+            "width": 32,
+            "height": 20
+          },
+          "index2_night_shuye_c": {
+            "x": 1.08,
+            "y": -0.14,
+            "width": 32,
+            "height": 20
+          }
+        },
+        "index2_day_shuye_d": {
+          "index2_day_shuye_d": {
+            "x": 1.83,
+            "y": 1.57,
+            "width": 34,
+            "height": 21
+          },
+          "index2_night_shuye_d": {
+            "x": 1.83,
+            "y": 1.57,
+            "width": 34,
+            "height": 21
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "day": {
+      "slots": {
+        "index2_day_shuye_a": {
+          "attachment": [
+            {
+              "name": "index2_day_shuye_a"
+            }
+          ]
+        },
+        "index2_day_shuye_b": {
+          "attachment": [
+            {
+              "name": "index2_day_shuye_b"
+            }
+          ]
+        },
+        "index2_day_shuye_c": {
+          "attachment": [
+            {
+              "name": "index2_day_shuye_c"
+            }
+          ]
+        },
+        "index2_day_shuye_d": {
+          "attachment": [
+            {
+              "name": "index2_day_shuye_d"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "index2_day_shuye_c": {
+          "translate": [
+            {
+              "x": 43.57,
+              "y": -107.34
+            },
+            {
+              "time": 0.9333,
+              "x": 172.59,
+              "y": -358.46,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.8,
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 4,
+              "x": 43.57,
+              "y": -107.34
+            }
+          ]
+        },
+        "index2_day_shuye_a": {
+          "translate": [
+            {
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 2.2667,
+              "x": 252.25,
+              "y": -388.34,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "x": -260.55,
+              "y": 484.59
+            }
+          ]
+        },
+        "index2_day_shuye_b": {
+          "translate": [
+            {
+              "x": 627.31,
+              "y": -300.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.9,
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 3.6,
+              "x": 627.31,
+              "y": -300.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "x": 627.31,
+              "y": -300.38
+            }
+          ]
+        },
+        "index2_day_shuye_d": {
+          "translate": [
+            {
+              "x": -33.16,
+              "y": 194
+            },
+            {
+              "time": 2.2,
+              "x": 408.25,
+              "y": -370.08,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.8667,
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 4,
+              "x": -33.16,
+              "y": 194
+            }
+          ]
+        }
+      }
+    },
+    "night": {
+      "slots": {
+        "index2_day_shuye_a": {
+          "attachment": [
+            {
+              "name": "index2_night_shuye_a"
+            }
+          ]
+        },
+        "index2_day_shuye_b": {
+          "attachment": [
+            {
+              "name": "index2_night_shuye_b"
+            }
+          ]
+        },
+        "index2_day_shuye_c": {
+          "attachment": [
+            {
+              "name": "index2_night_shuye_c"
+            }
+          ]
+        },
+        "index2_day_shuye_d": {
+          "attachment": [
+            {
+              "name": "index2_night_shuye_d"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "index2_day_shuye_c": {
+          "translate": [
+            {
+              "x": 43.57,
+              "y": -107.34
+            },
+            {
+              "time": 0.9333,
+              "x": 172.59,
+              "y": -358.46,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.8,
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 4,
+              "x": 43.57,
+              "y": -107.34
+            }
+          ]
+        },
+        "index2_day_shuye_a": {
+          "translate": [
+            {
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 2.2667,
+              "x": 252.25,
+              "y": -388.34,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "x": -260.55,
+              "y": 484.59
+            }
+          ]
+        },
+        "index2_day_shuye_b": {
+          "translate": [
+            {
+              "x": 627.31,
+              "y": -300.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.9,
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 3.6,
+              "x": 627.31,
+              "y": -300.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "x": 627.31,
+              "y": -300.38
+            }
+          ]
+        },
+        "index2_day_shuye_d": {
+          "translate": [
+            {
+              "x": -33.16,
+              "y": 194
+            },
+            {
+              "time": 2.2,
+              "x": 408.25,
+              "y": -370.08,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.8667,
+              "x": -260.55,
+              "y": 484.59
+            },
+            {
+              "time": 4,
+              "x": -33.16,
+              "y": 194
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "index2_day_shuye_c2": {
+      "rootBoneName": "index2_day_shuye_c2",
+      "endBoneName": "",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3.5,
+          "moveXAmp": 100,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "rotateSpeed": -0.5
+        }
+      }
+    },
+    "index2_day_shuye_a2": {
+      "rootBoneName": "index2_day_shuye_a2",
+      "endBoneName": "",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3.5,
+          "moveXAmp": 120,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.5007152940186534,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": 2.776416545420837,
+          "moveYCenter": 0,
+          "rotateSpeed": 0.7
+        }
+      }
+    },
+    "index2_day_shuye_b2": {
+      "rootBoneName": "index2_day_shuye_b2",
+      "endBoneName": "",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3.5,
+          "moveXAmp": 100,
+          "moveXOctaves": 0,
+          "moveXDelay": -0.5996510317263397,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": -3.4566673397266907,
+          "moveYCenter": 0,
+          "rotateSpeed": -0.5
+        }
+      }
+    },
+    "index2_day_shuye_d2": {
+      "rootBoneName": "index2_day_shuye_d2",
+      "endBoneName": "",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3.5,
+          "moveXAmp": 120,
+          "moveXOctaves": 0,
+          "moveXDelay": -1.7888869883458414,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": -5.337671859036567,
+          "moveYCenter": 0,
+          "rotateSpeed": 0.7
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
