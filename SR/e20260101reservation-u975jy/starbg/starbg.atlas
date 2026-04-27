@@ -1,0 +1,37 @@
+starbg.png
+size:3676,3312
+filter:Linear,Linear
+呼吸光效
+bounds:0,1651,3676,1661
+颜色
+bounds:0,0,3558,1645
+
+starbg_2.png
+size:3612,4003
+filter:Linear,Linear
+呼吸光效1
+bounds:0,2358,3558,1645
+图层 3
+bounds:0,1205,3612,1147
+矢量智能对象
+bounds:0,0,2551,1199
+
+starbg_3.png
+size:4077,3066
+filter:Linear,Linear
+形状 1750
+bounds:0,0,3157,3066
+漂浮忽闪星星
+bounds:3133,267,2336,944
+rotate:90
+
+starbg_4.png
+size:4073,2218
+filter:Linear,Linear
+图层 0
+bounds:0,0,2502,1082
+渐变填充 1 拷贝 3
+bounds:2622,733,1485,1451
+rotate:90
+矩形 2096
+bounds:0,1088,2617,1130
