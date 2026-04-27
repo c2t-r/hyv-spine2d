@@ -1,0 +1,170 @@
+{
+  "skeleton": {
+    "hash": "ruu55MhTRcw",
+    "spine": "4.2.33",
+    "x": -168,
+    "y": -223,
+    "width": 336,
+    "height": 446
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "b",
+      "parent": "root",
+      "length": 54.94,
+      "rotation": -111.07,
+      "x": 5.91,
+      "y": 7.73
+    },
+    {
+      "name": "xx",
+      "parent": "b",
+      "length": 31,
+      "rotation": 123.6,
+      "x": -25.78,
+      "y": -81.54
+    }
+  ],
+  "slots": [
+    {
+      "name": "g",
+      "bone": "b",
+      "attachment": "g",
+      "blend": "additive"
+    },
+    {
+      "name": "a",
+      "bone": "b",
+      "attachment": "a"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b",
+      "blend": "additive"
+    },
+    {
+      "name": "xx",
+      "bone": "xx",
+      "attachment": "xx",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": 20.2,
+            "y": 12.17,
+            "rotation": 111.07,
+            "width": 198,
+            "height": 307
+          }
+        },
+        "b": {
+          "b": {
+            "x": 19.74,
+            "y": 11.99,
+            "rotation": 111.07,
+            "width": 198,
+            "height": 306
+          }
+        },
+        "g": {
+          "g": {
+            "x": 20.53,
+            "y": 1.58,
+            "rotation": 111.07,
+            "width": 336,
+            "height": 422
+          }
+        },
+        "xx": {
+          "xx": {
+            "x": 20.12,
+            "y": 24.11,
+            "rotation": -12.53,
+            "width": 239,
+            "height": 268
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "b": {
+      "rootBoneName": "b",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "animation",
+          "mode": 3,
+          "moveYFreq": 5,
+          "moveYAmp": 8,
+          "moveYOctaves": 0,
+          "moveYDelay": 8,
+          "moveYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 16
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "xx": {
+      "slotName": "xx",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0,
+          "min": 0.3,
+          "max": 0.6
+        }
+      }
+    },
+    "b": {
+      "slotName": "b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0.25,
+          "min": 0.5,
+          "max": 1
+        }
+      }
+    },
+    "g": {
+      "slotName": "g",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1.5,
+          "delay": 4.3,
+          "min": 0.4,
+          "max": 0.7
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

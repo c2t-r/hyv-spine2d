@@ -1,0 +1,213 @@
+{
+  "skeleton": {
+    "hash": "mMgOcSSnN6w",
+    "spine": "4.2.33",
+    "x": -210,
+    "y": -224,
+    "width": 420,
+    "height": 448
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "gb",
+      "parent": "root",
+      "length": 90.52,
+      "rotation": -90.27,
+      "x": -32.84,
+      "y": 1.26
+    },
+    {
+      "name": "xx",
+      "parent": "gb",
+      "x": -58.67,
+      "y": 105.29
+    }
+  ],
+  "slots": [
+    {
+      "name": "gb",
+      "bone": "gb",
+      "attachment": "gb",
+      "blend": "additive"
+    },
+    {
+      "name": "gg",
+      "bone": "gb",
+      "attachment": "gg"
+    },
+    {
+      "name": "a",
+      "bone": "gb",
+      "attachment": "a"
+    },
+    {
+      "name": "bb",
+      "bone": "gb",
+      "attachment": "bb",
+      "blend": "additive"
+    },
+    {
+      "name": "xx",
+      "bone": "xx",
+      "attachment": "xx",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": 20.76,
+            "y": 0.93,
+            "rotation": 90.27,
+            "width": 234,
+            "height": 301
+          }
+        },
+        "bb": {
+          "bb": {
+            "x": -47.79,
+            "y": 10.11,
+            "rotation": 90.27,
+            "width": 215,
+            "height": 164
+          }
+        },
+        "gb": {
+          "gb": {
+            "x": 1.29,
+            "y": -5.66,
+            "rotation": 90.27,
+            "width": 313,
+            "height": 374
+          }
+        },
+        "gg": {
+          "gg": {
+            "x": 16.26,
+            "y": 0.41,
+            "rotation": 90.27,
+            "width": 355,
+            "height": 418
+          }
+        },
+        "xx": {
+          "xx": {
+            "x": -30.64,
+            "y": 17.63,
+            "rotation": 90.27,
+            "width": 239,
+            "height": 268
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "gb": {
+      "rootBoneName": "gb",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 5,
+          "moveYAmp": 8,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 2,
+          "rotateOctaves": 0,
+          "rotateDelay": 5
+        }
+      }
+    },
+    "xx": {
+      "rootBoneName": "xx",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 2,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "gb": {
+      "slotName": "gb",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0,
+          "min": 0.5,
+          "max": 1
+        }
+      }
+    },
+    "gg": {
+      "slotName": "gg",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": 0.25,
+          "min": 0.5,
+          "max": 1
+        }
+      }
+    },
+    "xx": {
+      "slotName": "xx",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.5,
+          "min": 0.2,
+          "max": 0.5
+        }
+      }
+    },
+    "bb": {
+      "slotName": "bb",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.75,
+          "min": 0.3,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

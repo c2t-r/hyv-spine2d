@@ -1,0 +1,12 @@
+win_icon_zhan.png
+size:540,211
+filter:Linear,Linear
+a
+bounds:364,0,176,211
+offsets:5,5,186,221
+b
+bounds:182,0,176,211
+offsets:5,5,186,221
+c
+bounds:0,0,176,211
+offsets:5,5,186,221

@@ -1,0 +1,879 @@
+{
+  "skeleton": {
+    "hash": "xmclPb089Dk",
+    "spine": "4.2.43",
+    "x": -673,
+    "y": -407,
+    "width": 1346,
+    "height": 814
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "win_start_c2",
+      "parent": "root",
+      "x": -363.08,
+      "y": 281.97
+    },
+    {
+      "name": "win_start_c",
+      "parent": "win_start_c2",
+      "x": -0.5,
+      "y": 0.81
+    },
+    {
+      "name": "win_start_e2",
+      "parent": "root",
+      "x": -261.22,
+      "y": 75.76
+    },
+    {
+      "name": "win_start_e",
+      "parent": "win_start_e2",
+      "y": -0.2
+    },
+    {
+      "name": "win_start_d2",
+      "parent": "root",
+      "x": 300.59,
+      "y": 380.28
+    },
+    {
+      "name": "win_start_d",
+      "parent": "win_start_d2",
+      "x": -0.34,
+      "y": 0.11
+    },
+    {
+      "name": "win_start_a2",
+      "parent": "root",
+      "x": 632.27,
+      "y": -314.65
+    },
+    {
+      "name": "win_start_a",
+      "parent": "win_start_a2",
+      "y": -0.19
+    },
+    {
+      "name": "win_start_b2",
+      "parent": "root",
+      "x": -616.71,
+      "y": -335.93
+    },
+    {
+      "name": "win_start_b",
+      "parent": "win_start_b2",
+      "x": -0.76,
+      "y": -0.25
+    }
+  ],
+  "slots": [
+    {
+      "name": "win_start_b",
+      "bone": "win_start_b",
+      "attachment": "win_start_b"
+    },
+    {
+      "name": "win_start_a",
+      "bone": "win_start_a",
+      "attachment": "win_start_a"
+    },
+    {
+      "name": "win_start_c",
+      "bone": "win_start_c",
+      "attachment": "win_start_c"
+    },
+    {
+      "name": "win_start_e",
+      "bone": "win_start_e",
+      "attachment": "win_start_e"
+    },
+    {
+      "name": "win_start_d",
+      "bone": "win_start_d",
+      "attachment": "win_start_d"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "win_start_a": {
+          "win_start_a": {
+            "x": -0.27,
+            "y": -0.16,
+            "width": 82,
+            "height": 82
+          }
+        },
+        "win_start_b": {
+          "win_start_b": {
+            "x": 0.47,
+            "y": -0.81,
+            "width": 112,
+            "height": 140
+          }
+        },
+        "win_start_c": {
+          "win_start_c": {
+            "x": 0.59,
+            "y": -0.78,
+            "width": 110,
+            "height": 110
+          }
+        },
+        "win_start_d": {
+          "win_start_d": {
+            "x": 0.24,
+            "y": -1.39,
+            "width": 43,
+            "height": 56
+          }
+        },
+        "win_start_e": {
+          "win_start_e": {
+            "x": 0.22,
+            "y": -0.06,
+            "width": 38,
+            "height": 47
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "slots": {
+        "win_start_a": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_b": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_c": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_d": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_e": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "win_start_e": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_d": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_c": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_b": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_a": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        }
+      }
+    },
+    "animation": {},
+    "in": {
+      "slots": {
+        "win_start_a": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "win_start_b": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4667,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "win_start_c": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.3667,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "win_start_d": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "win_start_e": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.3,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "win_start_e": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1667,
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.244,
+                0.01,
+                0.322,
+                1.2,
+                0.244,
+                0.01,
+                0.322,
+                1.2
+              ]
+            },
+            {
+              "time": 0.4,
+              "x": 1.2,
+              "y": 1.2,
+              "curve": [
+                0.489,
+                1.2,
+                0.578,
+                0.9,
+                0.489,
+                1.2,
+                0.578,
+                0.9
+              ]
+            },
+            {
+              "time": 0.6667,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": [
+                0.778,
+                0.9,
+                0.889,
+                0.967,
+                0.778,
+                0.9,
+                0.889,
+                0.967
+              ]
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "win_start_d": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.144,
+                0.01,
+                0.222,
+                1.2,
+                0.144,
+                0.01,
+                0.222,
+                1.2
+              ]
+            },
+            {
+              "time": 0.3,
+              "x": 1.2,
+              "y": 1.2,
+              "curve": [
+                0.389,
+                1.2,
+                0.478,
+                0.9,
+                0.389,
+                1.2,
+                0.478,
+                0.9
+              ]
+            },
+            {
+              "time": 0.5667,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": [
+                0.678,
+                0.9,
+                0.789,
+                0.967,
+                0.678,
+                0.9,
+                0.789,
+                0.967
+              ]
+            },
+            {
+              "time": 0.9
+            }
+          ]
+        },
+        "win_start_c": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2333,
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.311,
+                0.01,
+                0.389,
+                1.2,
+                0.311,
+                0.01,
+                0.389,
+                1.2
+              ]
+            },
+            {
+              "time": 0.4667,
+              "x": 1.2,
+              "y": 1.2,
+              "curve": [
+                0.556,
+                1.2,
+                0.644,
+                0.9,
+                0.556,
+                1.2,
+                0.644,
+                0.9
+              ]
+            },
+            {
+              "time": 0.7333,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": [
+                0.844,
+                0.9,
+                0.956,
+                0.967,
+                0.844,
+                0.9,
+                0.956,
+                0.967
+              ]
+            },
+            {
+              "time": 1.0667
+            }
+          ]
+        },
+        "win_start_b": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.411,
+                0.01,
+                0.489,
+                1.2,
+                0.411,
+                0.01,
+                0.489,
+                1.2
+              ]
+            },
+            {
+              "time": 0.5667,
+              "x": 1.2,
+              "y": 1.2,
+              "curve": [
+                0.656,
+                1.2,
+                0.744,
+                0.9,
+                0.656,
+                1.2,
+                0.744,
+                0.9
+              ]
+            },
+            {
+              "time": 0.8333,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": [
+                0.944,
+                0.9,
+                1.056,
+                0.967,
+                0.944,
+                0.9,
+                1.056,
+                0.967
+              ]
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "win_start_a": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.478,
+                0.01,
+                0.556,
+                1.2,
+                0.478,
+                0.01,
+                0.556,
+                1.2
+              ]
+            },
+            {
+              "time": 0.6333,
+              "x": 1.2,
+              "y": 1.2,
+              "curve": [
+                0.722,
+                1.2,
+                0.811,
+                0.9,
+                0.722,
+                1.2,
+                0.811,
+                0.9
+              ]
+            },
+            {
+              "time": 0.9,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": [
+                1.011,
+                0.9,
+                1.122,
+                0.967,
+                1.011,
+                0.9,
+                1.122,
+                0.967
+              ]
+            },
+            {
+              "time": 1.2333
+            }
+          ]
+        }
+      }
+    },
+    "out": {
+      "slots": {
+        "win_start_a": {
+          "rgba": [
+            {
+              "time": 0.3667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.5667,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_b": {
+          "rgba": [
+            {
+              "time": 0.4333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_c": {
+          "rgba": [
+            {
+              "time": 0.1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.3,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_d": {
+          "rgba": [
+            {
+              "time": 0.2,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "win_start_e": {
+          "rgba": [
+            {
+              "time": 0.5333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "win_start_e": {
+          "scale": [
+            {
+              "time": 0.5333
+            },
+            {
+              "time": 0.7333,
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_d": {
+          "scale": [
+            {
+              "time": 0.2
+            },
+            {
+              "time": 0.4,
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_c": {
+          "scale": [
+            {
+              "time": 0.1
+            },
+            {
+              "time": 0.3,
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_b": {
+          "scale": [
+            {
+              "time": 0.4333
+            },
+            {
+              "time": 0.6333,
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "win_start_a": {
+          "scale": [
+            {
+              "time": 0.3667
+            },
+            {
+              "time": 0.5667,
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "win_start_c2": {
+      "rootBoneName": "win_start_c2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        }
+      }
+    },
+    "win_start_e2": {
+      "rootBoneName": "win_start_e2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        }
+      }
+    },
+    "win_start_d2": {
+      "rootBoneName": "win_start_d2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        }
+      }
+    },
+    "win_start_a2": {
+      "rootBoneName": "win_start_a2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        }
+      }
+    },
+    "win_start_b2": {
+      "rootBoneName": "win_start_b2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        }
+      }
+    },
+    "win_start_c": {
+      "rootBoneName": "win_start_c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": -3.2609900793932285,
+          "moveXCenter": 0,
+          "moveXSeed": 8887.284269735339,
+          "scaleXFreq": 0.7,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -3.148926196857838,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "win_start_e": {
+      "rootBoneName": "win_start_e",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 80,
+          "moveXOctaves": 2,
+          "moveXDelay": -4.076200942584858,
+          "moveXCenter": 0,
+          "moveXSeed": 8890.207312681314,
+          "scaleXFreq": 0.4,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0.55318613529161,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "win_start_d": {
+      "rootBoneName": "win_start_d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 5.177605661423365,
+          "moveXCenter": 0,
+          "moveXSeed": 8882.712482140056,
+          "scaleXFreq": 0.45,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 2.963953903027598,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "win_start_a": {
+      "rootBoneName": "win_start_a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 2.1333633437672748,
+          "moveXCenter": 0,
+          "moveXSeed": 8893.74696730201,
+          "scaleXFreq": 0.7,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -2.884031808815249,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "win_start_b": {
+      "rootBoneName": "win_start_b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 80,
+          "moveXOctaves": 2,
+          "moveXDelay": 1.849910191987909,
+          "moveXCenter": 0,
+          "moveXSeed": 8883.413280515217,
+          "scaleXFreq": 0.4,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 5.4584564652934295,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "skeleton": {
+    "hash": "49tg90grojM",
+    "spine": "4.2.33",
+    "x": -215.5,
+    "y": -215.5,
+    "width": 431,
+    "height": 431
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "bone",
+      "parent": "root"
+    },
+    {
+      "name": "bone2",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "星星",
+      "bone": "bone2",
+      "attachment": "星星"
+    },
+    {
+      "name": "指针",
+      "bone": "bone",
+      "attachment": "指针"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "指针": {
+          "指针": {
+            "x": -12,
+            "y": 168,
+            "width": 114,
+            "height": 426
+          }
+        },
+        "星星": {
+          "星星": {
+            "width": 862,
+            "height": 862
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "bone2": {
+      "rootBoneName": "bone2",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "rotateSpeed": -0.02
+        }
+      }
+    },
+    "bone": {
+      "rootBoneName": "bone",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 1,
+          "rotateRange": 1,
+          "rotateOffset": 0.25,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

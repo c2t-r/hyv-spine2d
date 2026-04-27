@@ -1,0 +1,13 @@
+win_end_star.png
+size:105,70
+filter:Linear,Linear
+a
+bounds:0,0,70,70
+offsets:5,5,80,80
+b
+bounds:76,3,21,29
+offsets:5,5,31,39
+rotate:90
+c
+bounds:76,30,24,40
+offsets:5,5,34,50

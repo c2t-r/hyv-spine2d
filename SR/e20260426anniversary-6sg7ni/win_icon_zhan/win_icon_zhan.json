@@ -1,0 +1,119 @@
+{
+  "skeleton": {
+    "hash": "e7sp4FhWuc4",
+    "spine": "4.2.43",
+    "x": -93,
+    "y": -110.5,
+    "width": 186,
+    "height": 221
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "win_icon_zhan",
+      "parent": "root",
+      "length": 117.93,
+      "rotation": 19.54,
+      "x": -45.82,
+      "y": -32.24
+    }
+  ],
+  "slots": [
+    {
+      "name": "a",
+      "bone": "win_icon_zhan",
+      "attachment": "a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": 53.97,
+            "y": 15.05,
+            "rotation": -19.54,
+            "width": 186,
+            "height": 221
+          },
+          "b": {
+            "x": 53.97,
+            "y": 15.05,
+            "rotation": -19.54,
+            "width": 186,
+            "height": 221
+          },
+          "c": {
+            "x": 53.97,
+            "y": 15.05,
+            "rotation": -19.54,
+            "width": 186,
+            "height": 221
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "a": {
+      "slots": {
+        "a": {
+          "attachment": [
+            {
+              "name": "a"
+            }
+          ]
+        }
+      }
+    },
+    "b": {
+      "slots": {
+        "a": {
+          "attachment": [
+            {
+              "name": "b"
+            }
+          ]
+        }
+      }
+    },
+    "c": {
+      "slots": {
+        "a": {
+          "attachment": [
+            {
+              "name": "c"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "win_icon_zhan": {
+      "rootBoneName": "win_icon_zhan",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 2,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "rotateFreq": 2,
+          "rotateAmp": 2,
+          "rotateOctaves": 0,
+          "rotateDelay": 1
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

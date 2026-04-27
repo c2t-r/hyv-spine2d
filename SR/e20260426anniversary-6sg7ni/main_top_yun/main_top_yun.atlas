@@ -1,0 +1,17 @@
+main_top_yun.png
+size:533,372
+filter:Linear,Linear
+scale:0.5
+main_top_yun_a
+bounds:0,170,374,202
+offsets:5,5,384,212
+main_top_yun_b
+bounds:380,125,247,153
+offsets:5,5,257,163
+rotate:90
+main_top_yun_c
+bounds:0,0,319,164
+offsets:5,5,329,174
+main_top_yun_d
+bounds:325,79,78,40
+offsets:5,5,88,50

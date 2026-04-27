@@ -1,0 +1,151 @@
+{
+  "skeleton": {
+    "hash": "bnZfuZRlUac",
+    "spine": "4.2.43",
+    "x": -953.53,
+    "y": -69.5,
+    "width": 1904.91,
+    "height": 365
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "a",
+      "parent": "root",
+      "y": 272.54
+    },
+    {
+      "name": "a3",
+      "parent": "a",
+      "length": 355.1,
+      "rotation": 0.36,
+      "x": 10.31,
+      "y": 0.74
+    },
+    {
+      "name": "a4",
+      "parent": "root",
+      "x": -566.53,
+      "y": 272.54
+    },
+    {
+      "name": "a7",
+      "parent": "root",
+      "x": 565.38,
+      "y": 272.54
+    }
+  ],
+  "slots": [
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a"
+    },
+    {
+      "name": "a2",
+      "bone": "a4",
+      "attachment": "a"
+    },
+    {
+      "name": "a3",
+      "bone": "a7",
+      "attachment": "a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": -0.5,
+            "y": -159.54,
+            "width": 773,
+            "height": 365
+          }
+        },
+        "a2": {
+          "a": {
+            "x": -0.5,
+            "y": -159.54,
+            "width": 773,
+            "height": 365
+          }
+        },
+        "a3": {
+          "a": {
+            "x": -0.5,
+            "y": -159.54,
+            "width": 773,
+            "height": 365
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "a": {
+      "rootBoneName": "a",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 4,
+          "moveYAmp": 6,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "a4": {
+      "rootBoneName": "a4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 4,
+          "moveYAmp": 6,
+          "moveYOctaves": 0,
+          "moveYDelay": -1,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "a7": {
+      "rootBoneName": "a7",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 4,
+          "moveYAmp": 6,
+          "moveYOctaves": 0,
+          "moveYDelay": 1,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

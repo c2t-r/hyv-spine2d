@@ -1,0 +1,476 @@
+{
+  "skeleton": {
+    "hash": "tNWeKYLP0nY",
+    "spine": "4.2.33",
+    "x": -673.5,
+    "y": -634.5,
+    "width": 1347,
+    "height": 1269
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "球",
+      "parent": "root",
+      "x": -13.17,
+      "y": 36.22
+    },
+    {
+      "name": "a",
+      "parent": "球",
+      "x": 231.69,
+      "y": 401.89,
+      "inherit": "noRotationOrReflection"
+    },
+    {
+      "name": "b",
+      "parent": "a"
+    },
+    {
+      "name": "c",
+      "parent": "b"
+    },
+    {
+      "name": "a2",
+      "parent": "球",
+      "x": 183.81,
+      "y": 365.57,
+      "inherit": "noRotationOrReflection"
+    },
+    {
+      "name": "b2",
+      "parent": "a2"
+    },
+    {
+      "name": "c2",
+      "parent": "b2"
+    },
+    {
+      "name": "a3",
+      "parent": "球",
+      "x": -100.15,
+      "y": -30.65,
+      "scaleX": 0.7755,
+      "scaleY": 0.7755,
+      "inherit": "noRotationOrReflection"
+    },
+    {
+      "name": "b3",
+      "parent": "a3"
+    },
+    {
+      "name": "c3",
+      "parent": "b3"
+    },
+    {
+      "name": "a4",
+      "parent": "球",
+      "x": -133.17,
+      "y": -53.76,
+      "scaleX": 0.7755,
+      "scaleY": 0.7755,
+      "inherit": "noRotationOrReflection"
+    },
+    {
+      "name": "b4",
+      "parent": "a4"
+    },
+    {
+      "name": "c4",
+      "parent": "b4"
+    }
+  ],
+  "slots": [
+    {
+      "name": "空气透视",
+      "bone": "球",
+      "attachment": "空气透视"
+    },
+    {
+      "name": "高光a",
+      "bone": "球",
+      "attachment": "高光a"
+    },
+    {
+      "name": "高光b",
+      "bone": "球",
+      "attachment": "高光b"
+    },
+    {
+      "name": "高光c",
+      "bone": "球",
+      "attachment": "高光c"
+    },
+    {
+      "name": "闪光",
+      "bone": "c",
+      "attachment": "闪光",
+      "blend": "additive"
+    },
+    {
+      "name": "闪光2",
+      "bone": "c2",
+      "attachment": "闪光",
+      "blend": "additive"
+    },
+    {
+      "name": "闪光3",
+      "bone": "c3",
+      "attachment": "闪光",
+      "blend": "additive"
+    },
+    {
+      "name": "闪光4",
+      "bone": "c4",
+      "attachment": "闪光",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "空气透视": {
+          "空气透视": {
+            "x": 1.17,
+            "y": -36.22,
+            "width": 1323,
+            "height": 1269
+          }
+        },
+        "闪光": {
+          "闪光": {
+            "x": -41.02,
+            "y": -15.11,
+            "width": 992,
+            "height": 423
+          }
+        },
+        "闪光2": {
+          "闪光": {
+            "x": -41.02,
+            "y": -15.11,
+            "width": 992,
+            "height": 423
+          }
+        },
+        "闪光3": {
+          "闪光": {
+            "x": -41.02,
+            "y": -15.11,
+            "width": 992,
+            "height": 423
+          }
+        },
+        "闪光4": {
+          "闪光": {
+            "x": -41.02,
+            "y": -15.11,
+            "width": 992,
+            "height": 423
+          }
+        },
+        "高光a": {
+          "高光a": {
+            "x": -295.83,
+            "y": -252.72,
+            "width": 547,
+            "height": 506
+          }
+        },
+        "高光b": {
+          "高光b": {
+            "x": 225.67,
+            "y": 381.28,
+            "width": 394,
+            "height": 380
+          }
+        },
+        "高光c": {
+          "高光c": {
+            "x": 221.67,
+            "y": 400.78,
+            "width": 158,
+            "height": 133
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "球": {
+      "rootBoneName": "球",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 5,
+          "moveYAmp": 20,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "scaleXFreq": 5,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 2
+        }
+      }
+    },
+    "c4": {
+      "rootBoneName": "c4",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 0.5,
+          "scaleXAmp": 0.15,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": -0.2
+        }
+      }
+    },
+    "b4": {
+      "rootBoneName": "b4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 1.5,
+          "scaleXAmp": 0.3,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0.006151187544153203,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "c3": {
+      "rootBoneName": "c3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 0.5,
+          "scaleXAmp": 0.15,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -1.98933412432408,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "c2": {
+      "rootBoneName": "c2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 0.5,
+          "scaleXAmp": 0.15,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -0.09062221486400965,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "c": {
+      "rootBoneName": "c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 0.5,
+          "scaleXAmp": 0.15,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 5.898117823011961,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "b": {
+      "rootBoneName": "b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 1.5,
+          "scaleXAmp": 0.3,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -4.8828867871674895,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "b2": {
+      "rootBoneName": "b2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 1.5,
+          "scaleXAmp": 0.3,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -1.6043791943019765,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "b3": {
+      "rootBoneName": "b3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 1.5,
+          "scaleXAmp": 0.3,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -3.978712854223981,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "高光a": {
+      "slotName": "高光a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0,
+          "min": 0.2,
+          "max": 1
+        }
+      }
+    },
+    "高光b": {
+      "slotName": "高光b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.4508520204910389,
+          "min": 0.5,
+          "max": 1
+        }
+      }
+    },
+    "高光c": {
+      "slotName": "高光c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.3044590701286618,
+          "min": 0.95,
+          "max": 1
+        }
+      }
+    },
+    "闪光": {
+      "slotName": "闪光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0.07888772641838138,
+          "min": 0.05,
+          "max": 0.2
+        }
+      }
+    },
+    "闪光2": {
+      "slotName": "闪光2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0.006076293772809382,
+          "min": 0.05,
+          "max": 0.2
+        }
+      }
+    },
+    "闪光3": {
+      "slotName": "闪光3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0.05851593997480409,
+          "min": 0.05,
+          "max": 0.2
+        }
+      }
+    },
+    "闪光4": {
+      "slotName": "闪光4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0.11785746840672906,
+          "min": 0.05,
+          "max": 0.2
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

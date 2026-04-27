@@ -1,0 +1,31 @@
+main_icon_e.png
+size:184,745
+filter:Linear,Linear
+scale:0.78
+body
+bounds:0,166,181,161
+body _ya
+bounds:0,333,192,172
+rotate:90
+body _yb
+bounds:0,531,197,177
+rotate:90
+eye_b
+bounds:88,18,23,43
+offsets:7,7,37,57
+eyea
+bounds:117,18,22,43
+offsets:7,7,37,57
+帽
+bounds:0,0,82,69
+offsets:7,7,96,83
+帽_ya
+bounds:104,67,93,80
+offsets:7,7,107,94
+rotate:90
+帽_yb
+bounds:0,75,98,85
+offsets:7,7,112,99
+闭眼
+bounds:0,734,104,11
+offsets:7,8,119,27
