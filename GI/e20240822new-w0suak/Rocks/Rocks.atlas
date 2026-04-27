@@ -1,0 +1,17 @@
+Rocks.png
+size:435,114
+filter:Linear,Linear
+scale:0.32
+碎石1
+bounds:2,4,24,27
+碎石2
+bounds:298,25,87,66
+rotate:90
+碎石3
+bounds:2,36,180,76
+碎石4
+bounds:369,47,64,65
+碎石5
+bounds:187,7,106,105
+碎石6
+bounds:369,2,49,40

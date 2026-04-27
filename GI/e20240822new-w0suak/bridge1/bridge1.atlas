@@ -1,0 +1,10 @@
+bridge1.png
+size:1073,399
+filter:Linear,Linear
+scale:0.48
+水流1
+bounds:2,2,1069,306
+offsets:1,0,1072,306
+水流1高光
+bounds:2,248,726,149
+offsets:0,0,735,149

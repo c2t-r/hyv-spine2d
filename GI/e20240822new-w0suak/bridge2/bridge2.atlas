@@ -1,0 +1,10 @@
+bridge2.png
+size:979,480
+filter:Linear,Linear
+scale:0.48
+水流2
+bounds:2,96,689,382
+offsets:14,1,705,385
+水流2高光
+bounds:345,2,632,333
+offsets:0,0,632,335
