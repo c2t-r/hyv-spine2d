@@ -1,0 +1,206 @@
+{
+  "skeleton": {
+    "hash": "GhexQJA7IUM",
+    "spine": "4.2.42",
+    "x": -173,
+    "y": -44,
+    "width": 346,
+    "height": 88
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "ct_menu_a_a",
+      "bone": "root",
+      "attachment": "ct_menu_a_b"
+    },
+    {
+      "name": "d",
+      "bone": "root",
+      "attachment": "d"
+    },
+    {
+      "name": "c",
+      "bone": "root",
+      "attachment": "c"
+    },
+    {
+      "name": "b",
+      "bone": "root",
+      "attachment": "b"
+    },
+    {
+      "name": "a",
+      "bone": "root",
+      "attachment": "a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": -141.5,
+            "y": 22.5,
+            "width": 27,
+            "height": 29
+          }
+        },
+        "b": {
+          "b": {
+            "x": -161.5,
+            "y": 17,
+            "width": 11,
+            "height": 12
+          }
+        },
+        "c": {
+          "c": {
+            "x": -118,
+            "y": 30,
+            "width": 10,
+            "height": 10
+          }
+        },
+        "ct_menu_a_a": {
+          "ct_menu_a_a": {
+            "y": -1,
+            "width": 326,
+            "height": 82
+          },
+          "ct_menu_a_b": {
+            "width": 346,
+            "height": 88
+          }
+        },
+        "d": {
+          "d": {
+            "x": -164,
+            "y": -8,
+            "width": 8,
+            "height": 8
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "a": {
+      "slots": {
+        "a": {
+          "attachment": [
+            {}
+          ]
+        },
+        "b": {
+          "attachment": [
+            {}
+          ]
+        },
+        "c": {
+          "attachment": [
+            {}
+          ]
+        },
+        "ct_menu_a_a": {
+          "attachment": [
+            {
+              "name": "ct_menu_a_a"
+            }
+          ]
+        },
+        "d": {
+          "attachment": [
+            {}
+          ]
+        }
+      }
+    },
+    "b": {
+      "slots": {
+        "a": {
+          "attachment": [
+            {
+              "name": "a"
+            }
+          ]
+        },
+        "b": {
+          "attachment": [
+            {
+              "name": "b"
+            }
+          ]
+        },
+        "c": {
+          "attachment": [
+            {
+              "name": "c"
+            }
+          ]
+        },
+        "ct_menu_a_a": {
+          "attachment": [
+            {
+              "name": "ct_menu_a_b"
+            }
+          ]
+        },
+        "d": {
+          "attachment": [
+            {
+              "name": "d"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {},
+  "extraSlot": {
+    "d": {
+      "slotName": "d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0,
+          "max": 1
+        }
+      }
+    },
+    "c": {
+      "slotName": "c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1.1,
+          "delay": -0.3843519779382467,
+          "max": 1
+        }
+      }
+    },
+    "b": {
+      "slotName": "b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1.3,
+          "delay": 0.07542874409991596,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

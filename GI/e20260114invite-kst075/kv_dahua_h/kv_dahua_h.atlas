@@ -1,0 +1,11 @@
+kv_dahua_h.png
+size:376,200
+filter:Linear,Linear
+scale:0.3125
+前景花朵8_1
+bounds:3,4,219,193
+offsets:0,1,220,196
+前景花朵阴影_7
+bounds:227,3,194,146
+offsets:5,5,204,156
+rotate:90

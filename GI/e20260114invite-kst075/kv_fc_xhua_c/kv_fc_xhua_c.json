@@ -1,0 +1,415 @@
+{
+  "skeleton": {
+    "hash": "e1GKTboHQYU",
+    "spine": "4.2.42",
+    "x": -120,
+    "y": -172.5,
+    "width": 240,
+    "height": 345
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "kv_fc_xhua_b",
+      "parent": "root",
+      "length": 85.62,
+      "rotation": 130.07,
+      "x": -50.69,
+      "y": -157.46
+    },
+    {
+      "name": "kv_fc_xhua_b2",
+      "parent": "root",
+      "length": 102.3,
+      "rotation": 121.79,
+      "x": -12.72,
+      "y": -86.43
+    },
+    {
+      "name": "kv_fc_xhua_b3",
+      "parent": "root",
+      "length": 82.03,
+      "rotation": 118.25,
+      "x": 15.44,
+      "y": -3.76
+    },
+    {
+      "name": "kv_fc_xhua_b4",
+      "parent": "root",
+      "length": 88.81,
+      "rotation": 105,
+      "x": 74.84,
+      "y": 55.64
+    },
+    {
+      "name": "kv_fc_xhua_b5",
+      "parent": "root",
+      "length": 77.78,
+      "rotation": 85.62,
+      "x": 107.91,
+      "y": 97.89
+    }
+  ],
+  "slots": [
+    {
+      "name": "kv_fc_xhua_b",
+      "bone": "kv_fc_xhua_b",
+      "attachment": "kv_fc_xhua_c"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "kv_fc_xhua_b": {
+          "kv_fc_xhua_c": {
+            "type": "mesh",
+            "uvs": [
+              0.2939,
+              1,
+              0,
+              1,
+              0,
+              0.84104,
+              0.0413,
+              0.66,
+              0.1255,
+              0.48073,
+              0.23266,
+              0.37601,
+              0.18418,
+              0.29614,
+              0.38575,
+              0.16657,
+              0.60517,
+              0.07605,
+              0.82205,
+              0.01215,
+              1,
+              0,
+              1,
+              0.17367,
+              0.88328,
+              0.30856,
+              0.70213,
+              0.41683,
+              0.56435,
+              0.5393,
+              0.46229,
+              0.70437,
+              0.40361,
+              0.83217
+            ],
+            "triangles": [
+              9,
+              10,
+              11,
+              11,
+              8,
+              9,
+              12,
+              8,
+              11,
+              5,
+              6,
+              7,
+              13,
+              8,
+              12,
+              7,
+              8,
+              13,
+              5,
+              7,
+              13,
+              14,
+              5,
+              13,
+              14,
+              4,
+              5,
+              15,
+              4,
+              14,
+              3,
+              4,
+              15,
+              16,
+              3,
+              15,
+              2,
+              3,
+              16,
+              0,
+              1,
+              2,
+              16,
+              0,
+              2
+            ],
+            "vertices": [
+              1,
+              1,
+              -12.3,
+              8.74,
+              1,
+              1,
+              1,
+              33.11,
+              62.72,
+              1,
+              1,
+              1,
+              75.08,
+              27.42,
+              1,
+              2,
+              1,
+              116.49,
+              -20.37,
+              0.58372,
+              2,
+              77.83,
+              66.31,
+              0.41628,
+              3,
+              1,
+              150.82,
+              -75.65,
+              0.01689,
+              2,
+              119.76,
+              16.55,
+              0.97399,
+              3,
+              59.02,
+              87.85,
+              0.00912,
+              2,
+              2,
+              136.92,
+              -24.34,
+              0.36616,
+              3,
+              78.67,
+              48.1,
+              0.63384,
+              2,
+              2,
+              166.47,
+              -28.96,
+              0.11273,
+              3,
+              108.46,
+              45.3,
+              0.88727,
+              2,
+              3,
+              124.93,
+              -18.47,
+              0.75532,
+              4,
+              83.84,
+              83.41,
+              0.24468,
+              2,
+              3,
+              127.52,
+              -79.64,
+              0.10879,
+              4,
+              100.38,
+              24.46,
+              0.89121,
+              2,
+              4,
+              108.2,
+              -31.52,
+              0.46521,
+              5,
+              67.88,
+              35.9,
+              0.53479,
+              2,
+              4,
+              101.2,
+              -73.86,
+              0.0005,
+              5,
+              75.32,
+              -6.36,
+              0.9995,
+              1,
+              5,
+              15.58,
+              -10.93,
+              1,
+              2,
+              4,
+              5.62,
+              -19.26,
+              0.804,
+              5,
+              -32.96,
+              13.44,
+              0.196,
+              2,
+              3,
+              12.94,
+              -44.49,
+              0.54662,
+              4,
+              -19.21,
+              32.41,
+              0.45338,
+              2,
+              2,
+              47.1,
+              -62.33,
+              0.10384,
+              3,
+              -8.63,
+              4.64,
+              0.89616,
+              2,
+              2,
+              11.6,
+              -11.51,
+              0.98119,
+              3,
+              -47.2,
+              53.17,
+              0.01881,
+              2,
+              1,
+              15.07,
+              -48.68,
+              0.4193,
+              2,
+              -18.46,
+              23.69,
+              0.5807
+            ],
+            "hull": 17
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "kv_fc_xhua_b": {
+      "rootBoneName": "kv_fc_xhua_b",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 3,
+          "rotateRange": 5,
+          "rotateOffset": 0,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "kv_fc_xhua_b2": {
+      "rootBoneName": "kv_fc_xhua_b2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 3,
+          "rotateRange": 5,
+          "rotateOffset": 0.19029445202477158,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "kv_fc_xhua_b3": {
+      "rootBoneName": "kv_fc_xhua_b3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 3,
+          "rotateRange": 5,
+          "rotateOffset": -0.49175663805199665,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "kv_fc_xhua_b4": {
+      "rootBoneName": "kv_fc_xhua_b4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 3,
+          "rotateRange": 5,
+          "rotateOffset": 0.06541452583942164,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "kv_fc_xhua_b5": {
+      "rootBoneName": "kv_fc_xhua_b5",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 3,
+          "rotateRange": 5,
+          "rotateOffset": -0.20995184755367946,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

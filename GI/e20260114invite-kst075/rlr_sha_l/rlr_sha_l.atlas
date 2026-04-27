@@ -1,0 +1,16 @@
+rlr_sha_l.png
+size:1651,1387
+filter:Linear,Linear
+scale:0.8
+布a
+bounds:0,0,1197,582
+布b
+bounds:748,370,903,1017
+offsets:0,0,1145,1287
+rotate:180
+布c
+bounds:0,344,1187,1043
+offsets:0,0,1187,1054
+布c_fu
+bounds:875,759,732,628
+offsets:3,3,735,631

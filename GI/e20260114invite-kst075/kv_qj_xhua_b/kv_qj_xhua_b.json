@@ -1,0 +1,465 @@
+{
+  "skeleton": {
+    "hash": "ZUWNXSO0pxk",
+    "spine": "4.2.42",
+    "x": -137.03,
+    "y": -178.59,
+    "width": 274.06,
+    "height": 357.19
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.3125,
+      "scaleY": 0.3125
+    },
+    {
+      "name": "前景小花_19",
+      "parent": "root",
+      "length": 177.67,
+      "rotation": 98.28,
+      "x": 372.93,
+      "y": -235.96
+    },
+    {
+      "name": "前景小花_18",
+      "parent": "root",
+      "length": 87.17,
+      "rotation": 87.9,
+      "x": 172.34,
+      "y": -576.4
+    },
+    {
+      "name": "前景小花_17",
+      "parent": "root",
+      "length": 99.59,
+      "rotation": 80.76,
+      "x": -296.52,
+      "y": 95.36
+    },
+    {
+      "name": "前景小花_16",
+      "parent": "root",
+      "length": 94.42,
+      "rotation": 87.09,
+      "x": -376.44,
+      "y": 181.67
+    },
+    {
+      "name": "前景小花_20",
+      "parent": "root",
+      "length": 113.96,
+      "rotation": 95.23,
+      "x": 69.5,
+      "y": 232.82
+    },
+    {
+      "name": "前景小花_21",
+      "parent": "root",
+      "length": 62.46,
+      "rotation": 93.67,
+      "x": 84.69,
+      "y": 393.45
+    },
+    {
+      "name": "前景小花_22",
+      "parent": "root",
+      "length": 83.3,
+      "rotation": 86.15,
+      "x": -232.59,
+      "y": 395.85
+    },
+    {
+      "name": "前景小花_23",
+      "parent": "root",
+      "length": 78.58,
+      "rotation": 94.67,
+      "x": -249.37,
+      "y": 440.6
+    },
+    {
+      "name": "前景小花_24",
+      "parent": "root",
+      "length": 133.75,
+      "rotation": 99.63,
+      "x": -35.99,
+      "y": 322.32
+    },
+    {
+      "name": "前景小花_25",
+      "parent": "root",
+      "length": 169.79,
+      "rotation": 93.78,
+      "x": -23.2,
+      "y": 380.66
+    }
+  ],
+  "slots": [
+    {
+      "name": "前景小花_25",
+      "bone": "前景小花_25",
+      "attachment": "前景小花_25"
+    },
+    {
+      "name": "前景小花_24",
+      "bone": "前景小花_24",
+      "attachment": "前景小花_24"
+    },
+    {
+      "name": "前景小花_23",
+      "bone": "前景小花_23",
+      "attachment": "前景小花_23"
+    },
+    {
+      "name": "前景小花_22",
+      "bone": "前景小花_22",
+      "attachment": "前景小花_22"
+    },
+    {
+      "name": "前景小花_21",
+      "bone": "前景小花_21",
+      "attachment": "前景小花_21"
+    },
+    {
+      "name": "前景小花_20",
+      "bone": "前景小花_20",
+      "attachment": "前景小花_20"
+    },
+    {
+      "name": "前景小花_19",
+      "bone": "前景小花_19",
+      "attachment": "前景小花_19"
+    },
+    {
+      "name": "前景小花_18",
+      "bone": "前景小花_18",
+      "attachment": "前景小花_18"
+    },
+    {
+      "name": "前景小花_17",
+      "bone": "前景小花_17",
+      "attachment": "前景小花_17"
+    },
+    {
+      "name": "前景小花_16",
+      "bone": "前景小花_16",
+      "attachment": "前景小花_16"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "前景小花_16": {
+          "前景小花_16": {
+            "x": 58.94,
+            "y": -10.46,
+            "rotation": -87.09,
+            "width": 151,
+            "height": 107
+          }
+        },
+        "前景小花_17": {
+          "前景小花_17": {
+            "x": 61.62,
+            "y": -1.14,
+            "rotation": -80.76,
+            "width": 146,
+            "height": 135
+          }
+        },
+        "前景小花_18": {
+          "前景小花_18": {
+            "x": 72.99,
+            "y": -14.49,
+            "rotation": -87.9,
+            "width": 168,
+            "height": 135
+          }
+        },
+        "前景小花_19": {
+          "前景小花_19": {
+            "x": 116.23,
+            "y": 38.61,
+            "rotation": -98.28,
+            "width": 241,
+            "height": 178
+          }
+        },
+        "前景小花_20": {
+          "前景小花_20": {
+            "x": 80.91,
+            "y": 15.19,
+            "rotation": -95.23,
+            "width": 165,
+            "height": 123
+          }
+        },
+        "前景小花_21": {
+          "前景小花_21": {
+            "x": 49.17,
+            "y": 8.06,
+            "rotation": -93.67,
+            "width": 130,
+            "height": 71
+          }
+        },
+        "前景小花_22": {
+          "前景小花_22": {
+            "x": 49.65,
+            "y": -5.76,
+            "rotation": -86.15,
+            "width": 128,
+            "height": 103
+          }
+        },
+        "前景小花_23": {
+          "前景小花_23": {
+            "x": 50.03,
+            "y": -0.44,
+            "rotation": -94.67,
+            "width": 135,
+            "height": 94
+          }
+        },
+        "前景小花_24": {
+          "前景小花_24": {
+            "x": 95.5,
+            "y": 17.78,
+            "rotation": -99.63,
+            "width": 192,
+            "height": 150
+          }
+        },
+        "前景小花_25": {
+          "前景小花_25": {
+            "x": 118.59,
+            "y": 7.5,
+            "rotation": -93.78,
+            "width": 270,
+            "height": 146
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "前景小花_25": {
+      "rootBoneName": "前景小花_25",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2.5,
+          "rotateRange": 5,
+          "rotateOffset": 0,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_24": {
+      "rootBoneName": "前景小花_24",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2.5,
+          "rotateRange": 5,
+          "rotateOffset": 0.09379981149675576,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_20": {
+      "rootBoneName": "前景小花_20",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2.5,
+          "rotateRange": 5,
+          "rotateOffset": 0.7974326420202862,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_19": {
+      "rootBoneName": "前景小花_19",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2.5,
+          "rotateRange": 5,
+          "rotateOffset": 0.6206251175182347,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_21": {
+      "rootBoneName": "前景小花_21",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 5,
+          "rotateOffset": -0.21738765709459273,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_22": {
+      "rootBoneName": "前景小花_22",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 5,
+          "rotateOffset": 0.3749895349797163,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_23": {
+      "rootBoneName": "前景小花_23",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 5,
+          "rotateOffset": -0.6572414599267331,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_17": {
+      "rootBoneName": "前景小花_17",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 5,
+          "rotateOffset": -0.05575942268605805,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_16": {
+      "rootBoneName": "前景小花_16",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 5,
+          "rotateOffset": -0.28346715821168456,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "前景小花_18": {
+      "rootBoneName": "前景小花_18",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 5,
+          "rotateOffset": -0.4879373156955835,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

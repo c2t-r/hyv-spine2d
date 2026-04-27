@@ -1,0 +1,222 @@
+{
+  "skeleton": {
+    "hash": "DDaORkrj1uw",
+    "spine": "4.2.42",
+    "x": -1536.76,
+    "y": -98.02,
+    "width": 3185,
+    "height": 150.53
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "a3",
+      "parent": "root"
+    },
+    {
+      "name": "a",
+      "parent": "a3",
+      "y": 21.35
+    },
+    {
+      "name": "a2",
+      "parent": "a3",
+      "x": 630,
+      "y": 21.35
+    },
+    {
+      "name": "a4",
+      "parent": "a3",
+      "x": -630,
+      "y": 21.35
+    },
+    {
+      "name": "a5",
+      "parent": "a3",
+      "x": 1260,
+      "y": 21.35
+    },
+    {
+      "name": "start",
+      "parent": "root",
+      "x": -34.38,
+      "y": 21.97
+    },
+    {
+      "name": "b",
+      "parent": "root",
+      "x": -8.92,
+      "y": 20.54,
+      "scaleY": 1.6234
+    },
+    {
+      "name": "a6",
+      "parent": "a3",
+      "x": -1260,
+      "y": 21.35
+    }
+  ],
+  "slots": [
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b"
+    },
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a"
+    },
+    {
+      "name": "a2",
+      "bone": "a2",
+      "attachment": "a"
+    },
+    {
+      "name": "a4",
+      "bone": "a5",
+      "attachment": "a"
+    },
+    {
+      "name": "a5",
+      "bone": "a6",
+      "attachment": "a"
+    },
+    {
+      "name": "a3",
+      "bone": "a4",
+      "attachment": "a"
+    },
+    {
+      "name": "start",
+      "bone": "start",
+      "attachment": "start"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": 55.74,
+            "y": -0.85,
+            "width": 665,
+            "height": 40
+          }
+        },
+        "a2": {
+          "a": {
+            "x": 55.74,
+            "y": -0.85,
+            "width": 665,
+            "height": 40
+          }
+        },
+        "a3": {
+          "a": {
+            "x": 55.74,
+            "y": -0.85,
+            "width": 665,
+            "height": 40
+          }
+        },
+        "a4": {
+          "a": {
+            "x": 55.74,
+            "y": -0.85,
+            "width": 665,
+            "height": 40
+          }
+        },
+        "a5": {
+          "a": {
+            "x": 55.74,
+            "y": -0.85,
+            "width": 665,
+            "height": 40
+          }
+        },
+        "b": {
+          "b": {
+            "x": 30.16,
+            "y": -31.53,
+            "width": 762,
+            "height": 83
+          }
+        },
+        "start": {
+          "start": {
+            "x": 0.12,
+            "y": 3.04,
+            "width": 45,
+            "height": 55
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "start": {
+      "rootBoneName": "start",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "scaleXFreq": 0.7,
+          "scaleXAmp": 0.2,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": -0.1
+        }
+      }
+    },
+    "a3": {
+      "rootBoneName": "a3",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 6,
+          "delay": 0.1,
+          "xFrames": [
+            {
+              "value": 1,
+              "start": 0
+            },
+            {
+              "value": 630,
+              "start": 24
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

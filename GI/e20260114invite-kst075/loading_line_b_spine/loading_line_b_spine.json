@@ -1,0 +1,389 @@
+{
+  "skeleton": {
+    "hash": "XKACoCMTexo",
+    "spine": "4.2.42",
+    "x": -565.5,
+    "y": -66,
+    "width": 1033,
+    "height": 112.02
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "xb",
+      "parent": "root",
+      "x": -545.12,
+      "y": 19.19
+    },
+    {
+      "name": "xa",
+      "parent": "root",
+      "x": -181.3,
+      "y": 25.64
+    },
+    {
+      "name": "bt",
+      "parent": "root",
+      "y": 24.18
+    },
+    {
+      "name": "bt2",
+      "parent": "bt"
+    },
+    {
+      "name": "bt3",
+      "parent": "bt2",
+      "x": 740
+    },
+    {
+      "name": "at",
+      "parent": "root",
+      "x": -536.12,
+      "y": 14.47
+    },
+    {
+      "name": "lb",
+      "parent": "at"
+    },
+    {
+      "name": "lb2",
+      "parent": "lb",
+      "x": 180
+    },
+    {
+      "name": "bt4",
+      "parent": "bt2",
+      "x": -740
+    },
+    {
+      "name": "lb3",
+      "parent": "lb",
+      "x": -180
+    }
+  ],
+  "slots": [
+    {
+      "name": "光",
+      "bone": "root",
+      "color": "ffffff6f",
+      "attachment": "光"
+    },
+    {
+      "name": "at2mask",
+      "bone": "at",
+      "attachment": "at2mask"
+    },
+    {
+      "name": "line_b2",
+      "bone": "lb2",
+      "attachment": "line_b"
+    },
+    {
+      "name": "line_b3",
+      "bone": "lb3",
+      "attachment": "line_b"
+    },
+    {
+      "name": "line_b",
+      "bone": "lb",
+      "attachment": "line_b"
+    },
+    {
+      "name": "bt2_mask",
+      "bone": "bt",
+      "attachment": "bt2_mask"
+    },
+    {
+      "name": "line_a2",
+      "bone": "bt3",
+      "attachment": "line_a"
+    },
+    {
+      "name": "line_a3",
+      "bone": "bt4",
+      "attachment": "line_a"
+    },
+    {
+      "name": "line_a",
+      "bone": "bt2",
+      "attachment": "line_a"
+    },
+    {
+      "name": "at",
+      "bone": "at",
+      "attachment": "at"
+    },
+    {
+      "name": "bt",
+      "bone": "bt",
+      "attachment": "bt"
+    },
+    {
+      "name": "xa",
+      "bone": "xa",
+      "attachment": "xa"
+    },
+    {
+      "name": "xb",
+      "bone": "xb",
+      "attachment": "xb"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "at": {
+          "at": {
+            "x": 54.62,
+            "y": 0.03,
+            "width": 136,
+            "height": 23
+          }
+        },
+        "at2mask": {
+          "at2mask": {
+            "type": "clipping",
+            "end": "line_b",
+            "vertexCount": 4,
+            "vertices": [
+              0.65,
+              4.17,
+              0.27,
+              -6.2,
+              217.85,
+              -7.93,
+              217.65,
+              4.75
+            ]
+          }
+        },
+        "bt": {
+          "bt": {
+            "x": -427.5,
+            "y": -1.68,
+            "width": 138,
+            "height": 25
+          }
+        },
+        "bt2_mask": {
+          "bt2_mask": {
+            "type": "clipping",
+            "end": "line_a",
+            "vertexCount": 4,
+            "vertices": [
+              -483.44,
+              10.89,
+              -483.44,
+              -14.39,
+              322.3,
+              -15.41,
+              322.46,
+              21.84
+            ]
+          }
+        },
+        "line_a": {
+          "line_a": {
+            "x": -44.5,
+            "y": 1.32,
+            "width": 764,
+            "height": 43
+          }
+        },
+        "line_a2": {
+          "line_a": {
+            "x": -44.5,
+            "y": 1.32,
+            "width": 764,
+            "height": 43
+          }
+        },
+        "line_a3": {
+          "line_a": {
+            "x": -44.5,
+            "y": 1.32,
+            "width": 764,
+            "height": 43
+          }
+        },
+        "line_b": {
+          "line_b": {
+            "x": 126.62,
+            "y": -0.97,
+            "width": 194,
+            "height": 23
+          }
+        },
+        "line_b2": {
+          "line_b": {
+            "x": 126.62,
+            "y": -0.97,
+            "width": 194,
+            "height": 23
+          }
+        },
+        "line_b3": {
+          "line_b": {
+            "x": 126.62,
+            "y": -0.97,
+            "width": 194,
+            "height": 23
+          }
+        },
+        "xa": {
+          "xa": {
+            "x": -1.2,
+            "y": -0.64,
+            "width": 42,
+            "height": 42
+          }
+        },
+        "xb": {
+          "xb": {
+            "x": 2.12,
+            "y": -0.19,
+            "width": 45,
+            "height": 42
+          }
+        },
+        "光": {
+          "光": {
+            "x": -22,
+            "y": -16.5,
+            "width": 979,
+            "height": 99
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "bt2": {
+      "rootBoneName": "bt2",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 6,
+          "delay": 0.1,
+          "xFrames": [
+            {
+              "value": 0,
+              "start": 0
+            },
+            {
+              "value": 740,
+              "start": 21
+            }
+          ]
+        }
+      }
+    },
+    "lb": {
+      "rootBoneName": "lb",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 6,
+          "delay": 0.1,
+          "xFrames": [
+            {
+              "value": 0,
+              "start": 0
+            },
+            {
+              "value": 180,
+              "start": 6
+            }
+          ]
+        }
+      }
+    },
+    "xb": {
+      "rootBoneName": "xb",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 0.6,
+          "scaleXAmp": 0.2,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "xa": {
+      "rootBoneName": "xa",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3.5,
+          "moveXAmp": 20,
+          "moveXOctaves": 1,
+          "moveXDelay": -1.0564286935664813,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": 5.725423740874174,
+          "moveYCenter": 0,
+          "scaleXFreq": 0.55,
+          "scaleXAmp": 0.2,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -2.2589469024320974,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "bt": {
+      "rootBoneName": "bt",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 2,
+          "moveXAmp": 10,
+          "moveXOctaves": 1,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

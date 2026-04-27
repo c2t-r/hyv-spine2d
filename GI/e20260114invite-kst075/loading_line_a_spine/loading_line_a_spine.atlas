@@ -1,0 +1,9 @@
+loading_line_a_spine.png
+size:1199,232
+filter:Linear,Linear
+a
+bounds:0,0,1003,5
+offsets:10,10,1023,25
+b
+bounds:0,11,1199,221
+offsets:10,10,1219,241

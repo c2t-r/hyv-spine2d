@@ -1,0 +1,139 @@
+{
+  "skeleton": {
+    "hash": "jn8zijKn2QE",
+    "spine": "4.2.42",
+    "x": -527.5,
+    "y": -231.5,
+    "width": 1219,
+    "height": 244
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "a",
+      "parent": "root"
+    },
+    {
+      "name": "a2",
+      "parent": "a",
+      "x": 1000
+    },
+    {
+      "name": "a3",
+      "parent": "a",
+      "x": -1000
+    }
+  ],
+  "slots": [
+    {
+      "name": "mak",
+      "bone": "root",
+      "attachment": "mak"
+    },
+    {
+      "name": "a2",
+      "bone": "a2",
+      "attachment": "a"
+    },
+    {
+      "name": "a3",
+      "bone": "a3",
+      "attachment": "a"
+    },
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a"
+    },
+    {
+      "name": "b",
+      "bone": "root",
+      "attachment": "b"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "width": 1023,
+            "height": 25
+          }
+        },
+        "a2": {
+          "a": {
+            "width": 1023,
+            "height": 25
+          }
+        },
+        "a3": {
+          "a": {
+            "width": 1023,
+            "height": 25
+          }
+        },
+        "b": {
+          "b": {
+            "x": 82,
+            "y": -111,
+            "width": 1219,
+            "height": 241
+          }
+        },
+        "mak": {
+          "mak": {
+            "type": "clipping",
+            "end": "a",
+            "vertexCount": 4,
+            "vertices": [
+              -502.59,
+              18.8,
+              -498.65,
+              -23.03,
+              499.06,
+              -18.3,
+              503,
+              26.69
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "a": {
+      "rootBoneName": "a",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 6,
+          "delay": 0.1,
+          "xFrames": [
+            {
+              "value": 0,
+              "start": 0
+            },
+            {
+              "value": 1000,
+              "start": 25
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

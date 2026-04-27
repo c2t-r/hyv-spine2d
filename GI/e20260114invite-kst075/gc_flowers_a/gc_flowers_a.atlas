@@ -1,0 +1,13 @@
+gc_flowers_a.png
+size:813,310
+filter:Linear,Linear
+gc_hua_a
+bounds:0,0,374,310
+offsets:1,5,376,315
+gc_hua_b
+bounds:630,37,268,183
+offsets:2,5,274,191
+rotate:270
+gc_hua_c
+bounds:322,19,324,291
+offsets:0,3,327,297

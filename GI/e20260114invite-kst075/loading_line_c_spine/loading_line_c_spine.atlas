@@ -1,0 +1,12 @@
+loading_line_c_spine.png
+size:773,89
+filter:Linear,Linear
+a
+bounds:0,0,645,20
+offsets:10,10,665,40
+b
+bounds:0,26,742,63
+offsets:10,10,762,83
+start
+bounds:748,54,25,35
+offsets:10,10,45,55

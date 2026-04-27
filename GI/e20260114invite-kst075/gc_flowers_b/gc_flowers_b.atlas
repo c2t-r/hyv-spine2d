@@ -1,0 +1,14 @@
+gc_flowers_b.png
+size:308,585
+filter:Linear,Linear
+a
+bounds:0,0,193,227
+offsets:2,5,195,236
+rotate:90
+b
+bounds:0,226,302,359
+offsets:0,4,304,367
+c
+bounds:0,51,218,308
+offsets:0,3,218,311
+rotate:270

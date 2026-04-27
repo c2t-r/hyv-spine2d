@@ -1,0 +1,73 @@
+{
+  "skeleton": {
+    "hash": "Be+vSZr4dJA",
+    "spine": "4.2.42",
+    "x": -52.5,
+    "y": -52.5,
+    "width": 105,
+    "height": 105
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "line_quan",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "loading_line_quan",
+      "bone": "line_quan",
+      "attachment": "loading_line_quan"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_line_quan": {
+          "loading_line_quan": {
+            "width": 105,
+            "height": 105
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "line_quan": {
+      "rootBoneName": "line_quan",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 5783,
+          "scaleXFreq": 6,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0,
+          "rotateSpeed": 0.1
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
