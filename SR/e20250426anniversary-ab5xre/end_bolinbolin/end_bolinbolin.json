@@ -1,0 +1,170 @@
+{
+  "skeleton": {
+    "hash": "7Kxsq7kLEHc",
+    "spine": "4.2.33",
+    "x": -90,
+    "y": -66,
+    "width": 180,
+    "height": 132
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "in",
+      "parent": "root"
+    },
+    {
+      "name": "wiggle",
+      "parent": "in"
+    }
+  ],
+  "slots": [
+    {
+      "name": "end_bolinbolin",
+      "bone": "wiggle",
+      "attachment": "end_bolinbolin",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "end_bolinbolin": {
+          "end_bolinbolin": {
+            "width": 180,
+            "height": 132
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "slots": {
+        "end_bolinbolin": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "in": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        }
+      }
+    },
+    "in": {
+      "slots": {
+        "end_bolinbolin": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.1,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "in": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.111,
+                0.34,
+                0.156,
+                2.079,
+                0.111,
+                0.34,
+                0.156,
+                2.079
+              ]
+            },
+            {
+              "time": 0.3333,
+              "x": 2.079,
+              "y": 2.079,
+              "curve": [
+                0.411,
+                2.079,
+                0.393,
+                0.763,
+                0.411,
+                2.079,
+                0.393,
+                0.763
+              ]
+            },
+            {
+              "time": 0.5667,
+              "x": 0.763,
+              "y": 0.763,
+              "curve": [
+                0.765,
+                0.763,
+                0.745,
+                1,
+                0.765,
+                0.763,
+                0.745,
+                1
+              ]
+            },
+            {
+              "time": 1.1616
+            }
+          ]
+        }
+      }
+    },
+    "loop": {}
+  },
+  "extra": {
+    "wiggle": {
+      "rootBoneName": "wiggle",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.3,
+          "scaleXOctaves": 5,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "end_bolinbolin": {
+      "slotName": "end_bolinbolin",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.3,
+          "delay": 0,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

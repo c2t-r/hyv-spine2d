@@ -1,0 +1,41 @@
+win_box.png
+size:554,463
+filter:Linear,Linear
+win_box
+bounds:0,133,409,330
+图层 1
+bounds:506,268,38,44
+offsets:5,5,48,54
+图层 2
+bounds:515,2,34,22
+offsets:5,5,44,32
+图层 3
+bounds:461,71,59,60
+offsets:5,5,69,70
+图层 4
+bounds:530,206,23,22
+offsets:5,5,33,32
+图层 5
+bounds:461,20,52,49
+offsets:5,5,62,59
+图层 6
+bounds:522,71,40,32
+offsets:5,5,50,42
+rotate:90
+图层 7
+bounds:515,26,38,43
+offsets:5,5,48,53
+图层 8
+bounds:411,278,35,29
+offsets:5,5,45,39
+rotate:90
+图层 812
+bounds:411,133,314,123
+rotate:90
+图层 813 拷贝
+bounds:0,0,459,131
+offsets:5,5,469,141
+图层 9
+bounds:523,230,36,25
+offsets:5,5,46,35
+rotate:90

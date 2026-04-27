@@ -1,0 +1,327 @@
+{
+  "skeleton": {
+    "hash": "GPe+ckijENI",
+    "spine": "4.2.33",
+    "x": -312,
+    "y": -220,
+    "width": 624,
+    "height": 440
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "be",
+      "parent": "root",
+      "x": 106.39,
+      "y": 22.32
+    },
+    {
+      "name": "bd",
+      "parent": "root",
+      "x": 39.57,
+      "y": 115.99
+    },
+    {
+      "name": "ba",
+      "parent": "root",
+      "x": 105.2,
+      "y": 195.34
+    },
+    {
+      "name": "bf",
+      "parent": "root",
+      "x": 263.3,
+      "y": -168.61
+    },
+    {
+      "name": "bg",
+      "parent": "root",
+      "x": 157.1,
+      "y": -190.08
+    },
+    {
+      "name": "bb",
+      "parent": "root",
+      "x": -242.04,
+      "y": 41.41
+    },
+    {
+      "name": "bc",
+      "parent": "root",
+      "x": -287.98,
+      "y": -66.58
+    }
+  ],
+  "slots": [
+    {
+      "name": "bg",
+      "bone": "bg",
+      "attachment": "bg"
+    },
+    {
+      "name": "bf",
+      "bone": "bf",
+      "attachment": "bf"
+    },
+    {
+      "name": "be",
+      "bone": "be",
+      "attachment": "be"
+    },
+    {
+      "name": "ba",
+      "bone": "ba",
+      "attachment": "ba"
+    },
+    {
+      "name": "bd",
+      "bone": "bd",
+      "attachment": "bd"
+    },
+    {
+      "name": "bc",
+      "bone": "bc",
+      "attachment": "bc"
+    },
+    {
+      "name": "bb",
+      "bone": "bb",
+      "attachment": "bb"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "ba": {
+          "ba": {
+            "x": -1.2,
+            "y": 0.66,
+            "width": 56,
+            "height": 48
+          }
+        },
+        "bb": {
+          "bb": {
+            "x": -1.46,
+            "y": -0.91,
+            "width": 75,
+            "height": 81
+          }
+        },
+        "bc": {
+          "bc": {
+            "x": -1.02,
+            "y": 0.58,
+            "width": 46,
+            "height": 44
+          }
+        },
+        "bd": {
+          "bd": {
+            "x": -0.57,
+            "y": -1.99,
+            "width": 74,
+            "height": 66
+          }
+        },
+        "be": {
+          "be": {
+            "x": -2.89,
+            "y": -4.82,
+            "width": 161,
+            "height": 147
+          }
+        },
+        "bf": {
+          "bf": {
+            "x": 0.2,
+            "y": -1.89,
+            "width": 97,
+            "height": 95
+          }
+        },
+        "bg": {
+          "bg": {
+            "x": -1.6,
+            "y": -0.42,
+            "width": 59,
+            "height": 59
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "be": {
+      "rootBoneName": "be",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 6,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 4,
+          "moveYAmp": 15,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "bf": {
+      "rootBoneName": "bf",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5.5,
+          "moveXAmp": 4,
+          "moveXOctaves": 0,
+          "moveXDelay": -3.768031852868365,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 2.8720271110517324,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "bb": {
+      "rootBoneName": "bb",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5.5,
+          "moveXAmp": 4,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.887056120000978,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": -1.899244693452241,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "bd": {
+      "rootBoneName": "bd",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 4,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.301938823346373,
+          "moveXCenter": 0,
+          "moveYFreq": 2.8,
+          "moveYAmp": 8,
+          "moveYOctaves": 0,
+          "moveYDelay": 3.3364462829203925,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "ba": {
+      "rootBoneName": "ba",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 3,
+          "moveXOctaves": 0,
+          "moveXDelay": 1.3243266535508682,
+          "moveXCenter": 0,
+          "moveYFreq": 2.5,
+          "moveYAmp": 6,
+          "moveYOctaves": 0,
+          "moveYDelay": -2.5513409348036955,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "bg": {
+      "rootBoneName": "bg",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 4,
+          "moveXOctaves": 0,
+          "moveXDelay": 2.9598205447638497,
+          "moveXCenter": 0,
+          "moveYFreq": 2.8,
+          "moveYAmp": 8,
+          "moveYOctaves": 0,
+          "moveYDelay": 0.9480891324204745,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "bc": {
+      "rootBoneName": "bc",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 3,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.269414660003275,
+          "moveXCenter": 0,
+          "moveYFreq": 2.5,
+          "moveYAmp": 6,
+          "moveYOctaves": 0,
+          "moveYDelay": -4.635924201349588,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "skeleton": {
+    "hash": "/bFfYjCo7zI",
+    "spine": "4.2.33",
+    "x": -990,
+    "y": -114,
+    "width": 1980,
+    "height": 219
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "b",
+      "parent": "root",
+      "x": 593.05,
+      "y": -53.92
+    },
+    {
+      "name": "a",
+      "parent": "root",
+      "x": -883.24,
+      "y": -87.47
+    }
+  ],
+  "slots": [
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": 26.74,
+            "y": 16.47,
+            "width": 267,
+            "height": 86
+          }
+        },
+        "b": {
+          "b": {
+            "x": 0.95,
+            "y": 49.42,
+            "width": 792,
+            "height": 219
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "b": {
+      "rootBoneName": "b",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 8018,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "a": {
+      "rootBoneName": "a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 4.006738039131705,
+          "moveXCenter": 0,
+          "moveXSeed": 8020.777923448624,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 2.7500809931716677,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

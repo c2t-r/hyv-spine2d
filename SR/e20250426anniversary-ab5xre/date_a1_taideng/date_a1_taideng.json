@@ -1,0 +1,92 @@
+{
+  "skeleton": {
+    "hash": "iCVdctNOJTk",
+    "spine": "4.2.33",
+    "x": -131.75,
+    "y": -210.5,
+    "width": 279,
+    "height": 421
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.5,
+      "scaleY": 0.5
+    },
+    {
+      "name": "b",
+      "parent": "root",
+      "x": 19.36,
+      "y": 313.98
+    }
+  ],
+  "slots": [
+    {
+      "name": "a",
+      "bone": "root",
+      "attachment": "a"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b"
+    },
+    {
+      "name": "c",
+      "bone": "root",
+      "attachment": "c"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": 21,
+            "width": 217,
+            "height": 842
+          }
+        },
+        "b": {
+          "b": {
+            "x": -3.86,
+            "y": -99.48,
+            "width": 558,
+            "height": 251
+          }
+        },
+        "c": {
+          "c": {
+            "x": 20.5,
+            "y": 304,
+            "width": 456,
+            "height": 102
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {},
+  "extraSlot": {
+    "b": {
+      "slotName": "b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.3,
+          "delay": 0,
+          "min": 0.8,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

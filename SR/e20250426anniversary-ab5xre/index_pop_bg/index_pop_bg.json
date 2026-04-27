@@ -1,0 +1,7512 @@
+{
+  "skeleton": {
+    "hash": "Z8JHkMORgdI",
+    "spine": "4.2.33",
+    "x": -729.24,
+    "y": -456.54,
+    "width": 1455.36,
+    "height": 899.86
+  },
+  "bones": [
+    {
+      "name": "root",
+      "x": 33.76,
+      "y": -226.68
+    },
+    {
+      "name": "灯all",
+      "parent": "root"
+    },
+    {
+      "name": "灯",
+      "parent": "灯all",
+      "x": 480.2,
+      "y": -191.86
+    },
+    {
+      "name": "灯亮",
+      "parent": "灯"
+    },
+    {
+      "name": "五角星",
+      "parent": "root",
+      "x": 0.07,
+      "y": 393.45
+    },
+    {
+      "name": "a",
+      "parent": "五角星"
+    },
+    {
+      "name": "bone",
+      "parent": "五角星"
+    },
+    {
+      "name": "bone2",
+      "parent": "bone"
+    },
+    {
+      "name": "跳星b",
+      "parent": "root",
+      "x": 88.3,
+      "y": 355.59
+    },
+    {
+      "name": "跳星b2",
+      "parent": "跳星b",
+      "length": 22.76,
+      "rotation": 58.82,
+      "x": 0.49
+    },
+    {
+      "name": "跳星b3",
+      "parent": "跳星b2",
+      "length": 28.24,
+      "rotation": -12.89,
+      "x": 22.76
+    },
+    {
+      "name": "跳星b4",
+      "parent": "跳星b3",
+      "length": 20.32,
+      "rotation": -5.84,
+      "x": 28.24
+    },
+    {
+      "name": "跳星b5",
+      "parent": "跳星b4",
+      "x": 36.09,
+      "y": 5.76
+    },
+    {
+      "name": "跳星a",
+      "parent": "root",
+      "x": 120.04,
+      "y": 359.03
+    },
+    {
+      "name": "跳星a2",
+      "parent": "跳星a",
+      "length": 15,
+      "rotation": 39.25,
+      "x": 0.33,
+      "y": 0.49
+    },
+    {
+      "name": "跳星a3",
+      "parent": "跳星a2",
+      "length": 18.43,
+      "rotation": -5.84,
+      "x": 15
+    },
+    {
+      "name": "跳星d",
+      "parent": "root",
+      "x": -83.83,
+      "y": 372.31
+    },
+    {
+      "name": "跳星d2",
+      "parent": "跳星d",
+      "length": 33.83,
+      "rotation": 114.13,
+      "x": 0.25,
+      "y": 0.25
+    },
+    {
+      "name": "跳星d3",
+      "parent": "跳星d2",
+      "length": 38.18,
+      "rotation": 7.91,
+      "x": 33.83
+    },
+    {
+      "name": "跳星d4",
+      "parent": "跳星d3",
+      "length": 44.17,
+      "rotation": 5.91,
+      "x": 38.18
+    },
+    {
+      "name": "跳星d5",
+      "parent": "跳星d4",
+      "x": 62.02,
+      "y": -2.02
+    },
+    {
+      "name": "跳星c",
+      "parent": "root",
+      "x": -108.82,
+      "y": 383.65
+    },
+    {
+      "name": "跳星c2",
+      "parent": "跳星c",
+      "length": 20.41,
+      "rotation": 132.44,
+      "x": -1.05,
+      "y": 0.77
+    },
+    {
+      "name": "跳星c3",
+      "parent": "跳星c2",
+      "length": 19.91,
+      "rotation": 16.85,
+      "x": 20.41
+    },
+    {
+      "name": "跳星c4",
+      "parent": "跳星c3",
+      "x": 24.73,
+      "y": 6.76
+    },
+    {
+      "name": "气球b",
+      "parent": "root",
+      "x": -215.43,
+      "y": 428.22
+    },
+    {
+      "name": "气球b2",
+      "parent": "气球b",
+      "length": 46.71,
+      "rotation": -81.61,
+      "x": 1.52,
+      "y": -2.65
+    },
+    {
+      "name": "气球c",
+      "parent": "root",
+      "x": -268.52,
+      "y": 441.09
+    },
+    {
+      "name": "气球c2",
+      "parent": "气球c",
+      "length": 50.32,
+      "rotation": -56.67,
+      "x": 3.03,
+      "y": -3.41
+    },
+    {
+      "name": "气球a",
+      "parent": "root",
+      "x": 245.86,
+      "y": 429.75
+    },
+    {
+      "name": "气球a2",
+      "parent": "气球a",
+      "length": 49.4,
+      "rotation": -125.64,
+      "x": -2.27,
+      "y": -2.27
+    },
+    {
+      "name": "飘带b",
+      "parent": "root",
+      "rotation": -125.64,
+      "x": -367.24,
+      "y": 384.22
+    },
+    {
+      "name": "飘带b2",
+      "parent": "飘带b",
+      "length": 57.71,
+      "rotation": 0.04,
+      "x": 8.62,
+      "y": -1.04
+    },
+    {
+      "name": "飘带b3",
+      "parent": "飘带b2",
+      "length": 74.21,
+      "rotation": -4.15,
+      "x": 57.71
+    },
+    {
+      "name": "飘带b4",
+      "parent": "飘带b3",
+      "length": 60.4,
+      "rotation": -2.38,
+      "x": 74.21
+    },
+    {
+      "name": "飘带b5",
+      "parent": "飘带b4",
+      "length": 70.19,
+      "rotation": -5.33,
+      "x": 60.4
+    },
+    {
+      "name": "飘带a",
+      "parent": "root",
+      "x": 369.72,
+      "y": 387.63
+    },
+    {
+      "name": "飘带a2",
+      "parent": "飘带a",
+      "length": 63.92,
+      "rotation": -58.3,
+      "x": 6.93,
+      "y": -5.33
+    },
+    {
+      "name": "飘带a3",
+      "parent": "飘带a2",
+      "length": 72.78,
+      "rotation": 7.35,
+      "x": 63.92
+    },
+    {
+      "name": "飘带a4",
+      "parent": "飘带a3",
+      "length": 66.36,
+      "rotation": 5.3,
+      "x": 72.78
+    },
+    {
+      "name": "飘带a5",
+      "parent": "飘带a4",
+      "length": 69.01,
+      "rotation": 1.59,
+      "x": 66.36
+    },
+    {
+      "name": "帕姆",
+      "parent": "root",
+      "x": -498.31,
+      "y": -54.55
+    },
+    {
+      "name": "帕姆2",
+      "parent": "帕姆",
+      "length": 41.35,
+      "rotation": 118.61,
+      "x": -0.93,
+      "y": 3.37
+    },
+    {
+      "name": "帕姆3",
+      "parent": "帕姆2",
+      "length": 38.24,
+      "rotation": 1.75,
+      "x": 41.35
+    },
+    {
+      "name": "帕姆4",
+      "parent": "帕姆3",
+      "length": 48.09,
+      "rotation": -29.23,
+      "x": 38.24
+    },
+    {
+      "name": "帕姆5",
+      "parent": "帕姆4",
+      "length": 50.02,
+      "rotation": -12.54,
+      "x": 48.09
+    },
+    {
+      "name": "帕姆6",
+      "parent": "帕姆5",
+      "length": 41.75,
+      "rotation": 17.9,
+      "x": 50.02
+    },
+    {
+      "name": "帕姆7",
+      "parent": "帕姆6",
+      "length": 32.75,
+      "rotation": 16.39,
+      "x": 41.75
+    },
+    {
+      "name": "帕姆8",
+      "parent": "帕姆7",
+      "length": 162.58,
+      "rotation": 4.95,
+      "x": 32.75,
+      "inherit": "noScale"
+    },
+    {
+      "name": "呜呜伯",
+      "parent": "root",
+      "x": 614.81,
+      "y": 282.36
+    },
+    {
+      "name": "呜呜伯2",
+      "parent": "呜呜伯",
+      "length": 70.73,
+      "rotation": -97.56,
+      "y": -0.62
+    },
+    {
+      "name": "呜呜伯3",
+      "parent": "呜呜伯2",
+      "length": 23.29,
+      "rotation": 17.5,
+      "x": 69.72,
+      "y": -0.17
+    },
+    {
+      "name": "呜呜伯4",
+      "parent": "呜呜伯3",
+      "length": 19.56,
+      "rotation": 19.26,
+      "x": 23.29
+    },
+    {
+      "name": "呜呜伯5",
+      "parent": "呜呜伯4",
+      "length": 18.11,
+      "rotation": 16.18,
+      "x": 19.56
+    },
+    {
+      "name": "呜呜伯6",
+      "parent": "呜呜伯5",
+      "length": 18.2,
+      "rotation": 5.22,
+      "x": 18.11
+    },
+    {
+      "name": "呜呜伯7",
+      "parent": "呜呜伯6",
+      "length": 19.01,
+      "rotation": -0.6,
+      "x": 18.2
+    },
+    {
+      "name": "呜呜伯8",
+      "parent": "呜呜伯7",
+      "length": 18.31,
+      "rotation": -10.2,
+      "x": 19.01
+    },
+    {
+      "name": "呜呜伯9",
+      "parent": "呜呜伯8",
+      "length": 16.02,
+      "rotation": -12.44,
+      "x": 18.31
+    },
+    {
+      "name": "呜呜伯10",
+      "parent": "呜呜伯9",
+      "length": 18.8,
+      "rotation": -13.46,
+      "x": 16.02
+    },
+    {
+      "name": "灯亮2",
+      "parent": "灯",
+      "x": -40
+    },
+    {
+      "name": "灯亮3",
+      "parent": "灯",
+      "x": -80
+    },
+    {
+      "name": "灯亮4",
+      "parent": "灯",
+      "x": -120
+    },
+    {
+      "name": "灯亮5",
+      "parent": "灯",
+      "x": -160
+    },
+    {
+      "name": "灯亮6",
+      "parent": "灯",
+      "x": -200
+    },
+    {
+      "name": "灯亮7",
+      "parent": "灯",
+      "x": -240
+    },
+    {
+      "name": "灯亮8",
+      "parent": "灯",
+      "x": -280
+    },
+    {
+      "name": "灯亮9",
+      "parent": "灯",
+      "x": -320
+    },
+    {
+      "name": "灯亮10",
+      "parent": "灯",
+      "x": -360
+    },
+    {
+      "name": "灯亮11",
+      "parent": "灯",
+      "x": -400
+    },
+    {
+      "name": "灯亮12",
+      "parent": "灯",
+      "x": -440
+    },
+    {
+      "name": "灯2",
+      "parent": "灯all",
+      "x": -0.11,
+      "y": -191.86
+    },
+    {
+      "name": "灯亮13",
+      "parent": "灯2"
+    },
+    {
+      "name": "灯亮14",
+      "parent": "灯2",
+      "x": -40
+    },
+    {
+      "name": "灯亮15",
+      "parent": "灯2",
+      "x": -80
+    },
+    {
+      "name": "灯亮16",
+      "parent": "灯2",
+      "x": -120
+    },
+    {
+      "name": "灯亮17",
+      "parent": "灯2",
+      "x": -160
+    },
+    {
+      "name": "灯亮18",
+      "parent": "灯2",
+      "x": -200
+    },
+    {
+      "name": "灯亮19",
+      "parent": "灯2",
+      "x": -240
+    },
+    {
+      "name": "灯亮20",
+      "parent": "灯2",
+      "x": -280
+    },
+    {
+      "name": "灯亮21",
+      "parent": "灯2",
+      "x": -320
+    },
+    {
+      "name": "灯亮22",
+      "parent": "灯2",
+      "x": -360
+    },
+    {
+      "name": "灯亮23",
+      "parent": "灯2",
+      "x": -400
+    },
+    {
+      "name": "灯亮24",
+      "parent": "灯2",
+      "x": -440
+    },
+    {
+      "name": "灯亮25",
+      "parent": "灯2",
+      "x": -480
+    },
+    {
+      "name": "灯3",
+      "parent": "灯all",
+      "rotation": -90,
+      "x": -490,
+      "y": -151.66
+    },
+    {
+      "name": "灯亮26",
+      "parent": "灯3"
+    },
+    {
+      "name": "灯亮27",
+      "parent": "灯3",
+      "x": -40
+    },
+    {
+      "name": "灯亮28",
+      "parent": "灯3",
+      "x": -80
+    },
+    {
+      "name": "灯亮29",
+      "parent": "灯3",
+      "x": -120
+    },
+    {
+      "name": "灯亮30",
+      "parent": "灯3",
+      "x": -160
+    },
+    {
+      "name": "灯亮31",
+      "parent": "灯3",
+      "x": -200
+    },
+    {
+      "name": "灯亮32",
+      "parent": "灯3",
+      "x": -240
+    },
+    {
+      "name": "灯亮33",
+      "parent": "灯3",
+      "x": -280
+    },
+    {
+      "name": "灯亮34",
+      "parent": "灯3",
+      "x": -320
+    },
+    {
+      "name": "灯亮35",
+      "parent": "灯3",
+      "x": -360
+    },
+    {
+      "name": "灯亮36",
+      "parent": "灯3",
+      "x": -400
+    },
+    {
+      "name": "灯亮37",
+      "parent": "灯3",
+      "x": -440
+    },
+    {
+      "name": "灯亮38",
+      "parent": "灯3",
+      "x": -480
+    },
+    {
+      "name": "灯4",
+      "parent": "灯all",
+      "rotation": -90,
+      "x": 490,
+      "y": -151.66
+    },
+    {
+      "name": "灯亮39",
+      "parent": "灯4"
+    },
+    {
+      "name": "灯亮40",
+      "parent": "灯4",
+      "x": -40
+    },
+    {
+      "name": "灯亮41",
+      "parent": "灯4",
+      "x": -80
+    },
+    {
+      "name": "灯亮42",
+      "parent": "灯4",
+      "x": -120
+    },
+    {
+      "name": "灯亮43",
+      "parent": "灯4",
+      "x": -160
+    },
+    {
+      "name": "灯亮44",
+      "parent": "灯4",
+      "x": -200
+    },
+    {
+      "name": "灯亮45",
+      "parent": "灯4",
+      "x": -240
+    },
+    {
+      "name": "灯亮46",
+      "parent": "灯4",
+      "x": -280
+    },
+    {
+      "name": "灯亮47",
+      "parent": "灯4",
+      "x": -320
+    },
+    {
+      "name": "灯亮48",
+      "parent": "灯4",
+      "x": -360
+    },
+    {
+      "name": "灯亮49",
+      "parent": "灯4",
+      "x": -400
+    },
+    {
+      "name": "灯亮50",
+      "parent": "灯4",
+      "x": -440
+    },
+    {
+      "name": "灯亮51",
+      "parent": "灯4",
+      "x": -480
+    },
+    {
+      "name": "灯亮52",
+      "parent": "灯4",
+      "x": -516.77,
+      "y": -11.61
+    },
+    {
+      "name": "灯亮53",
+      "parent": "灯3",
+      "x": -516.96,
+      "y": 9.45
+    }
+  ],
+  "slots": [
+    {
+      "name": "mask",
+      "bone": "root",
+      "attachment": "mask"
+    },
+    {
+      "name": "飘带b",
+      "bone": "飘带b",
+      "attachment": "飘带b"
+    },
+    {
+      "name": "飘带a",
+      "bone": "飘带a",
+      "attachment": "飘带a"
+    },
+    {
+      "name": "帕姆",
+      "bone": "帕姆2",
+      "attachment": "帕姆"
+    },
+    {
+      "name": "呜呜伯",
+      "bone": "呜呜伯2",
+      "attachment": "呜呜伯"
+    },
+    {
+      "name": "bg",
+      "bone": "root",
+      "attachment": "bg"
+    },
+    {
+      "name": "灯暗",
+      "bone": "灯亮",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗13",
+      "bone": "灯亮13",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗26",
+      "bone": "灯亮26",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗39",
+      "bone": "灯亮39",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗2",
+      "bone": "灯亮2",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗14",
+      "bone": "灯亮14",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗27",
+      "bone": "灯亮27",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗40",
+      "bone": "灯亮40",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗3",
+      "bone": "灯亮3",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗15",
+      "bone": "灯亮15",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗28",
+      "bone": "灯亮28",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗41",
+      "bone": "灯亮41",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗4",
+      "bone": "灯亮4",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗16",
+      "bone": "灯亮16",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗29",
+      "bone": "灯亮29",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗42",
+      "bone": "灯亮42",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗5",
+      "bone": "灯亮5",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗17",
+      "bone": "灯亮17",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗30",
+      "bone": "灯亮30",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗43",
+      "bone": "灯亮43",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗6",
+      "bone": "灯亮6",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗18",
+      "bone": "灯亮18",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗31",
+      "bone": "灯亮31",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗44",
+      "bone": "灯亮44",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗7",
+      "bone": "灯亮7",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗19",
+      "bone": "灯亮19",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗32",
+      "bone": "灯亮32",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗45",
+      "bone": "灯亮45",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗8",
+      "bone": "灯亮8",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗20",
+      "bone": "灯亮20",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗33",
+      "bone": "灯亮33",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗46",
+      "bone": "灯亮46",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗9",
+      "bone": "灯亮9",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗21",
+      "bone": "灯亮21",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗34",
+      "bone": "灯亮34",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗47",
+      "bone": "灯亮47",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗10",
+      "bone": "灯亮10",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗22",
+      "bone": "灯亮22",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗35",
+      "bone": "灯亮35",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗48",
+      "bone": "灯亮48",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗11",
+      "bone": "灯亮11",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗23",
+      "bone": "灯亮23",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗36",
+      "bone": "灯亮36",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗49",
+      "bone": "灯亮49",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗12",
+      "bone": "灯亮12",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗24",
+      "bone": "灯亮24",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗37",
+      "bone": "灯亮37",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗50",
+      "bone": "灯亮50",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗25",
+      "bone": "灯亮25",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗38",
+      "bone": "灯亮38",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗53",
+      "bone": "灯亮53",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗51",
+      "bone": "灯亮51",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯暗52",
+      "bone": "灯亮52",
+      "attachment": "灯暗"
+    },
+    {
+      "name": "灯亮",
+      "bone": "灯亮",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮13",
+      "bone": "灯亮13",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮26",
+      "bone": "灯亮26",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮39",
+      "bone": "灯亮39",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮2",
+      "bone": "灯亮2",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮14",
+      "bone": "灯亮14",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮27",
+      "bone": "灯亮27",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮40",
+      "bone": "灯亮40",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮3",
+      "bone": "灯亮3",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮15",
+      "bone": "灯亮15",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮28",
+      "bone": "灯亮28",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮41",
+      "bone": "灯亮41",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮4",
+      "bone": "灯亮4",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮16",
+      "bone": "灯亮16",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮29",
+      "bone": "灯亮29",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮42",
+      "bone": "灯亮42",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮5",
+      "bone": "灯亮5",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮17",
+      "bone": "灯亮17",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮30",
+      "bone": "灯亮30",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮43",
+      "bone": "灯亮43",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮6",
+      "bone": "灯亮6",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮18",
+      "bone": "灯亮18",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮31",
+      "bone": "灯亮31",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮44",
+      "bone": "灯亮44",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮7",
+      "bone": "灯亮7",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮19",
+      "bone": "灯亮19",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮32",
+      "bone": "灯亮32",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮45",
+      "bone": "灯亮45",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮8",
+      "bone": "灯亮8",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮20",
+      "bone": "灯亮20",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮33",
+      "bone": "灯亮33",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮46",
+      "bone": "灯亮46",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮9",
+      "bone": "灯亮9",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮21",
+      "bone": "灯亮21",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮34",
+      "bone": "灯亮34",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮47",
+      "bone": "灯亮47",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮10",
+      "bone": "灯亮10",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮22",
+      "bone": "灯亮22",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮35",
+      "bone": "灯亮35",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮48",
+      "bone": "灯亮48",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮11",
+      "bone": "灯亮11",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮23",
+      "bone": "灯亮23",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮36",
+      "bone": "灯亮36",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮49",
+      "bone": "灯亮49",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮12",
+      "bone": "灯亮12",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮24",
+      "bone": "灯亮24",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮37",
+      "bone": "灯亮37",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮50",
+      "bone": "灯亮50",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮25",
+      "bone": "灯亮25",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮38",
+      "bone": "灯亮38",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮53",
+      "bone": "灯亮53",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮51",
+      "bone": "灯亮51",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "灯亮52",
+      "bone": "灯亮52",
+      "attachment": "灯亮",
+      "blend": "additive"
+    },
+    {
+      "name": "top",
+      "bone": "root",
+      "attachment": "top"
+    },
+    {
+      "name": "跳星a",
+      "bone": "跳星a",
+      "attachment": "跳星a"
+    },
+    {
+      "name": "跳星b",
+      "bone": "跳星b",
+      "attachment": "跳星b"
+    },
+    {
+      "name": "跳星c",
+      "bone": "跳星c",
+      "attachment": "跳星c"
+    },
+    {
+      "name": "跳星d",
+      "bone": "跳星d",
+      "attachment": "跳星d"
+    },
+    {
+      "name": "气球c",
+      "bone": "气球c2",
+      "attachment": "气球c"
+    },
+    {
+      "name": "气球b",
+      "bone": "气球b2",
+      "attachment": "气球b"
+    },
+    {
+      "name": "气球a",
+      "bone": "气球a2",
+      "attachment": "气球a"
+    },
+    {
+      "name": "五角星",
+      "bone": "五角星",
+      "attachment": "五角星"
+    },
+    {
+      "name": "时钟",
+      "bone": "五角星",
+      "attachment": "时钟"
+    },
+    {
+      "name": "分针",
+      "bone": "bone2",
+      "attachment": "分针"
+    },
+    {
+      "name": "时针",
+      "bone": "a",
+      "attachment": "时针"
+    },
+    {
+      "name": "五角星发光",
+      "bone": "五角星",
+      "attachment": "五角星发光",
+      "blend": "additive"
+    },
+    {
+      "name": "左",
+      "bone": "root",
+      "attachment": "左"
+    },
+    {
+      "name": "右",
+      "bone": "root",
+      "attachment": "右"
+    }
+  ],
+  "physics": [
+    {
+      "name": "呜呜伯2",
+      "order": 7,
+      "bone": "呜呜伯2",
+      "x": 0.5,
+      "y": 1,
+      "rotate": 1,
+      "inertia": 0.8054,
+      "strength": 34.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯3",
+      "order": 8,
+      "bone": "呜呜伯3",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯4",
+      "order": 9,
+      "bone": "呜呜伯4",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯5",
+      "order": 10,
+      "bone": "呜呜伯5",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯6",
+      "order": 11,
+      "bone": "呜呜伯6",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯7",
+      "order": 12,
+      "bone": "呜呜伯7",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯8",
+      "order": 13,
+      "bone": "呜呜伯8",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯9",
+      "order": 14,
+      "bone": "呜呜伯9",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "呜呜伯10",
+      "order": 15,
+      "bone": "呜呜伯10",
+      "rotate": 1,
+      "scaleX": 0.2,
+      "inertia": 0.4094,
+      "strength": 47,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "帕姆2",
+      "bone": "帕姆2",
+      "rotate": 1,
+      "scaleX": 0.3,
+      "inertia": 0.1883,
+      "strength": 74.4,
+      "damping": 0.7175,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "帕姆3",
+      "order": 1,
+      "bone": "帕姆3",
+      "x": 0.1,
+      "y": 0.1,
+      "rotate": 1,
+      "scaleX": 0.1,
+      "inertia": 0.1883,
+      "strength": 74.4,
+      "damping": 0.7175,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "帕姆4",
+      "order": 2,
+      "bone": "帕姆4",
+      "x": 0.1,
+      "y": 0.1,
+      "rotate": 1,
+      "scaleX": 0.1,
+      "inertia": 0.1883,
+      "strength": 74.4,
+      "damping": 0.7175,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "帕姆5",
+      "order": 3,
+      "bone": "帕姆5",
+      "x": 0.1,
+      "y": 0.1,
+      "rotate": 1,
+      "scaleX": 0.1,
+      "inertia": 0.1883,
+      "strength": 74.4,
+      "damping": 0.7175,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "帕姆6",
+      "order": 4,
+      "bone": "帕姆6",
+      "x": 0.1,
+      "y": 0.1,
+      "rotate": 1,
+      "scaleX": 0.1,
+      "inertia": 0.1883,
+      "strength": 74.4,
+      "damping": 0.7175,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "帕姆7",
+      "order": 5,
+      "bone": "帕姆7",
+      "x": 0.1,
+      "y": 0.1,
+      "rotate": 1,
+      "scaleX": 0.1,
+      "inertia": 0.1883,
+      "strength": 74.4,
+      "damping": 0.7175,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "帕姆8",
+      "order": 6,
+      "bone": "帕姆8",
+      "x": 0.1,
+      "y": 0.1,
+      "rotate": 1,
+      "scaleX": 0.1,
+      "inertia": 0.1883,
+      "strength": 74.4,
+      "damping": 0.7175,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "气球a2",
+      "order": 16,
+      "bone": "气球a2",
+      "x": 1,
+      "y": 1,
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "气球b2",
+      "order": 17,
+      "bone": "气球b2",
+      "x": 1,
+      "y": 1,
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "气球c2",
+      "order": 18,
+      "bone": "气球c2",
+      "x": 1,
+      "y": 1,
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星a2",
+      "order": 19,
+      "bone": "跳星a2",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星a3",
+      "order": 20,
+      "bone": "跳星a3",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星b2",
+      "order": 21,
+      "bone": "跳星b2",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星b3",
+      "order": 22,
+      "bone": "跳星b3",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星b4",
+      "order": 23,
+      "bone": "跳星b4",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星c2",
+      "order": 27,
+      "bone": "跳星c2",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星c3",
+      "order": 28,
+      "bone": "跳星c3",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星d2",
+      "order": 24,
+      "bone": "跳星d2",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星d3",
+      "order": 25,
+      "bone": "跳星d3",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "跳星d4",
+      "order": 26,
+      "bone": "跳星d4",
+      "rotate": 1,
+      "inertia": 0.3977,
+      "strength": 89.9,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带a2",
+      "order": 33,
+      "bone": "飘带a2",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带a3",
+      "order": 34,
+      "bone": "飘带a3",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带a4",
+      "order": 35,
+      "bone": "飘带a4",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带a5",
+      "order": 36,
+      "bone": "飘带a5",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带b2",
+      "order": 29,
+      "bone": "飘带b2",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带b3",
+      "order": 30,
+      "bone": "飘带b3",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带b4",
+      "order": 31,
+      "bone": "飘带b4",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    },
+    {
+      "name": "飘带b5",
+      "order": 32,
+      "bone": "飘带b5",
+      "rotate": 1,
+      "inertia": 0.5,
+      "damping": 0.85,
+      "windGlobal": true,
+      "gravityGlobal": true
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "bg": {
+          "bg": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0.31595,
+              0.13115,
+              0.31595,
+              0.20201,
+              0.24272,
+              0.20825,
+              0,
+              0.26085,
+              0,
+              0.25793,
+              0.3241,
+              0.73859,
+              0.32578,
+              0.74298,
+              0,
+              0.79411,
+              0,
+              0.79192,
+              0.23908,
+              0.85328,
+              0.31484,
+              1,
+              0.32241,
+              1,
+              1,
+              0,
+              1
+            ],
+            "triangles": [
+              9,
+              7,
+              8,
+              4,
+              2,
+              3,
+              5,
+              2,
+              4,
+              1,
+              2,
+              5,
+              6,
+              7,
+              9,
+              6,
+              9,
+              10,
+              13,
+              0,
+              1,
+              10,
+              11,
+              12,
+              6,
+              10,
+              12,
+              13,
+              5,
+              6,
+              13,
+              1,
+              5,
+              6,
+              12,
+              13
+            ],
+            "vertices": [
+              -507,
+              391.96,
+              -374.01,
+              391.96,
+              -302.16,
+              456.4,
+              -295.83,
+              670,
+              -242.5,
+              670,
+              -245.46,
+              384.79,
+              241.93,
+              383.31,
+              246.38,
+              670,
+              298.23,
+              670,
+              296.01,
+              459.61,
+              358.23,
+              392.94,
+              507,
+              386.28,
+              507,
+              -210,
+              -507,
+              -210
+            ],
+            "hull": 14
+          }
+        },
+        "mask": {
+          "mask": {
+            "type": "clipping",
+            "end": "帕姆",
+            "vertexCount": 10,
+            "vertices": [
+              -488.7,
+              -169.62,
+              -487.01,
+              353.73,
+              -464.2,
+              367.25,
+              472.85,
+              364.71,
+              493.13,
+              344.43,
+              487.78,
+              30.76,
+              1129.71,
+              -184.14,
+              1020.44,
+              1012.94,
+              -990.3,
+              1038.02,
+              -1001.46,
+              -167.8
+            ]
+          }
+        },
+        "top": {
+          "top": {
+            "x": -0.5,
+            "y": 397.5,
+            "width": 945,
+            "height": 181
+          }
+        },
+        "五角星": {
+          "五角星": {
+            "x": -0.57,
+            "y": 7.55,
+            "width": 173,
+            "height": 166
+          }
+        },
+        "五角星发光": {
+          "五角星发光": {
+            "x": -0.57,
+            "y": 7.05,
+            "width": 157,
+            "height": 151
+          }
+        },
+        "分针": {
+          "分针": {
+            "x": 2.43,
+            "y": -8.45,
+            "width": 31,
+            "height": 52
+          }
+        },
+        "右": {
+          "右": {
+            "x": 249.5,
+            "y": 368,
+            "width": 41,
+            "height": 42
+          }
+        },
+        "呜呜伯": {
+          "呜呜伯": {
+            "type": "mesh",
+            "uvs": [
+              0.38484,
+              0.53352,
+              0,
+              0.43889,
+              0.0211,
+              0.16415,
+              0.32801,
+              0,
+              0.65576,
+              0.03696,
+              0.9892,
+              0.0919,
+              0.97594,
+              0.37479,
+              0.79217,
+              0.57219,
+              0.44926,
+              0.53963,
+              0.44715,
+              0.55517,
+              0.46199,
+              0.59901,
+              0.50016,
+              0.63887,
+              0.5521,
+              0.681,
+              0.61359,
+              0.71061,
+              0.67221,
+              0.73747,
+              0.7337,
+              0.76366,
+              0.792,
+              0.79156,
+              0.84501,
+              0.82117,
+              0.8869,
+              0.85342,
+              0.92506,
+              0.88815,
+              0.94944,
+              0.92288,
+              0.96216,
+              0.97185,
+              0.9081,
+              0.99064,
+              0.8922,
+              0.9394,
+              0.86675,
+              0.9058,
+              0.83813,
+              0.87619,
+              0.80209,
+              0.85,
+              0.75968,
+              0.82381,
+              0.70879,
+              0.79876,
+              0.64307,
+              0.7737,
+              0.57946,
+              0.74694,
+              0.52054,
+              0.71631,
+              0.46647,
+              0.68044,
+              0.42831,
+              0.64798,
+              0.40393,
+              0.60983,
+              0.38591,
+              0.55859,
+              0.47255,
+              0.30295
+            ],
+            "triangles": [
+              22,
+              23,
+              21,
+              23,
+              20,
+              21,
+              23,
+              24,
+              20,
+              24,
+              19,
+              20,
+              24,
+              25,
+              19,
+              25,
+              18,
+              19,
+              25,
+              26,
+              18,
+              26,
+              17,
+              18,
+              26,
+              27,
+              17,
+              27,
+              16,
+              17,
+              27,
+              28,
+              16,
+              28,
+              15,
+              16,
+              28,
+              29,
+              15,
+              29,
+              14,
+              15,
+              29,
+              30,
+              14,
+              30,
+              13,
+              14,
+              30,
+              31,
+              13,
+              31,
+              12,
+              13,
+              31,
+              32,
+              12,
+              32,
+              11,
+              12,
+              32,
+              33,
+              11,
+              33,
+              10,
+              11,
+              33,
+              34,
+              10,
+              10,
+              35,
+              9,
+              10,
+              34,
+              35,
+              6,
+              7,
+              36,
+              9,
+              35,
+              8,
+              8,
+              35,
+              0,
+              36,
+              7,
+              8,
+              8,
+              0,
+              36,
+              0,
+              1,
+              36,
+              1,
+              2,
+              36,
+              6,
+              36,
+              5,
+              5,
+              36,
+              4,
+              2,
+              3,
+              36,
+              36,
+              3,
+              4
+            ],
+            "vertices": [
+              2,
+              50,
+              69.02,
+              -5.28,
+              0.23346,
+              51,
+              -2.21,
+              -4.66,
+              0.76654,
+              1,
+              50,
+              50.17,
+              -66.79,
+              1,
+              1,
+              50,
+              -27.33,
+              -73.84,
+              1,
+              2,
+              50,
+              -79.52,
+              -33.71,
+              0.98953,
+              51,
+              -152.42,
+              12.88,
+              0.01047,
+              2,
+              50,
+              -75.71,
+              17.05,
+              0.99998,
+              51,
+              -133.52,
+              60.15,
+              0.00002,
+              1,
+              50,
+              -66.96,
+              69.34,
+              1,
+              1,
+              50,
+              12.66,
+              77.88,
+              1,
+              1,
+              50,
+              71.72,
+              57.54,
+              1,
+              2,
+              50,
+              69.44,
+              4.66,
+              0.90078,
+              51,
+              1.18,
+              4.68,
+              0.09922,
+              2,
+              50,
+              73.84,
+              4.92,
+              0.19307,
+              51,
+              5.46,
+              3.61,
+              0.80693,
+              3,
+              50,
+              85.85,
+              8.79,
+              0.00003,
+              51,
+              18.07,
+              3.69,
+              0.9464,
+              52,
+              -3.71,
+              5.2,
+              0.05357,
+              1,
+              52,
+              8.97,
+              4.77,
+              1,
+              2,
+              52,
+              23.23,
+              5.84,
+              0.06699,
+              53,
+              5.15,
+              4.59,
+              0.93301,
+              2,
+              53,
+              17.69,
+              5.19,
+              0.5258,
+              54,
+              0.05,
+              5.21,
+              0.4742,
+              1,
+              54,
+              11.76,
+              4.99,
+              1,
+              2,
+              54,
+              23.69,
+              5.19,
+              0.01231,
+              55,
+              5.43,
+              5.25,
+              0.98769,
+              2,
+              55,
+              17.3,
+              4.9,
+              0.73075,
+              56,
+              -2.56,
+              4.52,
+              0.26925,
+              1,
+              56,
+              9.04,
+              5.34,
+              1,
+              2,
+              56,
+              20.12,
+              4.39,
+              0.32997,
+              57,
+              0.83,
+              4.68,
+              0.67003,
+              2,
+              57,
+              12.23,
+              5.31,
+              0.94966,
+              58,
+              -4.93,
+              4.28,
+              0.05034,
+              1,
+              58,
+              5.5,
+              5.52,
+              1,
+              1,
+              58,
+              19.42,
+              4.06,
+              1,
+              1,
+              58,
+              22.6,
+              -5.19,
+              1,
+              1,
+              58,
+              7.95,
+              -4.05,
+              1,
+              2,
+              57,
+              12.59,
+              -4.85,
+              0.8487,
+              58,
+              -2.21,
+              -5.52,
+              0.1513,
+              2,
+              56,
+              20.33,
+              -5.43,
+              0.17987,
+              57,
+              3.15,
+              -4.87,
+              0.82013,
+              1,
+              56,
+              11.13,
+              -4.89,
+              1,
+              2,
+              55,
+              19.4,
+              -5.25,
+              0.41586,
+              56,
+              1.31,
+              -5.1,
+              0.58414,
+              1,
+              55,
+              8.92,
+              -4.79,
+              1,
+              2,
+              54,
+              14.84,
+              -5.75,
+              0.85713,
+              55,
+              -3.29,
+              -5.78,
+              0.14287,
+              2,
+              53,
+              21.22,
+              -5.77,
+              0.20788,
+              54,
+              2.57,
+              -6.03,
+              0.79212,
+              1,
+              53,
+              8.75,
+              -5.89,
+              1,
+              2,
+              52,
+              16.74,
+              -5.44,
+              0.86895,
+              53,
+              -4.23,
+              -4.44,
+              0.13105,
+              2,
+              51,
+              30.84,
+              -3.75,
+              0.00869,
+              52,
+              5.89,
+              -6.03,
+              0.99131,
+              2,
+              51,
+              19.56,
+              -5.53,
+              0.89948,
+              52,
+              -5.34,
+              -3.99,
+              0.10052,
+              2,
+              50,
+              76.03,
+              -4.18,
+              0.46944,
+              51,
+              4.8,
+              -5.73,
+              0.53056,
+              2,
+              50,
+              2.58,
+              -0.65,
+              0.99929,
+              51,
+              -64.18,
+              19.73,
+              0.00071
+            ],
+            "hull": 36
+          }
+        },
+        "左": {
+          "左": {
+            "x": -249.5,
+            "y": 368,
+            "width": 41,
+            "height": 42
+          }
+        },
+        "帕姆": {
+          "帕姆": {
+            "type": "mesh",
+            "uvs": [
+              0.24255,
+              0.19402,
+              0.2102,
+              0.26779,
+              0.09865,
+              0.32559,
+              0.01276,
+              0.38263,
+              0,
+              0.4701,
+              0.102,
+              0.51497,
+              0.25147,
+              0.50128,
+              0.33178,
+              0.45032,
+              0.36413,
+              0.40925,
+              0.4701,
+              0.43283,
+              0.56603,
+              0.4815,
+              0.65638,
+              0.46629,
+              0.72777,
+              0.4739,
+              0.74338,
+              0.49402,
+              0.75636,
+              0.52628,
+              0.75865,
+              0.55647,
+              0.75636,
+              0.58926,
+              0.7533,
+              0.62309,
+              0.7388,
+              0.65677,
+              0.72659,
+              0.68903,
+              0.71819,
+              0.72286,
+              0.71743,
+              0.76713,
+              0.72811,
+              0.8072,
+              0.74567,
+              0.83583,
+              0.77253,
+              0.86839,
+              0.80154,
+              0.89909,
+              0.82597,
+              0.9246,
+              0.84811,
+              0.95166,
+              0.86032,
+              0.97456,
+              0.86719,
+              0.99694,
+              0.89925,
+              0.98757,
+              0.89696,
+              0.96571,
+              0.8794,
+              0.93657,
+              0.85269,
+              0.91054,
+              0.8252,
+              0.88452,
+              0.79925,
+              0.85642,
+              0.77864,
+              0.82675,
+              0.76261,
+              0.79656,
+              0.75727,
+              0.76742,
+              0.75803,
+              0.7289,
+              0.76795,
+              0.69442,
+              0.78017,
+              0.66267,
+              0.79009,
+              0.63196,
+              0.79925,
+              0.59501,
+              0.7962,
+              0.55598,
+              0.79009,
+              0.52215,
+              0.77635,
+              0.48936,
+              0.76795,
+              0.46802,
+              0.88093,
+              0.48832,
+              0.96948,
+              0.46802,
+              1,
+              0.43523,
+              0.9649,
+              0.36046,
+              0.88398,
+              0.31986,
+              0.79467,
+              0.28343,
+              0.72584,
+              0.19339,
+              0.74492,
+              0.12781,
+              0.70523,
+              0.06795,
+              0.60981,
+              0.05702,
+              0.58141,
+              0.02432,
+              0.44782,
+              0.00142,
+              0.27378,
+              0.03525,
+              0.20355,
+              0.1102,
+              0.38668,
+              0.34868,
+              0.41721,
+              0.24823,
+              0.62103,
+              0.34035,
+              0.73782,
+              0.3315,
+              0.82484,
+              0.39031
+            ],
+            "triangles": [
+              55,
+              57,
+              56,
+              0,
+              61,
+              60,
+              63,
+              60,
+              59,
+              57,
+              63,
+              59,
+              57,
+              59,
+              58,
+              0,
+              60,
+              63,
+              1,
+              0,
+              63,
+              65,
+              54,
+              53,
+              57,
+              54,
+              63,
+              55,
+              54,
+              57,
+              64,
+              54,
+              65,
+              64,
+              63,
+              54,
+              62,
+              1,
+              63,
+              62,
+              63,
+              64,
+              52,
+              65,
+              53,
+              66,
+              65,
+              52,
+              8,
+              1,
+              62,
+              2,
+              1,
+              8,
+              9,
+              62,
+              64,
+              8,
+              62,
+              9,
+              7,
+              2,
+              8,
+              11,
+              64,
+              65,
+              65,
+              12,
+              11,
+              10,
+              9,
+              64,
+              11,
+              10,
+              64,
+              6,
+              2,
+              7,
+              5,
+              3,
+              2,
+              5,
+              4,
+              3,
+              2,
+              6,
+              5,
+              66,
+              52,
+              51,
+              65,
+              66,
+              12,
+              50,
+              66,
+              51,
+              49,
+              66,
+              50,
+              48,
+              47,
+              66,
+              66,
+              47,
+              12,
+              49,
+              48,
+              66,
+              13,
+              12,
+              47,
+              13,
+              47,
+              46,
+              14,
+              13,
+              46,
+              14,
+              46,
+              45,
+              14,
+              45,
+              44,
+              15,
+              14,
+              44,
+              16,
+              15,
+              44,
+              43,
+              16,
+              44,
+              43,
+              17,
+              16,
+              42,
+              17,
+              43,
+              18,
+              17,
+              42,
+              41,
+              18,
+              42,
+              40,
+              18,
+              41,
+              19,
+              18,
+              40,
+              20,
+              19,
+              40,
+              39,
+              20,
+              40,
+              21,
+              20,
+              39,
+              38,
+              21,
+              39,
+              37,
+              22,
+              21,
+              37,
+              21,
+              38,
+              22,
+              37,
+              36,
+              23,
+              22,
+              36,
+              35,
+              24,
+              23,
+              35,
+              23,
+              36,
+              24,
+              35,
+              34,
+              25,
+              24,
+              34,
+              25,
+              34,
+              33,
+              26,
+              25,
+              33,
+              26,
+              33,
+              32,
+              27,
+              26,
+              32,
+              27,
+              32,
+              31,
+              28,
+              27,
+              31,
+              28,
+              31,
+              30,
+              29,
+              28,
+              30
+            ],
+            "vertices": [
+              2,
+              44,
+              276.44,
+              146.48,
+              0,
+              48,
+              159.57,
+              77.91,
+              1,
+              2,
+              44,
+              244.17,
+              156.82,
+              0,
+              48,
+              135.39,
+              101.64,
+              1,
+              2,
+              44,
+              219.4,
+              190.78,
+              0,
+              48,
+              128.52,
+              143.11,
+              1,
+              2,
+              44,
+              194.81,
+              217.03,
+              0,
+              48,
+              118.36,
+              177.61,
+              1,
+              2,
+              44,
+              156.41,
+              221.61,
+              0,
+              48,
+              86.11,
+              198.96,
+              1,
+              2,
+              44,
+              136.07,
+              191.41,
+              0,
+              48,
+              54.36,
+              181.12,
+              1,
+              2,
+              44,
+              141.22,
+              146.45,
+              0,
+              48,
+              38.76,
+              138.65,
+              1,
+              2,
+              44,
+              163.16,
+              121.93,
+              0,
+              48,
+              47.34,
+              106.88,
+              1,
+              2,
+              44,
+              181.04,
+              111.87,
+              0,
+              48,
+              58.79,
+              89.86,
+              1,
+              3,
+              44,
+              170.04,
+              80.29,
+              0,
+              47,
+              61.64,
+              69.34,
+              0.00831,
+              48,
+              34.77,
+              66.59,
+              0.99169,
+              3,
+              44,
+              148.07,
+              51.93,
+              0,
+              47,
+              30.72,
+              51.15,
+              0.09301,
+              48,
+              2.4,
+              51.13,
+              0.90699,
+              3,
+              44,
+              154.23,
+              24.7,
+              0,
+              47,
+              26.35,
+              23.57,
+              0.40341,
+              48,
+              -4.33,
+              24.04,
+              0.59659,
+              3,
+              44,
+              150.46,
+              3.36,
+              0,
+              47,
+              14.94,
+              5.14,
+              0.98112,
+              48,
+              -17.29,
+              6.66,
+              0.01888,
+              3,
+              44,
+              141.52,
+              -1.15,
+              0,
+              46,
+              45.31,
+              5.5,
+              0.1011,
+              47,
+              4.97,
+              4.27,
+              0.8989,
+              3,
+              44,
+              127.25,
+              -4.77,
+              0,
+              45,
+              78.3,
+              12.53,
+              0,
+              46,
+              30.76,
+              3.23,
+              1,
+              2,
+              45,
+              65.42,
+              9.23,
+              0.00001,
+              46,
+              17.49,
+              4.05,
+              0.99999,
+              3,
+              44,
+              99.54,
+              -4.22,
+              0,
+              45,
+              51.14,
+              7.05,
+              0.32331,
+              46,
+              3.23,
+              6.36,
+              0.67669,
+              1,
+              45,
+              36.37,
+              5,
+              1,
+              3,
+              44,
+              69.95,
+              1.62,
+              0.00008,
+              45,
+              20.98,
+              6.33,
+              0.99989,
+              46,
+              -25.68,
+              14.95,
+              0.00003,
+              3,
+              44,
+              55.82,
+              5.57,
+              0.0612,
+              45,
+              6.34,
+              7.11,
+              0.9388,
+              46,
+              -39.38,
+              20.19,
+              0,
+              4,
+              43,
+              78.1,
+              -12.71,
+              0.00001,
+              44,
+              40.99,
+              8.38,
+              0.98271,
+              45,
+              -8.75,
+              6.64,
+              0.01729,
+              46,
+              -53.88,
+              24.38,
+              0,
+              2,
+              43,
+              61.42,
+              -2.67,
+              0.0012,
+              44,
+              21.53,
+              8.99,
+              0.9988,
+              2,
+              43,
+              44.58,
+              3.48,
+              0.09445,
+              44,
+              3.83,
+              6.13,
+              0.90555,
+              2,
+              43,
+              31.05,
+              5.3,
+              0.99182,
+              44,
+              -8.86,
+              1.11,
+              0.00818,
+              2,
+              43,
+              14.61,
+              5.58,
+              0.99986,
+              44,
+              -23.35,
+              -6.67,
+              0.00014,
+              3,
+              42,
+              39.76,
+              4.86,
+              0.5917,
+              43,
+              -1.44,
+              4.9,
+              0.4083,
+              44,
+              -37.02,
+              -15.1,
+              0,
+              2,
+              42,
+              26.4,
+              3.8,
+              1,
+              46,
+              -145.73,
+              2.27,
+              0,
+              1,
+              42,
+              12.76,
+              3.67,
+              1,
+              2,
+              41,
+              -6.6,
+              2.74,
+              0.25494,
+              42,
+              2.16,
+              5.28,
+              0.74506,
+              1,
+              41,
+              -4.54,
+              -7.11,
+              1,
+              2,
+              41,
+              5.08,
+              -2.98,
+              1,
+              46,
+              -175.74,
+              -16.44,
+              0,
+              3,
+              41,
+              4.4,
+              6.63,
+              0.05264,
+              42,
+              0.32,
+              -6.24,
+              0.94736,
+              46,
+              -166.11,
+              -16.85,
+              0,
+              2,
+              42,
+              14.1,
+              -7.75,
+              0.9999,
+              43,
+              -27.48,
+              -6.92,
+              0.0001,
+              1,
+              42,
+              27.99,
+              -6.2,
+              1,
+              2,
+              42,
+              41.99,
+              -4.45,
+              0.49109,
+              43,
+              0.5,
+              -4.46,
+              0.5089,
+              1,
+              43,
+              15.11,
+              -4,
+              1,
+              2,
+              43,
+              29.5,
+              -5.26,
+              1,
+              46,
+              -101.35,
+              11.52,
+              0,
+              3,
+              43,
+              43.39,
+              -7.82,
+              0.00041,
+              44,
+              8.31,
+              -4.31,
+              0.99959,
+              45,
+              -37.9,
+              -12.85,
+              0,
+              2,
+              44,
+              21.16,
+              -2.96,
+              1,
+              46,
+              -74.69,
+              14.94,
+              0,
+              1,
+              44,
+              38.1,
+              -3.52,
+              1,
+              2,
+              44,
+              53.21,
+              -6.79,
+              0.04683,
+              45,
+              6.47,
+              -5.52,
+              0.95317,
+              1,
+              45,
+              20.89,
+              -6.35,
+              1,
+              2,
+              45,
+              34.72,
+              -6.59,
+              1,
+              47,
+              -56.4,
+              14.95,
+              0,
+              2,
+              45,
+              51.21,
+              -6.07,
+              0.44563,
+              46,
+              -0.73,
+              -6.14,
+              0.55437,
+              2,
+              46,
+              16.43,
+              -7.17,
+              0.99999,
+              47,
+              -26.31,
+              0.27,
+              0.00001,
+              1,
+              46,
+              31.43,
+              -7.03,
+              1,
+              2,
+              46,
+              46.23,
+              -4.56,
+              0.17834,
+              47,
+              3.01,
+              -5.64,
+              0.82166,
+              1,
+              47,
+              12.64,
+              -6.97,
+              1,
+              2,
+              47,
+              -8.76,
+              -34.72,
+              0.99843,
+              48,
+              -44.35,
+              -31.01,
+              0.00157,
+              2,
+              47,
+              -10.86,
+              -62.67,
+              0.96454,
+              48,
+              -48.85,
+              -58.67,
+              0.03546,
+              2,
+              47,
+              -1.13,
+              -76.72,
+              0.93022,
+              48,
+              -40.37,
+              -73.5,
+              0.06978,
+              2,
+              47,
+              33.28,
+              -79.8,
+              0.72949,
+              48,
+              -6.36,
+              -79.55,
+              0.27051,
+              2,
+              47,
+              59.17,
+              -64.38,
+              0.41963,
+              48,
+              20.77,
+              -66.42,
+              0.58037,
+              2,
+              47,
+              84.36,
+              -45.92,
+              0.08522,
+              48,
+              47.45,
+              -50.21,
+              0.91478,
+              1,
+              48,
+              92.13,
+              -50.44,
+              1,
+              1,
+              48,
+              114.98,
+              -68.98,
+              1,
+              1,
+              48,
+              143.82,
+              -70.74,
+              1,
+              1,
+              48,
+              161.44,
+              -47.67,
+              1,
+              1,
+              48,
+              178.14,
+              -46.85,
+              1,
+              1,
+              48,
+              205.76,
+              -16.11,
+              1,
+              2,
+              44,
+              346.1,
+              135.74,
+              0,
+              48,
+              216.97,
+              37.01,
+              1,
+              2,
+              44,
+              313.54,
+              157.46,
+              0,
+              48,
+              197.64,
+              71.04,
+              1,
+              2,
+              44,
+              207.55,
+              104.58,
+              0,
+              48,
+              79.2,
+              71.44,
+              1,
+              2,
+              44,
+              251.56,
+              94.56,
+              0,
+              48,
+              114.01,
+              42.7,
+              1,
+              2,
+              44,
+              209.84,
+              34.22,
+              0,
+              48,
+              49.62,
+              7.55,
+              1,
+              2,
+              47,
+              71.5,
+              -21.99,
+              0.04477,
+              48,
+              36.71,
+              -25.25,
+              0.95523,
+              2,
+              47,
+              37.51,
+              -35.98,
+              0.53308,
+              48,
+              1.64,
+              -36.26,
+              0.46692
+            ],
+            "hull": 62
+          }
+        },
+        "时针": {
+          "时针": {
+            "x": 5.43,
+            "y": -3.45,
+            "width": 45,
+            "height": 32
+          }
+        },
+        "时钟": {
+          "时钟": {
+            "x": 0.43,
+            "y": -1.95,
+            "width": 87,
+            "height": 91
+          }
+        },
+        "气球a": {
+          "气球a": {
+            "x": 7.82,
+            "y": 3.65,
+            "rotation": 125.64,
+            "width": 80,
+            "height": 94
+          }
+        },
+        "气球b": {
+          "气球b": {
+            "x": 10.72,
+            "y": -3.18,
+            "rotation": 81.61,
+            "width": 73,
+            "height": 109
+          }
+        },
+        "气球c": {
+          "气球c": {
+            "x": 3.78,
+            "y": -5.49,
+            "rotation": 56.67,
+            "width": 86,
+            "height": 101
+          }
+        },
+        "灯亮": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮2": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮3": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮4": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮5": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮6": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮7": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮8": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮9": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮10": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮11": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮12": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮13": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮14": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮15": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮16": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮17": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮18": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮19": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮20": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮21": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮22": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮23": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮24": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮25": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮26": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮27": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮28": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮29": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮30": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮31": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮32": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮33": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮34": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮35": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮36": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮37": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮38": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮39": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮40": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮41": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮42": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮43": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮44": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮45": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮46": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮47": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮48": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮49": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮50": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮51": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮52": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯亮53": {
+          "灯亮": {
+            "width": 76,
+            "height": 76
+          }
+        },
+        "灯暗": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗2": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗3": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗4": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗5": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗6": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗7": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗8": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗9": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗10": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗11": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗12": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗13": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗14": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗15": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗16": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗17": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗18": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗19": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗20": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗21": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗22": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗23": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗24": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗25": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗26": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗27": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗28": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗29": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗30": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗31": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗32": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗33": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗34": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗35": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗36": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗37": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗38": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗39": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗40": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗41": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗42": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗43": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗44": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗45": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗46": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗47": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗48": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗49": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗50": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗51": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗52": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "灯暗53": {
+          "灯暗": {
+            "width": 37,
+            "height": 37
+          }
+        },
+        "跳星a": {
+          "跳星a": {
+            "type": "mesh",
+            "uvs": [
+              0.03605,
+              0.7465,
+              0.19022,
+              0.58184,
+              0.36074,
+              0.42528,
+              0.4425,
+              0.3497,
+              0.46119,
+              0.15805,
+              0.81859,
+              0.06088,
+              0.9751,
+              0.39019,
+              0.81392,
+              0.67092,
+              0.58733,
+              0.58724,
+              0.50791,
+              0.65472,
+              0.37476,
+              0.78429,
+              0.19256,
+              0.93545,
+              0.0781,
+              0.91116,
+              0.65274,
+              0.40099
+            ],
+            "triangles": [
+              13,
+              4,
+              5,
+              13,
+              5,
+              6,
+              3,
+              4,
+              13,
+              8,
+              3,
+              13,
+              2,
+              3,
+              8,
+              9,
+              2,
+              8,
+              7,
+              13,
+              6,
+              8,
+              13,
+              7,
+              10,
+              1,
+              2,
+              9,
+              10,
+              2,
+              0,
+              11,
+              12,
+              1,
+              11,
+              0,
+              1,
+              10,
+              11
+            ],
+            "vertices": [
+              1,
+              14,
+              -4.61,
+              6.2,
+              1,
+              1,
+              14,
+              6.28,
+              6.87,
+              1,
+              2,
+              14,
+              17.61,
+              6.71,
+              0.3352,
+              15,
+              1.91,
+              6.95,
+              0.6648,
+              2,
+              14,
+              23.05,
+              6.66,
+              0.01319,
+              15,
+              7.33,
+              7.44,
+              0.98681,
+              1,
+              15,
+              12.89,
+              14.11,
+              1,
+              1,
+              15,
+              30.81,
+              7.53,
+              1,
+              1,
+              15,
+              29.45,
+              -9.33,
+              1,
+              1,
+              15,
+              15.5,
+              -15.26,
+              1,
+              2,
+              14,
+              22.12,
+              -6.38,
+              0.01585,
+              15,
+              7.73,
+              -5.63,
+              0.98415,
+              2,
+              14,
+              17,
+              -6.12,
+              0.32102,
+              15,
+              2.61,
+              -5.89,
+              0.67898,
+              2,
+              14,
+              7.95,
+              -6.26,
+              0.99721,
+              15,
+              -6.38,
+              -6.94,
+              0.00279,
+              1,
+              14,
+              -3.69,
+              -5.53,
+              1,
+              1,
+              14,
+              -7.61,
+              -0.92,
+              1,
+              1,
+              15,
+              15.19,
+              -0.5,
+              1
+            ],
+            "hull": 13
+          }
+        },
+        "跳星b": {
+          "跳星b": {
+            "type": "mesh",
+            "uvs": [
+              0.03123,
+              0.89641,
+              0.08987,
+              0.78733,
+              0.17783,
+              0.68074,
+              0.27277,
+              0.57786,
+              0.37609,
+              0.47746,
+              0.48639,
+              0.38946,
+              0.5925,
+              0.32005,
+              0.50035,
+              0.18247,
+              0.61484,
+              0.05728,
+              0.83823,
+              0,
+              0.97785,
+              0.12421,
+              0.99321,
+              0.35847,
+              0.75585,
+              0.39814,
+              0.61205,
+              0.49853,
+              0.50733,
+              0.58034,
+              0.40401,
+              0.67206,
+              0.31466,
+              0.75882,
+              0.24066,
+              0.85055,
+              0.15968,
+              0.96458,
+              0.07172,
+              0.97325
+            ],
+            "triangles": [
+              12,
+              10,
+              11,
+              12,
+              8,
+              10,
+              8,
+              9,
+              10,
+              6,
+              7,
+              8,
+              14,
+              5,
+              13,
+              5,
+              6,
+              13,
+              13,
+              6,
+              12,
+              6,
+              8,
+              12,
+              2,
+              3,
+              16,
+              16,
+              3,
+              15,
+              3,
+              4,
+              15,
+              15,
+              4,
+              14,
+              4,
+              5,
+              14,
+              0,
+              1,
+              18,
+              18,
+              1,
+              17,
+              1,
+              2,
+              17,
+              17,
+              2,
+              16,
+              19,
+              0,
+              18
+            ],
+            "vertices": [
+              1,
+              8,
+              -6.58,
+              1.56,
+              1,
+              2,
+              8,
+              -1.48,
+              12.25,
+              0.2173,
+              9,
+              9.46,
+              8.03,
+              0.7827,
+              3,
+              8,
+              6.17,
+              22.69,
+              0.00058,
+              9,
+              22.36,
+              6.89,
+              0.66692,
+              10,
+              -1.93,
+              6.62,
+              0.33249,
+              1,
+              10,
+              11.06,
+              7.7,
+              1,
+              2,
+              10,
+              24.38,
+              8.08,
+              0.88863,
+              11,
+              -4.66,
+              7.65,
+              0.11137,
+              2,
+              10,
+              37.25,
+              7.18,
+              0.0078,
+              11,
+              8.24,
+              8.06,
+              0.9922,
+              2,
+              11,
+              19.68,
+              7.32,
+              0.78076,
+              12,
+              -16.4,
+              1.56,
+              0.21924,
+              2,
+              11,
+              22.24,
+              22.8,
+              0.17194,
+              12,
+              -13.85,
+              17.03,
+              0.82806,
+              2,
+              11,
+              37.76,
+              25.77,
+              0.0161,
+              12,
+              1.67,
+              20,
+              0.9839,
+              1,
+              12,
+              20.15,
+              11.78,
+              1,
+              1,
+              12,
+              21.6,
+              -5.36,
+              1,
+              2,
+              11,
+              43.92,
+              -18.02,
+              0.08996,
+              12,
+              7.84,
+              -23.78,
+              0.91004,
+              2,
+              11,
+              25.62,
+              -7.69,
+              0.71749,
+              12,
+              -10.46,
+              -13.45,
+              0.28251,
+              2,
+              10,
+              37.17,
+              -8.11,
+              0.0049,
+              11,
+              9.72,
+              -7.16,
+              0.9951,
+              2,
+              10,
+              25.08,
+              -7.14,
+              0.77961,
+              11,
+              -2.42,
+              -7.42,
+              0.22039,
+              2,
+              9,
+              33.27,
+              -9.51,
+              0.00099,
+              10,
+              12.37,
+              -6.93,
+              0.99901,
+              2,
+              9,
+              21.97,
+              -7.26,
+              0.51803,
+              10,
+              0.85,
+              -7.25,
+              0.48197,
+              2,
+              9,
+              10.95,
+              -6.41,
+              0.99797,
+              10,
+              -10.08,
+              -8.88,
+              0.00203,
+              2,
+              8,
+              4.59,
+              -5.12,
+              0.02136,
+              9,
+              -2.26,
+              -6.16,
+              0.97864,
+              2,
+              8,
+              -3.06,
+              -5.97,
+              0.94823,
+              9,
+              -6.95,
+              -0.06,
+              0.05177
+            ],
+            "hull": 20
+          }
+        },
+        "跳星c": {
+          "跳星c": {
+            "type": "mesh",
+            "uvs": [
+              0.02721,
+              0.50838,
+              0.24277,
+              0.83083,
+              0.5473,
+              0.60997,
+              0.65337,
+              0.68948,
+              0.74233,
+              0.80874,
+              0.82103,
+              0.94567,
+              0.93908,
+              0.91475,
+              0.96645,
+              0.78445,
+              0.87065,
+              0.6674,
+              0.76457,
+              0.52605,
+              0.63626,
+              0.3847,
+              0.52164,
+              0.29636,
+              0.53703,
+              0.08876,
+              0.15723,
+              0.03355,
+              0.41899,
+              0.45979
+            ],
+            "triangles": [
+              3,
+              2,
+              9,
+              3,
+              9,
+              8,
+              4,
+              3,
+              8,
+              8,
+              5,
+              4,
+              8,
+              7,
+              5,
+              6,
+              5,
+              7,
+              11,
+              13,
+              12,
+              14,
+              13,
+              11,
+              0,
+              13,
+              14,
+              10,
+              14,
+              11,
+              2,
+              10,
+              9,
+              2,
+              14,
+              10,
+              1,
+              0,
+              14,
+              1,
+              14,
+              2
+            ],
+            "vertices": [
+              1,
+              23,
+              39,
+              21.35,
+              1,
+              1,
+              23,
+              16.78,
+              28.78,
+              1,
+              2,
+              23,
+              4.4,
+              7.3,
+              0.87083,
+              22,
+              22.5,
+              8.26,
+              0.12917,
+              2,
+              23,
+              -4.31,
+              7.21,
+              0.07306,
+              22,
+              14.19,
+              5.65,
+              0.92694,
+              1,
+              22,
+              5.09,
+              5.42,
+              1,
+              1,
+              22,
+              -4.24,
+              6.38,
+              1,
+              1,
+              22,
+              -8.64,
+              -0.96,
+              1,
+              1,
+              22,
+              -4.67,
+              -7.23,
+              1,
+              1,
+              22,
+              4.68,
+              -6.55,
+              1,
+              2,
+              23,
+              -6.51,
+              -4.55,
+              0.00837,
+              22,
+              15.5,
+              -6.24,
+              0.99163,
+              2,
+              23,
+              5.29,
+              -6.58,
+              0.98206,
+              22,
+              27.38,
+              -4.76,
+              0.01794,
+              1,
+              23,
+              14.77,
+              -6.6,
+              1,
+              1,
+              23,
+              19.66,
+              -16.98,
+              1,
+              1,
+              23,
+              44.4,
+              -5.82,
+              1,
+              1,
+              23,
+              16.45,
+              4.85,
+              1
+            ],
+            "hull": 14
+          }
+        },
+        "跳星d": {
+          "跳星d": {
+            "type": "mesh",
+            "uvs": [
+              0.95446,
+              0.96885,
+              0.85034,
+              0.9654,
+              0.80572,
+              0.89304,
+              0.73879,
+              0.79225,
+              0.66442,
+              0.69662,
+              0.57765,
+              0.61306,
+              0.49089,
+              0.52863,
+              0.40165,
+              0.43645,
+              0.30125,
+              0.35547,
+              0.21325,
+              0.27708,
+              0.0256,
+              0.2029,
+              0.0256,
+              0.03922,
+              0.15823,
+              0,
+              0.34663,
+              0.03405,
+              0.36398,
+              0.21151,
+              0.43959,
+              0.2744,
+              0.51396,
+              0.35193,
+              0.61683,
+              0.44756,
+              0.69098,
+              0.53841,
+              0.76659,
+              0.62284,
+              0.82732,
+              0.70382,
+              0.89549,
+              0.79169,
+              0.94879,
+              0.87956,
+              0.98722,
+              0.93986
+            ],
+            "triangles": [
+              8,
+              9,
+              14,
+              10,
+              11,
+              12,
+              12,
+              14,
+              10,
+              14,
+              12,
+              13,
+              9,
+              10,
+              14,
+              8,
+              14,
+              15,
+              8,
+              15,
+              16,
+              7,
+              8,
+              16,
+              7,
+              16,
+              17,
+              6,
+              7,
+              17,
+              6,
+              17,
+              18,
+              5,
+              6,
+              18,
+              5,
+              18,
+              19,
+              4,
+              5,
+              19,
+              4,
+              19,
+              20,
+              3,
+              4,
+              20,
+              3,
+              20,
+              21,
+              2,
+              3,
+              21,
+              2,
+              21,
+              22,
+              1,
+              2,
+              22,
+              0,
+              1,
+              22,
+              23,
+              0,
+              22
+            ],
+            "vertices": [
+              1,
+              17,
+              -6.8,
+              -2.56,
+              1,
+              1,
+              17,
+              -2.19,
+              6.55,
+              1,
+              1,
+              17,
+              8.91,
+              6.37,
+              1,
+              2,
+              17,
+              24.56,
+              6.55,
+              0.99492,
+              18,
+              -8.28,
+              7.76,
+              0.00508,
+              2,
+              17,
+              39.85,
+              7.69,
+              0.02037,
+              18,
+              7.02,
+              6.79,
+              0.97963,
+              1,
+              18,
+              21.51,
+              7.74,
+              1,
+              2,
+              18,
+              36.12,
+              8.63,
+              0.67268,
+              19,
+              -1.16,
+              8.8,
+              0.32732,
+              2,
+              19,
+              14.47,
+              7.7,
+              0.90857,
+              20,
+              -47.55,
+              9.72,
+              0.09143,
+              2,
+              19,
+              29.52,
+              8.43,
+              0.70286,
+              20,
+              -32.5,
+              10.45,
+              0.29714,
+              1,
+              20,
+              -18.48,
+              10.45,
+              1,
+              1,
+              20,
+              1.08,
+              18.52,
+              1,
+              1,
+              20,
+              19.28,
+              4.32,
+              1,
+              1,
+              20,
+              15.64,
+              -9.33,
+              1,
+              1,
+              20,
+              0.5,
+              -20.93,
+              1,
+              1,
+              20,
+              -20.28,
+              -6.88,
+              1,
+              2,
+              19,
+              30.2,
+              -9.29,
+              0.70286,
+              20,
+              -31.82,
+              -7.27,
+              0.29714,
+              2,
+              19,
+              17.09,
+              -8.31,
+              0.90857,
+              20,
+              -44.93,
+              -6.29,
+              0.09143,
+              2,
+              18,
+              39.26,
+              -7.89,
+              0.41186,
+              19,
+              0.26,
+              -7.96,
+              0.58814,
+              1,
+              18,
+              24.54,
+              -7.26,
+              1,
+              1,
+              18,
+              10.52,
+              -7.22,
+              1,
+              2,
+              17,
+              32.4,
+              -6.47,
+              0.72011,
+              18,
+              -2.31,
+              -6.21,
+              0.27989,
+              1,
+              17,
+              18.36,
+              -7.5,
+              1,
+              1,
+              17,
+              4.91,
+              -7.2,
+              1,
+              1,
+              17,
+              -4.39,
+              -7.16,
+              1
+            ],
+            "hull": 24
+          }
+        },
+        "飘带a": {
+          "飘带a": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0.15184,
+              0.09275,
+              0.26747,
+              0.20639,
+              0.40478,
+              0.31258,
+              0.52583,
+              0.43554,
+              0.66856,
+              0.56408,
+              0.80045,
+              0.67213,
+              0.90704,
+              0.8044,
+              1,
+              0.83421,
+              0.79322,
+              1,
+              0.7607,
+              1,
+              0.72637,
+              0.85657,
+              0.6252,
+              0.75969,
+              0.52763,
+              0.65909,
+              0.42285,
+              0.56408,
+              0.30902,
+              0.47093,
+              0.1934,
+              0.40573,
+              0.0868,
+              0.34798,
+              0,
+              0.13188,
+              0.02357,
+              0.25669,
+              0.18075,
+              0.36847,
+              0.33793,
+              0.50074,
+              0.48066,
+              0.62183,
+              0.6252,
+              0.73734,
+              0.74444
+            ],
+            "triangles": [
+              19,
+              18,
+              17,
+              19,
+              17,
+              16,
+              1,
+              0,
+              18,
+              19,
+              16,
+              15,
+              19,
+              1,
+              18,
+              20,
+              19,
+              15,
+              2,
+              1,
+              19,
+              2,
+              19,
+              20,
+              20,
+              15,
+              14,
+              21,
+              20,
+              14,
+              21,
+              14,
+              13,
+              3,
+              2,
+              20,
+              3,
+              20,
+              21,
+              4,
+              3,
+              21,
+              22,
+              21,
+              13,
+              22,
+              13,
+              12,
+              4,
+              21,
+              22,
+              23,
+              22,
+              12,
+              5,
+              4,
+              22,
+              23,
+              12,
+              11,
+              8,
+              11,
+              10,
+              8,
+              23,
+              11,
+              10,
+              9,
+              8,
+              5,
+              22,
+              23,
+              6,
+              5,
+              23,
+              6,
+              23,
+              8,
+              7,
+              6,
+              8
+            ],
+            "vertices": [
+              1,
+              37,
+              -35.28,
+              -60.07,
+              1,
+              2,
+              38,
+              -62.43,
+              -47.78,
+              0.00054,
+              37,
+              8.12,
+              -55.37,
+              0.99946,
+              2,
+              38,
+              -9.96,
+              -48.05,
+              0.33529,
+              37,
+              60.19,
+              -48.93,
+              0.66471,
+              3,
+              39,
+              -39.58,
+              -43.48,
+              0.01815,
+              38,
+              37.39,
+              -46.95,
+              0.9488,
+              37,
+              107.01,
+              -41.78,
+              0.03305,
+              3,
+              40,
+              -51.99,
+              -46.38,
+              0.00692,
+              39,
+              15.68,
+              -47.8,
+              0.70926,
+              38,
+              92.8,
+              -46.15,
+              0.28382,
+              3,
+              40,
+              2.04,
+              -48.79,
+              0.56062,
+              39,
+              69.75,
+              -48.71,
+              0.43918,
+              38,
+              146.73,
+              -42.06,
+              0.0002,
+              2,
+              40,
+              46.57,
+              -49.9,
+              0.98576,
+              39,
+              114.3,
+              -48.58,
+              0.01424,
+              1,
+              40,
+              93.3,
+              -43.22,
+              1,
+              1,
+              40,
+              56.64,
+              7.05,
+              1,
+              1,
+              40,
+              84.33,
+              47.34,
+              1,
+              1,
+              40,
+              77.22,
+              54.69,
+              1,
+              2,
+              40,
+              26.46,
+              47.53,
+              0.86596,
+              39,
+              91.49,
+              48.24,
+              0.13404,
+              3,
+              40,
+              -13.88,
+              48.95,
+              0.23556,
+              39,
+              51.13,
+              48.54,
+              0.74476,
+              38,
+              119.22,
+              53.06,
+              0.01969,
+              4,
+              40,
+              -56.48,
+              51.17,
+              0.00175,
+              39,
+              8.48,
+              49.58,
+              0.57508,
+              38,
+              76.65,
+              50.15,
+              0.42315,
+              37,
+              133.52,
+              59.55,
+              0.00003,
+              3,
+              39,
+              -34.97,
+              53.66,
+              0.04541,
+              38,
+              33.01,
+              50.2,
+              0.84088,
+              37,
+              90.24,
+              54.01,
+              0.11371,
+              2,
+              38,
+              -10.71,
+              51.01,
+              0.26051,
+              37,
+              46.78,
+              49.22,
+              0.73949,
+              2,
+              38,
+              -47.25,
+              56.39,
+              0.01091,
+              37,
+              9.85,
+              49.88,
+              0.98909,
+              1,
+              37,
+              -20.93,
+              49.27,
+              1,
+              1,
+              37,
+              -47.78,
+              -7.56,
+              1,
+              1,
+              37,
+              11.03,
+              -1.48,
+              1,
+              2,
+              38,
+              4.08,
+              0.87,
+              0.98432,
+              37,
+              67.86,
+              1.39,
+              0.01568,
+              1,
+              38,
+              61.19,
+              3.76,
+              1,
+              1,
+              39,
+              44.07,
+              -0.27,
+              1,
+              1,
+              40,
+              26.41,
+              -1.97,
+              1
+            ],
+            "hull": 19
+          }
+        },
+        "飘带b": {
+          "飘带b": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0.73051,
+              0.09748,
+              0.65102,
+              0.20739,
+              0.55707,
+              0.32103,
+              0.44325,
+              0.43095,
+              0.31678,
+              0.52596,
+              0.19212,
+              0.60234,
+              0.0801,
+              0.64705,
+              0,
+              0.85943,
+              0.0259,
+              1,
+              0.13972,
+              0.93953,
+              0.22464,
+              0.8408,
+              0.33665,
+              0.74951,
+              0.44686,
+              0.66009,
+              0.55346,
+              0.5539,
+              0.66005,
+              0.46448,
+              0.75581,
+              0.36761,
+              0.8624,
+              0.29122,
+              0.94732,
+              0.20553,
+              1,
+              0.14591,
+              0.94732,
+              0.16454,
+              0.78833,
+              0.00992,
+              0.77749,
+              0.31072,
+              0.69595,
+              0.44299,
+              0.55683,
+              0.54172,
+              0.4394,
+              0.6386,
+              0.32557,
+              0.76155,
+              0.17923
+            ],
+            "triangles": [
+              18,
+              19,
+              17,
+              16,
+              17,
+              20,
+              17,
+              19,
+              20,
+              20,
+              22,
+              16,
+              16,
+              22,
+              15,
+              21,
+              1,
+              20,
+              20,
+              1,
+              22,
+              21,
+              0,
+              1,
+              1,
+              2,
+              22,
+              23,
+              22,
+              2,
+              14,
+              15,
+              23,
+              15,
+              22,
+              23,
+              23,
+              2,
+              3,
+              14,
+              23,
+              13,
+              23,
+              3,
+              24,
+              23,
+              24,
+              13,
+              13,
+              24,
+              12,
+              24,
+              25,
+              12,
+              12,
+              25,
+              11,
+              3,
+              4,
+              24,
+              24,
+              4,
+              25,
+              4,
+              5,
+              25,
+              25,
+              26,
+              11,
+              11,
+              26,
+              10,
+              25,
+              5,
+              26,
+              26,
+              5,
+              6,
+              6,
+              7,
+              26,
+              26,
+              7,
+              8,
+              9,
+              10,
+              8,
+              10,
+              26,
+              8
+            ],
+            "vertices": [
+              1,
+              35,
+              87.95,
+              -52.54,
+              1,
+              2,
+              34,
+              106.63,
+              -55.48,
+              0.03034,
+              35,
+              51.18,
+              -50.95,
+              0.96966,
+              3,
+              33,
+              136.6,
+              -53.35,
+              0.00442,
+              34,
+              64.56,
+              -50.71,
+              0.42685,
+              35,
+              8.85,
+              -50.1,
+              0.56874,
+              3,
+              33,
+              89.52,
+              -49.79,
+              0.29455,
+              34,
+              17.37,
+              -49.11,
+              0.67781,
+              35,
+              -38.29,
+              -52.89,
+              0.02764,
+              3,
+              32,
+              94.25,
+              -52.25,
+              0.05726,
+              33,
+              40.23,
+              -49.47,
+              0.89277,
+              34,
+              -31.89,
+              -50.84,
+              0.04997,
+              3,
+              31,
+              56.72,
+              -52.56,
+              0.00537,
+              32,
+              48.06,
+              -51.55,
+              0.60852,
+              33,
+              -5.89,
+              -52.11,
+              0.38611,
+              3,
+              31,
+              16.72,
+              -54.07,
+              0.2239,
+              32,
+              8.07,
+              -53.03,
+              0.74624,
+              33,
+              -45.67,
+              -56.49,
+              0.02986,
+              3,
+              31,
+              -10.2,
+              -57.47,
+              0.47183,
+              32,
+              -18.86,
+              -56.42,
+              0.52802,
+              33,
+              -72.28,
+              -61.82,
+              0.00015,
+              1,
+              31,
+              -39.69,
+              -3.1,
+              1,
+              2,
+              31,
+              -35.8,
+              49.69,
+              0.96649,
+              32,
+              -44.38,
+              50.75,
+              0.03351,
+              2,
+              31,
+              -5.05,
+              50.23,
+              0.74709,
+              32,
+              -13.64,
+              51.28,
+              0.25291,
+              3,
+              31,
+              38.7,
+              46.49,
+              0.12797,
+              32,
+              30.12,
+              47.51,
+              0.75312,
+              33,
+              -30.96,
+              45.38,
+              0.11891,
+              3,
+              31,
+              80.76,
+              44.19,
+              0.00041,
+              32,
+              72.18,
+              45.17,
+              0.21844,
+              33,
+              11.16,
+              46.1,
+              0.78115,
+              3,
+              32,
+              113.05,
+              42.65,
+              0.00054,
+              33,
+              52.11,
+              46.55,
+              0.90618,
+              34,
+              -24.02,
+              45.59,
+              0.09328,
+              3,
+              33,
+              96.16,
+              43.27,
+              0.23299,
+              34,
+              20.13,
+              44.14,
+              0.75448,
+              35,
+              -44.2,
+              40.21,
+              0.01254,
+              3,
+              33,
+              134.62,
+              41.65,
+              0.00401,
+              34,
+              58.63,
+              44.12,
+              0.56038,
+              35,
+              -5.86,
+              43.77,
+              0.43561,
+              2,
+              34,
+              100.96,
+              44.67,
+              0.02663,
+              35,
+              36.24,
+              48.25,
+              0.97337,
+              1,
+              35,
+              69.62,
+              51.97,
+              1,
+              1,
+              35,
+              98.48,
+              46.79,
+              1,
+              1,
+              35,
+              100.56,
+              23.58,
+              1,
+              1,
+              35,
+              64.56,
+              -7.69,
+              1,
+              1,
+              35,
+              95.3,
+              -40.29,
+              1,
+              1,
+              35,
+              14.82,
+              0.58,
+              1,
+              2,
+              33,
+              93,
+              -1.05,
+              0.00026,
+              34,
+              18.82,
+              -0.26,
+              0.99974,
+              1,
+              33,
+              47.85,
+              -1.49,
+              1,
+              2,
+              32,
+              61.45,
+              -1.93,
+              0.03018,
+              33,
+              3.87,
+              -1.65,
+              0.96982,
+              2,
+              31,
+              13.92,
+              0.54,
+              0.00663,
+              32,
+              5.3,
+              1.58,
+              0.99337
+            ],
+            "hull": 22
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "in": {
+      "physics": {
+        "": {
+          "gravity": [
+            {
+              "value": -25,
+              "curve": [
+                0.044,
+                -33.3333,
+                0.089,
+                -50
+              ]
+            },
+            {
+              "time": 0.1333,
+              "value": -50,
+              "curve": [
+                0.278,
+                -50,
+                0.422,
+                33
+              ]
+            },
+            {
+              "time": 0.5667,
+              "value": 33,
+              "curve": [
+                0.722,
+                33,
+                0.878,
+                -10
+              ]
+            },
+            {
+              "time": 1.0333,
+              "value": -10,
+              "curve": [
+                1.222,
+                -10,
+                1.411,
+                -3.3333
+              ]
+            },
+            {
+              "time": 1.6
+            }
+          ]
+        }
+      }
+    },
+    "light": {
+      "slots": {
+        "灯亮": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮2": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮3": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮4": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮5": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮6": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮7": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮8": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮9": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮10": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮11": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮12": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮13": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮14": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮15": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮16": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮17": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮18": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮19": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮20": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮21": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮22": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮23": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮24": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮25": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮26": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮27": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮28": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮29": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮30": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮31": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮32": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮33": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮34": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮35": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮36": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮37": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮38": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮39": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮40": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮41": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮42": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮43": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮44": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮45": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮46": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮47": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮48": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮49": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮50": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "灯亮51": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮52": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "灯亮53": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      }
+    },
+    "loop": {
+      "physics": {
+        "": {
+          "wind": [
+            {
+              "value": 3,
+              "curve": [
+                0.333,
+                1,
+                0.683,
+                -3
+              ]
+            },
+            {
+              "time": 1,
+              "value": -3,
+              "curve": [
+                1.333,
+                -3,
+                1.667,
+                1
+              ]
+            },
+            {
+              "time": 2,
+              "value": 3
+            }
+          ],
+          "gravity": [
+            {}
+          ]
+        }
+      }
+    },
+    "out": {
+      "physics": {
+        "": {
+          "gravity": [
+            {
+              "curve": [
+                0.044,
+                16.6667,
+                0.089,
+                50
+              ]
+            },
+            {
+              "time": 0.1333,
+              "value": 50,
+              "curve": [
+                0.311,
+                50,
+                0.489,
+                16.6667
+              ]
+            },
+            {
+              "time": 0.6667
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "气球c": {
+      "rootBoneName": "气球c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 5,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.6000000000000001
+        }
+      }
+    },
+    "气球b": {
+      "rootBoneName": "气球b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 1.3471036849542515,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 5.28501087633541,
+          "moveYCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 5,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.03671604811912008
+        }
+      }
+    },
+    "气球a": {
+      "rootBoneName": "气球a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 5.72858140301505,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 0.8656640103060342,
+          "moveYCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 5,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.15653260196369265
+        }
+      }
+    },
+    "呜呜伯": {
+      "rootBoneName": "呜呜伯",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 0.323569821152872,
+          "moveXCenter": 0,
+          "moveYFreq": 5,
+          "moveYAmp": 30,
+          "moveYOctaves": 0,
+          "moveYDelay": 4.038063978418317,
+          "moveYCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 5,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.25415332617111935
+        }
+      }
+    },
+    "帕姆": {
+      "rootBoneName": "帕姆",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 5,
+          "rotateRange": 1,
+          "rotateOffset": 1.0754779749404948,
+          "childOffset": 0.5,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "飘带a": {
+      "rootBoneName": "飘带a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 3,
+          "rotateOffset": 1.25,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "飘带b": {
+      "rootBoneName": "飘带b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 3,
+          "rotateOffset": 1.4890769835385496,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "跳星c": {
+      "rootBoneName": "跳星c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 3,
+          "rotateOffset": 1.551075109390764,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "跳星d2": {
+      "rootBoneName": "跳星d2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 3,
+          "rotateOffset": 0.7408982687682699,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "跳星a2": {
+      "rootBoneName": "跳星a2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 3,
+          "rotateOffset": 0.8814362326372198,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "跳星b2": {
+      "rootBoneName": "跳星b2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 2,
+          "rotateRange": 3,
+          "rotateOffset": 1.138901958904974,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "五角星发光": {
+      "slotName": "五角星发光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,213 @@
+portrait1004.png
+size:120,921
+filter:Linear,Linear
+scale:0.1
+AAA棕色
+bounds:1,655,111,111
+AAA白色
+bounds:1,768,117,117
+E图层 1343
+bounds:46,268,70,22
+offsets:4,4,78,30
+rotate:180
+E眉毛
+bounds:1,893,59,7
+offsets:5,5,69,16
+E眼珠
+bounds:1,139,46,17
+offsets:4,4,54,26
+rotate:90
+E眼白
+bounds:1,186,55,20
+offsets:4,4,64,29
+rotate:90
+E眼皮
+bounds:62,885,35,5
+offsets:4,4,44,13
+rotate:270
+E眼角
+bounds:2,901,59,11
+offsets:5,4,68,20
+rotate:180
+E眼镜
+bounds:4,289,70,22
+offsets:4,4,78,30
+E睫毛
+bounds:1,912,62,8
+offsets:4,4,70,17
+E脸
+bounds:39,496,77,57
+offsets:4,4,85,65
+E高光
+bounds:19,888,40,4
+offsets:4,5,49,13
+F叹气
+bounds:75,305,37,36
+F大汗
+bounds:69,893,25,50
+rotate:90
+F惊叹号
+bounds:79,166,22,37
+rotate:90
+F无语
+bounds:76,397,42,19
+F竖线
+bounds:1,21,19,23
+F问号
+bounds:20,168,26,35
+HL思考 左
+bounds:1,89,43,17
+offsets:4,4,51,25
+HL拍手 左
+bounds:24,29,42,19
+offsets:4,4,50,27
+HL摊手 左
+bounds:77,109,40,30
+offsets:4,4,48,38
+HL撑手 左
+bounds:34,48,36,31
+offsets:4,4,44,39
+rotate:90
+HL深沉 左
+bounds:29,118,32,37
+offsets:4,4,40,46
+rotate:270
+HL环抱 左
+bounds:55,92,41,22
+offsets:4,4,49,30
+HR思考 右
+bounds:75,60,19,38
+offsets:4,4,27,46
+rotate:270
+HR扶眼镜 右
+bounds:96,550,23,42
+offsets:4,4,32,49
+HR拍手 右
+bounds:94,189,23,22
+offsets:4,4,35,30
+HR指手 右
+bounds:44,69,30,33
+offsets:4,4,43,41
+rotate:180
+HR摊手 右
+bounds:65,36,34,29
+offsets:4,4,42,37
+HR撑手 右
+bounds:96,32,23,29
+offsets:4,4,31,37
+HR深沉 右
+bounds:90,79,27,38
+offsets:4,4,37,47
+HR环抱 右
+bounds:97,610,43,22
+offsets:4,4,51,34
+rotate:270
+L左后指
+bounds:64,2,10,9
+offsets:4,3,18,15
+L左指1
+bounds:9,886,9,6
+offsets:4,4,18,14
+L左指2
+bounds:74,1,11,5
+offsets:4,4,19,13
+L拍手 左手掌后
+bounds:106,73,12,8
+offsets:4,4,21,16
+M嘲讽  嘴巴
+bounds:106,83,12,3
+offsets:5,5,22,13
+M微笑 嘴巴
+bounds:1,899,10,2
+offsets:5,5,20,12
+M惊讶  嘴巴
+bounds:110,9,9,3
+offsets:5,5,18,13
+M生气 嘴巴
+bounds:23,3,19,12
+M说话 嘴巴
+bounds:86,2,7,4
+offsets:5,5,17,14
+M面无表情 嘴吧
+bounds:44,4,18,11
+R右指1
+bounds:106,239,11,9
+offsets:4,4,19,17
+R右指2
+bounds:105,211,12,9
+offsets:4,3,20,16
+R拍手 右手掌后
+bounds:97,2,13,9
+offsets:4,4,21,18
+发1
+bounds:1,312,36,63
+offsets:3,4,43,71
+rotate:270
+发10
+bounds:55,418,63,72
+offsets:0,3,67,78
+发11
+bounds:12,380,63,75
+offsets:3,3,69,81
+rotate:90
+发12
+bounds:1,344,63,62
+offsets:3,4,69,69
+发2
+bounds:62,7,16,43
+offsets:4,4,24,51
+rotate:270
+发3
+bounds:1,237,47,52
+offsets:4,4,55,59
+发4
+bounds:1,1,21,17
+offsets:4,3,29,24
+发5
+bounds:57,337,57,61
+offsets:4,4,63,68
+rotate:270
+发6
+bounds:1,104,57,32
+offsets:4,4,65,40
+发7
+bounds:80,138,22,38
+offsets:4,4,30,46
+rotate:90
+发9
+bounds:46,184,70,54
+offsets:3,3,76,59
+右大臂
+bounds:101,418,18,29
+offsets:4,4,26,37
+后脑勺
+bounds:1,550,104,103
+offsets:2,1,108,106
+围巾
+bounds:32,143,52,29
+offsets:3,3,58,35
+围巾 摆
+bounds:1,62,33,27
+offsets:4,4,41,35
+围巾装饰
+bounds:101,14,17,21
+offsets:4,4,26,29
+头发阴影
+bounds:61,234,48,34
+offsets:4,2,52,40
+左大臂
+bounds:1,45,18,36
+offsets:4,4,26,44
+rotate:90
+左大臂 修正
+bounds:62,16,29,32
+offsets:2,4,34,40
+rotate:90
+身体
+bounds:1,435,80,77
+offsets:3,3,86,84
+rotate:270
+鬓发
+bounds:22,17,12,34
+offsets:5,4,22,43
+rotate:90
