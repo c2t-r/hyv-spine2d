@@ -1,0 +1,127 @@
+{
+  "skeleton": {
+    "hash": "JryCyYSvhtw",
+    "spine": "4.2.33",
+    "x": -18.1,
+    "y": -14.75,
+    "width": 35.57,
+    "height": 29.58
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "图层 1",
+      "parent": "root",
+      "x": -4.68,
+      "y": 1.14
+    },
+    {
+      "name": "loading_star",
+      "parent": "root",
+      "x": 14.5,
+      "y": -11.09
+    }
+  ],
+  "slots": [
+    {
+      "name": "loading_star",
+      "bone": "loading_star",
+      "attachment": "loading_star"
+    },
+    {
+      "name": "图层 1",
+      "bone": "图层 1",
+      "attachment": "图层 1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_star": {
+          "loading_star": {
+            "x": -0.53,
+            "y": -0.16,
+            "width": 7,
+            "height": 7
+          }
+        },
+        "图层 1": {
+          "图层 1": {
+            "x": -0.42,
+            "y": 1.19,
+            "width": 26,
+            "height": 25
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "图层 1": {
+      "rootBoneName": "图层 1",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 2,
+          "moveXAmp": 15,
+          "moveXOctaves": 1,
+          "moveXDelay": -1,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 25,
+          "moveYOctaves": 1,
+          "moveYDelay": 42,
+          "moveYCenter": 0,
+          "scaleXFreq": 0.25,
+          "scaleXAmp": 0.2,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "loading_star": {
+      "rootBoneName": "loading_star",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 2,
+          "moveXAmp": 9,
+          "moveXOctaves": 1,
+          "moveXDelay": -1.2000000000000002,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 17.5,
+          "moveYOctaves": 1,
+          "moveYDelay": 41.5,
+          "moveYCenter": 0,
+          "scaleXFreq": 0.25,
+          "scaleXAmp": 0.15,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -0.6371523136351044,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "skeleton": {
+    "hash": "PHfy684uDUY",
+    "spine": "4.2.33",
+    "x": -104.43,
+    "y": -72.14,
+    "width": 208,
+    "height": 146
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 54.96,
+      "y": -123.97
+    },
+    {
+      "name": "三角2",
+      "parent": "bone",
+      "length": 129.45,
+      "rotation": 158.06,
+      "x": -37.34,
+      "y": 138.78
+    },
+    {
+      "name": "三角1",
+      "parent": "bone",
+      "length": 30.5,
+      "rotation": 98.58,
+      "x": 6.48,
+      "y": 166.09
+    }
+  ],
+  "slots": [
+    {
+      "name": "三角1",
+      "bone": "三角1",
+      "attachment": "三角1"
+    },
+    {
+      "name": "三角2",
+      "bone": "三角2",
+      "attachment": "三角2"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "三角1": {
+          "三角1": {
+            "x": -4.71,
+            "y": -6,
+            "rotation": -98.58,
+            "width": 37,
+            "height": 71
+          }
+        },
+        "三角2": {
+          "三角2": {
+            "x": 9.66,
+            "y": 24.32,
+            "rotation": -158.06,
+            "width": 208,
+            "height": 136
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "三角2": {
+      "rootBoneName": "三角2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 6,
+          "moveXAmp": 29.5,
+          "moveXOctaves": 1,
+          "moveXDelay": -1.7812506408639739,
+          "moveXCenter": -9,
+          "moveYFreq": 6,
+          "moveYAmp": 14.5,
+          "moveYOctaves": 0,
+          "moveYDelay": 3.9790283061637264,
+          "moveYCenter": 0,
+          "scaleXFreq": 6,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 5.012244913550456,
+          "scaleXCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 7.5,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.11503026797135249
+        }
+      }
+    },
+    "三角1": {
+      "rootBoneName": "三角1",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 6,
+          "moveXAmp": 29.5,
+          "moveXOctaves": 1,
+          "moveXDelay": -2.670584966939879,
+          "moveXCenter": 0,
+          "moveYFreq": 6,
+          "moveYAmp": 14.5,
+          "moveYOctaves": 0,
+          "moveYDelay": 6.15326855365012,
+          "moveYCenter": 0,
+          "scaleXFreq": 6,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 7.833468172210175,
+          "scaleXCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 7.5,
+          "rotateOctaves": 0,
+          "rotateDelay": 3.7530002155369035
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

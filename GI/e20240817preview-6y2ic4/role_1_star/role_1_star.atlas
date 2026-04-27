@@ -1,0 +1,10 @@
+role_1_star.png
+size:126,71
+filter:Linear,Linear
+scale:0.5
+星星1
+bounds:76,12,48,57
+offsets:0,1,48,59
+星星2
+bounds:2,2,67,72
+rotate:90

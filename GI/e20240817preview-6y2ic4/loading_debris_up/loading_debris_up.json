@@ -1,0 +1,84 @@
+{
+  "skeleton": {
+    "hash": "DysZzsCd0uk",
+    "spine": "4.2.33",
+    "x": -70,
+    "y": -47,
+    "width": 140,
+    "height": 94
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "loading_debris_up",
+      "parent": "root",
+      "length": 108.72,
+      "rotation": -27.09,
+      "x": -5.44,
+      "y": -7.72
+    }
+  ],
+  "slots": [
+    {
+      "name": "loading_debris_up",
+      "bone": "loading_debris_up",
+      "attachment": "loading_debris_up"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_debris_up": {
+          "loading_debris_up": {
+            "x": 1.32,
+            "y": 9.35,
+            "rotation": 27.09,
+            "width": 140,
+            "height": 94
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "loading_debris_up": {
+      "rootBoneName": "loading_debris_up",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 48.5,
+          "moveXOctaves": 1,
+          "moveXDelay": 1.3066249943001975,
+          "moveXCenter": -33,
+          "moveYFreq": 10,
+          "moveYAmp": 23.5,
+          "moveYOctaves": 0,
+          "moveYDelay": 39.13987710004415,
+          "moveYCenter": -3,
+          "scaleXFreq": 10,
+          "scaleXAmp": 0.2,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -1.4739795121939534,
+          "scaleXCenter": 0,
+          "rotateSpeed": 0.05
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
