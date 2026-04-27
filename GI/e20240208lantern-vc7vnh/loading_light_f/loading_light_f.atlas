@@ -1,0 +1,7 @@
+loading_light_f.png
+	size: 77, 88
+	filter: Linear, Linear
+	scale: 0.6
+loading_light_f
+	bounds: 2, 2, 71, 83
+	offsets: 6, 8, 85, 97

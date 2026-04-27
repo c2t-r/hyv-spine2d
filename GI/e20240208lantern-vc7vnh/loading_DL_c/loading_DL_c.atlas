@@ -1,0 +1,8 @@
+loading_DL_c.png
+	size: 78, 64
+	filter: Linear, Linear
+	scale: 0.6
+loading_DL_c
+	bounds: 2, 2, 57, 63
+	offsets: 8, 8, 73, 79
+	rotate: 90

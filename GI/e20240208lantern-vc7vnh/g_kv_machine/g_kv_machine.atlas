@@ -1,0 +1,15 @@
+g_kv_machine.png
+	size: 256, 256
+	filter: Linear, Linear
+gongju_1
+	bounds: 136, 23, 51, 51
+	offsets: 4, 4, 59, 59
+gongju_2
+	bounds: 189, 36, 35, 38
+	offsets: 4, 4, 43, 46
+gongju_3
+	bounds: 2, 2, 132, 162
+	offsets: 4, 4, 140, 170
+gongju_4
+	bounds: 136, 76, 88, 88
+	offsets: 4, 4, 96, 96

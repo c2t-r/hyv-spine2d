@@ -1,0 +1,27 @@
+g_kv_yanzi.png
+	size: 32, 128
+	filter: Linear, Linear
+	scale: 0.53
+图层 1
+	bounds: 2, 2, 9, 5
+	offsets: 2, 2, 13, 9
+图层 2
+	bounds: 2, 54, 27, 24
+	offsets: 0, 0, 28, 24
+图层 3
+	bounds: 7, 39, 23, 19
+	offsets: 1, 1, 24, 21
+	rotate: 180
+图层 4
+	bounds: 7, 25, 23, 14
+	offsets: 1, 1, 25, 15
+	rotate: 180
+图层 5
+	bounds: 2, 16, 20, 10
+	offsets: 0, 1, 21, 12
+图层 6
+	bounds: 13, 5, 17, 12
+	offsets: 0, 1, 17, 14
+图层 7
+	bounds: 2, 9, 8, 6
+	offsets: 2, 2, 13, 10

@@ -1,0 +1,3 @@
+# Dancing Beasts and Soaring Kites — Genshin Impact
+
+<https://act.hoyoverse.com/ys/event/e20240208lantern-vc7vnh/index.html>

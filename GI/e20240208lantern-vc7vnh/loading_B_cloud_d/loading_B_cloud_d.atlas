@@ -1,0 +1,7 @@
+loading_B_cloud_d.png
+	size: 256, 128
+	filter: Linear, Linear
+	scale: 0.6
+loading_B_cloud_d
+	bounds: 2, 2, 244, 123
+	offsets: 0, 2, 244, 128

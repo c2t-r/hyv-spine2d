@@ -1,0 +1,7 @@
+loading_A_cloud_a.png
+	size: 420, 112
+	filter: Linear, Linear
+	scale: 0.6
+loading_A_cloud_a
+	bounds: 2, 2, 418, 108
+	offsets: 0, 2, 434, 110

@@ -1,0 +1,7 @@
+loading_light_c.png
+	size: 41, 51
+	filter: Linear, Linear
+	scale: 0.6
+loading_light_c
+	bounds: 2, 2, 37, 47
+	offsets: 6, 7, 49, 59

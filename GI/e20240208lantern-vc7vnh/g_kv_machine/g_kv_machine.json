@@ -1,0 +1,141 @@
+{
+  "skeleton": {
+    "hash": "6pCSnEFSJ5A",
+    "spine": "4.2.09-beta",
+    "x": -90,
+    "y": -84.5,
+    "width": 181,
+    "height": 170
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "gongju_3",
+      "parent": "root",
+      "length": 100,
+      "x": -75.59,
+      "y": -72.44
+    },
+    {
+      "name": "gongju_1",
+      "parent": "gongju_3",
+      "x": 19.41,
+      "y": 58.32
+    },
+    {
+      "name": "gongju_2",
+      "parent": "gongju_3",
+      "x": 58.78,
+      "y": 45.33
+    },
+    {
+      "name": "gongju_4",
+      "parent": "gongju_3",
+      "x": 118.81,
+      "y": 44.29
+    }
+  ],
+  "slots": [
+    {
+      "name": "gongju_4",
+      "bone": "gongju_4",
+      "attachment": "gongju_4"
+    },
+    {
+      "name": "gongju_3",
+      "bone": "gongju_3",
+      "attachment": "gongju_3"
+    },
+    {
+      "name": "gongju_2",
+      "bone": "gongju_2",
+      "attachment": "gongju_2"
+    },
+    {
+      "name": "gongju_1",
+      "bone": "gongju_1",
+      "attachment": "gongju_1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "gongju_1": {
+          "gongju_1": {
+            "x": -0.32,
+            "y": 0.12,
+            "width": 59,
+            "height": 59
+          }
+        },
+        "gongju_2": {
+          "gongju_2": {
+            "x": 0.31,
+            "y": -0.38,
+            "width": 43,
+            "height": 46
+          }
+        },
+        "gongju_3": {
+          "gongju_3": {
+            "x": 55.59,
+            "y": 72.94,
+            "width": 140,
+            "height": 170
+          }
+        },
+        "gongju_4": {
+          "gongju_4": {
+            "x": -0.22,
+            "y": -0.35,
+            "width": 96,
+            "height": 96
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "gongju_4": {
+      "rootBoneName": "gongju_4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "rotateSpeed": -0.033
+        }
+      }
+    },
+    "gongju_1": {
+      "rootBoneName": "gongju_1",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "rotateSpeed": -0.049,
+          "rotateCenter": 24
+        }
+      }
+    },
+    "gongju_2": {
+      "rootBoneName": "gongju_2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "rotateSpeed": 0.08
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

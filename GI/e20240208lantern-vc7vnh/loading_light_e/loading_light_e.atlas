@@ -1,0 +1,8 @@
+loading_light_e.png
+	size: 84, 64
+	filter: Linear, Linear
+	scale: 0.6
+loading_light_e
+	bounds: 2, 2, 49, 63
+	offsets: 6, 6, 61, 75
+	rotate: 90

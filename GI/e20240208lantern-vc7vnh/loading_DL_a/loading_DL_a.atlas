@@ -1,0 +1,7 @@
+loading_DL_a.png
+	size: 32, 43
+	filter: Linear, Linear
+	scale: 0.6
+loading_DL_a
+	bounds: 2, 2, 25, 39
+	offsets: 7, 8, 39, 55

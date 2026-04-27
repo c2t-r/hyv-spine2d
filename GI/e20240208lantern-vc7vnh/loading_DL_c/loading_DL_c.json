@@ -1,0 +1,85 @@
+{
+  "skeleton": {
+    "hash": "TjzQf2i8J5Q",
+    "spine": "4.2.09-beta",
+    "x": -61,
+    "y": -65,
+    "width": 122,
+    "height": 131
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "loading_DL_c",
+      "parent": "root",
+      "x": -4.66,
+      "y": 69.92
+    },
+    {
+      "name": "loading_DL_c2",
+      "parent": "loading_DL_c",
+      "length": 61.83,
+      "rotation": -87.7,
+      "x": 3.31,
+      "y": -43.3
+    }
+  ],
+  "slots": [
+    {
+      "name": "loading_DL_c",
+      "bone": "loading_DL_c2",
+      "attachment": "loading_DL_c"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_DL_c": {
+          "loading_DL_c": {
+            "x": 26.16,
+            "y": 0.3,
+            "rotation": 87.7,
+            "width": 122,
+            "height": 131
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "loading_DL_c2": {
+      "rootBoneName": "loading_DL_c2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 3.809345153908603,
+          "moveXCenter": 0,
+          "moveXSeed": 4153.334408788651,
+          "scaleXFreq": 10,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 2.1691957317128643,
+          "scaleXCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 6,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.19084657801684937
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
