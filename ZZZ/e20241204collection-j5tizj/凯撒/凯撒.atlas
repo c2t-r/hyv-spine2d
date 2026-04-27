@@ -1,0 +1,185 @@
+凯撒.png
+size:240,594
+filter:Linear,Linear
+scale:0.2
+arm-L _1-1
+bounds:0,74,62,59
+arm-L _1-2
+bounds:131,53,51,53
+rotate:180
+arm-L _10
+bounds:0,117,82,57
+arm-L _11
+bounds:0,523,71,67
+rotate:90
+arm-L _12
+bounds:190,2,22,16
+arm-L _13
+bounds:94,116,91,114
+rotate:90
+arm-L _2
+bounds:35,22,51,46
+arm-L _3
+bounds:214,283,25,17
+arm-L _4
+bounds:31,2,29,9
+offsets:0,1,29,10
+arm-L _5
+bounds:212,2,24,11
+arm-L _6
+bounds:82,16,45,28
+offsets:0,5,45,33
+rotate:180
+arm-L _7
+bounds:157,554,29,12
+arm-L _8
+bounds:125,491,15,14
+arm-L _9
+bounds:128,15,39,39
+arm-R_1
+bounds:0,403,156,191
+arm-R_2
+bounds:62,75,68,40
+arm-R_3
+bounds:209,148,31,46
+arm-R_4
+bounds:221,77,14,29
+arm-R_5
+bounds:214,195,26,20
+arm-R_6
+bounds:86,39,44,52
+rotate:90
+arm-R_7
+bounds:162,534,60,72
+rotate:90
+arm-R_8
+bounds:116,116,37,95
+rotate:90
+arm-R_9
+bounds:88,201,43,125
+offsets:0,0,52,125
+rotate:90
+body_1
+bounds:142,439,114,68
+rotate:90
+body_2
+bounds:0,308,99,123
+rotate:90
+body_3
+bounds:58,395,23,16
+body_4
+bounds:126,1,40,20
+offsets:3,0,43,20
+body_5
+bounds:185,38,53,42
+rotate:180
+body_6
+bounds:0,235,78,73
+offsets:2,0,80,73
+eye-L_1
+bounds:0,554,3,3
+eye-L_2
+bounds:29,586,3,5
+eye-L_3
+bounds:11,564,3,2
+eye-L_4
+bounds:47,539,18,14
+eye-L_5
+bounds:14,573,5,8
+eye-L_6
+bounds:52,545,7,10
+eye-L_7
+bounds:9,557,7,6
+eye-L_8
+bounds:67,583,13,11
+eye-R_1
+bounds:14,592,3,2
+eye-R_2
+bounds:61,564,10,5
+eye-R_3
+bounds:0,549,4,4
+eye-R_4
+bounds:61,587,5,7
+eye-R_5
+bounds:20,578,1,1
+eye-R_6
+bounds:29,593,2,1
+eye-R_7
+bounds:11,593,2,1
+eye-R_8
+bounds:58,556,8,6
+eyebrow_1
+bounds:68,579,11,3
+eyebrow_2
+bounds:12,568,16,17
+hair1_1
+bounds:164,74,73,72
+rotate:270
+hair1_2
+bounds:30,510,13,9
+hair1_3
+bounds:0,0,28,56
+rotate:90
+hair1_4
+bounds:0,466,32,57
+hair1_5
+bounds:189,15,22,48
+rotate:270
+hair2_1
+bounds:214,561,25,31
+hair2_2
+bounds:72,1,18,53
+rotate:90
+hair2_3
+bounds:190,509,33,44
+rotate:90
+head_1-1
+bounds:68,575,6,3
+head_1-2
+bounds:18,586,10,8
+head_1-3
+bounds:160,249,55,63
+rotate:180
+head_1-4
+bounds:161,6,29,30
+head_2
+bounds:224,378,16,38
+head_3
+bounds:70,405,30,39
+rotate:180
+head_4
+bounds:80,232,92,86
+rotate:90
+head_5
+bounds:0,26,51,69
+rotate:270
+head_6
+bounds:0,552,18,42
+lower body_1
+bounds:112,451,40,40
+rotate:90
+lower body_2
+bounds:198,417,101,42
+rotate:270
+lower body_3
+bounds:181,309,129,51
+rotate:270
+lower body_4
+bounds:0,175,81,67
+rotate:180
+lower body_5
+bounds:203,217,35,61
+lower body_6
+bounds:97,299,160,106
+rotate:270
+mouth_1
+bounds:32,523,9,4
+mouth_2
+bounds:63,568,9,5
+mouth_3
+bounds:19,581,5,4
+nose
+bounds:0,515,6,10
+tou_shadow5
+bounds:224,475,16,34
+rotate:180
