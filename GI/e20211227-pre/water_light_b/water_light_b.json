@@ -1,0 +1,69 @@
+{
+  "skeleton": {
+    "hash": "YE0WZyLBxVk",
+    "spine": "4.0.33",
+    "x": -89.5,
+    "y": -61,
+    "width": 179,
+    "height": 122
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "water_light_b",
+      "bone": "bone",
+      "attachment": "water_light_b"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "water_light_b": {
+          "water_light_b": {
+            "width": 179,
+            "height": 122
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "bone": {
+      "rootBoneName": "bone",
+      "endBoneName": "",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 8,
+          "moveXAmp": 6,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 4,
+          "moveYAmp": 2.5,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "rotateFreq": 4,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 0,
+          "rotateCenter": 0
+        }
+      }
+    }
+  }
+}
