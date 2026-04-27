@@ -1,0 +1,22 @@
+Bird.png
+	size: 300, 60
+	filter: Linear, Linear
+燕子1
+	bounds: 6, 6, 47, 45
+	offsets: 1, 2, 49, 49
+燕子1阴影
+	bounds: 110, 7, 45, 44
+	offsets: 2, 3, 49, 50
+燕子2
+	bounds: 161, 7, 45, 44
+	offsets: 2, 2, 49, 48
+燕子2阴影
+	bounds: 59, 6, 45, 45
+	offsets: 2, 1, 49, 48
+燕子3
+	bounds: 257, 13, 38, 37
+	offsets: 2, 2, 42, 41
+	rotate: 90
+燕子3阴影
+	bounds: 212, 13, 39, 38
+	offsets: 1, 2, 42, 42
