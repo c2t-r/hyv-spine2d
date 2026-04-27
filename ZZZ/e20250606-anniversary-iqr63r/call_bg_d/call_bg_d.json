@@ -1,0 +1,145 @@
+{
+  "skeleton": {
+    "hash": "2Nn73lTz+GM",
+    "spine": "4.2.40",
+    "x": -823,
+    "y": -343.33,
+    "width": 1667.03,
+    "height": 399.53
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "call_jiaojuan",
+      "parent": "root",
+      "length": 322.38,
+      "rotation": 12.19,
+      "x": -35.04,
+      "y": -167.12
+    },
+    {
+      "name": "call_jiaojuan4",
+      "parent": "call_jiaojuan"
+    },
+    {
+      "name": "call_jiaojuan2",
+      "parent": "call_jiaojuan4",
+      "rotation": 0.07,
+      "x": -376.11,
+      "y": 1.16
+    },
+    {
+      "name": "call_jiaojuan3",
+      "parent": "call_jiaojuan4",
+      "rotation": 0.07,
+      "x": 437.36,
+      "y": 2.19
+    }
+  ],
+  "slots": [
+    {
+      "name": "call_bg_c_temp",
+      "bone": "root"
+    },
+    {
+      "name": "call_bg_c",
+      "bone": "root",
+      "attachment": "call_bg_d"
+    },
+    {
+      "name": "call_jiaojuan",
+      "bone": "call_jiaojuan2",
+      "attachment": "call_jiaojuan"
+    },
+    {
+      "name": "call_jiaojuan2",
+      "bone": "call_jiaojuan3",
+      "attachment": "call_jiaojuan"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "call_bg_c": {
+          "call_bg_d": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0.98078,
+              1,
+              0.41122,
+              1,
+              1,
+              0,
+              1
+            ],
+            "triangles": [
+              2,
+              3,
+              0,
+              2,
+              0,
+              1
+            ],
+            "vertices": [
+              -823,
+              -304.33,
+              823,
+              56.2,
+              823,
+              -316.5,
+              -823,
+              -316.5
+            ],
+            "hull": 4
+          }
+        },
+        "call_jiaojuan": {
+          "call_jiaojuan": {
+            "x": 42.91,
+            "y": -1.24,
+            "width": 831,
+            "height": 36
+          }
+        },
+        "call_jiaojuan2": {
+          "call_jiaojuan": {
+            "x": 42.91,
+            "y": -1.24,
+            "width": 831,
+            "height": 36
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "call_jiaojuan2": {
+          "translate": [
+            {},
+            {
+              "time": 1,
+              "x": 118.39,
+              "y": 0.15
+            }
+          ]
+        },
+        "call_jiaojuan3": {
+          "translate": [
+            {},
+            {
+              "time": 1,
+              "x": 118.39,
+              "y": 0.15
+            }
+          ]
+        }
+      }
+    }
+  }
+}

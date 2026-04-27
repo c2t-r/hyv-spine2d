@@ -1,0 +1,1403 @@
+{
+  "skeleton": {
+    "hash": "uNnTGmR2yyI",
+    "spine": "4.2.40",
+    "x": -1459.56,
+    "y": -616.96,
+    "width": 2753.3,
+    "height": 1639.93
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "index_jiangbei",
+      "parent": "root",
+      "x": -15.68,
+      "y": -381.02
+    },
+    {
+      "name": "光",
+      "parent": "index_jiangbei",
+      "x": 11.99,
+      "y": 621.86
+    },
+    {
+      "name": "大光光",
+      "parent": "光",
+      "length": 189.68,
+      "rotation": -25.86,
+      "x": -0.52,
+      "y": -15.82,
+      "scaleX": 0.7458,
+      "scaleY": 0.7308,
+      "inherit": "noScale"
+    },
+    {
+      "name": "c光",
+      "parent": "光",
+      "length": 165.49,
+      "rotation": 134.33,
+      "x": -35.25,
+      "y": 6.59,
+      "inherit": "noScale"
+    },
+    {
+      "name": "ba",
+      "parent": "光",
+      "length": 193.82,
+      "rotation": -163.36,
+      "x": -67.48,
+      "y": -53.01,
+      "inherit": "noScale"
+    },
+    {
+      "name": "aa",
+      "parent": "光",
+      "length": 305.15,
+      "rotation": 8.71,
+      "x": 2.51,
+      "y": 10.6,
+      "inherit": "noScale"
+    },
+    {
+      "name": "圈2",
+      "parent": "光"
+    },
+    {
+      "name": "大光光wiggle",
+      "parent": "大光光"
+    },
+    {
+      "name": "ba2",
+      "parent": "ba"
+    },
+    {
+      "name": "bb",
+      "parent": "ba2",
+      "x": 695.67,
+      "y": -2.51
+    },
+    {
+      "name": "wiggle",
+      "parent": "aa"
+    },
+    {
+      "name": "ab",
+      "parent": "wiggle",
+      "x": 497.65,
+      "y": -1.59
+    },
+    {
+      "name": "ac光",
+      "parent": "wiggle",
+      "x": 558.33,
+      "y": -0.52
+    },
+    {
+      "name": "c光wiggle",
+      "parent": "c光"
+    },
+    {
+      "name": "大光光2",
+      "parent": "光",
+      "length": 189.68,
+      "rotation": -116.57,
+      "x": -66.64,
+      "y": -87.14,
+      "scaleX": 0.5208,
+      "scaleY": 0.7683,
+      "inherit": "noScale"
+    },
+    {
+      "name": "大光光wiggle2",
+      "parent": "大光光2"
+    },
+    {
+      "name": "大光光3",
+      "parent": "光",
+      "length": 189.68,
+      "rotation": -205.93,
+      "x": -51.87,
+      "y": -22.02,
+      "scaleX": 0.7056,
+      "scaleY": 0.6914,
+      "inherit": "noScale"
+    },
+    {
+      "name": "大光光wiggle3",
+      "parent": "大光光3"
+    },
+    {
+      "name": "大光光4",
+      "parent": "光",
+      "length": 189.68,
+      "rotation": -316.18,
+      "x": 27.8,
+      "y": 14.28,
+      "scaleX": 0.6708,
+      "scaleY": 0.4661,
+      "inherit": "noScale"
+    },
+    {
+      "name": "大光光wiggle4",
+      "parent": "大光光4"
+    }
+  ],
+  "slots": [
+    {
+      "name": "aa光",
+      "bone": "wiggle",
+      "attachment": "aa光",
+      "blend": "additive"
+    },
+    {
+      "name": "aa",
+      "bone": "wiggle",
+      "attachment": "aa"
+    },
+    {
+      "name": "ac光",
+      "bone": "ac光",
+      "attachment": "ac光",
+      "blend": "additive"
+    },
+    {
+      "name": "ac",
+      "bone": "ac光",
+      "attachment": "ac"
+    },
+    {
+      "name": "ab光",
+      "bone": "ab",
+      "attachment": "ab光",
+      "blend": "additive"
+    },
+    {
+      "name": "ab",
+      "bone": "ab",
+      "attachment": "ab"
+    },
+    {
+      "name": "ba光",
+      "bone": "ba2",
+      "attachment": "ba光",
+      "blend": "additive"
+    },
+    {
+      "name": "ba",
+      "bone": "ba2",
+      "attachment": "ba"
+    },
+    {
+      "name": "bb光",
+      "bone": "bb",
+      "attachment": "bb光",
+      "blend": "additive"
+    },
+    {
+      "name": "bb",
+      "bone": "bb",
+      "attachment": "bb"
+    },
+    {
+      "name": "c光",
+      "bone": "c光wiggle",
+      "attachment": "c光",
+      "blend": "additive"
+    },
+    {
+      "name": "c",
+      "bone": "c光wiggle",
+      "attachment": "c"
+    },
+    {
+      "name": "大光光",
+      "bone": "大光光wiggle",
+      "attachment": "大光光",
+      "blend": "additive"
+    },
+    {
+      "name": "大光光3",
+      "bone": "大光光wiggle3",
+      "attachment": "大光光",
+      "blend": "additive"
+    },
+    {
+      "name": "大光光4",
+      "bone": "大光光wiggle4",
+      "attachment": "大光光",
+      "blend": "additive"
+    },
+    {
+      "name": "大光光2",
+      "bone": "大光光wiggle2",
+      "attachment": "大光光",
+      "blend": "additive"
+    },
+    {
+      "name": "大光",
+      "bone": "大光光wiggle",
+      "attachment": "大光"
+    },
+    {
+      "name": "大光3",
+      "bone": "大光光wiggle3",
+      "attachment": "大光"
+    },
+    {
+      "name": "大光4",
+      "bone": "大光光wiggle4",
+      "attachment": "大光"
+    },
+    {
+      "name": "大光2",
+      "bone": "大光光wiggle2",
+      "attachment": "大光"
+    },
+    {
+      "name": "圈光",
+      "bone": "圈2",
+      "attachment": "圈光",
+      "blend": "additive"
+    },
+    {
+      "name": "圈",
+      "bone": "圈2",
+      "attachment": "圈"
+    },
+    {
+      "name": "index_jiangbei",
+      "bone": "index_jiangbei",
+      "attachment": "index_jiangbei"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "aa": {
+          "aa": {
+            "x": 277.66,
+            "y": -1.28,
+            "width": 353,
+            "height": 35
+          }
+        },
+        "aa光": {
+          "aa光": {
+            "x": 277.66,
+            "y": -1.28,
+            "width": 425,
+            "height": 115
+          }
+        },
+        "ab": {
+          "ab": {
+            "x": 1,
+            "y": 0.3,
+            "width": 73,
+            "height": 35
+          }
+        },
+        "ab光": {
+          "ab光": {
+            "x": 1,
+            "y": 0.3,
+            "width": 145,
+            "height": 113
+          }
+        },
+        "ac": {
+          "ac": {
+            "x": 367.83,
+            "y": -0.77,
+            "width": 762,
+            "height": 35
+          }
+        },
+        "ac光": {
+          "ac光": {
+            "x": 298.33,
+            "y": -0.77,
+            "width": 695,
+            "height": 115
+          }
+        },
+        "ba": {
+          "ba": {
+            "x": 260.6,
+            "y": -0.8,
+            "width": 353,
+            "height": 35
+          }
+        },
+        "ba光": {
+          "ba光": {
+            "x": 260.6,
+            "y": -0.8,
+            "width": 425,
+            "height": 115
+          }
+        },
+        "bb": {
+          "bb": {
+            "x": 237.98,
+            "y": 1.71,
+            "width": 518,
+            "height": 35
+          }
+        },
+        "bb光": {
+          "bb光": {
+            "x": 339.48,
+            "y": 1.71,
+            "width": 793,
+            "height": 115
+          }
+        },
+        "c": {
+          "c": {
+            "x": 317.18,
+            "y": -0.28,
+            "width": 594,
+            "height": 25
+          }
+        },
+        "c光": {
+          "c光": {
+            "x": 317.18,
+            "y": -0.28,
+            "width": 660,
+            "height": 105
+          }
+        },
+        "index_jiangbei": {
+          "index_jiangbei": {
+            "x": 15.68,
+            "y": 381.02,
+            "width": 373,
+            "height": 786
+          }
+        },
+        "圈": {
+          "圈": {
+            "width": 407,
+            "height": 351
+          }
+        },
+        "圈光": {
+          "圈光": {
+            "width": 485,
+            "height": 429
+          }
+        },
+        "大光": {
+          "大光": {
+            "x": 773.65,
+            "y": -21.69,
+            "width": 1608,
+            "height": 252
+          }
+        },
+        "大光2": {
+          "大光": {
+            "x": 773.65,
+            "y": -21.69,
+            "width": 1608,
+            "height": 252
+          }
+        },
+        "大光3": {
+          "大光": {
+            "x": 773.65,
+            "y": -21.69,
+            "width": 1608,
+            "height": 252
+          }
+        },
+        "大光4": {
+          "大光": {
+            "x": 773.65,
+            "y": -21.69,
+            "width": 1608,
+            "height": 252
+          }
+        },
+        "大光光": {
+          "大光光": {
+            "x": 687.65,
+            "y": -17.69,
+            "width": 1508,
+            "height": 284
+          }
+        },
+        "大光光2": {
+          "大光光": {
+            "x": 687.65,
+            "y": -17.69,
+            "width": 1508,
+            "height": 284
+          }
+        },
+        "大光光3": {
+          "大光光": {
+            "x": 687.65,
+            "y": -17.69,
+            "width": 1508,
+            "height": 284
+          }
+        },
+        "大光光4": {
+          "大光光": {
+            "x": 687.65,
+            "y": -17.69,
+            "width": 1508,
+            "height": 284
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "in": {
+      "bones": {
+        "index_jiangbei": {
+          "scalex": [
+            {
+              "value": 0.082,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "value": 0.082,
+              "curve": [
+                0.142,
+                0.082,
+                0.242,
+                1.1
+              ]
+            },
+            {
+              "time": 0.3667,
+              "value": 1.1,
+              "curve": [
+                0.491,
+                1.1,
+                0.55,
+                0.961
+              ]
+            },
+            {
+              "time": 0.6333,
+              "value": 0.961,
+              "curve": [
+                0.733,
+                0.961,
+                0.833,
+                1.025
+              ]
+            },
+            {
+              "time": 0.9333,
+              "value": 1.025,
+              "curve": [
+                1.067,
+                1.025,
+                1.2,
+                1
+              ]
+            },
+            {
+              "time": 1.3333
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.082,
+              "curve": [
+                0.075,
+                0.082,
+                0.175,
+                1.1
+              ]
+            },
+            {
+              "time": 0.3,
+              "value": 1.1,
+              "curve": [
+                0.425,
+                1.1,
+                0.483,
+                0.961
+              ]
+            },
+            {
+              "time": 0.5667,
+              "value": 0.961,
+              "curve": [
+                0.667,
+                0.961,
+                0.767,
+                1.025
+              ]
+            },
+            {
+              "time": 0.8667,
+              "value": 1.025,
+              "curve": [
+                1,
+                1.025,
+                1.133,
+                1
+              ]
+            },
+            {
+              "time": 1.2667
+            }
+          ]
+        },
+        "c光": {
+          "scalex": [
+            {
+              "value": 0.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": 0.05,
+              "curve": [
+                0.384,
+                0.05,
+                0.449,
+                1.067
+              ]
+            },
+            {
+              "time": 0.5,
+              "value": 1.067,
+              "curve": [
+                0.578,
+                1.067,
+                0.689,
+                0.97
+              ]
+            },
+            {
+              "time": 0.7667,
+              "value": 0.97,
+              "curve": [
+                0.878,
+                0.97,
+                0.989,
+                1
+              ]
+            },
+            {
+              "time": 1.1
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "value": 0.1,
+              "curve": [
+                0.451,
+                0.1,
+                0.516,
+                1.159
+              ]
+            },
+            {
+              "time": 0.5667,
+              "value": 1.159,
+              "curve": [
+                0.644,
+                1.159,
+                0.756,
+                0.945
+              ]
+            },
+            {
+              "time": 0.8333,
+              "value": 0.945,
+              "curve": [
+                0.944,
+                0.945,
+                1.056,
+                1
+              ]
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "ba": {
+          "scalex": [
+            {
+              "value": 0.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": 0.05,
+              "curve": [
+                0.384,
+                0.05,
+                0.449,
+                1.067
+              ]
+            },
+            {
+              "time": 0.5,
+              "value": 1.067,
+              "curve": [
+                0.578,
+                1.067,
+                0.689,
+                0.97
+              ]
+            },
+            {
+              "time": 0.7667,
+              "value": 0.97,
+              "curve": [
+                0.878,
+                0.97,
+                0.989,
+                1
+              ]
+            },
+            {
+              "time": 1.1
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "value": 0.1,
+              "curve": [
+                0.451,
+                0.1,
+                0.516,
+                1.159
+              ]
+            },
+            {
+              "time": 0.5667,
+              "value": 1.159,
+              "curve": [
+                0.644,
+                1.159,
+                0.756,
+                0.945
+              ]
+            },
+            {
+              "time": 0.8333,
+              "value": 0.945,
+              "curve": [
+                0.944,
+                0.945,
+                1.056,
+                1
+              ]
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        },
+        "aa": {
+          "scalex": [
+            {
+              "value": 0.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2667,
+              "value": 0.05,
+              "curve": [
+                0.317,
+                0.05,
+                0.383,
+                1.067
+              ]
+            },
+            {
+              "time": 0.4333,
+              "value": 1.067,
+              "curve": [
+                0.511,
+                1.067,
+                0.622,
+                0.97
+              ]
+            },
+            {
+              "time": 0.7,
+              "value": 0.97,
+              "curve": [
+                0.811,
+                0.97,
+                0.922,
+                1
+              ]
+            },
+            {
+              "time": 1.0333
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": 0.1,
+              "curve": [
+                0.384,
+                0.1,
+                0.449,
+                1.159
+              ]
+            },
+            {
+              "time": 0.5,
+              "value": 1.159,
+              "curve": [
+                0.578,
+                1.159,
+                0.689,
+                0.945
+              ]
+            },
+            {
+              "time": 0.7667,
+              "value": 0.945,
+              "curve": [
+                0.878,
+                0.945,
+                0.989,
+                1
+              ]
+            },
+            {
+              "time": 1.1
+            }
+          ]
+        },
+        "大光光": {
+          "scalex": [
+            {
+              "value": 0.067,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "value": 0.067,
+              "curve": [
+                0.251,
+                0.067,
+                0.316,
+                1.067
+              ]
+            },
+            {
+              "time": 0.3667,
+              "value": 1.067,
+              "curve": [
+                0.444,
+                1.067,
+                0.556,
+                0.97
+              ]
+            },
+            {
+              "time": 0.6333,
+              "value": 0.97,
+              "curve": [
+                0.744,
+                0.97,
+                0.856,
+                1
+              ]
+            },
+            {
+              "time": 0.9667
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.137,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2667,
+              "value": 0.137,
+              "curve": [
+                0.317,
+                0.137,
+                0.383,
+                1.159
+              ]
+            },
+            {
+              "time": 0.4333,
+              "value": 1.159,
+              "curve": [
+                0.511,
+                1.159,
+                0.622,
+                0.945
+              ]
+            },
+            {
+              "time": 0.7,
+              "value": 0.945,
+              "curve": [
+                0.811,
+                0.945,
+                0.922,
+                1
+              ]
+            },
+            {
+              "time": 1.0333
+            }
+          ]
+        },
+        "大光光2": {
+          "scalex": [
+            {
+              "value": 0.096,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2667,
+              "value": 0.096,
+              "curve": [
+                0.317,
+                0.096,
+                0.383,
+                1.067
+              ]
+            },
+            {
+              "time": 0.4333,
+              "value": 1.067,
+              "curve": [
+                0.511,
+                1.067,
+                0.622,
+                0.97
+              ]
+            },
+            {
+              "time": 0.7,
+              "value": 0.97,
+              "curve": [
+                0.811,
+                0.97,
+                0.922,
+                1
+              ]
+            },
+            {
+              "time": 1.0333
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.13,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": 0.13,
+              "curve": [
+                0.384,
+                0.13,
+                0.449,
+                1.159
+              ]
+            },
+            {
+              "time": 0.5,
+              "value": 1.159,
+              "curve": [
+                0.578,
+                1.159,
+                0.689,
+                0.945
+              ]
+            },
+            {
+              "time": 0.7667,
+              "value": 0.945,
+              "curve": [
+                0.878,
+                0.945,
+                0.989,
+                1
+              ]
+            },
+            {
+              "time": 1.1
+            }
+          ]
+        },
+        "大光光3": {
+          "scalex": [
+            {
+              "value": 0.071,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3,
+              "value": 0.071,
+              "curve": [
+                0.351,
+                0.071,
+                0.416,
+                1.067
+              ]
+            },
+            {
+              "time": 0.4667,
+              "value": 1.067,
+              "curve": [
+                0.544,
+                1.067,
+                0.656,
+                0.97
+              ]
+            },
+            {
+              "time": 0.7333,
+              "value": 0.97,
+              "curve": [
+                0.844,
+                0.97,
+                0.956,
+                1
+              ]
+            },
+            {
+              "time": 1.0667
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.145,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3667,
+              "value": 0.145,
+              "curve": [
+                0.417,
+                0.145,
+                0.483,
+                1.159
+              ]
+            },
+            {
+              "time": 0.5333,
+              "value": 1.159,
+              "curve": [
+                0.611,
+                1.159,
+                0.722,
+                0.945
+              ]
+            },
+            {
+              "time": 0.8,
+              "value": 0.945,
+              "curve": [
+                0.911,
+                0.945,
+                1.022,
+                1
+              ]
+            },
+            {
+              "time": 1.1333
+            }
+          ]
+        },
+        "大光光4": {
+          "scalex": [
+            {
+              "value": 0.075,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": 0.075,
+              "curve": [
+                0.384,
+                0.075,
+                0.449,
+                1.067
+              ]
+            },
+            {
+              "time": 0.5,
+              "value": 1.067,
+              "curve": [
+                0.578,
+                1.067,
+                0.689,
+                0.97
+              ]
+            },
+            {
+              "time": 0.7667,
+              "value": 0.97,
+              "curve": [
+                0.878,
+                0.97,
+                0.989,
+                1
+              ]
+            },
+            {
+              "time": 1.1
+            }
+          ],
+          "scaley": [
+            {
+              "value": 0.215,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "value": 0.215,
+              "curve": [
+                0.451,
+                0.215,
+                0.516,
+                1.159
+              ]
+            },
+            {
+              "time": 0.5667,
+              "value": 1.159,
+              "curve": [
+                0.644,
+                1.159,
+                0.756,
+                0.945
+              ]
+            },
+            {
+              "time": 0.8333,
+              "value": 0.945,
+              "curve": [
+                0.944,
+                0.945,
+                1.056,
+                1
+              ]
+            },
+            {
+              "time": 1.1667
+            }
+          ]
+        }
+      }
+    },
+    "loop": {}
+  },
+  "extra": {
+    "大光光wiggle": {
+      "rootBoneName": "大光光wiggle",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleYFreq": 4,
+          "scaleYAmp": 0.1,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 0,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 3,
+          "rotateOctaves": 0,
+          "rotateDelay": 0
+        }
+      }
+    },
+    "大光光wiggle3": {
+      "rootBoneName": "大光光wiggle3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleYFreq": 4.2,
+          "scaleYAmp": 0.1,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 5.6224773389549645,
+          "scaleYCenter": 0,
+          "rotateFreq": 4.8,
+          "rotateAmp": 3,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.005652284093280091
+        }
+      }
+    },
+    "大光光wiggle4": {
+      "rootBoneName": "大光光wiggle4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleYFreq": 3.8,
+          "scaleYAmp": 0.1,
+          "scaleYOctaves": 0,
+          "scaleYDelay": -3.6002054381230666,
+          "scaleYCenter": 0,
+          "rotateFreq": 4.5,
+          "rotateAmp": 3,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.04529943575265629
+        }
+      }
+    },
+    "大光光wiggle2": {
+      "rootBoneName": "大光光wiggle2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleYFreq": 4.5,
+          "scaleYAmp": 0.1,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 1.0607842139358812,
+          "scaleYCenter": 0,
+          "rotateFreq": 6,
+          "rotateAmp": 3,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.20663795336070612
+        }
+      }
+    },
+    "c光wiggle": {
+      "rootBoneName": "c光wiggle",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 5,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 1,
+          "scaleXDelay": -0.41089160768454525,
+          "scaleXCenter": 0,
+          "scaleYFreq": 4.2,
+          "scaleYAmp": 0.2,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 1.0107124273360617,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 8,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.26712240036287754
+        }
+      }
+    },
+    "ba2": {
+      "rootBoneName": "ba2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 5,
+          "scaleXAmp": 0.03,
+          "scaleXOctaves": 1,
+          "scaleXDelay": -3.747425787742789,
+          "scaleXCenter": 0,
+          "scaleYFreq": 4.2,
+          "scaleYAmp": 0.1,
+          "scaleYOctaves": 0,
+          "scaleYDelay": -5.239563268002446,
+          "scaleYCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 2,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.0019247176564836542
+        }
+      }
+    },
+    "wiggle": {
+      "rootBoneName": "wiggle",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 5,
+          "scaleXAmp": 0.03,
+          "scaleXOctaves": 1,
+          "scaleXDelay": -3.5760554811941327,
+          "scaleXCenter": 0,
+          "scaleYFreq": 4.2,
+          "scaleYAmp": 0.1,
+          "scaleYOctaves": 0,
+          "scaleYDelay": -3.576112879272478,
+          "scaleYCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 2,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.029468163427902816
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "ac光": {
+      "slotName": "ac光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": 0,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "ab光": {
+      "slotName": "ab光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.42652280349252236,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "ba光": {
+      "slotName": "ba光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.5012184979845264,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "bb光": {
+      "slotName": "bb光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.48933190263434945,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "c光": {
+      "slotName": "c光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.29458154978236184,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "大光光": {
+      "slotName": "大光光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.06100113506336813,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "大光光4": {
+      "slotName": "大光光4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.18612495351357294,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "大光光3": {
+      "slotName": "大光光3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.152984005341118,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "大光光2": {
+      "slotName": "大光光2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.05229801478932927,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "圈光": {
+      "slotName": "圈光",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": -0.5347419154489832,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

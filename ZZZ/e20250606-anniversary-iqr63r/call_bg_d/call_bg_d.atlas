@@ -1,0 +1,9 @@
+call_bg_d.png
+size:1646,373
+filter:Linear,Linear
+call_bg_d
+bounds:0,0,1646,373
+offsets:0,0,1646,633
+call_jiaojuan
+bounds:0,150,826,26
+offsets:5,5,831,36

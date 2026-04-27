@@ -1,0 +1,483 @@
+{
+  "skeleton": {
+    "hash": "ysIvuPPrVt4",
+    "spine": "4.2.40",
+    "x": -803.85,
+    "y": -182.5,
+    "width": 1384.78,
+    "height": 467.61
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "c",
+      "parent": "root",
+      "x": -129.35,
+      "y": 291.23
+    },
+    {
+      "name": "c2",
+      "parent": "c",
+      "length": 438.41,
+      "rotation": -90.6,
+      "x": 2.62,
+      "y": -18.32
+    },
+    {
+      "name": "c3",
+      "parent": "root",
+      "x": -329.57,
+      "y": 291.23,
+      "shearY": -9.17
+    },
+    {
+      "name": "c4",
+      "parent": "c3",
+      "length": 438.41,
+      "rotation": -90.6,
+      "x": 2.62,
+      "y": -18.32
+    },
+    {
+      "name": "c5",
+      "parent": "root",
+      "x": -545.72,
+      "y": 291.23,
+      "shearY": -21.55
+    },
+    {
+      "name": "c6",
+      "parent": "c5",
+      "length": 438.41,
+      "rotation": -90.6,
+      "x": 2.62,
+      "y": -18.32
+    },
+    {
+      "name": "c7",
+      "parent": "root",
+      "x": 91.8,
+      "y": 291.23,
+      "shearY": 10.57
+    },
+    {
+      "name": "c8",
+      "parent": "c7",
+      "length": 438.41,
+      "rotation": -90.6,
+      "x": 2.62,
+      "y": -18.32
+    },
+    {
+      "name": "c9",
+      "parent": "root",
+      "x": 303.44,
+      "y": 291.23,
+      "shearY": 24.52
+    },
+    {
+      "name": "c10",
+      "parent": "c9",
+      "length": 438.41,
+      "rotation": -90.6,
+      "x": 2.62,
+      "y": -18.32
+    }
+  ],
+  "slots": [
+    {
+      "name": "c",
+      "bone": "c2",
+      "attachment": "c",
+      "blend": "additive"
+    },
+    {
+      "name": "c4",
+      "bone": "c8",
+      "attachment": "c",
+      "blend": "additive"
+    },
+    {
+      "name": "c5",
+      "bone": "c10",
+      "attachment": "c",
+      "blend": "additive"
+    },
+    {
+      "name": "c2",
+      "bone": "c4",
+      "attachment": "c",
+      "blend": "additive"
+    },
+    {
+      "name": "c3",
+      "bone": "c6",
+      "attachment": "c",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "c": {
+          "c": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              454.57,
+              82.99,
+              456.29,
+              -82,
+              -10.68,
+              -86.88,
+              -12.4,
+              78.11
+            ],
+            "hull": 4
+          }
+        },
+        "c2": {
+          "c": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              454.57,
+              82.99,
+              456.29,
+              -82,
+              -10.68,
+              -86.88,
+              -12.4,
+              78.11
+            ],
+            "hull": 4
+          }
+        },
+        "c3": {
+          "c": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              454.57,
+              82.99,
+              456.29,
+              -82,
+              -10.68,
+              -86.88,
+              -12.4,
+              78.11
+            ],
+            "hull": 4
+          }
+        },
+        "c4": {
+          "c": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              454.57,
+              82.99,
+              456.29,
+              -82,
+              -10.68,
+              -86.88,
+              -12.4,
+              78.11
+            ],
+            "hull": 4
+          }
+        },
+        "c5": {
+          "c": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              454.57,
+              82.99,
+              456.29,
+              -82,
+              -10.68,
+              -86.88,
+              -12.4,
+              78.11
+            ],
+            "hull": 4
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "c2": {
+      "rootBoneName": "c2",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": 0
+        }
+      }
+    },
+    "c8": {
+      "rootBoneName": "c8",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 2.391496691139715,
+          "scaleXCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.023129151227161904
+        }
+      }
+    },
+    "c10": {
+      "rootBoneName": "c10",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 4.81440814143897,
+          "scaleXCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.22750619658585308
+        }
+      }
+    },
+    "c4": {
+      "rootBoneName": "c4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -3.935843688379373,
+          "scaleXCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.2969707878221311
+        }
+      }
+    },
+    "c6": {
+      "rootBoneName": "c6",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -2.919108380913882,
+          "scaleXCenter": 0,
+          "rotateFreq": 3,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.227077366642454
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "c": {
+      "slotName": "c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "c4": {
+      "slotName": "c4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.09983737709493012,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "c5": {
+      "slotName": "c5",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.4225384076662615,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "c2": {
+      "slotName": "c2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.8747162567182327,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "c3": {
+      "slotName": "c3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.5,
+          "delay": 0.9746502054502089,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

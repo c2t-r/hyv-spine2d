@@ -1,0 +1,117 @@
+{
+  "skeleton": {
+    "hash": "WnelpbAXJPo",
+    "spine": "4.2.40",
+    "x": -320,
+    "y": -413.5,
+    "width": 640,
+    "height": 827
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "图层 1",
+      "parent": "root",
+      "length": 863.05,
+      "rotation": -90.15,
+      "x": -1.83,
+      "y": 495.47
+    }
+  ],
+  "slots": [
+    {
+      "name": "图层 1",
+      "bone": "图层 1",
+      "attachment": "图层 1",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "图层 1": {
+          "图层 1": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              908.15,
+              324.13,
+              909.78,
+              -315.87,
+              82.78,
+              -317.96,
+              81.15,
+              322.03
+            ],
+            "hull": 4
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "图层 1": {
+      "rootBoneName": "图层 1",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 3,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0,
+          "scaleYFreq": 2,
+          "scaleYAmp": 0.1,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 0,
+          "scaleYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "图层 1": {
+      "slotName": "图层 1",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 4,
+          "delay": 0,
+          "max": 0.4
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

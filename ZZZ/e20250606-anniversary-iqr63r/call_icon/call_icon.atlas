@@ -1,0 +1,12 @@
+call_icon.png
+size:39,152
+filter:Linear,Linear
+a
+bounds:0,78,39,74
+offsets:1,1,41,76
+b
+bounds:0,26,32,48
+offsets:1,1,34,50
+c
+bounds:0,0,25,22
+offsets:1,1,27,24

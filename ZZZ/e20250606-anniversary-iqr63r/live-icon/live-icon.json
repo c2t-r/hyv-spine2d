@@ -1,0 +1,105 @@
+{
+  "skeleton": {
+    "hash": "o8ncRtQ3ByA",
+    "spine": "4.2.40",
+    "x": -57.5,
+    "y": -25,
+    "width": 115,
+    "height": 50
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "speech_live-icon",
+      "bone": "root",
+      "attachment": "speech_live-icon"
+    },
+    {
+      "name": "va",
+      "bone": "root",
+      "attachment": "va"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "speech_live-icon": {
+          "speech_live-icon": {
+            "width": 115,
+            "height": 50
+          }
+        },
+        "va": {
+          "va": {
+            "x": -34,
+            "y": -0.5,
+            "width": 25,
+            "height": 25
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "va": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": [
+                0.167,
+                1,
+                0.333,
+                1,
+                0.167,
+                1,
+                0.333,
+                1,
+                0.167,
+                1,
+                0.333,
+                1,
+                0.167,
+                1,
+                0.333,
+                0.31
+              ]
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff50",
+              "curve": [
+                0.667,
+                1,
+                0.833,
+                1,
+                0.667,
+                1,
+                0.833,
+                1,
+                0.667,
+                1,
+                0.833,
+                1,
+                0.667,
+                0.31,
+                0.833,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

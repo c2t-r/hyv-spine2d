@@ -1,0 +1,271 @@
+{
+  "skeleton": {
+    "hash": "cDGTb1gL0KU",
+    "spine": "4.2.40",
+    "x": -707.5,
+    "y": -204,
+    "width": 1603,
+    "height": 632
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "loading_color_e",
+      "parent": "root",
+      "x": 174.47,
+      "y": 88.48
+    },
+    {
+      "name": "loading_color_f",
+      "parent": "root",
+      "x": 397.53,
+      "y": -37.92
+    },
+    {
+      "name": "loading_boding_c",
+      "parent": "root",
+      "x": -130.36,
+      "y": -121.83
+    }
+  ],
+  "slots": [
+    {
+      "name": "loading_color_b",
+      "bone": "root",
+      "attachment": "loading_color_b"
+    },
+    {
+      "name": "loading_color_e",
+      "bone": "loading_color_e",
+      "attachment": "loading_color_e"
+    },
+    {
+      "name": "loading_color_f",
+      "bone": "loading_color_f",
+      "attachment": "loading_color_f"
+    },
+    {
+      "name": "loading_boding_c",
+      "bone": "loading_boding_c",
+      "attachment": "loading_boding_c"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_boding_c": {
+          "loading_boding_c": {
+            "x": -15.64,
+            "y": 35.83,
+            "width": 455,
+            "height": 236
+          }
+        },
+        "loading_color_b": {
+          "loading_color_b": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              1,
+              0,
+              0.97804,
+              0.98487,
+              0,
+              1,
+              0,
+              1,
+              0.97615
+            ],
+            "triangles": [
+              2,
+              3,
+              4,
+              1,
+              2,
+              4,
+              0,
+              1,
+              4
+            ],
+            "vertices": [
+              -707.5,
+              -132,
+              -707.5,
+              -119.7,
+              871.24,
+              428,
+              895.5,
+              428,
+              895.5,
+              -118.64
+            ],
+            "hull": 5
+          }
+        },
+        "loading_color_e": {
+          "loading_color_e": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0.97305,
+              1,
+              0,
+              1,
+              0.16069,
+              0.02431,
+              1
+            ],
+            "triangles": [
+              1,
+              3,
+              0,
+              2,
+              3,
+              1
+            ],
+            "vertices": [
+              -771.97,
+              -227.3,
+              705.03,
+              248.52,
+              705.03,
+              169.94,
+              -736.07,
+              -240.48
+            ],
+            "hull": 4
+          }
+        },
+        "loading_color_f": {
+          "loading_color_f": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0.9357,
+              1,
+              0,
+              1,
+              0.54845,
+              0.27916,
+              1,
+              0,
+              1
+            ],
+            "triangles": [
+              1,
+              3,
+              0,
+              3,
+              4,
+              0,
+              1,
+              2,
+              3
+            ],
+            "vertices": [
+              -394.03,
+              -46.73,
+              480.97,
+              132.92,
+              480.97,
+              27.62,
+              -149.76,
+              -59.08,
+              -394.03,
+              -59.08
+            ],
+            "hull": 5
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "loading_color_e": {
+      "rootBoneName": "loading_color_e",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 1,
+          "moveXAmp": 3,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 236
+        }
+      }
+    },
+    "loading_color_f": {
+      "rootBoneName": "loading_color_f",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 1,
+          "moveXAmp": 3,
+          "moveXOctaves": 0,
+          "moveXDelay": -0.3085073301538829,
+          "moveXCenter": 0,
+          "moveXSeed": 237.903859613151
+        }
+      }
+    },
+    "loading_boding_c": {
+      "rootBoneName": "loading_boding_c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3,
+          "moveXAmp": 3,
+          "moveXOctaves": 0,
+          "moveXDelay": -2.5957933146991783,
+          "moveXCenter": 0,
+          "moveXSeed": 240.944065920882
+        }
+      }
+    },
+    "root": {
+      "rootBoneName": "root",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 2.5,
+          "moveXAmp": 3,
+          "moveXOctaves": 0,
+          "moveXDelay": 0.5329671968262815,
+          "moveXCenter": 0,
+          "moveXSeed": 230.9121242937283
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "skeleton": {
+    "hash": "CagynHad7z0",
+    "spine": "4.2.40",
+    "x": -518.5,
+    "y": -345.5,
+    "width": 1037,
+    "height": 691
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "call_jiaojuan",
+      "parent": "root",
+      "length": 322.38,
+      "rotation": 30.28,
+      "x": -303.86,
+      "y": -173.75
+    },
+    {
+      "name": "call_jiaojuan2",
+      "parent": "call_jiaojuan",
+      "rotation": 0.07,
+      "x": -3.69,
+      "y": 1.63
+    },
+    {
+      "name": "call_jiaojuan3",
+      "parent": "root",
+      "length": 322.38,
+      "rotation": 30.28,
+      "x": 2.64,
+      "y": 92.02
+    },
+    {
+      "name": "call_jiaojuan4",
+      "parent": "call_jiaojuan3",
+      "rotation": 0.07,
+      "x": -3.69,
+      "y": 1.63
+    }
+  ],
+  "slots": [
+    {
+      "name": "call_bg_c_temp",
+      "bone": "root"
+    },
+    {
+      "name": "call_bg_c",
+      "bone": "root",
+      "attachment": "call_bg_c"
+    },
+    {
+      "name": "maska",
+      "bone": "root",
+      "attachment": "maska"
+    },
+    {
+      "name": "call_jiaojuan",
+      "bone": "call_jiaojuan2",
+      "attachment": "call_jiaojuan"
+    },
+    {
+      "name": "maska2",
+      "bone": "root",
+      "attachment": "maska2"
+    },
+    {
+      "name": "call_jiaojuan2",
+      "bone": "call_jiaojuan4",
+      "attachment": "call_jiaojuan"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "call_bg_c": {
+          "call_bg_c": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              1,
+              0.48401,
+              0.58055,
+              0.48401,
+              0.49091,
+              1,
+              0.03606,
+              1,
+              0,
+              0,
+              0
+            ],
+            "triangles": [
+              2,
+              5,
+              4,
+              3,
+              2,
+              4,
+              0,
+              5,
+              2,
+              1,
+              0,
+              2
+            ],
+            "vertices": [
+              -518.5,
+              -345.5,
+              -16.58,
+              -55.66,
+              -16.58,
+              6.28,
+              518.5,
+              320.58,
+              518.5,
+              345.5,
+              -518.5,
+              345.5
+            ],
+            "hull": 6
+          }
+        },
+        "call_jiaojuan": {
+          "call_jiaojuan": {
+            "x": 42.91,
+            "y": -1.24,
+            "width": 831,
+            "height": 36
+          }
+        },
+        "call_jiaojuan2": {
+          "call_jiaojuan": {
+            "x": 42.91,
+            "y": -1.24,
+            "width": 831,
+            "height": 36
+          }
+        },
+        "maska": {
+          "maska": {
+            "type": "clipping",
+            "end": "call_jiaojuan",
+            "vertexCount": 8,
+            "vertices": [
+              -480.64,
+              -232.72,
+              -478.65,
+              -302.27,
+              -228.28,
+              -149.76,
+              -251.63,
+              -102.57,
+              -114.03,
+              -25.57,
+              -87.7,
+              -68.29,
+              -58.39,
+              -50.9,
+              -81.24,
+              11.19
+            ]
+          }
+        },
+        "maska2": {
+          "maska2": {
+            "type": "clipping",
+            "end": "call_jiaojuan2",
+            "vertexCount": 4,
+            "vertices": [
+              -58.39,
+              27.09,
+              -87.2,
+              69.81,
+              322.13,
+              307.26,
+              398.13,
+              300.8
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "call_jiaojuan4": {
+          "translate": [
+            {},
+            {
+              "time": 1,
+              "x": 118.39,
+              "y": 0.15
+            }
+          ]
+        },
+        "call_jiaojuan2": {
+          "translate": [
+            {},
+            {
+              "time": 1,
+              "x": 118.39,
+              "y": 0.15
+            }
+          ]
+        }
+      }
+    }
+  }
+}
