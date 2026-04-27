@@ -1,0 +1,15 @@
+ocean_fish_e.png
+size:301,68
+filter:Linear,Linear
+scale:0.5
+角1
+bounds:274,5,26,20
+角2
+bounds:268,46,27,21
+身体 拷贝
+bounds:109,3,113,63
+rotate:180
+鱼鳍前
+bounds:1,2,115,65
+鱼鳍后
+bounds:201,1,88,48

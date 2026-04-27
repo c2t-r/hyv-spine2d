@@ -1,0 +1,20 @@
+ocean_bg_fish_b.png
+size:604,260
+filter:Linear,Linear
+ocean_bg_fish_b - 1
+bounds:2,2,512,256
+ocean_bg_fish_b - 13
+bounds:516,113,145,39
+rotate:90
+ocean_bg_fish_b - 3 - 1
+bounds:551,3,47,45
+rotate:90
+ocean_bg_fish_b - 3 - 2
+bounds:565,154,56,34
+rotate:90
+ocean_bg_fish_b - 3 - 3
+bounds:551,70,89,42
+rotate:90
+ocean_bg_fish_b - 9
+bounds:516,2,104,86
+rotate:90

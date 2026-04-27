@@ -1,0 +1,16 @@
+ocean_flower_a.png
+size:114,216
+filter:Linear,Linear
+scale:0.5
+前
+bounds:1,9,112,127
+offsets:0,3,112,130
+rotate:180
+后
+bounds:1,132,112,83
+花蕊
+bounds:71,33,40,52
+花蕊1
+bounds:1,1,25,69
+offsets:0,0,26,69
+rotate:90

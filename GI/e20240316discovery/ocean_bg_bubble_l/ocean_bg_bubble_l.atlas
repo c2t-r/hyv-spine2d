@@ -1,0 +1,23 @@
+ocean_bg_bubble_l.png
+size:131,106
+filter:Linear,Linear
+ocean_bg_bubble_l - 1
+bounds:2,2,18,26
+rotate:90
+ocean_bg_bubble_l - 2
+bounds:69,48,56,46
+rotate:270
+ocean_bg_bubble_l - 3
+bounds:101,3,16,19
+ocean_bg_bubble_l - 智能对象组 - 1
+bounds:112,88,16,14
+rotate:90
+ocean_bg_bubble_l - 智能对象组 - 2
+bounds:2,3,97,101
+ocean_bg_bubble_l - 智能对象组 - 3
+bounds:100,24,19,22
+ocean_bg_bubble_l - 智能对象组 - 4
+bounds:117,48,12,13
+ocean_bg_bubble_l - 智能对象组 - 5
+bounds:38,2,14,21
+rotate:90

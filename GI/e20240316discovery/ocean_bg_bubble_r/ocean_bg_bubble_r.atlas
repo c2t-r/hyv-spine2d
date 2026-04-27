@@ -1,0 +1,17 @@
+ocean_bg_bubble_r.png
+size:85,178
+filter:Linear,Linear
+ocean_bg_bubble_r - 1
+bounds:27,8,20,15
+ocean_bg_bubble_r - 2
+bounds:2,25,37,60
+rotate:90
+ocean_bg_bubble_r - 3
+bounds:2,2,21,23
+rotate:90
+ocean_bg_bubble_r - 智能对象组 - 1
+bounds:55,64,28,38
+ocean_bg_bubble_r - 智能对象组 - 2
+bounds:2,60,71,116
+ocean_bg_bubble_r - 智能对象组 - 3
+bounds:57,16,25,29

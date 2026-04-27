@@ -1,0 +1,17 @@
+desert_cactus.png
+size:345,209
+filter:Linear,Linear
+scale:0.5
+cactus
+bounds:1,1,292,207
+图层 1
+bounds:296,39,31,24
+图层 2
+bounds:296,66,32,59
+offsets:14,0,46,65
+图层 3
+bounds:312,157,32,51
+offsets:0,0,40,53
+图层 4
+bounds:296,124,31,84
+offsets:7,0,60,99

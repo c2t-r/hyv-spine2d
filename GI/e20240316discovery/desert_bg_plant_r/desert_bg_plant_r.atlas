@@ -1,0 +1,11 @@
+desert_bg_plant_r.png
+size:251,194
+filter:Linear,Linear
+desert_bg_plant_r - 1
+bounds:2,2,177,190
+desert_bg_plant_r - 2
+bounds:131,75,118,117
+rotate:180
+desert_bg_plant_r - 3
+bounds:2,131,61,72
+rotate:90

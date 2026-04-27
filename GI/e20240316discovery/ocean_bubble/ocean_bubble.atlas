@@ -1,0 +1,128 @@
+ocean_bubble.png
+size:386,48
+filter:Linear,Linear
+scale:0.5
+ocean_bubble - 0
+bounds:344,23,12,10
+rotate:90
+ocean_bubble - 1
+bounds:210,21,26,25
+rotate:90
+ocean_bubble - 10
+bounds:48,12,35,33
+rotate:90
+ocean_bubble - 11
+bounds:318,3,19,17
+ocean_bubble - 12 - 1
+bounds:118,17,30,29
+rotate:90
+ocean_bubble - 12 - 2
+bounds:366,9,11,10
+rotate:90
+ocean_bubble - 13
+bounds:180,2,16,14
+ocean_bubble - 14
+bounds:265,22,25,24
+rotate:90
+ocean_bubble - 15
+bounds:318,23,24,23
+rotate:90
+ocean_bubble - 16
+bounds:357,23,10,11
+ocean_bubble - 17
+bounds:275,5,14,14
+ocean_bubble - 18
+bounds:164,4,11,11
+ocean_bubble - 19
+bounds:70,2,8,7
+ocean_bubble - 2
+bounds:340,8,12,10
+rotate:90
+ocean_bubble - 20
+bounds:84,2,12,11
+ocean_bubble - 21 - 1
+bounds:258,5,14,14
+ocean_bubble - 21 - 2
+bounds:382,29,4,3
+rotate:90
+ocean_bubble - 22
+bounds:84,16,31,31
+ocean_bubble - 23
+bounds:150,18,29,27
+rotate:90
+ocean_bubble - 24
+bounds:210,3,15,15
+ocean_bubble - 25
+bounds:134,2,13,12
+ocean_bubble - 26
+bounds:228,2,6,6
+ocean_bubble - 27
+bounds:353,9,11,10
+rotate:90
+ocean_bubble - 28
+bounds:370,23,10,9
+rotate:90
+ocean_bubble - 29
+bounds:292,22,23,25
+ocean_bubble - 3
+bounds:382,22,4,3
+rotate:90
+ocean_bubble - 30
+bounds:150,4,11,11
+ocean_bubble - 31
+bounds:361,1,5,5
+ocean_bubble - 32
+bounds:353,1,5,5
+ocean_bubble - 33
+bounds:48,1,8,8
+ocean_bubble - 34
+bounds:382,42,3,3
+ocean_bubble - 35
+bounds:99,2,11,11
+ocean_bubble - 36
+bounds:340,1,4,5
+rotate:90
+ocean_bubble - 37
+bounds:382,36,3,3
+ocean_bubble - 38
+bounds:180,19,28,27
+rotate:90
+ocean_bubble - 39
+bounds:308,13,5,6
+ocean_bubble - 4
+bounds:379,16,3,4
+rotate:90
+ocean_bubble - 40
+bounds:118,2,13,12
+ocean_bubble - 41
+bounds:357,37,10,9
+ocean_bubble - 42
+bounds:308,5,5,5
+ocean_bubble - 43
+bounds:383,3,2,3
+ocean_bubble - 44 - 1
+bounds:1,5,44,42
+ocean_bubble - 44 - 2
+bounds:59,2,8,7
+ocean_bubble - 45
+bounds:238,22,25,24
+rotate:90
+ocean_bubble - 48
+bounds:292,5,13,14
+ocean_bubble - 49
+bounds:370,36,9,9
+ocean_bubble - 5
+bounds:379,9,4,3
+rotate:90
+ocean_bubble - 50
+bounds:228,11,6,7
+ocean_bubble - 6
+bounds:238,2,17,17
+ocean_bubble - 7
+bounds:199,1,7,6
+ocean_bubble - 8
+bounds:199,10,7,6
+ocean_bubble - 9
+bounds:369,1,4,5
+图层 2
+bounds:376,2,4,4

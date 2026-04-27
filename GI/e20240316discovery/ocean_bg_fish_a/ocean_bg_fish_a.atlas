@@ -1,0 +1,8 @@
+ocean_bg_fish_a.png
+size:105,40
+filter:Linear,Linear
+1
+bounds:2,4,101,34
+2
+bounds:2,2,44,22
+rotate:180

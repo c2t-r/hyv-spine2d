@@ -1,0 +1,11 @@
+ocean_bg_bubble_b.png
+size:83,35
+filter:Linear,Linear
+ocean_bg_bubble_b - 1
+bounds:2,2,43,31
+ocean_bg_bubble_b - 2
+bounds:47,7,26,21
+rotate:90
+ocean_bg_bubble_b - 3
+bounds:70,19,14,11
+rotate:90
