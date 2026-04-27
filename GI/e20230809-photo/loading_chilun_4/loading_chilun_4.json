@@ -1,0 +1,64 @@
+{
+  "skeleton": {
+    "hash": "KNPam/4qVn8",
+    "spine": "4.1.23",
+    "x": -55,
+    "y": -56,
+    "width": 111,
+    "height": 112,
+    "images": "./tex/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "chilun_4"
+    },
+    {
+      "name": "bone",
+      "parent": "chilun_4",
+      "x": 0.36,
+      "y": 0.48
+    }
+  ],
+  "slots": [
+    {
+      "name": "chilun_4",
+      "bone": "bone",
+      "attachment": "chilun_4"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "chilun_4": {
+          "chilun_4": {
+            "x": 0.14,
+            "y": -0.48,
+            "width": 111,
+            "height": 112
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "bone": {
+      "rootBoneName": "bone",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "rotateSpeed": -0.06
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

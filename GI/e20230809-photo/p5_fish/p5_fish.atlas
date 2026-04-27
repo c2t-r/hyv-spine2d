@@ -1,0 +1,8 @@
+p5_fish.png
+	size: 64, 64
+	filter: Linear, Linear
+	scale: 0.2
+蓝鱼
+	bounds: 2, 31, 50, 29
+金鱼
+	bounds: 2, 2, 52, 27

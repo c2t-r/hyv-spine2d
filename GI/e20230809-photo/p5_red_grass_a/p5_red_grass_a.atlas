@@ -1,0 +1,10 @@
+p5_red_grass_a.png
+	size: 256, 64
+	filter: Linear, Linear
+	scale: 0.2
+红草a1
+	bounds: 2, 11, 85, 48
+红草a2
+	bounds: 89, 17, 89, 42
+红草a3
+	bounds: 164, 2, 80, 23

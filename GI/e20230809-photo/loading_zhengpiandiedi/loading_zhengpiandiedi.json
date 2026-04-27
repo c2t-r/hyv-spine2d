@@ -1,0 +1,66 @@
+{
+  "skeleton": {
+    "hash": "BSLVmhukVFo",
+    "spine": "4.1.23",
+    "x": -1341,
+    "y": -696,
+    "width": 2683,
+    "height": 1392,
+    "images": "./tex/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "zhengpiandiedi",
+      "bone": "root",
+      "attachment": "zhengpiandiedi"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "zhengpiandiedi": {
+          "zhengpiandiedi": {
+            "x": 0.5,
+            "width": 2683,
+            "height": 1392
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "root": {
+      "rootBoneName": "root",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 6,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,6 @@
+loading_zhengpiandiedi.png
+	size: 1024, 512
+	filter: Linear, Linear
+	scale: 0.3
+zhengpiandiedi
+	bounds: 2, 2, 805, 418

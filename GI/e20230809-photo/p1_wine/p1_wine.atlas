@@ -1,0 +1,19 @@
+p1_wine.png
+	size: 512, 128
+	filter: Linear, Linear
+	scale: 0.5
+酒_影
+	bounds: 2, 2, 228, 48
+酒_瓶塞
+	bounds: 232, 39, 28, 29
+	offsets: 0, 1, 29, 31
+酒_瓶子
+	bounds: 2, 52, 160, 72
+	offsets: 0, 0, 161, 73
+酒_酒
+	bounds: 164, 56, 7, 12
+	offsets: 1, 0, 8, 13
+酒_酒水
+	bounds: 164, 70, 91, 54
+酒_酒滴
+	bounds: 232, 17, 14, 20

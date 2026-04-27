@@ -1,0 +1,6 @@
+p5_shuihua.png
+	size: 128, 128
+	filter: Linear, Linear
+	scale: 0.2
+p5_shuihua
+	bounds: 2, 2, 74, 99

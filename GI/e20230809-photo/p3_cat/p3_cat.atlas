@@ -1,0 +1,52 @@
+p3_cat.png
+	size: 1024, 128
+	filter: Linear, Linear
+	scale: 0.15
+右眼
+	bounds: 16, 2, 7, 11
+后腿
+	bounds: 344, 27, 18, 26
+头
+	bounds: 666, 30, 61, 68
+	rotate: 90
+尾巴
+	bounds: 193, 8, 54, 37
+左眼
+	bounds: 2, 2, 11, 12
+	rotate: 90
+平_无
+	bounds: 611, 61, 64, 64
+平_雷
+	bounds: 545, 61, 64, 64
+底
+	bounds: 2, 15, 110, 127
+	offsets: 2, 0, 112, 127
+	rotate: 90
+底座
+	bounds: 131, 47, 132, 78
+	offsets: 0, 0, 133, 78
+抬爪
+	bounds: 379, 10, 36, 34
+爪子
+	bounds: 131, 21, 24, 61
+	rotate: 90
+矩形2
+	bounds: 265, 55, 70, 70
+矩形4
+	bounds: 479, 61, 64, 64
+胡子a
+	bounds: 170, 9, 24, 14
+胡子b
+	bounds: 131, 6, 18, 15
+身体
+	bounds: 337, 43, 74, 82
+闭眼
+	bounds: 364, 14, 28, 13
+	rotate: 90
+阴影
+	bounds: 265, 18, 77, 35
+顶_不转
+	bounds: 735, 65, 60, 44
+	rotate: 90
+顶面
+	bounds: 413, 61, 64, 64

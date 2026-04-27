@@ -1,0 +1,11 @@
+open_door_light_2.png
+	size: 512, 256
+	filter: Linear, Linear
+	scale: 0.4
+glow
+	bounds: 2, 2, 174, 211
+	offsets: 1, 1, 176, 213
+light
+	bounds: 178, 132, 81, 323
+	offsets: 3, 3, 88, 328
+	rotate: 90

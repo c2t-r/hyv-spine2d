@@ -1,0 +1,28 @@
+bg_gear_b.png
+	size: 512, 512
+	filter: Linear, Linear
+	scale: 0.4
+刻度
+	bounds: 2, 209, 260, 260
+大环
+	bounds: 2, 2, 205, 205
+小环
+	bounds: 209, 85, 122, 122
+星星1
+	bounds: 209, 13, 18, 22
+	offsets: 1, 1, 20, 24
+星星2
+	bounds: 209, 37, 18, 22
+	offsets: 1, 1, 20, 24
+星星3
+	bounds: 229, 63, 17, 20
+	offsets: 1, 1, 19, 22
+星星4
+	bounds: 229, 46, 12, 15
+	offsets: 1, 1, 14, 17
+星星5
+	bounds: 209, 61, 18, 22
+	offsets: 1, 1, 20, 24
+星星6
+	bounds: 229, 30, 12, 14
+	offsets: 1, 1, 14, 16

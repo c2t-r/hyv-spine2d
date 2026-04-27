@@ -1,0 +1,344 @@
+{
+  "skeleton": {
+    "hash": "Pdkxs7oSs6Y",
+    "spine": "4.1.23",
+    "x": -366,
+    "y": -325,
+    "width": 691,
+    "height": 650,
+    "images": "./bg_gear_b/images/",
+    "audio": "./bg_gear_b/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "A",
+      "parent": "root",
+      "length": 193.28
+    },
+    {
+      "name": "B",
+      "parent": "root",
+      "length": 252.23,
+      "rotation": 45
+    },
+    {
+      "name": "C",
+      "parent": "root",
+      "length": 318.6,
+      "rotation": 90
+    },
+    {
+      "name": "星星1",
+      "parent": "root",
+      "x": 198.95,
+      "y": 163.54
+    },
+    {
+      "name": "星星2",
+      "parent": "root",
+      "x": 278.68,
+      "y": -205.93
+    },
+    {
+      "name": "星星3",
+      "parent": "root",
+      "x": -157.24,
+      "y": -121.1
+    },
+    {
+      "name": "星星4",
+      "parent": "root",
+      "x": -200.16,
+      "y": 73.09
+    },
+    {
+      "name": "星星5",
+      "parent": "root",
+      "x": -255.36,
+      "y": 156.9
+    },
+    {
+      "name": "星星6",
+      "parent": "root",
+      "x": -348.62,
+      "y": 55.47
+    }
+  ],
+  "slots": [
+    {
+      "name": "刻度",
+      "bone": "C",
+      "attachment": "刻度"
+    },
+    {
+      "name": "大环",
+      "bone": "B",
+      "attachment": "大环"
+    },
+    {
+      "name": "小环",
+      "bone": "A",
+      "attachment": "小环"
+    },
+    {
+      "name": "星星6",
+      "bone": "星星6",
+      "attachment": "星星6"
+    },
+    {
+      "name": "星星5",
+      "bone": "星星5",
+      "attachment": "星星5"
+    },
+    {
+      "name": "星星4",
+      "bone": "星星4",
+      "attachment": "星星4"
+    },
+    {
+      "name": "星星3",
+      "bone": "星星3",
+      "attachment": "星星3"
+    },
+    {
+      "name": "星星2",
+      "bone": "星星2",
+      "attachment": "星星2"
+    },
+    {
+      "name": "星星1",
+      "bone": "星星1",
+      "attachment": "星星1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "刻度": {
+          "刻度": {
+            "rotation": -90,
+            "width": 650,
+            "height": 650
+          }
+        },
+        "大环": {
+          "大环": {
+            "y": -0.71,
+            "rotation": -45,
+            "width": 513,
+            "height": 513
+          }
+        },
+        "小环": {
+          "小环": {
+            "x": -24,
+            "y": 37.5,
+            "width": 306,
+            "height": 305
+          }
+        },
+        "星星1": {
+          "星星1": {
+            "x": 0.05,
+            "y": -0.04,
+            "width": 50,
+            "height": 59
+          }
+        },
+        "星星2": {
+          "星星2": {
+            "x": 0.32,
+            "y": -0.57,
+            "width": 50,
+            "height": 59
+          }
+        },
+        "星星3": {
+          "星星3": {
+            "x": 0.74,
+            "y": -0.4,
+            "width": 47,
+            "height": 55
+          }
+        },
+        "星星4": {
+          "星星4": {
+            "x": 0.16,
+            "y": -1.09,
+            "width": 36,
+            "height": 42
+          }
+        },
+        "星星5": {
+          "星星5": {
+            "x": -0.14,
+            "y": -0.9,
+            "width": 51,
+            "height": 60
+          }
+        },
+        "星星6": {
+          "星星6": {
+            "x": 0.62,
+            "y": 0.03,
+            "width": 36,
+            "height": 41
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "B": {
+      "rootBoneName": "B",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "rotateSpeed": -0.02
+        }
+      }
+    },
+    "C": {
+      "rootBoneName": "C",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "rotateSpeed": 0.02
+        }
+      }
+    },
+    "星星1": {
+      "rootBoneName": "星星1",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4.5,
+          "moveXAmp": 8.5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 3679,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "星星2": {
+      "rootBoneName": "星星2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4.5,
+          "moveXAmp": 8.5,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.8790484950229,
+          "moveXCenter": 0,
+          "moveXSeed": 3680.1342924778332,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 4.717387387755758,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "星星3": {
+      "rootBoneName": "星星3",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4.5,
+          "moveXAmp": 8.5,
+          "moveXOctaves": 0,
+          "moveXDelay": -3.189878686366857,
+          "moveXCenter": 0,
+          "moveXSeed": 3677.2272384177186,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 2.4042640335704526,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "星星4": {
+      "rootBoneName": "星星4",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4.5,
+          "moveXAmp": 8.5,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.69575692037861,
+          "moveXCenter": 0,
+          "moveXSeed": 3673.4575618191398,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -2.2175586560086726,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "星星5": {
+      "rootBoneName": "星星5",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4.5,
+          "moveXAmp": 8.5,
+          "moveXOctaves": 0,
+          "moveXDelay": -5.336911661555895,
+          "moveXCenter": 0,
+          "moveXSeed": 3677.0375201160246,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -0.7479197879005621,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "星星6": {
+      "rootBoneName": "星星6",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4.5,
+          "moveXAmp": 8.5,
+          "moveXOctaves": 0,
+          "moveXDelay": -9.147368365479826,
+          "moveXCenter": 0,
+          "moveXSeed": 3674.923610913753,
+          "scaleXFreq": 1,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -2.1243492385973655,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
