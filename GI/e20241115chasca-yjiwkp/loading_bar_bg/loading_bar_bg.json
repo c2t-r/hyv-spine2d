@@ -1,0 +1,165 @@
+{
+  "skeleton": {
+    "hash": "Pqe6PVxvawA",
+    "spine": "4.2.33",
+    "x": -288,
+    "y": -288,
+    "width": 576,
+    "height": 576
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "y": -309.69
+    }
+  ],
+  "slots": [
+    {
+      "name": "mask_new2",
+      "bone": "root",
+      "attachment": "mask_new"
+    },
+    {
+      "name": "a",
+      "bone": "root",
+      "attachment": "a"
+    },
+    {
+      "name": "mask_new",
+      "bone": "root",
+      "attachment": "mask_new"
+    },
+    {
+      "name": "b",
+      "bone": "root",
+      "attachment": "b"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "width": 576,
+            "height": 576
+          }
+        },
+        "b": {
+          "b": {
+            "width": 576,
+            "height": 576
+          }
+        },
+        "mask_new": {
+          "mask_new": {
+            "type": "clipping",
+            "end": "b",
+            "vertexCount": 4,
+            "vertices": [
+              1,
+              1,
+              -379.84,
+              0.16,
+              1,
+              1,
+              1,
+              341.73,
+              2.97,
+              1,
+              1,
+              0,
+              340.33,
+              -375.03,
+              1,
+              1,
+              0,
+              -376.33,
+              -371.52,
+              1
+            ]
+          }
+        },
+        "mask_new2": {
+          "mask_new": {
+            "type": "clipping",
+            "end": "a",
+            "vertexCount": 4,
+            "vertices": [
+              1,
+              1,
+              -379.84,
+              0.16,
+              1,
+              1,
+              1,
+              341.73,
+              2.97,
+              1,
+              1,
+              0,
+              340.33,
+              373.72,
+              1,
+              1,
+              0,
+              -376.33,
+              377.24,
+              1
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "a": {},
+    "loading0_100": {
+      "bones": {
+        "bone": {
+          "translate": [
+            {
+              "curve": [
+                1.111,
+                0,
+                2.222,
+                0,
+                1.111,
+                0,
+                2.222,
+                677.22
+              ]
+            },
+            {
+              "time": 3.3333,
+              "y": 677.22
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "root": {
+      "rootBoneName": "root",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "rotateFreq": 3,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,8 @@
+npc_eff.png
+size:344,16
+filter:Linear,Linear
+scale:0.655
+a
+bounds:174,2,168,9
+b
+bounds:2,2,168,9
