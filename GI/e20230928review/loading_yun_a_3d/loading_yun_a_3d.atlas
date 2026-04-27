@@ -1,0 +1,12 @@
+loading_yun_a_3d.png
+size:2048,256
+filter:Linear,Linear
+scale:0.5
+aa
+bounds:1127,151,216,57
+ab
+bounds:822,2,162,130
+ac
+bounds:822,134,303,74
+ad
+bounds:2,8,818,200

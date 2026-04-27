@@ -1,0 +1,159 @@
+{
+  "skeleton": {
+    "hash": "H8XFenIzbK8",
+    "spine": "4.0-from-4.1.23",
+    "x": -1251,
+    "y": -1394.52,
+    "width": 4397.04,
+    "height": 2605.75
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "x": 2074.43,
+      "y": -8.49
+    },
+    {
+      "name": "sg2",
+      "parent": "bone",
+      "rotation": -129.08,
+      "scaleX": 3.6493,
+      "scaleY": 2.0919
+    }
+  ],
+  "slots": [
+    {
+      "name": "sg",
+      "bone": "sg2",
+      "attachment": "sg",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "sg": {
+          "sg": {
+            "x": 28.31,
+            "y": 2.23,
+            "scaleX": 1.4326,
+            "scaleY": 1.4326,
+            "rotation": 90.29,
+            "width": 195,
+            "height": 551
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "slots": {
+        "sg": {
+          "rgba": [
+            {
+              "color": "ffffff2a"
+            }
+          ]
+        }
+      }
+    },
+    "play": {
+      "slots": {
+        "sg": {
+          "rgba": [
+            {
+              "color": "ffffff2a"
+            },
+            {
+              "time": 0.4,
+              "color": "fffffffe",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6333,
+              "color": "fffffffe"
+            },
+            {
+              "time": 1.3333,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "bone": {
+          "translate": [
+            {
+              "curve": [
+                0.444,
+                0,
+                0.889,
+                -4430.67,
+                0.444,
+                0,
+                0.889,
+                716.26
+              ]
+            },
+            {
+              "time": 1.3333,
+              "x": -4430.67,
+              "y": 716.26
+            }
+          ]
+        },
+        "sg2": {
+          "rotate": [
+            {
+              "time": 0.2,
+              "curve": [
+                0.378,
+                -3.64,
+                0.556,
+                -8.99
+              ]
+            },
+            {
+              "time": 0.7333,
+              "value": -10.93,
+              "curve": [
+                0.933,
+                -13.11,
+                1.133,
+                -13.11
+              ]
+            },
+            {
+              "time": 1.3333,
+              "value": -13.11
+            }
+          ],
+          "scale": [
+            {},
+            {
+              "time": 0.4,
+              "x": 1.272,
+              "y": 2.559
+            },
+            {
+              "time": 0.6333,
+              "x": 1.43,
+              "y": 5.543
+            },
+            {
+              "time": 1.3333,
+              "x": 1.453,
+              "y": 3.599
+            }
+          ]
+        }
+      }
+    }
+  }
+}

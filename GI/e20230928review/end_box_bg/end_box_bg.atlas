@@ -1,0 +1,14 @@
+end_box_bg.png
+size:1443,1443
+filter:Linear,Linear
+scale:0.36
+中圈圆
+bounds:800,432,371,370
+中心圆
+bounds:1173,547,255,255
+外圈圆
+bounds:1,645,797,797
+射线bb
+bounds:800,804,642,638
+底圆
+bounds:1,1,642,642

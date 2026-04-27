@@ -1,0 +1,14 @@
+a05_sky_bg.png
+size:1102,1102
+filter:Linear,Linear
+scale:0.4
+a
+bounds:187,76,969,914
+offsets:0,0,969,1006
+rotate:90
+b
+bounds:1,1047,54,1082
+offsets:0,2,54,1084
+rotate:90
+c
+bounds:1,861,184,184

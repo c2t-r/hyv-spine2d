@@ -1,0 +1,59 @@
+{
+  "skeleton": {
+    "hash": "eDUEM9l2iPA",
+    "spine": "4.0-from-4.1.23",
+    "x": -851.5,
+    "y": -288.5,
+    "width": 1703,
+    "height": 577
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "loading_yun/loading_yun_e_0908",
+      "bone": "root",
+      "attachment": "loading_yun/loading_yun_e_0908"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_yun/loading_yun_e_0908": {
+          "loading_yun/loading_yun_e_0908": {
+            "width": 1703,
+            "height": 577
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "root": {
+      "rootBoneName": "root",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 6,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 2783
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

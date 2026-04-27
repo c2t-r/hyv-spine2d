@@ -1,0 +1,588 @@
+{
+  "skeleton": {
+    "hash": "fNajY/dxmv4",
+    "spine": "4.0-from-4.1.23",
+    "x": -489.54,
+    "y": -697.9,
+    "width": 1237.35,
+    "height": 1595.42
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "rotation": -35.97,
+      "x": 599.45,
+      "y": 816.04
+    },
+    {
+      "name": "块",
+      "parent": "bone",
+      "x": -23.69,
+      "y": -288.96
+    },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "x": -7.9,
+      "y": -37.9
+    },
+    {
+      "name": "粗b",
+      "parent": "bone2",
+      "length": 327.33,
+      "rotation": -91.97,
+      "x": -20.79,
+      "y": 114.93
+    },
+    {
+      "name": "粗c",
+      "parent": "bone2",
+      "length": 291.53,
+      "rotation": -90.54,
+      "x": 128.09,
+      "y": 67.57
+    },
+    {
+      "name": "粗a",
+      "parent": "bone2",
+      "length": 273.03,
+      "rotation": -89.96,
+      "x": -150.89,
+      "y": 59.77
+    },
+    {
+      "name": "细a",
+      "parent": "bone2",
+      "length": 463.26,
+      "rotation": -84.63,
+      "x": 159.77,
+      "y": -34.05
+    },
+    {
+      "name": "细b",
+      "parent": "bone2",
+      "length": 515.89,
+      "rotation": -89.86,
+      "x": 84.14,
+      "y": 55.72
+    },
+    {
+      "name": "细d",
+      "parent": "bone2",
+      "length": 424.01,
+      "rotation": -91.06,
+      "x": -164.02,
+      "y": 7.69
+    },
+    {
+      "name": "细c",
+      "parent": "bone2",
+      "length": 471.05,
+      "rotation": -90.97,
+      "x": 11.87,
+      "y": 73.65
+    }
+  ],
+  "slots": [
+    {
+      "name": "粗c",
+      "bone": "粗c",
+      "attachment": "粗c",
+      "blend": "additive"
+    },
+    {
+      "name": "粗b",
+      "bone": "粗b",
+      "attachment": "粗b",
+      "blend": "additive"
+    },
+    {
+      "name": "粗a",
+      "bone": "粗a",
+      "attachment": "粗a",
+      "blend": "additive"
+    },
+    {
+      "name": "块",
+      "bone": "块",
+      "attachment": "块",
+      "blend": "additive"
+    },
+    {
+      "name": "细a",
+      "bone": "细a",
+      "attachment": "细a",
+      "blend": "additive"
+    },
+    {
+      "name": "细b",
+      "bone": "细b",
+      "attachment": "细b",
+      "blend": "additive"
+    },
+    {
+      "name": "细c",
+      "bone": "细c",
+      "attachment": "细c",
+      "blend": "additive"
+    },
+    {
+      "name": "细d",
+      "bone": "细d",
+      "attachment": "细d",
+      "blend": "additive"
+    },
+    {
+      "name": "细e",
+      "bone": "细d",
+      "attachment": "细e",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "块": {
+          "块": {
+            "x": 22.51,
+            "y": -214.83,
+            "width": 880,
+            "height": 912
+          }
+        },
+        "粗a": {
+          "粗a": {
+            "x": 844.16,
+            "y": 3.95,
+            "rotation": 89.96,
+            "width": 52,
+            "height": 1567
+          }
+        },
+        "粗b": {
+          "粗b": {
+            "x": 906.45,
+            "y": 11.61,
+            "rotation": 91.97,
+            "width": 164,
+            "height": 1671
+          }
+        },
+        "粗c": {
+          "粗c": {
+            "x": 906.14,
+            "y": 38.61,
+            "rotation": 90.54,
+            "width": 115,
+            "height": 1686
+          }
+        },
+        "细a": {
+          "细a": {
+            "x": 771.49,
+            "y": -13.26,
+            "rotation": 84.63,
+            "width": 90,
+            "height": 1151
+          }
+        },
+        "细b": {
+          "细b": {
+            "x": 736.61,
+            "y": -3.18,
+            "rotation": 89.86,
+            "width": 10,
+            "height": 1012
+          }
+        },
+        "细c": {
+          "细c": {
+            "x": 794.6,
+            "y": 3.86,
+            "rotation": 90.97,
+            "width": 25,
+            "height": 1116
+          }
+        },
+        "细d": {
+          "细d": {
+            "x": 789.13,
+            "y": 4.85,
+            "rotation": 91.06,
+            "width": 35,
+            "height": 1293
+          }
+        },
+        "细e": {
+          "细e": {
+            "x": 871.28,
+            "y": -2.63,
+            "rotation": 91.06,
+            "width": 29,
+            "height": 1249
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "bone2": {
+      "rootBoneName": "bone2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 6,
+          "moveXAmp": 30,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 6799,
+          "scaleXFreq": 3,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0,
+          "scaleYFreq": 4,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 0,
+          "scaleYCenter": 0
+        }
+      }
+    },
+    "粗b": {
+      "rootBoneName": "粗b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": -3.691805214068154,
+          "moveXCenter": 0,
+          "moveXSeed": 6804.934918906088,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -4.952466884399545,
+          "scaleXCenter": 0,
+          "scaleYFreq": 1,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 2.627408225126334,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.022680952116241347
+        }
+      }
+    },
+    "粗c": {
+      "rootBoneName": "粗c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 5.737999558508638,
+          "moveXCenter": 0,
+          "moveXSeed": 6797.731113802279,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -1.0459638240844,
+          "scaleXCenter": 0,
+          "scaleYFreq": 1,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 4.0995142112742915,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.07817528168639769
+        }
+      }
+    },
+    "粗a": {
+      "rootBoneName": "粗a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": -3.9857255774943843,
+          "moveXCenter": 0,
+          "moveXSeed": 6794.7456773378035,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -0.0873666772063267,
+          "scaleXCenter": 0,
+          "scaleYFreq": 1,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 1.048883031779207,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.27838292781329776
+        }
+      }
+    },
+    "细a": {
+      "rootBoneName": "细a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 3.7459957587804475,
+          "moveXCenter": 0,
+          "moveXSeed": 6794.035418293117,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 2.9291874087253036,
+          "scaleXCenter": 0,
+          "scaleYFreq": 1,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 2.306050265999739,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.05397721250865643
+        }
+      }
+    },
+    "细b": {
+      "rootBoneName": "细b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 5.176018402964275,
+          "moveXCenter": 0,
+          "moveXSeed": 6803.47593886563,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -2.6841532590845216,
+          "scaleXCenter": 0,
+          "scaleYFreq": 1,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": -3.842671415580091,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.08836469068730497
+        }
+      }
+    },
+    "细d": {
+      "rootBoneName": "细d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": -1.574959104294101,
+          "moveXCenter": 0,
+          "moveXSeed": 6802.989686814248,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 6.161529605899195,
+          "scaleXCenter": 0,
+          "scaleYFreq": 1,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": -4.454760064012033,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.1388834618169679
+        }
+      }
+    },
+    "细c": {
+      "rootBoneName": "细c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 0.9333174410214814,
+          "moveXCenter": 0,
+          "moveXSeed": 6803.980338622961,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 4.183069086765532,
+          "scaleXCenter": 0,
+          "scaleYFreq": 1,
+          "scaleYAmp": 0.05,
+          "scaleYOctaves": 0,
+          "scaleYDelay": 5.066981637023949,
+          "scaleYCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 1,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.26927548271614854
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "粗c": {
+      "slotName": "粗c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1,
+          "delay": 0,
+          "min": 0.2,
+          "max": 0.6
+        }
+      }
+    },
+    "粗b": {
+      "slotName": "粗b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1.1,
+          "delay": 0.06420635388232698,
+          "min": 0.2,
+          "max": 0.6
+        }
+      }
+    },
+    "粗a": {
+      "slotName": "粗a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 1.5,
+          "delay": 0.28315553732040355,
+          "min": 0.2,
+          "max": 0.6
+        }
+      }
+    },
+    "块": {
+      "slotName": "块",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.8,
+          "delay": 0.10170498870723654,
+          "min": 0.7,
+          "max": 1
+        }
+      }
+    },
+    "细a": {
+      "slotName": "细a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.6,
+          "delay": 0.04770456433335912,
+          "min": 0.2,
+          "max": 1
+        }
+      }
+    },
+    "细b": {
+      "slotName": "细b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.6,
+          "delay": -0.373187900341297,
+          "min": 0.2,
+          "max": 1
+        }
+      }
+    },
+    "细c": {
+      "slotName": "细c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.6,
+          "delay": -0.07079676609698904,
+          "min": 0.2,
+          "max": 1
+        }
+      }
+    },
+    "细d": {
+      "slotName": "细d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.6,
+          "delay": 0.03797637737214332,
+          "min": 0.2,
+          "max": 1
+        }
+      }
+    },
+    "细e": {
+      "slotName": "细e",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 0.6,
+          "delay": -0.08544562372653886,
+          "min": 0.2,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

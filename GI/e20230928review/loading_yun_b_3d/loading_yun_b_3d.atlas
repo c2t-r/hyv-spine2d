@@ -1,0 +1,9 @@
+loading_yun_b_3d.png
+size:1024,256
+filter:Linear,Linear
+scale:0.5
+ba
+bounds:2,2,73,17
+bb
+bounds:2,21,970,205
+offsets:0,43,970,248

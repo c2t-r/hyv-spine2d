@@ -1,0 +1,13 @@
+loading_moon.png
+size:746,440
+filter:Linear,Linear
+scale:0.8
+a
+bounds:619,61,126,126
+b
+bounds:431,1,186,186
+c
+bounds:431,189,251,250
+d
+bounds:1,11,428,428
+offsets:15,42,498,488

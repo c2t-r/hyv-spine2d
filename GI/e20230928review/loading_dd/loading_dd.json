@@ -1,0 +1,812 @@
+{
+  "skeleton": {
+    "hash": "jOge499ZACs",
+    "spine": "4.0-from-4.1.23",
+    "x": -5.5,
+    "y": -111,
+    "width": 11,
+    "height": 222
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "k",
+      "bone": "root",
+      "attachment": "k"
+    },
+    {
+      "name": "j",
+      "bone": "root",
+      "attachment": "j"
+    },
+    {
+      "name": "i",
+      "bone": "root",
+      "attachment": "i"
+    },
+    {
+      "name": "h",
+      "bone": "root",
+      "attachment": "h"
+    },
+    {
+      "name": "g",
+      "bone": "root",
+      "attachment": "g"
+    },
+    {
+      "name": "f",
+      "bone": "root",
+      "attachment": "f"
+    },
+    {
+      "name": "e",
+      "bone": "root",
+      "attachment": "e"
+    },
+    {
+      "name": "d",
+      "bone": "root",
+      "attachment": "d"
+    },
+    {
+      "name": "c",
+      "bone": "root",
+      "attachment": "c"
+    },
+    {
+      "name": "b",
+      "bone": "root",
+      "attachment": "b"
+    },
+    {
+      "name": "a",
+      "bone": "root",
+      "attachment": "a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "y": 105.5,
+            "width": 11,
+            "height": 11
+          }
+        },
+        "b": {
+          "b": {
+            "x": -0.5,
+            "y": 84,
+            "width": 10,
+            "height": 10
+          }
+        },
+        "c": {
+          "c": {
+            "x": -0.5,
+            "y": 63,
+            "width": 10,
+            "height": 10
+          }
+        },
+        "d": {
+          "d": {
+            "x": -0.5,
+            "y": 41.5,
+            "width": 10,
+            "height": 11
+          }
+        },
+        "e": {
+          "e": {
+            "x": -0.5,
+            "y": 21,
+            "width": 10,
+            "height": 10
+          }
+        },
+        "f": {
+          "f": {
+            "y": -1,
+            "width": 9,
+            "height": 10
+          }
+        },
+        "g": {
+          "g": {
+            "x": -0.5,
+            "y": -21,
+            "width": 10,
+            "height": 10
+          }
+        },
+        "h": {
+          "h": {
+            "y": -43,
+            "width": 9,
+            "height": 10
+          }
+        },
+        "i": {
+          "i": {
+            "x": -0.5,
+            "y": -62,
+            "width": 10,
+            "height": 10
+          }
+        },
+        "j": {
+          "j": {
+            "x": -1,
+            "y": -79.5,
+            "width": 9,
+            "height": 9
+          }
+        },
+        "k": {
+          "k": {
+            "x": -1,
+            "y": -101,
+            "width": 7,
+            "height": 20
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "a": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": [
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                0.24,
+                0.667,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffffff",
+              "curve": [
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                0.24
+              ]
+            },
+            {
+              "time": 2,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "b": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffff3e",
+              "curve": [
+                0.5,
+                1,
+                0.833,
+                1,
+                0.5,
+                1,
+                0.833,
+                1,
+                0.5,
+                1,
+                0.833,
+                1,
+                0.5,
+                0.24,
+                0.833,
+                1
+              ]
+            },
+            {
+              "time": 1.1667,
+              "color": "ffffffff",
+              "curve": [
+                1.5,
+                1,
+                1.833,
+                1,
+                1.5,
+                1,
+                1.833,
+                1,
+                1.5,
+                1,
+                1.833,
+                1,
+                1.5,
+                1,
+                1.833,
+                0.24
+              ]
+            },
+            {
+              "time": 2.1667,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "c": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff3e",
+              "curve": [
+                0.667,
+                1,
+                1,
+                1,
+                0.667,
+                1,
+                1,
+                1,
+                0.667,
+                1,
+                1,
+                1,
+                0.667,
+                0.24,
+                1,
+                1
+              ]
+            },
+            {
+              "time": 1.3333,
+              "color": "ffffffff",
+              "curve": [
+                1.667,
+                1,
+                2,
+                1,
+                1.667,
+                1,
+                2,
+                1,
+                1.667,
+                1,
+                2,
+                1,
+                1.667,
+                1,
+                2,
+                0.24
+              ]
+            },
+            {
+              "time": 2.3333,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "d": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff3e",
+              "curve": [
+                0.833,
+                1,
+                1.167,
+                1,
+                0.833,
+                1,
+                1.167,
+                1,
+                0.833,
+                1,
+                1.167,
+                1,
+                0.833,
+                0.24,
+                1.167,
+                1
+              ]
+            },
+            {
+              "time": 1.5,
+              "color": "ffffffff",
+              "curve": [
+                1.833,
+                1,
+                2.167,
+                1,
+                1.833,
+                1,
+                2.167,
+                1,
+                1.833,
+                1,
+                2.167,
+                1,
+                1.833,
+                1,
+                2.167,
+                0.24
+              ]
+            },
+            {
+              "time": 2.5,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "e": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff3e",
+              "curve": [
+                1,
+                1,
+                1.333,
+                1,
+                1,
+                1,
+                1.333,
+                1,
+                1,
+                1,
+                1.333,
+                1,
+                1,
+                0.24,
+                1.333,
+                1
+              ]
+            },
+            {
+              "time": 1.6667,
+              "color": "ffffffff",
+              "curve": [
+                2,
+                1,
+                2.333,
+                1,
+                2,
+                1,
+                2.333,
+                1,
+                2,
+                1,
+                2.333,
+                1,
+                2,
+                1,
+                2.333,
+                0.24
+              ]
+            },
+            {
+              "time": 2.6667,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "f": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "color": "ffffff3e",
+              "curve": [
+                1.167,
+                1,
+                1.5,
+                1,
+                1.167,
+                1,
+                1.5,
+                1,
+                1.167,
+                1,
+                1.5,
+                1,
+                1.167,
+                0.24,
+                1.5,
+                1
+              ]
+            },
+            {
+              "time": 1.8333,
+              "color": "ffffffff",
+              "curve": [
+                2.167,
+                1,
+                2.5,
+                1,
+                2.167,
+                1,
+                2.5,
+                1,
+                2.167,
+                1,
+                2.5,
+                1,
+                2.167,
+                1,
+                2.5,
+                0.24
+              ]
+            },
+            {
+              "time": 2.8333,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "g": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff3e",
+              "curve": [
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                0.24,
+                1.667,
+                1
+              ]
+            },
+            {
+              "time": 2,
+              "color": "ffffffff",
+              "curve": [
+                2.333,
+                1,
+                2.667,
+                1,
+                2.333,
+                1,
+                2.667,
+                1,
+                2.333,
+                1,
+                2.667,
+                1,
+                2.333,
+                1,
+                2.667,
+                0.24
+              ]
+            },
+            {
+              "time": 3,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "h": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 1.1333,
+              "color": "ffffff3e",
+              "curve": [
+                1.467,
+                1,
+                1.8,
+                1,
+                1.467,
+                1,
+                1.8,
+                1,
+                1.467,
+                1,
+                1.8,
+                1,
+                1.467,
+                0.24,
+                1.8,
+                1
+              ]
+            },
+            {
+              "time": 2.1333,
+              "color": "ffffffff",
+              "curve": [
+                2.467,
+                1,
+                2.8,
+                1,
+                2.467,
+                1,
+                2.8,
+                1,
+                2.467,
+                1,
+                2.8,
+                1,
+                2.467,
+                1,
+                2.8,
+                0.24
+              ]
+            },
+            {
+              "time": 3.1333,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "i": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 1.2667,
+              "color": "ffffff3e",
+              "curve": [
+                1.6,
+                1,
+                1.933,
+                1,
+                1.6,
+                1,
+                1.933,
+                1,
+                1.6,
+                1,
+                1.933,
+                1,
+                1.6,
+                0.24,
+                1.933,
+                1
+              ]
+            },
+            {
+              "time": 2.2667,
+              "color": "ffffffff",
+              "curve": [
+                2.6,
+                1,
+                2.933,
+                1,
+                2.6,
+                1,
+                2.933,
+                1,
+                2.6,
+                1,
+                2.933,
+                1,
+                2.6,
+                1,
+                2.933,
+                0.24
+              ]
+            },
+            {
+              "time": 3.2667,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "j": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 1.4333,
+              "color": "ffffff3e",
+              "curve": [
+                1.767,
+                1,
+                2.1,
+                1,
+                1.767,
+                1,
+                2.1,
+                1,
+                1.767,
+                1,
+                2.1,
+                1,
+                1.767,
+                0.24,
+                2.1,
+                1
+              ]
+            },
+            {
+              "time": 2.4333,
+              "color": "ffffffff",
+              "curve": [
+                2.767,
+                1,
+                3.1,
+                1,
+                2.767,
+                1,
+                3.1,
+                1,
+                2.767,
+                1,
+                3.1,
+                1,
+                2.767,
+                1,
+                3.1,
+                0.24
+              ]
+            },
+            {
+              "time": 3.4333,
+              "color": "ffffff3e"
+            }
+          ]
+        },
+        "k": {
+          "rgba": [
+            {
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6,
+              "color": "ffffff3e",
+              "curve": [
+                1.933,
+                1,
+                2.267,
+                1,
+                1.933,
+                1,
+                2.267,
+                1,
+                1.933,
+                1,
+                2.267,
+                1,
+                1.933,
+                0.24,
+                2.267,
+                1
+              ]
+            },
+            {
+              "time": 2.6,
+              "color": "ffffffff",
+              "curve": [
+                2.933,
+                1,
+                3.267,
+                1,
+                2.933,
+                1,
+                3.267,
+                1,
+                2.933,
+                1,
+                3.267,
+                1,
+                2.933,
+                1,
+                3.267,
+                0.24
+              ]
+            },
+            {
+              "time": 3.6,
+              "color": "ffffff3e",
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "color": "ffffff3e"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "root": {
+      "rootBoneName": "root",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 6539,
+          "scaleXFreq": 15,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
