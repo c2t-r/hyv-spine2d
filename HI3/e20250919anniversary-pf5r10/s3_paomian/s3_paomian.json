@@ -1,0 +1,82 @@
+{
+  "skeleton": {
+    "hash": "Ki19eu3fHbg",
+    "spine": "4.2.43",
+    "x": 146.03,
+    "y": -53,
+    "width": 148.85,
+    "height": 145.29,
+    "images": "./images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "rotation": -0.68,
+      "x": 218,
+      "y": 10.96,
+      "scaleX": 0.3241,
+      "scaleY": 0.3241,
+      "icon": "arrows"
+    }
+  ],
+  "slots": [
+    {
+      "name": "daoju_3",
+      "bone": "bone",
+      "attachment": "daoju_3"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "daoju_3": {
+          "daoju_3": {
+            "x": 7.24,
+            "y": 26.9,
+            "rotation": 24.99,
+            "width": 354,
+            "height": 332
+          },
+          "daoju_4": {
+            "path": "daoju_3",
+            "x": -484.45,
+            "y": -949.4,
+            "rotation": 24.99,
+            "width": 354,
+            "height": 332
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "默认位置a": {
+      "slots": {
+        "daoju_3": {
+          "attachment": [
+            {
+              "name": "daoju_3"
+            }
+          ]
+        }
+      }
+    },
+    "默认位置b": {
+      "slots": {
+        "daoju_3": {
+          "attachment": [
+            {
+              "name": "daoju_4"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

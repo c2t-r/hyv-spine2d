@@ -1,0 +1,43 @@
+sy_相框.png
+	size: 2048, 2048
+	filter: MipMapLinearLinear, MipMapLinearLinear
+云1
+	bounds: 1637, 492, 230, 140
+云2
+	bounds: 839, 1609, 192, 70
+云3
+	bounds: 1786, 1054, 195, 157
+云4
+	bounds: 1608, 634, 1083, 430
+	rotate: 90
+副标题
+	bounds: 2, 1569, 835, 148
+大标题
+	bounds: 1042, 313, 593, 319
+天
+	bounds: 772, 1681, 36, 714
+	rotate: 90
+流星a
+	bounds: 1140, 1648, 69, 31
+流星b
+	bounds: 2, 1685, 72, 32
+流星c
+	bounds: 1033, 1625, 105, 54
+	offsets: 0, 0, 106, 54
+点点1
+	bounds: 1609, 1042, 175, 183
+点点2
+	bounds: 1609, 1227, 194, 191
+	offsets: 1, 0, 195, 191
+点点3
+	bounds: 1609, 1420, 194, 191
+	offsets: 1, 0, 195, 191
+相框
+	bounds: 2, 663, 1605, 904
+纸飞机
+	bounds: 1595, 1632, 105, 72
+纸飞机影子
+	bounds: 1488, 1645, 105, 72
+色相饱和度 拷贝
+	bounds: 2, 2, 1038, 659
+	offsets: 0, 3, 1038, 662

@@ -1,0 +1,101 @@
+s1_aiyana.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.3
+2
+	bounds: 746, 477, 20, 8
+biyan
+	bounds: 448, 462, 74, 23
+biyan1
+	bounds: 644, 465, 62, 20
+qyn_1
+	bounds: 645, 124, 377, 335
+	rotate: 180
+qyn_2
+	bounds: 338, 237, 328, 248
+qyn_3
+	bounds: 216, 479, 19, 6
+qyn_gaoxing_1
+	bounds: 2, 474, 47, 11
+qyn_gaoxing_10
+	bounds: 652, 72, 39, 50
+qyn_gaoxing_11
+	bounds: 791, 80, 48, 51
+qyn_gaoxing_12
+	bounds: 770, 434, 68, 51
+qyn_gaoxing_13
+	bounds: 840, 435, 55, 50
+qyn_gaoxing_2
+	bounds: 51, 475, 43, 10
+qyn_gaoxing_3
+	bounds: 708, 462, 38, 23
+qyn_gaoxing_4
+	bounds: 582, 477, 11, 8
+qyn_gaoxing_5
+	bounds: 631, 478, 10, 7
+qyn_gaoxing_6
+	bounds: 344, 475, 25, 10
+qyn_gaoxing_7
+	bounds: 780, 33, 68, 43
+	offsets: 0, 0, 70, 43
+qyn_gaoxing_8
+	bounds: 238, 474, 32, 11
+qyn_gaoxing_9
+	bounds: 523, 48, 78, 45
+qyn_shenti_1
+	bounds: 8, 237, 328, 248
+	rotate: 180
+qyn_shenti_10
+	bounds: 897, 447, 25, 16
+qyn_shenti_11
+	bounds: 940, 459, 39, 26
+qyn_shenti_12
+	bounds: 524, 463, 21, 22
+qyn_shenti_13
+	bounds: 107, 106, 121, 159
+qyn_shenti_14
+	bounds: 987, 445, 28, 40
+qyn_shenti_15
+	bounds: 587, 66, 63, 194
+qyn_shenti_16
+	bounds: 2, 66, 58, 184
+qyn_shenti_17
+	bounds: 679, 133, 258, 141
+qyn_shenti_18
+	bounds: 2, 419, 40, 53
+qyn_shenti_19
+	bounds: 276, 468, 15, 17
+qyn_shenti_2
+	bounds: 285, 2, 233, 236
+	rotate: 90
+qyn_shenti_20
+	bounds: 227, 177, 50, 58
+qyn_shenti_21
+	bounds: 897, 462, 43, 23
+qyn_shenti_22
+	bounds: 52, 28, 77, 152
+qyn_shenti_23
+	bounds: 316, 245, 70, 39
+qyn_shenti_3
+	bounds: 180, 48, 104, 95
+	offsets: 7, 0, 111, 95
+qyn_shenti_4
+	bounds: 94, 38, 87, 55
+qyn_shenti_5
+	bounds: 694, 50, 95, 91
+qyn_shenti_6
+	bounds: 769, 282, 51, 61
+qyn_shenti_7
+	bounds: 526, 95, 63, 140
+qyn_shenti_8
+	bounds: 844, 35, 158, 121
+qyn_shenti_9
+	bounds: 547, 423, 32, 62
+zui_gx
+	bounds: 450, 441, 25, 19
+正常眼L
+	bounds: 51, 184, 48, 51
+正常眼R
+	bounds: 303, 435, 39, 50
+草莓蛋糕
+	bounds: 948, 25, 74, 81

@@ -1,0 +1,18 @@
+s5_植株.png
+	size: 1024, 128
+	filter: MipMapLinearLinear, MipMapLinearLinear
+图层 2
+	bounds: 620, 3, 71, 184
+	rotate: 90
+图层 3
+	bounds: 880, 13, 63, 142
+	rotate: 90
+图层 4
+	bounds: 703, 50, 66, 209
+	rotate: 270
+图层 6
+	bounds: 549, 30, 86, 293
+	rotate: 90
+图层 7
+	bounds: 2, 2, 114, 545
+	rotate: 90

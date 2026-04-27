@@ -1,0 +1,7 @@
+s7_前景雾.png
+	size: 2048, 256
+	filter: MipMapLinearLinear, MipMapLinearLinear
+图层 1
+	bounds: 891, 2, 591, 148
+图层 2
+	bounds: 2, 2, 887, 148

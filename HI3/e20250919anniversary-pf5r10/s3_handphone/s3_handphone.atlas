@@ -1,0 +1,24 @@
+s3_handphone.png
+	size: 512, 64
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.3
+叹号1
+	bounds: 280, 13, 33, 40
+叹号2
+	bounds: 246, 4, 32, 49
+叹号3
+	bounds: 315, 19, 19, 34
+手机
+	bounds: 2, 36, 87, 17
+符号a
+	bounds: 91, 2, 51, 75
+	rotate: 90
+符号a2
+	bounds: 356, 32, 21, 15
+	rotate: 90
+符号b
+	bounds: 168, 4, 49, 76
+	rotate: 90
+符号b2
+	bounds: 336, 28, 25, 18
+	rotate: 90

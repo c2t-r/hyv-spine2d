@@ -1,0 +1,78 @@
+s6_lituosite.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.36
+L_后摆
+	bounds: 1622, 61, 230, 269
+	rotate: 180
+L_围巾
+	bounds: 2, 164, 136, 262
+	rotate: 90
+L_大臂
+	bounds: 500, 46, 63, 115
+L_小臂
+	bounds: 1259, 216, 64, 114
+L_肘
+	bounds: 1029, 288, 44, 42
+L_腿
+	bounds: 16, 83, 85, 236
+	rotate: 90
+L_鬓发
+	bounds: 662, 71, 44, 137
+R_后摆
+	bounds: 338, 138, 181, 258
+	rotate: 270
+R_围巾
+	bounds: 254, 51, 53, 187
+R_大臂
+	bounds: 423, 50, 75, 114
+R_小臂
+	bounds: 368, 54, 69, 108
+R_肘
+	bounds: 1934, 287, 45, 43
+R_腿
+	bounds: 512, 228, 77, 222
+	rotate: 90
+R_鬓发
+	bounds: 1317, 233, 35, 97
+侧
+	bounds: 420, 301, 212, 29
+	offsets: 0, 1, 212, 46
+	rotate: 180
+刘海
+	bounds: 1071, 71, 353, 259
+后发
+	bounds: 694, 2, 415, 328
+	rotate: 180
+嘴
+	bounds: 23, 326, 18, 4
+头
+	bounds: 1408, 63, 267, 224
+	offsets: 0, 0, 267, 263
+	rotate: 90
+头发
+	bounds: 304, 74, 81, 33
+	rotate: 90
+小刘海
+	bounds: 598, 111, 123, 125
+挂件
+	bounds: 95, 251, 37, 73
+眉
+	bounds: 634, 309, 160, 21
+	offsets: 0, 0, 161, 21
+眼白
+	bounds: 134, 240, 200, 54
+眼皮
+	bounds: 2, 296, 226, 34
+	offsets: 0, 0, 230, 34
+瞳
+	bounds: 1851, 113, 174, 71
+	offsets: 0, 1, 174, 72
+身体
+	bounds: 1728, 185, 145, 204
+	rotate: 90
+辫子
+	bounds: 1911, 188, 142, 130
+	rotate: 90
+黑眼圈
+	bounds: 215, 284, 219, 46

@@ -1,0 +1,27 @@
+s8_黑云.png
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+图层 1
+	bounds: 928, 535, 827, 352
+图层 2
+	bounds: 1695, 2, 839, 351
+	offsets: 5, 0, 846, 351
+	rotate: 270
+图层 3
+	bounds: 819, 164, 602, 369
+	offsets: 0, 0, 618, 369
+	rotate: 180
+图层 4
+	bounds: 624, 807, 415, 80
+图层 5
+	bounds: 879, 627, 379, 183
+图层 6
+	bounds: 2, 805, 620, 82
+图层 7
+	bounds: 2, 127, 602, 330
+	offsets: 0, 20, 603, 350
+	rotate: 180
+图层 8
+	bounds: 1248, 202, 537, 331
+图层 9
+	bounds: 177, 446, 847, 359

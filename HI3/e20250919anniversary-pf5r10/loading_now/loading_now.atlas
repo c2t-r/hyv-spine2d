@@ -1,0 +1,9 @@
+loading_now.png
+	size: 2048, 128
+	filter: MipMapLinearLinear, MipMapLinearLinear
+loading_bar
+	bounds: 1029, 2, 113, 80
+进度条加载条
+	bounds: 1029, 84, 1003, 23
+进度条底部
+	bounds: 2, 66, 1025, 41

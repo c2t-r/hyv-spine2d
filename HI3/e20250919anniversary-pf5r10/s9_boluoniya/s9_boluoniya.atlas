@@ -1,0 +1,127 @@
+s9_boluoniya.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.31
+biyan
+	bounds: 2, 437, 179, 17
+blny_shenti_1
+	bounds: 246, 83, 371, 305
+	rotate: 90
+blny_shenti_10
+	bounds: 738, 246, 37, 138
+	rotate: 90
+blny_shenti_11
+	bounds: 1947, 291, 84, 163
+blny_shenti_12
+	bounds: 2, 362, 73, 165
+	rotate: 90
+blny_shenti_13
+	bounds: 1877, 302, 36, 33
+blny_shenti_14
+	bounds: 1947, 261, 76, 57
+blny_shenti_15
+	bounds: 1703, 223, 66, 34
+blny_shenti_16
+	bounds: 1647, 260, 69, 63
+blny_shenti_17
+	bounds: 495, 427, 39, 27
+blny_shenti_18
+	bounds: 2008, 362, 26, 45
+blny_shenti_19
+	bounds: 538, 381, 50, 73
+blny_shenti_2
+	bounds: 1072, 205, 243, 249
+blny_shenti_20
+	bounds: 1449, 418, 31, 36
+blny_shenti_21
+	bounds: 1317, 420, 33, 34
+blny_shenti_22
+	bounds: 933, 418, 37, 36
+blny_shenti_23
+	bounds: 1317, 353, 28, 30
+blny_shenti_24
+	bounds: 1317, 385, 30, 33
+blny_shenti_25
+	bounds: 623, 433, 20, 21
+blny_shenti_26
+	bounds: 590, 425, 31, 29
+blny_shenti_27
+	bounds: 1718, 264, 17, 59
+blny_shenti_28
+	bounds: 923, 360, 23, 56
+blny_shenti_29
+	bounds: 1877, 337, 117, 68
+	rotate: 90
+blny_shenti_3
+	bounds: 1542, 431, 16, 23
+blny_shenti_4
+	bounds: 1542, 431, 16, 23
+blny_shenti_30
+	bounds: 1317, 190, 130, 264
+blny_shenti_31
+	bounds: 2, 310, 100, 73
+blny_shenti_32
+	bounds: 1808, 264, 67, 190
+blny_shenti_33
+	bounds: 1742, 253, 65, 201
+blny_shenti_34
+	bounds: 1438, 273, 116, 181
+	rotate: 180
+blny_shenti_35
+	bounds: 166, 353, 84, 159
+	rotate: 90
+blny_shenti_36
+	bounds: 159, 420, 34, 140
+	rotate: 90
+blny_shenti_37
+	bounds: 92, 294, 71, 177
+	rotate: 90
+blny_shenti_38
+	bounds: 861, 2, 209, 452
+blny_shenti_39
+	bounds: 476, 230, 224, 455
+	rotate: 270
+blny_shenti_40
+	bounds: 1658, 325, 129, 84
+	rotate: 90
+blny_shenti_41
+	bounds: 1460, 231, 97, 43
+blny_shenti_42
+	bounds: 1762, 206, 67, 70
+blny_shenti_43
+	bounds: 1552, 297, 104, 157
+	rotate: 180
+blny_shenti_44
+	bounds: 1541, 161, 182, 173
+blny_shenti_45
+	bounds: 1850, 205, 127, 181
+blny_shenti_6
+	bounds: 2, 236, 90, 73
+blny_shenti_7
+	bounds: 190, 252, 54, 57
+blny_shenti_8
+	bounds: 1997, 208, 49, 52
+blny_shenti_9
+	bounds: 1805, 384, 19, 70
+blny_wuguang_1
+	bounds: 302, 446, 131, 8
+blny_wuguang_10
+	bounds: 481, 435, 9, 19
+	offsets: 0, 1, 9, 20
+blny_wuguang_2
+	bounds: 183, 448, 20, 6
+blny_wuguang_3
+	bounds: 662, 210, 88, 45
+blny_wuguang_4
+	bounds: 73, 213, 72, 46
+blny_wuguang_5
+	bounds: 1651, 214, 50, 44
+blny_wuguang_6
+	bounds: 1997, 409, 41, 45
+blny_wuguang_7
+	bounds: 117, 250, 71, 42
+blny_wuguang_8
+	bounds: 1919, 216, 56, 43
+blny_wuguang_9
+	bounds: 327, 420, 14, 24
+	offsets: 0, 1, 14, 25

@@ -1,0 +1,176 @@
+{
+  "skeleton": {
+    "hash": "1suAoAKTXkg",
+    "spine": "4.2.43",
+    "x": -579.43,
+    "y": -40,
+    "width": 1079.93,
+    "height": 80,
+    "images": "./images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "ALL",
+      "parent": "root",
+      "x": 1.23,
+      "y": -80.87
+    },
+    {
+      "name": "loading_bar",
+      "parent": "ALL",
+      "length": 189.9,
+      "x": -521.32,
+      "y": 82.92
+    },
+    {
+      "name": "loading_bar2",
+      "parent": "loading_bar",
+      "length": 51.61,
+      "rotation": 39.91,
+      "x": 2.69,
+      "y": -6.25
+    }
+  ],
+  "slots": [
+    {
+      "name": "进度条底部",
+      "bone": "ALL",
+      "attachment": "进度条底部"
+    },
+    {
+      "name": "mask",
+      "bone": "ALL",
+      "attachment": "mask"
+    },
+    {
+      "name": "进度条加载条",
+      "bone": "ALL",
+      "attachment": "进度条加载条"
+    },
+    {
+      "name": "loading_bar",
+      "bone": "loading_bar2",
+      "attachment": "loading_bar"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_bar": {
+          "loading_bar": {
+            "x": -1.55,
+            "y": 6.77,
+            "rotation": -39.91,
+            "width": 113,
+            "height": 80
+          }
+        },
+        "mask": {
+          "mask": {
+            "type": "clipping",
+            "end": "进度条加载条",
+            "vertexCount": 4,
+            "vertices": [
+              1,
+              1,
+              -640.09,
+              129.1,
+              1,
+              1,
+              1,
+              -634.13,
+              25.84,
+              1,
+              1,
+              2,
+              1.05,
+              -50.46,
+              1,
+              1,
+              2,
+              1.71,
+              44.86,
+              1
+            ],
+            "color": "ce3a3aff"
+          }
+        },
+        "进度条加载条": {
+          "进度条加载条": {
+            "x": -13.23,
+            "y": 80.37,
+            "width": 1003,
+            "height": 23
+          }
+        },
+        "进度条底部": {
+          "进度条底部": {
+            "x": -13.23,
+            "y": 80.37,
+            "width": 1025,
+            "height": 41
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0未加载状态": {
+      "bones": {
+        "loading_bar": {
+          "translate": [
+            {}
+          ]
+        }
+      }
+    },
+    "1加载过程": {
+      "bones": {
+        "loading_bar": {
+          "translate": [
+            {},
+            {
+              "time": 3.3333,
+              "x": 1008.41
+            }
+          ]
+        }
+      }
+    },
+    "小飞机": {}
+  },
+  "extra": {
+    "loading_bar2": {
+      "rootBoneName": "loading_bar2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "小飞机": {
+          "name": "小飞机",
+          "mode": 3,
+          "moveXFreq": 1,
+          "moveXAmp": 1,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 4174,
+          "rotateFreq": 1,
+          "rotateAmp": 2.5,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.30000000000000004
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,6 @@
+s8_R_白雾.png
+	size: 512, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+s8_R_白雾
+	bounds: 2, 2, 866, 460
+	rotate: 90

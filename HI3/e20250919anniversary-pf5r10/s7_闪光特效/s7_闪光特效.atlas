@@ -1,0 +1,56 @@
+s7_闪光特效.png
+	size: 512, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+yellow_dot
+	bounds: 124, 267, 8, 8
+大1
+	bounds: 101, 95, 180, 256
+	rotate: 90
+大2
+	bounds: 287, 131, 205, 144
+大3
+	bounds: 2, 2, 389, 273
+大4
+	bounds: 56, 46, 229, 323
+	rotate: 90
+粉_1
+	bounds: 33, 263, 12, 12
+粉_10
+	bounds: 223, 204, 62, 71
+粉_11
+	bounds: 287, 223, 18, 22
+	rotate: 90
+粉_12
+	bounds: 337, 256, 19, 41
+	rotate: 90
+粉_13
+	bounds: 313, 147, 18, 51
+	rotate: 90
+粉_2
+	bounds: 461, 175, 25, 100
+粉_3
+	bounds: 382, 222, 77, 53
+粉_4
+	bounds: 2, 203, 39, 33
+粉_5
+	bounds: 151, 250, 67, 25
+粉_6
+	bounds: 311, 214, 25, 10
+粉_7
+	bounds: 2, 158, 102, 31
+粉_8
+	bounds: 369, 147, 38, 32
+粉_9
+	bounds: 287, 167, 80, 37
+黄_1
+	bounds: 181, 231, 17, 27
+	rotate: 90
+黄_2
+	bounds: 357, 241, 21, 13
+黄_3
+	bounds: 488, 221, 9, 31
+	offsets: 0, 0, 10, 31
+黄_4
+	bounds: 488, 254, 14, 21
+黄_5
+	bounds: 210, 227, 11, 21

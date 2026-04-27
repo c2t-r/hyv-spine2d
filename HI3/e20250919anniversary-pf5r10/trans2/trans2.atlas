@@ -1,0 +1,68 @@
+trans2.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.5
+trans2_00060
+	bounds: 170, 53, 67, 67
+	offsets: 79, 26, 289, 125
+trans2_00061
+	bounds: 2, 25, 166, 95
+	offsets: 0, 0, 289, 125
+trans2_00062
+	bounds: 1160, 122, 261, 125
+	offsets: 0, 0, 289, 125
+trans2_00063
+	bounds: 1671, 122, 246, 125
+	offsets: 0, 0, 289, 125
+trans2_00064
+	bounds: 1423, 122, 246, 125
+	offsets: 0, 0, 289, 125
+trans2_00065
+	bounds: 1919, 2, 245, 125
+	offsets: 2, 0, 289, 125
+	rotate: 90
+trans2_00066
+	bounds: 875, 122, 283, 125
+	offsets: 0, 0, 289, 125
+trans2_00067
+	bounds: 584, 122, 289, 125
+trans2_00068
+	bounds: 293, 122, 289, 125
+trans2_00069
+	bounds: 293, 122, 289, 125
+trans2_00070
+	bounds: 2, 122, 289, 125
+trans2_00071
+	bounds: 1748, 249, 289, 125
+trans2_00072
+	bounds: 1457, 249, 289, 125
+trans2_00073
+	bounds: 1166, 249, 289, 125
+trans2_00074
+	bounds: 1166, 249, 289, 125
+trans2_00075
+	bounds: 875, 249, 289, 125
+trans2_00076
+	bounds: 584, 249, 289, 125
+trans2_00077
+	bounds: 293, 249, 289, 125
+trans2_00078
+	bounds: 2, 249, 289, 125
+trans2_00079
+	bounds: 2, 249, 289, 125
+trans2_00080
+	bounds: 1748, 376, 289, 125
+trans2_00081
+	bounds: 1457, 376, 289, 125
+trans2_00082
+	bounds: 1166, 376, 289, 125
+trans2_00083
+	bounds: 875, 376, 289, 125
+trans2_00084
+	bounds: 584, 376, 289, 125
+trans2_00085
+	bounds: 293, 376, 289, 125
+trans2_00086
+	bounds: 2, 376, 289, 125
+trans2_00087
+	bounds: 2039, 500, 1, 1

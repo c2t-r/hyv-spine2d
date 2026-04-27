@@ -1,0 +1,38 @@
+s1_L_立式气球.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+图层 1
+	bounds: 303, 148, 147, 93
+图层 1 拷贝
+	bounds: 553, 232, 147, 93
+	rotate: 90
+图层 10
+	bounds: 397, 209, 141, 132
+图层 11
+	bounds: 888, 129, 134, 100
+图层 5
+	bounds: 769, 353, 150, 92
+	rotate: 90
+图层 7
+	bounds: 2, 211, 193, 292
+气球1
+	bounds: 676, 32, 146, 265
+	rotate: 90
+气球2
+	bounds: 727, 180, 134, 323
+气球3
+	bounds: 249, 145, 264, 358
+	rotate: 180
+气球4
+	bounds: 858, 153, 157, 350
+	rotate: 180
+气球5
+	bounds: 255, 6, 138, 402
+	rotate: 90
+气球6
+	bounds: 514, 64, 143, 439
+气球7
+	bounds: 594, 2, 131, 501
+	rotate: 180
+气球8
+	bounds: 73, 14, 207, 489

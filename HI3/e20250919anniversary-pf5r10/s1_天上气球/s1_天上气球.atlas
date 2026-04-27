@@ -1,0 +1,27 @@
+s1_天上气球.png
+	size: 1024, 128
+	filter: MipMapLinearLinear, MipMapLinearLinear
+气球1
+	bounds: 2, 49, 55, 140
+	offsets: 0, 0, 55, 143
+	rotate: 90
+气球2
+	bounds: 2, 2, 102, 188
+	rotate: 90
+气球3
+	bounds: 591, 64, 40, 131
+	offsets: 0, 0, 40, 138
+	rotate: 270
+气球4
+	bounds: 515, 23, 81, 121
+	rotate: 90
+气球5
+	bounds: 723, 64, 40, 133
+	offsets: 0, 0, 40, 138
+	rotate: 90
+气球6
+	bounds: 379, 49, 55, 134
+	rotate: 90
+气球7
+	bounds: 180, 28, 76, 197
+	rotate: 270

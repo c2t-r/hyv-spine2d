@@ -1,0 +1,20 @@
+s8_白云.png
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+图层 1
+	bounds: 1516, 2, 530, 232
+	offsets: 140, 0, 671, 232
+	rotate: 180
+图层 2
+	bounds: 2, 16, 1319, 335
+图层 3
+	bounds: 795, 451, 707, 100
+	rotate: 180
+图层 4
+	bounds: 1080, 131, 966, 357
+	rotate: 180
+图层 5
+	bounds: 874, 248, 1103, 303
+	rotate: 180
+图层 6
+	bounds: 2, 339, 939, 212

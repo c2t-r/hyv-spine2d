@@ -1,0 +1,89 @@
+s8_leiyela.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.19
+L_上臂
+	bounds: 2, 287, 53, 70
+	offsets: 0, 41, 66, 111
+L_小臂
+	bounds: 934, 344, 53, 67
+L_腿
+	bounds: 220, 349, 40, 124
+	rotate: 90
+L_裙摆饰品
+	bounds: 129, 31, 168, 116
+	rotate: 180
+L刘海
+	bounds: 18, 254, 131, 180
+	rotate: 90
+L耳环
+	bounds: 777, 379, 13, 32
+R_上臂
+	bounds: 731, 343, 49, 68
+R_小臂
+	bounds: 138, 238, 66, 78
+R_腿
+	bounds: 983, 177, 39, 117
+R_裙摆饰品
+	bounds: 879, 2, 124, 111
+	rotate: 180
+R刘海
+	bounds: 282, 45, 114, 172
+	rotate: 270
+R耳环
+	bounds: 534, 379, 13, 32
+中刘海
+	bounds: 773, 91, 121, 138
+	rotate: 180
+侧
+	bounds: 230, 390, 110, 21
+	rotate: 180
+后发
+	bounds: 212, 104, 307, 323
+	rotate: 90
+嘴
+	bounds: 22, 409, 10, 2
+头
+	bounds: 785, 261, 148, 150
+头饰2
+	bounds: 636, 56, 76, 177
+	rotate: 90
+头饰3
+	bounds: 822, 59, 100, 169
+	rotate: 270
+头饰4
+	bounds: 538, 195, 195, 146
+头饰品
+	bounds: 534, 28, 100, 100
+	rotate: 180
+白刘海
+	bounds: 2, 188, 29, 80
+眉
+	bounds: 342, 405, 97, 6
+	rotate: 180
+眼白
+	bounds: 118, 385, 114, 26
+眼皮
+	bounds: 2, 396, 125, 15
+瞳
+	bounds: 6, 358, 93, 37
+背部月亮
+	bounds: 531, 104, 307, 263
+	rotate: 90
+脖子
+	bounds: 370, 372, 42, 33
+裙摆底
+	bounds: 2, 141, 298, 143
+	rotate: 180
+裙裤
+	bounds: 2, 47, 120, 92
+裙裤后
+	bounds: 538, 157, 95, 86
+身体
+	bounds: 844, 101, 304, 178
+	offsets: 18, 0, 322, 178
+	rotate: 90
+领子
+	bounds: 617, 347, 60, 25
+高光
+	bounds: 239, 404, 67, 7

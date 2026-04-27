@@ -1,0 +1,191 @@
+s9_qiyana.png
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.31
+niangao_1
+	bounds: 2, 106, 73, 93
+	offsets: 8, 1, 81, 94
+	rotate: 90
+niangao_10
+	bounds: 1834, 208, 163, 140
+niangao_11
+	bounds: 1570, 243, 262, 188
+niangao_12
+	bounds: 774, 167, 114, 158
+	offsets: 0, 1, 114, 159
+niangao_13
+	bounds: 793, 631, 46, 80
+	rotate: 90
+niangao_14
+	bounds: 1319, 193, 277, 96
+	offsets: 0, 1, 277, 97
+niangao_15
+	bounds: 523, 165, 206, 249
+	rotate: 90
+niangao_16
+	bounds: 890, 222, 90, 61
+	offsets: 0, 0, 95, 61
+	rotate: 90
+niangao_17
+	bounds: 1557, 90, 178, 103
+niangao_18
+	bounds: 1472, 512, 81, 165
+niangao_19
+	bounds: 1303, 316, 265, 361
+	rotate: 180
+niangao_2
+	bounds: 1353, 406, 29, 37
+niangao_20
+	bounds: 1811, 349, 328, 160
+	rotate: 90
+niangao_21
+	bounds: 298, 229, 448, 249
+	rotate: 270
+niangao_22
+	bounds: 953, 174, 178, 364
+	rotate: 90
+niangao_3
+	bounds: 1029, 319, 28, 38
+	offsets: 0, 1, 28, 39
+niangao_4
+	bounds: 773, 327, 45, 44
+	offsets: 0, 1, 45, 45
+niangao_5
+	bounds: 1039, 637, 25, 40
+niangao_6
+	bounds: 369, 79, 78, 56
+niangao_7
+	bounds: 2018, 614, 18, 63
+	offsets: 0, 1, 18, 64
+niangao_8
+	bounds: 1973, 403, 67, 91
+niangao_9
+	bounds: 1394, 108, 128, 83
+	offsets: 0, 1, 128, 84
+xc_gaoxing_1
+	bounds: 51, 548, 129, 9
+	offsets: 4, 0, 133, 9
+	rotate: 90
+xc_gaoxing_2
+	bounds: 1305, 445, 64, 21
+xc_gaoxing_3
+	bounds: 1319, 300, 77, 23
+xc_gaoxing_4
+	bounds: 227, 657, 26, 20
+xc_shenti_1
+	bounds: 1007, 477, 62, 52
+xc_shenti_10
+	bounds: 1211, 105, 105, 181
+	rotate: 270
+xc_shenti_11
+	bounds: 1936, 495, 80, 182
+xc_shenti_12
+	bounds: 92, 652, 21, 25
+xc_shenti_13
+	bounds: 1811, 615, 32, 62
+	offsets: 2, 0, 34, 62
+xc_shenti_14
+	bounds: 1729, 51, 51, 81
+xc_shenti_15
+	bounds: 515, 80, 71, 105
+	rotate: 180
+xc_shenti_16
+	bounds: 2, 535, 34, 142
+xc_shenti_17
+	bounds: 116, 88, 70, 252
+	rotate: 90
+xc_shenti_18
+	bounds: 109, 110, 92, 245
+	rotate: 90
+xc_shenti_19
+	bounds: 549, 373, 304, 242
+	rotate: 90
+xc_shenti_2
+	bounds: 1296, 325, 68, 114
+xc_shenti_20
+	bounds: 62, 592, 29, 85
+xc_shenti_21
+	bounds: 356, 135, 100, 189
+	rotate: 90
+xc_shenti_22
+	bounds: 1049, 121, 100, 189
+	rotate: 270
+xc_shenti_23
+	bounds: 1869, 115, 142, 91
+xc_shenti_24
+	bounds: 2, 150, 319, 527
+	rotate: 180
+xc_shenti_25
+	bounds: 1524, 11, 103, 177
+xc_shenti_26
+	bounds: 575, 2, 130, 192
+	rotate: 90
+xc_shenti_3
+	bounds: 1237, 641, 55, 36
+xc_shenti_4
+	bounds: 491, 617, 45, 60
+xc_shenti_5
+	bounds: 1678, 109, 145, 188
+	offsets: 0, 0, 147, 188
+	rotate: 90
+xc_shenti_6
+	bounds: 2, 369, 64, 170
+xc_shenti_7
+	bounds: 1010, 655, 17, 22
+xc_shenti_8
+	bounds: 844, 105, 67, 202
+	rotate: 90
+xc_shenti_9
+	bounds: 621, 103, 62, 192
+	rotate: 90
+xc_tou_1_1
+	bounds: 1019, 52, 77, 71
+xc_tou_1_2
+	bounds: 913, 56, 104, 58
+xc_tou_1_3
+	bounds: 1046, 313, 364, 257
+	rotate: 270
+xc_tou_2_1
+	bounds: 793, 313, 364, 257
+	rotate: 90
+xc_tou_2_2
+	bounds: 448, 39, 64, 94
+xc_tou_2_3
+	bounds: 253, 534, 81, 143
+xc_tou_2_4
+	bounds: 1568, 433, 241, 244
+xc_tou_2_4_1
+	bounds: 1780, 77, 89, 38
+xc_tou_2_4_2
+	bounds: 1958, 81, 73, 32
+xc_tou_2_4_3
+	bounds: 1521, 303, 59, 22
+xc_tou_2_4_4
+	bounds: 1243, 359, 57, 28
+xc_weixiao_1
+	bounds: 38, 541, 136, 11
+	rotate: 90
+xc_weixiao_10
+	bounds: 1141, 67, 68, 55
+xc_weixiao_11
+	bounds: 1455, 647, 15, 30
+xc_weixiao_12
+	bounds: 1538, 644, 19, 33
+xc_weixiao_2
+	bounds: 115, 671, 20, 6
+xc_weixiao_3
+	bounds: 319, 203, 73, 38
+xc_weixiao_4
+	bounds: 1865, 72, 91, 41
+xc_weixiao_5
+	bounds: 62, 669, 10, 8
+xc_weixiao_6
+	bounds: 24, 668, 11, 9
+xc_weixiao_7
+	bounds: 1960, 358, 43, 56
+	offsets: 1, 0, 44, 56
+	rotate: 90
+xc_weixiao_8
+	bounds: 758, 60, 51, 57
+xc_weixiao_9
+	bounds: 1598, 196, 57, 55

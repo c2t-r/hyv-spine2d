@@ -1,0 +1,67 @@
+{
+  "skeleton": {
+    "hash": "M9AJOwsNI8E",
+    "spine": "4.2.43",
+    "x": -1250,
+    "y": -74,
+    "width": 2500,
+    "height": 148,
+    "images": "../s7_场景/s7_前景雾/images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "图层 1",
+      "parent": "root",
+      "x": -1208.2,
+      "y": -48.93
+    },
+    {
+      "name": "图层 2",
+      "parent": "图层 1",
+      "x": 2057.25,
+      "y": -8.33
+    }
+  ],
+  "slots": [
+    {
+      "name": "图层 1",
+      "bone": "图层 1",
+      "attachment": "图层 1"
+    },
+    {
+      "name": "图层 2",
+      "bone": "图层 2",
+      "attachment": "图层 2"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "图层 1": {
+          "图层 1": {
+            "x": 253.7,
+            "y": 48.93,
+            "width": 591,
+            "height": 148
+          }
+        },
+        "图层 2": {
+          "图层 2": {
+            "x": -42.55,
+            "y": 57.25,
+            "width": 887,
+            "height": 148
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  }
+}

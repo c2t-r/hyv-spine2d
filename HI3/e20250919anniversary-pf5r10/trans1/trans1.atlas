@@ -1,0 +1,116 @@
+trans1.png
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.5
+trans1_00000
+	bounds: 22, 539, 7, 96
+	offsets: 0, 29, 289, 125
+trans1_00001
+	bounds: 2, 536, 18, 99
+	offsets: 0, 26, 289, 125
+trans1_00002
+	bounds: 724, 22, 44, 105
+	offsets: 0, 20, 289, 125
+trans1_00003
+	bounds: 560, 17, 82, 110
+	offsets: 0, 15, 289, 125
+trans1_00004
+	bounds: 355, 8, 122, 119
+	offsets: 0, 2, 289, 125
+trans1_00005
+	bounds: 2, 2, 202, 125
+	offsets: 0, 0, 289, 125
+trans1_00006
+	bounds: 1748, 4, 272, 125
+	offsets: 0, 0, 289, 125
+trans1_00007
+	bounds: 1457, 129, 289, 125
+trans1_00008
+	bounds: 1166, 129, 289, 125
+trans1_00009
+	bounds: 875, 129, 289, 125
+trans1_00010
+	bounds: 584, 129, 289, 125
+trans1_00011
+	bounds: 293, 129, 289, 125
+trans1_00012
+	bounds: 2, 129, 289, 125
+trans1_00013
+	bounds: 1748, 256, 289, 125
+trans1_00014
+	bounds: 1457, 256, 289, 125
+trans1_00015
+	bounds: 1166, 256, 289, 125
+trans1_00016
+	bounds: 875, 256, 289, 125
+trans1_00017
+	bounds: 584, 256, 289, 125
+trans1_00018
+	bounds: 293, 256, 289, 125
+trans1_00019
+	bounds: 293, 256, 289, 125
+trans1_00020
+	bounds: 293, 256, 289, 125
+trans1_00021
+	bounds: 293, 256, 289, 125
+trans1_00022
+	bounds: 293, 256, 289, 125
+trans1_00023
+	bounds: 293, 256, 289, 125
+trans1_00024
+	bounds: 293, 256, 289, 125
+trans1_00025
+	bounds: 293, 256, 289, 125
+trans1_00026
+	bounds: 293, 256, 289, 125
+trans1_00027
+	bounds: 2, 256, 289, 125
+trans1_00028
+	bounds: 1748, 383, 289, 125
+trans1_00029
+	bounds: 1457, 383, 289, 125
+trans1_00030
+	bounds: 1166, 383, 289, 125
+trans1_00031
+	bounds: 875, 383, 289, 125
+trans1_00032
+	bounds: 584, 383, 289, 125
+trans1_00033
+	bounds: 293, 383, 289, 125
+trans1_00034
+	bounds: 2, 383, 289, 125
+trans1_00035
+	bounds: 1486, 510, 289, 125
+trans1_00036
+	bounds: 1486, 510, 289, 125
+trans1_00037
+	bounds: 1195, 510, 289, 125
+trans1_00038
+	bounds: 904, 510, 289, 125
+trans1_00039
+	bounds: 613, 510, 289, 125
+trans1_00040
+	bounds: 322, 510, 289, 125
+trans1_00041
+	bounds: 31, 510, 289, 125
+trans1_00042
+	bounds: 1748, 131, 289, 123
+	offsets: 0, 2, 289, 125
+trans1_00043
+	bounds: 1777, 512, 234, 123
+	offsets: 55, 2, 289, 125
+trans1_00044
+	bounds: 206, 4, 147, 123
+	offsets: 142, 2, 289, 125
+trans1_00045
+	bounds: 479, 4, 79, 123
+	offsets: 210, 2, 289, 125
+trans1_00046
+	bounds: 644, 25, 78, 102
+	offsets: 211, 23, 289, 125
+trans1_00047
+	bounds: 770, 45, 52, 82
+	offsets: 237, 43, 289, 125
+trans1_00048
+	bounds: 824, 73, 49, 54
+	offsets: 240, 45, 289, 125

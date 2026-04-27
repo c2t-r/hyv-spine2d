@@ -1,0 +1,100 @@
+s5_kelali.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.25
+L_大臂
+	bounds: 762, 2, 52, 84
+	rotate: 270
+L_小臂
+	bounds: 912, 332, 51, 84
+L_肘
+	bounds: 912, 291, 40, 40
+L_臂绳
+	bounds: 989, 381, 30, 35
+R_大臂
+	bounds: 847, 6, 53, 85
+	rotate: 270
+R_小臂
+	bounds: 889, 35, 54, 80
+	rotate: 90
+R_肘
+	bounds: 476, 91, 41, 41
+gameover
+	bounds: 732, 237, 178, 179
+	offsets: 18, 17, 214, 213
+上半身
+	bounds: 910, 63, 95, 112
+	rotate: 90
+侧
+	bounds: 156, 401, 147, 15
+	rotate: 180
+前发
+	bounds: 8, 239, 251, 162
+右发
+	bounds: 676, 84, 92, 197
+	rotate: 270
+右耳
+	bounds: 162, 17, 104, 105
+	rotate: 90
+右腿
+	bounds: 733, 47, 49, 154
+	rotate: 90
+后发
+	bounds: 246, 126, 290, 288
+	rotate: 90
+后发-短
+	bounds: 806, 135, 257, 216
+	rotate: 270
+嘴
+	bounds: 478, 412, 11, 4
+嘴微笑
+	bounds: 491, 411, 16, 5
+嘴惊讶
+	bounds: 947, 403, 28, 13
+头
+	bounds: 535, 216, 195, 200
+尾巴
+	bounds: 615, 17, 116, 128
+	rotate: 180
+左发
+	bounds: 211, 89, 83, 181
+	offsets: 0, 0, 83, 216
+	rotate: 270
+左耳
+	bounds: 393, 18, 124, 118
+左腿
+	bounds: 2, 69, 52, 159
+	rotate: 90
+帽子
+	bounds: 2, 123, 207, 114
+惊讶符号
+	bounds: 519, 69, 76, 94
+	rotate: 90
+拇指
+	bounds: 308, 395, 12, 12
+挂饰a
+	bounds: 230, 271, 14, 36
+挂饰b
+	bounds: 73, 363, 31, 49
+游戏机
+	bounds: 535, 147, 159, 68
+眉
+	bounds: 164, 407, 123, 9
+眉惊讶
+	bounds: 304, 409, 121, 7
+眼白
+	bounds: 43, 27, 141, 45
+眼皮
+	bounds: 2, 395, 153, 21
+眼睛惊讶
+	bounds: 269, 35, 125, 52
+瞳
+	bounds: 519, 23, 123, 45
+脖子
+	bounds: 2, 296, 35, 27
+裙子
+	bounds: 697, 201, 101, 34
+连帽-右
+	bounds: 261, 378, 45, 22
+连帽-左
+	bounds: 515, 397, 41, 19

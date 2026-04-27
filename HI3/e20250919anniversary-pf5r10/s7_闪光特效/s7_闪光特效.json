@@ -1,0 +1,759 @@
+{
+  "skeleton": {
+    "hash": "A2qpRF3E6SI",
+    "spine": "4.2.43",
+    "x": -382.5,
+    "y": -302,
+    "width": 820,
+    "height": 604,
+    "images": "../s7_场景/s7_闪光特效/images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "大4",
+      "parent": "root",
+      "x": 17.04,
+      "y": 34,
+      "icon": "gear"
+    },
+    {
+      "name": "粉_2",
+      "parent": "大4",
+      "length": 241.14,
+      "rotation": 100.62,
+      "x": -0.75,
+      "y": 3.99
+    },
+    {
+      "name": "大5",
+      "parent": "大4",
+      "length": 361.95,
+      "rotation": -21.77,
+      "x": 12.61,
+      "y": -1.81
+    },
+    {
+      "name": "大6",
+      "parent": "大4",
+      "length": 268.14,
+      "rotation": -86.18,
+      "x": 1.48,
+      "y": -5.99
+    },
+    {
+      "name": "大7",
+      "parent": "大4",
+      "length": 283.81,
+      "rotation": -116.04,
+      "x": -0.45,
+      "y": -4.06
+    },
+    {
+      "name": "大8",
+      "parent": "大4",
+      "length": 230.69,
+      "rotation": 60.81,
+      "x": 8.24,
+      "y": 5.6
+    }
+  ],
+  "slots": [
+    {
+      "name": "yellow_dot",
+      "bone": "大8",
+      "attachment": "yellow_dot"
+    },
+    {
+      "name": "黄_5",
+      "bone": "大7",
+      "attachment": "黄_5"
+    },
+    {
+      "name": "黄_4",
+      "bone": "大7",
+      "attachment": "黄_4"
+    },
+    {
+      "name": "黄_3",
+      "bone": "大6",
+      "attachment": "黄_3"
+    },
+    {
+      "name": "黄_2",
+      "bone": "大7",
+      "attachment": "黄_2"
+    },
+    {
+      "name": "黄_1",
+      "bone": "大7",
+      "attachment": "黄_1"
+    },
+    {
+      "name": "粉_13",
+      "bone": "大8",
+      "attachment": "粉_13"
+    },
+    {
+      "name": "粉_12",
+      "bone": "粉_2",
+      "attachment": "粉_12"
+    },
+    {
+      "name": "粉_11",
+      "bone": "大5",
+      "attachment": "粉_11"
+    },
+    {
+      "name": "粉_10",
+      "bone": "大6",
+      "attachment": "粉_10"
+    },
+    {
+      "name": "粉_9",
+      "bone": "大5",
+      "attachment": "粉_9"
+    },
+    {
+      "name": "粉_8",
+      "bone": "大7",
+      "attachment": "粉_8"
+    },
+    {
+      "name": "粉_7",
+      "bone": "粉_2",
+      "attachment": "粉_7"
+    },
+    {
+      "name": "粉_6",
+      "bone": "大5",
+      "attachment": "粉_6"
+    },
+    {
+      "name": "粉_5",
+      "bone": "大6",
+      "attachment": "粉_5"
+    },
+    {
+      "name": "粉_4",
+      "bone": "大6",
+      "attachment": "粉_4"
+    },
+    {
+      "name": "粉_3",
+      "bone": "大5",
+      "attachment": "粉_3"
+    },
+    {
+      "name": "粉_2",
+      "bone": "粉_2",
+      "attachment": "粉_2"
+    },
+    {
+      "name": "粉_1",
+      "bone": "大8",
+      "attachment": "粉_1"
+    },
+    {
+      "name": "大4",
+      "bone": "大4",
+      "attachment": "大4"
+    },
+    {
+      "name": "大3",
+      "bone": "大4",
+      "attachment": "大3"
+    },
+    {
+      "name": "大2",
+      "bone": "大4",
+      "attachment": "大2"
+    },
+    {
+      "name": "大1",
+      "bone": "大4",
+      "attachment": "大1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "yellow_dot": {
+          "yellow_dot": {
+            "x": 32.76,
+            "y": -303.83,
+            "rotation": -60.81,
+            "width": 8,
+            "height": 8
+          }
+        },
+        "大1": {
+          "大1": {
+            "type": "mesh",
+            "uvs": [
+              0.03081,
+              0,
+              0.99642,
+              0.89273,
+              1,
+              0.94843,
+              1,
+              1,
+              0.88072,
+              1,
+              0,
+              0.0251,
+              0,
+              0
+            ],
+            "triangles": [
+              5,
+              6,
+              0,
+              5,
+              0,
+              1,
+              4,
+              5,
+              1,
+              4,
+              1,
+              2,
+              4,
+              2,
+              3
+            ],
+            "vertices": [
+              -182,
+              268,
+              -8.19,
+              39.46,
+              -7.54,
+              25.2,
+              -7.54,
+              12,
+              -29.01,
+              12,
+              -187.54,
+              261.57,
+              -187.54,
+              268
+            ],
+            "hull": 7,
+            "edges": [
+              0,
+              12,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              6,
+              8,
+              8,
+              10,
+              10,
+              12
+            ],
+            "width": 180,
+            "height": 256
+          }
+        },
+        "大2": {
+          "大2": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0,
+              1,
+              0.03684,
+              0.10211,
+              1,
+              0.00204,
+              1,
+              0,
+              0.99792,
+              0,
+              0.87883,
+              0.96819,
+              0
+            ],
+            "triangles": [
+              6,
+              0,
+              1,
+              3,
+              4,
+              5,
+              5,
+              2,
+              3,
+              6,
+              2,
+              5,
+              2,
+              6,
+              1
+            ],
+            "vertices": [
+              216.46,
+              151,
+              216.46,
+              145.69,
+              32.39,
+              7,
+              11.87,
+              7,
+              11.46,
+              7.3,
+              11.46,
+              24.45,
+              209.94,
+              151
+            ],
+            "hull": 7,
+            "edges": [
+              0,
+              12,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              6,
+              8,
+              8,
+              10,
+              10,
+              12
+            ],
+            "width": 205,
+            "height": 144
+          }
+        },
+        "大3": {
+          "大3": {
+            "type": "mesh",
+            "uvs": [
+              0.97542,
+              0,
+              1,
+              0,
+              1,
+              0.10002,
+              0.11628,
+              0.91538,
+              0.01663,
+              1,
+              0,
+              1,
+              0,
+              0.97527,
+              0.87737,
+              0.03179
+            ],
+            "triangles": [
+              0,
+              1,
+              2,
+              2,
+              3,
+              7,
+              2,
+              7,
+              0,
+              6,
+              7,
+              3,
+              4,
+              5,
+              6,
+              3,
+              4,
+              6
+            ],
+            "vertices": [
+              -20.1,
+              -6,
+              -10.54,
+              -6,
+              -10.54,
+              -33.31,
+              -354.31,
+              -255.9,
+              -393.07,
+              -279,
+              -399.54,
+              -279,
+              -399.54,
+              -272.25,
+              -58.25,
+              -14.68
+            ],
+            "hull": 8,
+            "edges": [
+              0,
+              14,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              6,
+              8,
+              8,
+              10,
+              10,
+              12,
+              12,
+              14
+            ],
+            "width": 389,
+            "height": 273
+          }
+        },
+        "大4": {
+          "大4": {
+            "type": "mesh",
+            "uvs": [
+              0.11652,
+              0,
+              1,
+              0.98276,
+              1,
+              1,
+              0.96966,
+              1,
+              0,
+              0.10547,
+              0,
+              0.00446,
+              0.00056,
+              0
+            ],
+            "triangles": [
+              0,
+              4,
+              5,
+              1,
+              4,
+              0,
+              0,
+              5,
+              6,
+              1,
+              3,
+              4,
+              3,
+              1,
+              2
+            ],
+            "vertices": [
+              33.14,
+              -13,
+              235.46,
+              -330.44,
+              235.46,
+              -336,
+              228.51,
+              -336,
+              6.46,
+              -47.07,
+              6.46,
+              -14.44,
+              6.59,
+              -13
+            ],
+            "hull": 7,
+            "edges": [
+              0,
+              12,
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              6,
+              8,
+              8,
+              10,
+              10,
+              12
+            ],
+            "width": 229,
+            "height": 323
+          }
+        },
+        "粉_1": {
+          "粉_1": {
+            "x": 222.97,
+            "y": -0.52,
+            "rotation": -60.81,
+            "width": 12,
+            "height": 12
+          }
+        },
+        "粉_2": {
+          "粉_2": {
+            "x": 187.36,
+            "y": 0.76,
+            "rotation": -100.62,
+            "width": 25,
+            "height": 100
+          }
+        },
+        "粉_3": {
+          "粉_3": {
+            "x": -341.25,
+            "y": 60.01,
+            "rotation": 21.77,
+            "width": 77,
+            "height": 53
+          }
+        },
+        "粉_4": {
+          "粉_4": {
+            "x": -185.13,
+            "y": -198.63,
+            "rotation": 86.18,
+            "width": 39,
+            "height": 33
+          }
+        },
+        "粉_5": {
+          "粉_5": {
+            "x": -49.52,
+            "y": 226.28,
+            "rotation": 86.18,
+            "width": 67,
+            "height": 25
+          }
+        },
+        "粉_6": {
+          "粉_6": {
+            "x": -268.36,
+            "y": -117.09,
+            "rotation": 21.77,
+            "width": 25,
+            "height": 10
+          }
+        },
+        "粉_7": {
+          "粉_7": {
+            "x": 2.15,
+            "y": 301.57,
+            "rotation": -100.62,
+            "width": 102,
+            "height": 31
+          }
+        },
+        "粉_8": {
+          "粉_8": {
+            "x": 33.86,
+            "y": 231.25,
+            "rotation": 116.04,
+            "width": 38,
+            "height": 32
+          }
+        },
+        "粉_9": {
+          "粉_9": {
+            "x": 396.02,
+            "y": 0.22,
+            "rotation": 21.77,
+            "width": 80,
+            "height": 37
+          }
+        },
+        "粉_10": {
+          "粉_10": {
+            "x": 207.61,
+            "y": 189.56,
+            "rotation": 86.18,
+            "width": 62,
+            "height": 71
+          }
+        },
+        "粉_11": {
+          "粉_11": {
+            "x": -55.89,
+            "y": -227.13,
+            "rotation": 21.77,
+            "width": 18,
+            "height": 22
+          }
+        },
+        "粉_12": {
+          "粉_12": {
+            "x": -225.94,
+            "y": -19.38,
+            "rotation": -100.62,
+            "width": 19,
+            "height": 41
+          }
+        },
+        "粉_13": {
+          "粉_13": {
+            "x": -196.41,
+            "y": -148.94,
+            "rotation": -60.81,
+            "width": 18,
+            "height": 51
+          }
+        },
+        "黄_1": {
+          "黄_1": {
+            "x": -176.52,
+            "y": -9,
+            "rotation": 116.04,
+            "width": 17,
+            "height": 27
+          }
+        },
+        "黄_2": {
+          "黄_2": {
+            "x": 46.88,
+            "y": -375.09,
+            "rotation": 116.04,
+            "width": 21,
+            "height": 13
+          }
+        },
+        "黄_3": {
+          "黄_3": {
+            "x": 207.98,
+            "y": 0.12,
+            "rotation": 86.18,
+            "width": 10,
+            "height": 31
+          }
+        },
+        "黄_4": {
+          "黄_4": {
+            "x": 270.55,
+            "y": -1.46,
+            "rotation": 116.04,
+            "width": 14,
+            "height": 21
+          }
+        },
+        "黄_5": {
+          "黄_5": {
+            "x": 227.37,
+            "y": 191.69,
+            "rotation": 116.04,
+            "width": 11,
+            "height": 21
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "粉_2": {
+      "rootBoneName": "粉_2",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "大5": {
+      "rootBoneName": "大5",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 2.421493578332058,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "大6": {
+      "rootBoneName": "大6",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 6.473390373555354,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "大7": {
+      "rootBoneName": "大7",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 4.6047791718342035,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "大8": {
+      "rootBoneName": "大8",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 10.34514265765796,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,70 @@
+s9_yayi.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.31
+biyan
+	bounds: 83, 149, 183, 21
+	rotate: 90
+yy_shenti_1
+	bounds: 106, 246, 19, 86
+yy_shenti_10
+	bounds: 65, 320, 13, 12
+	offsets: 0, 2, 13, 14
+yy_shenti_5
+	bounds: 65, 320, 13, 12
+	offsets: 0, 2, 13, 14
+yy_shenti_11
+	bounds: 1462, 237, 61, 95
+yy_shenti_12
+	bounds: 1633, 246, 55, 86
+yy_shenti_13
+	bounds: 2, 2, 79, 330
+yy_shenti_14
+	bounds: 110, 3, 329, 481
+	rotate: 90
+yy_shenti_2
+	bounds: 898, 88, 241, 244
+yy_shenti_3
+	bounds: 1399, 233, 64, 99
+	rotate: 180
+yy_shenti_4
+	bounds: 1525, 232, 54, 100
+yy_shenti_6
+	bounds: 126, 277, 12, 55
+	offsets: 3, 0, 15, 58
+yy_shenti_7
+	bounds: 1141, 149, 137, 183
+yy_shenti_8
+	bounds: 1280, 130, 66, 202
+yy_shenti_9
+	bounds: 1337, 140, 66, 192
+	rotate: 180
+yy_wuguang_1
+	bounds: 593, 20, 312, 303
+	rotate: 90
+yy_wuguang_10
+	bounds: 834, 262, 70, 53
+	rotate: 90
+yy_wuguang_2
+	bounds: 195, 325, 20, 7
+yy_wuguang_3
+	bounds: 148, 296, 36, 6
+	offsets: 0, 0, 37, 6
+	rotate: 90
+yy_wuguang_4
+	bounds: 140, 290, 42, 6
+	rotate: 90
+yy_wuguang_5
+	bounds: 1714, 258, 74, 39
+	rotate: 90
+yy_wuguang_6
+	bounds: 1667, 242, 90, 45
+	rotate: 270
+yy_wuguang_7
+	bounds: 156, 313, 19, 37
+	rotate: 90
+yy_wuguang_8
+	bounds: 593, 296, 23, 36
+yy_wuguang_9
+	bounds: 1581, 276, 56, 52
+	rotate: 90

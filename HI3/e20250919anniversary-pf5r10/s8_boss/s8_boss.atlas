@@ -1,0 +1,41 @@
+s8_boss.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.42
+右大腿
+	bounds: 1204, 30, 171, 210
+右小腿
+	bounds: 1497, 30, 138, 222
+右小臂
+	bounds: 83, 23, 137, 233
+右手臂
+	bounds: 895, 387, 83, 122
+右翅膀
+	bounds: 863, 61, 316, 448
+右肩甲
+	bounds: 1366, 379, 130, 137
+	rotate: 90
+头
+	bounds: 1621, 254, 255, 134
+	rotate: 90
+小翅膀
+	bounds: 1405, 153, 356, 214
+	rotate: 270
+尾巴
+	bounds: 222, 2, 507, 671
+	rotate: 270
+左大腿
+	bounds: 1757, 284, 140, 225
+左小腿
+	bounds: 1747, 178, 134, 221
+	rotate: 90
+左小臂
+	bounds: 9, 96, 139, 247
+左手臂
+	bounds: 1890, 372, 121, 137
+左翅膀
+	bounds: 2, 114, 640, 395
+左肩甲
+	bounds: 667, 67, 196, 164
+身体
+	bounds: 1181, 230, 241, 279

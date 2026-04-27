@@ -1,0 +1,118 @@
+s2_kelaiyin.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.28
+daoju_1
+	bounds: 881, 340, 135, 133
+	rotate: 90
+daoju_5
+	bounds: 265, 57, 102, 39
+kly_1
+	bounds: 801, 199, 135, 276
+kly_10
+	bounds: 100, 471, 12, 4
+kly_11
+	bounds: 681, 266, 81, 29
+kly_12
+	bounds: 2, 447, 59, 20
+kly_13
+	bounds: 252, 452, 9, 23
+kly_14
+	bounds: 848, 7, 50, 60
+	rotate: 90
+kly_15
+	bounds: 780, 11, 66, 47
+kly_16
+	bounds: 573, 181, 66, 60
+kly_17
+	bounds: 681, 297, 178, 118
+	rotate: 90
+kly_18
+	bounds: 920, 15, 96, 101
+	rotate: 270
+kly_19
+	bounds: 1001, 314, 18, 24
+	offsets: 0, 1, 18, 25
+kly_2
+	bounds: 176, 9, 91, 75
+kly_20
+	bounds: 637, 2, 44, 49
+	offsets: 1, 0, 45, 49
+kly_21
+	bounds: 479, 43, 54, 99
+	rotate: 270
+kly_22
+	bounds: 615, 53, 69, 95
+	rotate: 270
+kly_23
+	bounds: 712, 32, 66, 48
+	offsets: 0, 0, 67, 48
+kly_24
+	bounds: 269, 10, 57, 45
+kly_25
+	bounds: 883, 307, 38, 31
+kly_26
+	bounds: 885, 282, 31, 23
+kly_27
+	bounds: 820, 58, 44, 133
+	rotate: 90
+kly_28
+	bounds: 2, 68, 110, 116
+	rotate: 270
+kly_29
+	bounds: 855, 100, 60, 143
+	rotate: 90
+kly_3
+	bounds: 404, 157, 167, 78
+kly_30
+	bounds: 119, 85, 57, 147
+	rotate: 90
+kly_31
+	bounds: 266, 246, 229, 167
+	rotate: 90
+kly_32
+	bounds: 712, 82, 69, 84
+kly_33
+	bounds: 2, 405, 22, 40
+kly_34
+	bounds: 26, 420, 14, 25
+kly_35
+	bounds: 28, 37, 56, 100
+	rotate: 90
+kly_36
+	bounds: 381, 44, 64, 96
+	offsets: 0, 0, 64, 137
+	rotate: 90
+kly_37
+	bounds: 563, 243, 116, 232
+kly_38
+	bounds: 2, 138, 337, 262
+	rotate: 90
+kly_39
+	bounds: 266, 96, 174, 148
+kly_4
+	bounds: 435, 237, 126, 238
+kly_40
+	bounds: 84, 468, 14, 7
+kly_5
+	bounds: 885, 153, 124, 185
+	rotate: 180
+kly_6
+	bounds: 439, 92, 85, 192
+	rotate: 90
+kly_7
+	bounds: 648, 113, 206, 147
+	rotate: 180
+kly_8
+	bounds: 2, 469, 41, 6
+kly_9
+	bounds: 45, 469, 37, 6
+xia1
+	bounds: 147, 43, 44, 73
+	rotate: 90
+xia2
+	bounds: 580, 2, 54, 55
+	rotate: 90
+水晶
+	bounds: 328, 6, 48, 49
+	offsets: 12, 12, 72, 72

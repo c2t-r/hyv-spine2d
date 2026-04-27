@@ -1,0 +1,161 @@
+s3_qiyna.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.35
+biaoqing_1
+	bounds: 361, 436, 47, 11
+biaoqing_2
+	bounds: 1868, 434, 52, 13
+biaoqing_3
+	bounds: 939, 440, 22, 7
+biaoqing_4
+	bounds: 277, 4, 83, 43
+biaoqing_5
+	bounds: 549, 12, 102, 46
+biaoqing_8
+	bounds: 1655, 369, 17, 34
+biaoqing_9
+	bounds: 1868, 395, 21, 37
+daoju_3
+	bounds: 797, 76, 123, 114
+	offsets: 1, 1, 124, 116
+gaoxing1
+	bounds: 618, 170, 72, 24
+gaoxing2
+	bounds: 1667, 36, 87, 26
+gaoxing3
+	bounds: 331, 412, 29, 22
+qyn_bq_1
+	bounds: 1655, 434, 52, 13
+	offsets: 0, 0, 53, 13
+qyn_bq_1_1
+	bounds: 312, 436, 47, 11
+	offsets: 1, 1, 48, 13
+qyn_bq_2
+	bounds: 560, 440, 22, 7
+qyn_bq_3
+	bounds: 676, 11, 83, 43
+qyn_bq_4
+	bounds: 132, 14, 102, 46
+qyn_bq_5
+	bounds: 64, 16, 48, 66
+	offsets: 4, 0, 64, 66
+	rotate: 90
+qyn_bq_5_1
+	bounds: 841, 8, 64, 66
+qyn_bq_6
+	bounds: 1801, 389, 58, 65
+	offsets: 7, 0, 77, 65
+	rotate: 90
+qyn_bq_6_1
+	bounds: 1207, 37, 77, 65
+qyn_bq_7
+	bounds: 688, 353, 17, 34
+qyn_bq_8
+	bounds: 1011, 410, 21, 37
+qyn_qf_1
+	bounds: 759, 2, 86, 80
+	rotate: 270
+qyn_qf_2
+	bounds: 922, 9, 95, 126
+	rotate: 270
+qyn_qf_3
+	bounds: 652, 125, 451, 322
+	rotate: 180
+qyn_qf_4
+	bounds: 1286, 38, 75, 64
+qyn_qf_5
+	bounds: 1381, 42, 84, 122
+	rotate: 270
+qyn_shenti_1
+	bounds: 682, 389, 42, 58
+qyn_shenti_15
+	bounds: 682, 389, 42, 58
+qyn_shenti_10
+	bounds: 2, 355, 77, 228
+	rotate: 90
+qyn_shenti_11
+	bounds: 1680, 64, 69, 216
+	rotate: 90
+qyn_shenti_12
+	bounds: 410, 433, 14, 14
+	offsets: 0, 2, 14, 16
+qyn_shenti_13
+	bounds: 1506, 16, 71, 90
+	rotate: 270
+qyn_shenti_14
+	bounds: 321, 38, 72, 122
+	rotate: 90
+qyn_shenti_16
+	bounds: 1812, 28, 67, 99
+	rotate: 90
+qyn_shenti_17
+	bounds: 1105, 104, 343, 274
+	rotate: 90
+qyn_shenti_18
+	bounds: 1941, 254, 182, 105
+	rotate: 90
+qyn_shenti_19
+	bounds: 1810, 135, 236, 110
+qyn_shenti_2
+	bounds: 445, 15, 86, 54
+qyn_shenti_20
+	bounds: 577, 46, 106, 182
+	rotate: 270
+qyn_shenti_21
+	bounds: 965, 39, 106, 149
+	rotate: 90
+qyn_shenti_22
+	bounds: 1381, 39, 131, 312
+	rotate: 90
+qyn_shenti_23
+	bounds: 1655, 138, 147, 309
+qyn_shenti_24
+	bounds: 2, 62, 385, 655
+	rotate: 90
+qyn_shenti_25
+	bounds: 179, 43, 94, 159
+	rotate: 90
+qyn_shenti_26
+	bounds: 1655, 150, 160, 103
+	rotate: 90
+qyn_shenti_2_1
+	bounds: 1983, 245, 63, 30
+qyn_shenti_3
+	bounds: 231, 385, 98, 49
+qyn_shenti_3_1
+	bounds: 1356, 17, 71, 31
+qyn_shenti_4
+	bounds: 1381, 172, 272, 275
+qyn_shenti_5
+	bounds: 1036, 349, 65, 98
+qyn_shenti_6
+	bounds: 617, 317, 70, 130
+qyn_shenti_7
+	bounds: 1112, 16, 93, 86
+qyn_shenti_8
+	bounds: 151, 433, 14, 102
+	rotate: 90
+qyn_shenti_9
+	bounds: 1802, 228, 181, 219
+	offsets: 0, 0, 184, 225
+qyn_shenti_9_1
+	bounds: 726, 408, 54, 39
+qyn_shenti_9_2
+	bounds: 968, 419, 43, 28
+	offsets: 4, 0, 49, 28
+xia1
+	bounds: 1914, 47, 106, 132
+	rotate: 90
+xia2
+	bounds: 254, 435, 56, 12
+xia3
+	bounds: 584, 424, 26, 23
+水晶
+	bounds: 2, 3, 60, 61
+	offsets: 15, 15, 90, 90
+眉毛受击
+	bounds: 2, 437, 147, 10
+	offsets: 4, 1, 151, 11
+眼睛受击
+	bounds: 2, 66, 175, 72

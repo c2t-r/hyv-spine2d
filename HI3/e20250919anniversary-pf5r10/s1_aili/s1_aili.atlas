@@ -1,0 +1,179 @@
+s1_aili.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.3
+dangao1
+	bounds: 1269, 472, 8, 9
+dangao2
+	bounds: 1023, 470, 13, 11
+gx_1
+	bounds: 340, 466, 142, 15
+gx_2
+	bounds: 778, 469, 85, 12
+gx_3
+	bounds: 2, 457, 184, 24
+gx_4
+	bounds: 1041, 462, 25, 19
+maozi
+	bounds: 1060, 58, 139, 152
+	rotate: 90
+qtoufa_1
+	bounds: 147, 287, 155, 154
+qtoufa_2
+	bounds: 677, 465, 16, 99
+	rotate: 270
+qtoufa_3
+	bounds: 638, 179, 171, 287
+qtoufa_4
+	bounds: 2, 94, 158, 218
+	rotate: 90
+qtoufa_5
+	bounds: 1375, 110, 172, 267
+	rotate: 90
+qtoufa_6
+	bounds: 311, 35, 84, 195
+	rotate: 90
+shenti_1
+	bounds: 1241, 456, 26, 25
+shenti_10
+	bounds: 1069, 393, 144, 88
+shenti_11
+	bounds: 1353, 52, 60, 186
+	rotate: 90
+shenti_12
+	bounds: 642, 101, 64, 196
+	rotate: 90
+shenti_13
+	bounds: 872, 469, 13, 12
+shenti_14
+	bounds: 120, 402, 17, 53
+shenti_15
+	bounds: 489, 2, 56, 77
+shenti_16
+	bounds: 728, 311, 62, 102
+	offsets: 0, 5, 74, 107
+shenti_16_1
+	bounds: 1466, 16, 63, 46
+	offsets: 1, 0, 64, 46
+shenti_17
+	bounds: 255, 22, 62, 64
+shenti_18
+	bounds: 1594, 18, 113, 187
+	rotate: 270
+shenti_19
+	bounds: 207, 271, 374, 194
+shenti_2
+	bounds: 1402, 230, 251, 236
+	rotate: 90
+shenti_20
+	bounds: 2, 253, 372, 202
+	rotate: 180
+shenti_21
+	bounds: 1222, 36, 187, 155
+shenti_22
+	bounds: 791, 22, 210, 176
+shenti_23
+	bounds: 1623, 242, 389, 239
+shenti_24
+	bounds: 1826, 82, 117, 199
+	rotate: 270
+shenti_25
+	bounds: 501, 55, 68, 210
+	rotate: 90
+shenti_26
+	bounds: 395, 88, 93, 213
+	rotate: 90
+shenti_27
+	bounds: 778, 176, 305, 329
+	offsets: 64, 0, 369, 351
+	rotate: 90
+shenti_28
+	bounds: 1103, 181, 300, 299
+	rotate: 90
+shenti_2_1
+	bounds: 1773, 28, 85, 50
+shenti_2_2
+	bounds: 763, 417, 57, 49
+shenti_3
+	bounds: 1422, 460, 24, 21
+	offsets: 0, 0, 24, 23
+shenti_4
+	bounds: 1723, 451, 29, 30
+shenti_5
+	bounds: 1390, 425, 38, 56
+shenti_6
+	bounds: 1109, 339, 76, 53
+	offsets: 0, 14, 76, 67
+shenti_6_1
+	bounds: 1215, 444, 24, 37
+	offsets: 24, 17, 76, 67
+shenti_7_1
+	bounds: 2019, 382, 27, 74
+shenti_7_2
+	bounds: 1003, 4, 56, 79
+shenti_7_3
+	bounds: 995, 77, 63, 105
+	offsets: 15, 9, 78, 114
+shenti_7_3_1
+	bounds: 1977, 202, 69, 60
+shenti_8
+	bounds: 1848, 2, 141, 198
+	rotate: 90
+shenti_9
+	bounds: 1749, 333, 148, 165
+	rotate: 90
+wx_1
+	bounds: 188, 467, 150, 14
+wx_3
+	bounds: 865, 460, 21, 5
+	rotate: 90
+wx_4
+	bounds: 484, 470, 104, 11
+wx_5
+	bounds: 11, 36, 197, 56
+wx_6_1
+	bounds: 1754, 454, 17, 27
+wx_6_2
+	bounds: 1915, 362, 50, 51
+	offsets: 3, 0, 53, 51
+wx_6_3
+	bounds: 1380, 115, 62, 46
+wx_6_4
+	bounds: 1614, 455, 15, 26
+wx_6_5
+	bounds: 595, 326, 41, 46
+	offsets: 9, 1, 50, 50
+wx_6_6
+	bounds: 1214, 16, 54, 47
+ztoufa_1
+	bounds: 158, 85, 155, 153
+	offsets: 0, 1, 155, 154
+	rotate: 90
+ztoufa_2
+	bounds: 590, 465, 16, 99
+	rotate: 90
+ztoufa_3
+	bounds: 511, 149, 171, 287
+ztoufa_4
+	bounds: 312, 111, 158, 218
+	rotate: 90
+ztoufa_5
+	bounds: 1669, 106, 172, 267
+	rotate: 90
+ztoufa_6
+	bounds: 678, 8, 77, 195
+	offsets: 7, 0, 84, 195
+	rotate: 270
+ztoufa_7
+	bounds: 143, 297, 69, 109
+ztoufa_8
+	bounds: 1643, 77, 106, 172
+	rotate: 90
+巧克力
+	bounds: 1531, 25, 73, 64
+樱桃
+	bounds: 221, 200, 45, 52
+	offsets: 1, 0, 47, 52
+茶杯
+	bounds: 1916, 415, 104, 66
+	offsets: 0, 1, 104, 67

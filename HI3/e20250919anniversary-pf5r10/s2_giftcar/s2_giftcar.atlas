@@ -1,0 +1,13 @@
+s2_giftcar.png
+	size: 512, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.28
+car
+	bounds: 2, 2, 360, 347
+car2
+	bounds: 364, 134, 114, 68
+	rotate: 90
+泡面
+	bounds: 364, 250, 99, 92
+	offsets: 0, 0, 99, 93
+	rotate: 90

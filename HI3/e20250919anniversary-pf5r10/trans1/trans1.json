@@ -1,0 +1,75 @@
+{
+  "skeleton": {
+    "hash": "oJsdwvF6q7w",
+    "spine": "4.2.43",
+    "x": -289,
+    "y": -125,
+    "width": 578,
+    "height": 250,
+    "images": "./trans1/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "trans1_00000",
+      "bone": "root",
+      "attachment": "trans1_"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "trans1_00000": {
+          "trans1_": {
+            "width": 578,
+            "height": 250,
+            "sequence": {
+              "count": 49,
+              "start": 0,
+              "digits": 5
+            }
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "trans1_00000": {
+          "attachment": [
+            {},
+            {
+              "time": 0.0333,
+              "name": "trans1_"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        }
+      },
+      "attachments": {
+        "default": {
+          "trans1_00000": {
+            "trans1_": {
+              "sequence": [
+                {
+                  "time": 0.0333,
+                  "mode": "once",
+                  "delay": 0.0333
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

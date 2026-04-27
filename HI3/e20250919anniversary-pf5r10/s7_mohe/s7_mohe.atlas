@@ -1,0 +1,150 @@
+s7_mohe.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.32
+L_刘海a
+	bounds: 99, 107, 207, 286
+	rotate: 90
+L_刘海b
+	bounds: 956, 26, 76, 53
+L_刘海饰品
+	bounds: 257, 135, 50, 42
+L_后头发
+	bounds: 1359, 97, 133, 217
+	rotate: 270
+L_大臂
+	bounds: 1266, 27, 68, 116
+	offsets: 14, 55, 82, 171
+	rotate: 90
+L_小臂
+	bounds: 1536, 29, 61, 129
+	offsets: 0, 0, 61, 132
+	rotate: 90
+L_腿
+	bounds: 1378, 55, 81, 208
+	rotate: 90
+L_领子a
+	bounds: 812, 453, 49, 30
+	offsets: 0, 0, 51, 30
+L_领子b
+	bounds: 1960, 108, 34, 51
+	rotate: 90
+L_鬓角
+	bounds: 1738, 36, 69, 182
+	rotate: 90
+R_刘海a
+	bounds: 52, 16, 103, 138
+	rotate: 270
+R_刘海b
+	bounds: 818, 18, 173, 282
+	rotate: 270
+R_刘海饰品
+	bounds: 181, 395, 54, 41
+R_后头发
+	bounds: 1737, 102, 119, 221
+	rotate: 270
+R_大臂
+	bounds: 680, 33, 72, 109
+	rotate: 90
+R_小臂
+	bounds: 1922, 37, 63, 96
+	rotate: 90
+R_腰带装饰
+	bounds: 400, 419, 33, 78
+	offsets: 0, 1, 33, 79
+	rotate: 90
+R_腿
+	bounds: 1096, 53, 75, 206
+	rotate: 90
+R_衣服带子
+	bounds: 589, 459, 24, 46
+	rotate: 90
+R_领子
+	bounds: 791, 16, 72, 52
+	offsets: 35, 81, 107, 133
+R_鬓角
+	bounds: 1943, 144, 66, 216
+侧
+	bounds: 400, 454, 188, 29
+刘海a
+	bounds: 2, 236, 235, 220
+受击符号
+	bounds: 1914, 362, 97, 121
+后脑袋
+	bounds: 818, 158, 325, 273
+	rotate: 90
+后裙摆中
+	bounds: 530, 41, 76, 161
+	rotate: 90
+后裙摆右
+	bounds: 2, 66, 101, 167
+后裙摆左
+	bounds: 253, 53, 136, 166
+	rotate: 90
+呆毛中
+	bounds: 1820, 189, 56, 123
+	offsets: 1, 0, 57, 123
+	rotate: 90
+嘴巴害羞
+	bounds: 631, 476, 26, 7
+嘴默认微笑
+	bounds: 631, 476, 26, 7
+嘴巴流汗
+	bounds: 289, 465, 31, 18
+	offsets: 0, 1, 31, 20
+嘴张嘴
+	bounds: 1069, 462, 20, 21
+嘴撇嘴a
+	bounds: 36, 479, 19, 4
+嘴撇嘴b
+	bounds: 161, 478, 16, 5
+嘴生气
+	bounds: 730, 476, 24, 7
+	offsets: 0, 1, 24, 8
+嘴疑惑
+	bounds: 1043, 462, 24, 21
+头
+	bounds: 1330, 231, 249, 252
+头饰-L角_复仇鬼
+	bounds: 1092, 130, 104, 265
+	offsets: 0, 1, 104, 266
+	rotate: 90
+头饰-R角_复仇鬼
+	bounds: 1748, 223, 164, 260
+头饰-R角_魔赫
+	bounds: 1581, 221, 165, 262
+左胯零件
+	bounds: 317, 364, 52, 72
+汗滴符号
+	bounds: 421, 56, 107, 79
+生气符号
+	bounds: 176, 60, 75, 93
+疑惑汗滴符号
+	bounds: 706, 464, 19, 22
+	rotate: 90
+疑惑问号符号
+	bounds: 241, 312, 74, 124
+眉
+	bounds: 422, 472, 134, 11
+眼白
+	bounds: 203, 437, 195, 46
+眼皮
+	bounds: 2, 457, 209, 26
+瞳
+	bounds: 1666, 15, 155, 53
+胸部
+	bounds: 869, 25, 85, 62
+	offsets: 0, 0, 85, 66
+腰带a
+	bounds: 1022, 98, 72, 69
+腰带b
+	bounds: 369, 2, 62, 161
+	rotate: 270
+身体
+	bounds: 1549, 80, 130, 186
+	rotate: 90
+面具_复仇鬼
+	bounds: 1092, 236, 236, 247
+鞭子
+	bounds: 356, 81, 402, 460
+	rotate: 90

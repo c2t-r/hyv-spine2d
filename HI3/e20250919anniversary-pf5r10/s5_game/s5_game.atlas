@@ -1,0 +1,6 @@
+s5_game.png
+	size: 256, 128
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.25
+游戏机
+	bounds: 2, 2, 159, 68

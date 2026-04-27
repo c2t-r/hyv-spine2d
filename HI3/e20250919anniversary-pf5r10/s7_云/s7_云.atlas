@@ -1,0 +1,41 @@
+s7_云.png
+	size: 2048, 2048
+	filter: MipMapLinearLinear, MipMapLinearLinear
+上云
+	bounds: 2, 1782, 1724, 189
+前云1
+	bounds: 1252, 158, 1486, 530
+	rotate: 90
+前云2
+	bounds: 844, 2, 1071, 422
+	rotate: 180
+后云a
+	bounds: 2, 206, 1443, 707
+后云b
+	bounds: 2, 915, 1248, 707
+眼泪
+	bounds: 1546, 1821, 150, 355
+	offsets: 0, 0, 153, 355
+	rotate: 90
+雾1
+	bounds: 2, 30, 614, 174
+雾2
+	bounds: 901, 1646, 855, 134
+雾3
+	bounds: 2, 1624, 897, 156
+
+s7_云_2.png
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+中云1
+	bounds: 651, 506, 725, 382
+中云2
+	bounds: 651, 48, 930, 456
+	rotate: 180
+中云3
+	bounds: 2, 34, 408, 392
+中云4
+	bounds: 2, 428, 647, 460
+中云5
+	bounds: 1406, 2, 886, 582
+	rotate: 90

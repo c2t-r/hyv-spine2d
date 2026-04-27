@@ -1,0 +1,123 @@
+s5_heliya.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.26
+L_外套
+	bounds: 259, 4, 44, 63
+	rotate: 90
+L_大臂
+	bounds: 2, 7, 49, 85
+L_小臂
+	bounds: 806, 5, 47, 66
+	rotate: 90
+L_手
+	bounds: 530, 379, 34, 33
+	offsets: 0, 0, 36, 33
+L_肘
+	bounds: 451, 379, 34, 36
+L_腿
+	bounds: 486, 243, 53, 169
+L_衣领
+	bounds: 742, 392, 21, 33
+L_鬓发
+	bounds: 825, 40, 52, 120
+	rotate: 90
+R_前摆
+	bounds: 53, 6, 55, 86
+R_外套
+	bounds: 761, 154, 53, 61
+	rotate: 180
+R_大臂
+	bounds: 75, 203, 53, 82
+R_小臂
+	bounds: 870, 303, 35, 33
+R_小臂手套
+	bounds: 50, 152, 52, 77
+	offsets: 4, 0, 64, 88
+	rotate: 90
+R_肘
+	bounds: 852, 384, 31, 31
+R_腿
+	bounds: 304, 75, 51, 164
+	rotate: 90
+R_鬓发
+	bounds: 83, 293, 43, 112
+	offsets: 0, 0, 43, 119
+gameover
+	bounds: 470, 2, 186, 185
+	offsets: 18, 18, 222, 221
+侧
+	bounds: 508, 428, 157, 20
+侧不乐
+	bounds: 346, 417, 160, 31
+前发
+	bounds: 541, 184, 335, 235
+受击符号
+	bounds: 2, 307, 79, 98
+后发
+	bounds: 130, 108, 328, 358
+	rotate: 270
+后摆
+	bounds: 887, 325, 135, 94
+嘴不乐
+	bounds: 256, 438, 14, 5
+嘴受击
+	bounds: 975, 434, 27, 14
+嘴微笑
+	bounds: 975, 427, 17, 5
+嘴星星
+	bounds: 94, 430, 15, 13
+嘴看前方
+	bounds: 2, 446, 11, 2
+嘴默认
+	bounds: 2, 446, 11, 2
+嘴眯眼笑
+	bounds: 950, 431, 23, 17
+头
+	bounds: 815, 93, 208, 207
+	rotate: 90
+挂饰
+	bounds: 1002, 422, 13, 26
+条带
+	bounds: 2, 180, 24, 74
+汗滴符号
+	bounds: 197, 42, 87, 64
+游戏机
+	bounds: 658, 69, 165, 70
+生气符号
+	bounds: 961, 22, 61, 75
+疑惑汗滴符号
+	bounds: 29, 408, 15, 18
+疑惑问号符号
+	bounds: 135, 14, 60, 101
+眉
+	bounds: 822, 417, 121, 10
+眉不乐
+	bounds: 46, 407, 104, 20
+眉毛受击
+	bounds: 822, 440, 126, 8
+眉眯眼笑
+	bounds: 822, 429, 123, 9
+眼白
+	bounds: 322, 30, 146, 42
+眼眶
+	bounds: 174, 427, 169, 21
+眼眶不乐
+	bounds: 2, 427, 171, 21
+眼眶眯眼笑
+	bounds: 667, 427, 153, 21
+眼睛受击
+	bounds: 2, 94, 131, 54
+瞳
+	bounds: 658, 20, 134, 47
+	offsets: 0, 0, 150, 47
+胸部
+	bounds: 670, 374, 71, 51
+脖子
+	bounds: 982, 294, 40, 34
+腰带
+	bounds: 499, 202, 100, 50
+身体
+	bounds: 2, 198, 96, 107
+高光
+	bounds: 508, 414, 97, 12

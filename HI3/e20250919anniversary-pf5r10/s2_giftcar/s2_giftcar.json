@@ -1,0 +1,98 @@
+{
+  "skeleton": {
+    "hash": "Y+ezz7eQRF8",
+    "spine": "4.2.43",
+    "x": -393.3,
+    "y": -308.32,
+    "width": 357.81,
+    "height": 345.55,
+    "images": "../s2_giftcar/images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "all",
+      "parent": "root",
+      "x": -213.31,
+      "y": -303.72,
+      "scaleX": 0.2787,
+      "scaleY": 0.2787
+    },
+    {
+      "name": "car",
+      "parent": "all",
+      "x": 386.08,
+      "y": 925.19
+    },
+    {
+      "name": "泡面",
+      "parent": "car",
+      "x": -750.51,
+      "y": -286,
+      "icon": "square"
+    }
+  ],
+  "slots": [
+    {
+      "name": "car",
+      "bone": "car",
+      "attachment": "car"
+    },
+    {
+      "name": "泡面",
+      "bone": "泡面",
+      "attachment": "泡面"
+    },
+    {
+      "name": "car2",
+      "bone": "car",
+      "attachment": "car2"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "car": {
+          "car": {
+            "x": -389.97,
+            "y": -321.7,
+            "width": 1284,
+            "height": 1240
+          }
+        },
+        "car2": {
+          "car2": {
+            "x": -733.97,
+            "y": -378.7,
+            "width": 406,
+            "height": 242
+          }
+        },
+        "泡面": {
+          "泡面": {
+            "x": 22.54,
+            "y": 18.3,
+            "width": 354,
+            "height": 332
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "无泡面": {
+      "slots": {
+        "泡面": {
+          "attachment": [
+            {}
+          ]
+        }
+      }
+    },
+    "默认": {}
+  }
+}

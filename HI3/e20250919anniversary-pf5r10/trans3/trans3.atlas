@@ -1,0 +1,102 @@
+trans3.png
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.5
+trans3_00000
+	bounds: 875, 129, 289, 125
+trans3_00001
+	bounds: 584, 129, 289, 125
+trans3_00002
+	bounds: 293, 129, 289, 125
+trans3_00003
+	bounds: 2, 129, 289, 125
+trans3_00004
+	bounds: 1748, 256, 289, 125
+trans3_00005
+	bounds: 1457, 256, 289, 125
+trans3_00006
+	bounds: 1166, 256, 289, 125
+trans3_00007
+	bounds: 875, 256, 289, 125
+trans3_00008
+	bounds: 584, 256, 289, 125
+trans3_00009
+	bounds: 293, 256, 289, 125
+trans3_00010
+	bounds: 2, 256, 289, 125
+trans3_00011
+	bounds: 1748, 383, 289, 125
+trans3_00012
+	bounds: 1457, 383, 289, 125
+trans3_00013
+	bounds: 1166, 383, 289, 125
+trans3_00014
+	bounds: 875, 383, 289, 125
+trans3_00015
+	bounds: 584, 383, 289, 125
+trans3_00016
+	bounds: 293, 383, 289, 125
+trans3_00017
+	bounds: 2, 383, 289, 125
+trans3_00018
+	bounds: 1748, 510, 289, 125
+trans3_00019
+	bounds: 1457, 510, 289, 125
+trans3_00020
+	bounds: 1166, 510, 289, 125
+trans3_00021
+	bounds: 875, 510, 289, 125
+trans3_00022
+	bounds: 584, 510, 289, 125
+trans3_00023
+	bounds: 293, 510, 289, 125
+trans3_00024
+	bounds: 2, 510, 289, 125
+trans3_00025
+	bounds: 2, 2, 288, 125
+	offsets: 1, 0, 289, 125
+trans3_00026
+	bounds: 1746, 129, 288, 125
+	offsets: 1, 0, 289, 125
+trans3_00027
+	bounds: 1456, 129, 288, 125
+	offsets: 1, 0, 289, 125
+trans3_00028
+	bounds: 1166, 129, 288, 125
+	offsets: 1, 0, 289, 125
+trans3_00029
+	bounds: 292, 2, 287, 125
+	offsets: 2, 0, 289, 125
+trans3_00030
+	bounds: 581, 2, 286, 125
+	offsets: 3, 0, 289, 125
+trans3_00031
+	bounds: 869, 2, 248, 125
+	offsets: 41, 0, 289, 125
+trans3_00032
+	bounds: 1119, 2, 228, 125
+	offsets: 61, 0, 289, 125
+trans3_00033
+	bounds: 1349, 2, 109, 125
+	offsets: 180, 0, 289, 125
+trans3_00034
+	bounds: 1460, 6, 66, 121
+	offsets: 181, 0, 289, 125
+trans3_00035
+	bounds: 1528, 7, 44, 120
+	offsets: 203, 1, 289, 125
+trans3_00036
+	bounds: 1574, 7, 43, 120
+	offsets: 204, 1, 289, 125
+trans3_00037
+	bounds: 1619, 8, 36, 119
+	offsets: 205, 1, 289, 125
+trans3_00038
+	bounds: 1657, 7, 35, 120
+	offsets: 205, 0, 289, 125
+trans3_00039
+	bounds: 2039, 631, 4, 3
+	offsets: 222, 117, 289, 125
+	rotate: 90
+trans3_00040
+	bounds: 2044, 634, 1, 1
