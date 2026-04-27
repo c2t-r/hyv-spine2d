@@ -1,0 +1,228 @@
+{
+  "skeleton": {
+    "hash": "OIYSPkwA7eI",
+    "spine": "4.2.43",
+    "x": -1052.5,
+    "y": -380,
+    "width": 1815,
+    "height": 1015
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "a",
+      "parent": "root",
+      "x": -619.03,
+      "y": 13.25
+    },
+    {
+      "name": "b",
+      "parent": "root",
+      "x": 184.22,
+      "y": -101.34
+    },
+    {
+      "name": "c",
+      "parent": "root",
+      "x": 401.04,
+      "y": 175.02
+    }
+  ],
+  "slots": [
+    {
+      "name": "c",
+      "bone": "c",
+      "attachment": "c",
+      "blend": "additive"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b",
+      "blend": "additive"
+    },
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              166.53,
+              -393.25,
+              -433.47,
+              -393.25,
+              -433.47,
+              621.75,
+              166.53,
+              621.75
+            ],
+            "hull": 4
+          }
+        },
+        "b": {
+          "b": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              206.28,
+              -223.66,
+              -260.72,
+              -223.66,
+              -260.72,
+              194.34,
+              206.28,
+              194.34
+            ],
+            "hull": 4
+          }
+        },
+        "c": {
+          "c": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              361.46,
+              -223.02,
+              -213.54,
+              -223.02,
+              -213.54,
+              234.98,
+              361.46,
+              234.98
+            ],
+            "hull": 4
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "b": {
+      "rootBoneName": "b",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 4786
+        }
+      }
+    },
+    "c": {
+      "rootBoneName": "c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0.55980640353799,
+          "moveXCenter": 0,
+          "moveXSeed": 4787.730564049722
+        }
+      }
+    },
+    "a": {
+      "rootBoneName": "a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": -1.6309218018928775,
+          "moveXCenter": 0,
+          "moveXSeed": 4783.789481560487
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

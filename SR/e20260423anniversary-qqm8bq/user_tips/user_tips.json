@@ -1,0 +1,102 @@
+{
+  "skeleton": {
+    "hash": "iltcGMk9YCg",
+    "spine": "4.2.43",
+    "x": -27.5,
+    "y": -24.5,
+    "width": 55,
+    "height": 49
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "user_a_icon",
+      "bone": "bone",
+      "attachment": "user_a_icon"
+    }
+  ],
+  "skins": [
+    {
+      "name": "a",
+      "attachments": {
+        "user_a_icon": {
+          "user_a_icon": {
+            "width": 58,
+            "height": 52
+          }
+        }
+      }
+    },
+    {
+      "name": "b",
+      "attachments": {
+        "user_a_icon": {
+          "user_a_icon": {
+            "name": "user_b_icon",
+            "width": 58,
+            "height": 52
+          }
+        }
+      }
+    },
+    {
+      "name": "c",
+      "attachments": {
+        "user_a_icon": {
+          "user_a_icon": {
+            "name": "user_c_icon",
+            "width": 55,
+            "height": 49
+          }
+        }
+      }
+    },
+    {
+      "name": "d",
+      "attachments": {
+        "user_a_icon": {
+          "user_a_icon": {
+            "name": "user_d_icon",
+            "width": 58,
+            "height": 52
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "bone": {
+      "rootBoneName": "bone",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 1.5,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

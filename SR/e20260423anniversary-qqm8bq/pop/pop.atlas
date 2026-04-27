@@ -1,0 +1,16 @@
+pop.png
+size:93,61
+filter:Linear,Linear
+a
+bounds:80,9,12,13
+offsets:2,2,16,17
+b
+bounds:80,28,12,13
+offsets:2,2,16,17
+c
+bounds:80,47,14,13
+offsets:2,2,18,17
+rotate:90
+p
+bounds:0,0,74,61
+offsets:2,2,78,65

@@ -1,0 +1,17 @@
+loading_bg_qiqiu_xs.png
+size:359,365
+filter:Linear,Linear
+la
+bounds:5,173,187,203
+offsets:34,47,295,250
+rotate:90
+lb
+bounds:218,227,133,132
+offsets:19,34,200,166
+rotate:90
+lc
+bounds:187,23,167,140
+offsets:43,41,233,183
+ld
+bounds:5,5,172,158
+offsets:49,41,252,199

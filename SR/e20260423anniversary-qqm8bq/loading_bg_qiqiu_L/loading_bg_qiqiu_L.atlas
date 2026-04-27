@@ -1,0 +1,14 @@
+loading_bg_qiqiu_L.png
+size:641,447
+filter:Linear,Linear
+la
+bounds:5,65,377,375
+offsets:0,3,377,378
+rotate:90
+lb
+bounds:390,5,223,221
+offsets:4,4,231,229
+lc
+bounds:390,236,206,246
+offsets:4,4,214,254
+rotate:90

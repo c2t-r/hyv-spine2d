@@ -1,0 +1,12 @@
+user_tips.png
+size:58,222
+filter:Linear,Linear
+user_a_icon
+bounds:0,54,58,52
+user_b_icon
+bounds:0,112,58,52
+user_c_icon
+bounds:0,0,54,48
+offsets:1,1,55,49
+user_d_icon
+bounds:0,170,58,52

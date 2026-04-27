@@ -1,0 +1,141 @@
+{
+  "skeleton": {
+    "hash": "JLs5u4VmPYc",
+    "spine": "4.2.43",
+    "x": -79,
+    "y": -79.5,
+    "width": 158,
+    "height": 159
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "la",
+      "parent": "root",
+      "x": -1.82,
+      "y": 1.94
+    },
+    {
+      "name": "lb",
+      "parent": "root",
+      "x": -49.24,
+      "y": -47.15
+    }
+  ],
+  "slots": [
+    {
+      "name": "lb",
+      "bone": "lb",
+      "attachment": "lb"
+    },
+    {
+      "name": "la",
+      "bone": "la",
+      "attachment": "la"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "la": {
+          "la": {
+            "x": 1.82,
+            "y": -1.94,
+            "width": 158,
+            "height": 159
+          }
+        },
+        "lb": {
+          "lb": {
+            "type": "mesh",
+            "uvs": [
+              0.30185,
+              0.1874,
+              0.55616,
+              0.65584,
+              0.38768,
+              1,
+              0.05708,
+              1,
+              0,
+              0.59699,
+              0.02211,
+              0.21565
+            ],
+            "triangles": [
+              0,
+              4,
+              5,
+              1,
+              4,
+              0,
+              4,
+              2,
+              3,
+              1,
+              2,
+              4
+            ],
+            "vertices": [
+              8.55,
+              33.85,
+              38.31,
+              -3.16,
+              18.6,
+              -30.35,
+              -20.08,
+              -30.35,
+              -26.76,
+              1.49,
+              -24.18,
+              31.61
+            ],
+            "hull": 6
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "la": {
+      "rootBoneName": "la",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 7,
+          "moveXAmp": 15,
+          "moveXOctaves": 0,
+          "moveXDelay": 0.67,
+          "moveXCenter": 0,
+          "moveXSeed": 4585.88
+        }
+      }
+    },
+    "lb": {
+      "rootBoneName": "lb",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3,
+          "moveXAmp": 6,
+          "moveXOctaves": 0,
+          "moveXDelay": 1.28,
+          "moveXCenter": 0,
+          "moveXSeed": 4578.9
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

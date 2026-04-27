@@ -1,0 +1,348 @@
+{
+  "skeleton": {
+    "hash": "VRqgB+m6XtU",
+    "spine": "4.2.43",
+    "x": -169.47,
+    "y": -105.41,
+    "width": 338.95,
+    "height": 210.82
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.8954,
+      "scaleY": 0.557
+    },
+    {
+      "name": "a",
+      "parent": "root",
+      "scaleX": 1.0723,
+      "scaleY": 1.0723
+    },
+    {
+      "name": "a2",
+      "parent": "root",
+      "scaleX": 1.0723,
+      "scaleY": 1.0723
+    },
+    {
+      "name": "a3",
+      "parent": "root",
+      "scaleX": 1.0723,
+      "scaleY": 1.0723
+    }
+  ],
+  "slots": [
+    {
+      "name": "B_c",
+      "bone": "a",
+      "color": "ffffff00",
+      "attachment": "c_c"
+    },
+    {
+      "name": "B_c4",
+      "bone": "a2",
+      "color": "ffffff00",
+      "attachment": "c_c"
+    },
+    {
+      "name": "B_c7",
+      "bone": "a3",
+      "color": "ffffff00",
+      "attachment": "c_c"
+    },
+    {
+      "name": "B_c2",
+      "bone": "a",
+      "color": "ffffff00",
+      "attachment": "c_b"
+    },
+    {
+      "name": "B_c5",
+      "bone": "a2",
+      "color": "ffffff00",
+      "attachment": "c_b"
+    },
+    {
+      "name": "B_c8",
+      "bone": "a3",
+      "color": "ffffff00",
+      "attachment": "c_b"
+    },
+    {
+      "name": "B_c3",
+      "bone": "a",
+      "color": "ffffff00",
+      "attachment": "c_a"
+    },
+    {
+      "name": "B_c6",
+      "bone": "a2",
+      "color": "ffffff00",
+      "attachment": "c_a"
+    },
+    {
+      "name": "B_c9",
+      "bone": "a3",
+      "color": "ffffff00",
+      "attachment": "c_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "B_c": {
+          "c_c": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c2": {
+          "c_b": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c3": {
+          "c_a": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c4": {
+          "c_c": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c5": {
+          "c_b": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c6": {
+          "c_a": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c7": {
+          "c_c": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c8": {
+          "c_b": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "B_c9": {
+          "c_a": {
+            "width": 353,
+            "height": 353
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "phase1": {
+      "slots": {
+        "B_c": {
+          "rgb": [
+            {
+              "color": "fffeee"
+            }
+          ]
+        },
+        "B_c2": {
+          "rgb": [
+            {
+              "color": "fff555"
+            }
+          ]
+        },
+        "B_c4": {
+          "rgb": [
+            {
+              "color": "fffeee"
+            }
+          ]
+        },
+        "B_c5": {
+          "rgb": [
+            {
+              "color": "fff555"
+            }
+          ]
+        },
+        "B_c7": {
+          "rgb": [
+            {
+              "color": "fffeee"
+            }
+          ]
+        },
+        "B_c8": {
+          "rgb": [
+            {
+              "color": "fff555"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "a": {
+          "scale": [
+            {
+              "x": 0.576,
+              "y": 0.576
+            }
+          ]
+        },
+        "a2": {
+          "scale": [
+            {
+              "x": 0.576,
+              "y": 0.576
+            }
+          ]
+        },
+        "a3": {
+          "scale": [
+            {
+              "x": 0.576,
+              "y": 0.576
+            }
+          ]
+        }
+      }
+    },
+    "phase3": {
+      "slots": {
+        "B_c3": {
+          "alpha": [
+            {
+              "value": 0.83699995
+            },
+            {
+              "time": 0.5,
+              "value": 0.9989
+            },
+            {
+              "time": 1,
+              "value": 0.0011
+            }
+          ]
+        },
+        "B_c4": {
+          "alpha": [
+            {
+              "value": 0.5155
+            },
+            {
+              "time": 0.5,
+              "value": 0
+            }
+          ]
+        },
+        "B_c5": {
+          "alpha": [
+            {
+              "value": 0.77489996,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "value": 0.77489996
+            },
+            {
+              "time": 1,
+              "value": 0
+            }
+          ]
+        },
+        "B_c6": {
+          "alpha": [
+            {
+              "time": 0.5,
+              "value": 0
+            },
+            {
+              "time": 1,
+              "value": 0.83699995
+            }
+          ]
+        },
+        "B_c7": {
+          "alpha": [
+            {
+              "value": 0
+            },
+            {
+              "time": 0.5,
+              "value": 0.5155
+            }
+          ]
+        },
+        "B_c8": {
+          "alpha": [
+            {
+              "time": 0.5,
+              "value": 0
+            },
+            {
+              "time": 1,
+              "value": 0.77489996
+            }
+          ]
+        }
+      },
+      "bones": {
+        "a": {
+          "scale": [
+            {
+              "x": 0.555,
+              "y": 0.555
+            },
+            {
+              "time": 1,
+              "x": 0.368,
+              "y": 0.368
+            }
+          ]
+        },
+        "a2": {
+          "scale": [
+            {
+              "x": 0.742,
+              "y": 0.742
+            },
+            {
+              "time": 1,
+              "x": 0.555,
+              "y": 0.555
+            }
+          ]
+        },
+        "a3": {
+          "scale": [
+            {
+              "x": 0.928,
+              "y": 0.928
+            },
+            {
+              "time": 1,
+              "x": 0.742,
+              "y": 0.742
+            }
+          ]
+        }
+      }
+    }
+  }
+}

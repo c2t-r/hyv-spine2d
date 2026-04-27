@@ -1,0 +1,17 @@
+c_big_diengqiu.png
+size:343,276
+filter:Linear,Linear
+a_big_diengqiu
+bounds:1,1,276,274
+红_a
+bounds:279,58,81,29
+offsets:4,4,89,37
+rotate:90
+红_b
+bounds:310,73,66,24
+offsets:4,4,74,32
+rotate:90
+红_c
+bounds:279,141,134,63
+offsets:4,4,142,71
+rotate:90

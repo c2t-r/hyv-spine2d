@@ -1,0 +1,19 @@
+b_bird_b.png
+size:154,493
+filter:Linear,Linear
+scale:0.4
+st_b
+bounds:0,171,132,112
+rotate:180
+t_b
+bounds:102,399,94,52
+rotate:90
+图层 2
+bounds:0,0,135,52
+offsets:1,1,137,54
+图层 3
+bounds:1,57,132,109
+offsets:0,1,132,116
+图层 4
+bounds:0,289,144,204
+offsets:9,0,153,204

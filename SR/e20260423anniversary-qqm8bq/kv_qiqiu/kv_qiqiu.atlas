@@ -1,0 +1,13 @@
+kv_qiqiu.png
+size:374,275
+filter:Linear,Linear
+a
+bounds:0,0,283,275
+offsets:0,0,290,275
+b
+bounds:243,89,131,186
+rotate:180
+c
+bounds:73,219,56,112
+offsets:1,2,57,116
+rotate:90

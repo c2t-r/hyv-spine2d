@@ -1,0 +1,16 @@
+b_bird_c.png
+size:105,395
+filter:Linear,Linear
+scale:0.4
+b_a
+bounds:0,189,94,99
+rotate:270
+b_b
+bounds:0,138,105,48
+c_a
+bounds:9,69,76,64
+rotate:180
+c_b
+bounds:0,0,76,64
+yy
+bounds:0,285,104,110

@@ -1,0 +1,323 @@
+{
+  "skeleton": {
+    "hash": "09ri2XEU5bw",
+    "spine": "4.2.43",
+    "x": -1044.5,
+    "y": -469,
+    "width": 2459,
+    "height": 1271
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "c",
+      "parent": "root",
+      "length": 1326.77,
+      "rotation": 28.77,
+      "x": 339.66,
+      "y": -473.21
+    },
+    {
+      "name": "a",
+      "parent": "root",
+      "length": 1621.89,
+      "rotation": 117.23,
+      "x": -258.38,
+      "y": -443.61
+    },
+    {
+      "name": "b",
+      "parent": "root",
+      "length": 1527.33,
+      "rotation": 101.01,
+      "x": -120.93,
+      "y": -359.03
+    },
+    {
+      "name": "d",
+      "parent": "root",
+      "length": 944.18,
+      "rotation": 103.6,
+      "x": -156.88,
+      "y": 68.1
+    }
+  ],
+  "slots": [
+    {
+      "name": "d",
+      "bone": "d",
+      "attachment": "d",
+      "blend": "additive"
+    },
+    {
+      "name": "c",
+      "bone": "c",
+      "attachment": "c",
+      "blend": "additive"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b",
+      "blend": "additive"
+    },
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0,
+              0.89291,
+              1,
+              1,
+              1,
+              1,
+              0.8632,
+              0.41562,
+              0
+            ],
+            "triangles": [
+              3,
+              0,
+              4,
+              1,
+              0,
+              3,
+              1,
+              3,
+              2
+            ],
+            "vertices": [
+              1467.28,
+              128.98,
+              110.28,
+              62.15,
+              72.93,
+              -10.4,
+              215.97,
+              -84.02,
+              1322.35,
+              -152.62
+            ],
+            "hull": 5
+          }
+        },
+        "b": {
+          "b": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0,
+              0.62813,
+              1,
+              1,
+              1,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              0,
+              3,
+              2,
+              1,
+              3
+            ],
+            "vertices": [
+              1192.87,
+              51.62,
+              30.97,
+              90.91,
+              10.22,
+              -15.67,
+              1137.08,
+              -235.01
+            ],
+            "hull": 4
+          }
+        },
+        "c": {
+          "c": {
+            "type": "mesh",
+            "uvs": [
+              0.00477,
+              0.8482,
+              0.73209,
+              0,
+              1,
+              0,
+              1,
+              0.64669,
+              0,
+              1
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3,
+              4,
+              0,
+              3
+            ],
+            "vertices": [
+              100.32,
+              89.66,
+              1090.02,
+              328.08,
+              1333.08,
+              194.62,
+              1081.59,
+              -263.4,
+              36.95,
+              -15.48
+            ],
+            "hull": 5
+          }
+        },
+        "d": {
+          "d": {
+            "type": "mesh",
+            "uvs": [
+              0,
+              0.1054,
+              0.7411,
+              1,
+              1,
+              1,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              0,
+              3,
+              2,
+              1,
+              3
+            ],
+            "vertices": [
+              582.77,
+              79.82,
+              58.56,
+              51.1,
+              46.14,
+              -0.23,
+              592.38,
+              -132.39
+            ],
+            "hull": 4
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "a": {
+      "rootBoneName": "a",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 7,
+          "rotateRange": 5,
+          "rotateOffset": 0,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "b": {
+      "rootBoneName": "b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 7,
+          "rotateRange": 5,
+          "rotateOffset": -0.4200080157151014,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "d": {
+      "rootBoneName": "d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 5,
+          "rotateRange": 5,
+          "rotateOffset": 0.5451950794937792,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "c": {
+      "rootBoneName": "c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 7,
+          "rotateRange": 3,
+          "rotateOffset": -0.02636811729687838,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "skeleton": {
+    "hash": "2snO7RyhE9s",
+    "spine": "4.2.43",
+    "x": -194.5,
+    "y": -380,
+    "width": 389,
+    "height": 760
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "la",
+      "parent": "root",
+      "x": 154.49,
+      "y": 336.99
+    },
+    {
+      "name": "lb",
+      "parent": "root",
+      "x": -143.09,
+      "y": -143.65
+    },
+    {
+      "name": "lc",
+      "parent": "root",
+      "x": -42.45,
+      "y": -309.36
+    }
+  ],
+  "slots": [
+    {
+      "name": "lc",
+      "bone": "lc",
+      "attachment": "lc"
+    },
+    {
+      "name": "lb",
+      "bone": "lb",
+      "attachment": "lb"
+    },
+    {
+      "name": "la",
+      "bone": "la",
+      "attachment": "la"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "la": {
+          "la": {
+            "x": -0.49,
+            "y": 1.51,
+            "width": 81,
+            "height": 83
+          }
+        },
+        "lb": {
+          "lb": {
+            "x": 14.59,
+            "y": -1.35,
+            "width": 132,
+            "height": 112
+          }
+        },
+        "lc": {
+          "lc": {
+            "x": 9.45,
+            "y": -0.64,
+            "width": 183,
+            "height": 140
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "la": {
+      "rootBoneName": "la",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 6,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 2.26,
+          "moveXCenter": 0,
+          "moveXSeed": 2219.04,
+          "rotateFreq": 6,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.21
+        }
+      }
+    },
+    "lb": {
+      "rootBoneName": "lb",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 8,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.12,
+          "moveXCenter": 0,
+          "moveXSeed": 2222.5,
+          "rotateFreq": 6,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.28
+        }
+      }
+    },
+    "lc": {
+      "rootBoneName": "lc",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 6,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 4.47,
+          "moveXCenter": 0,
+          "moveXSeed": 2213.69,
+          "rotateFreq": 6,
+          "rotateAmp": 10,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.3
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

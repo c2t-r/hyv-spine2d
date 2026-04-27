@@ -1,0 +1,17 @@
+a_big_long.png
+size:391,301
+filter:Linear,Linear
+d_big_long
+bounds:1,1,324,299
+红_a
+bounds:327,83,81,29
+offsets:4,4,89,37
+rotate:90
+红_b
+bounds:327,15,66,24
+offsets:4,4,74,32
+rotate:90
+红_c
+bounds:327,166,134,63
+offsets:4,4,142,71
+rotate:90

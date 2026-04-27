@@ -1,0 +1,14 @@
+c_emoji_b.png
+size:188,119
+filter:Linear,Linear
+scale:0.4
+b_a
+bounds:142,52,38,31
+offsets:0,1,39,33
+b_b
+bounds:126,17,102,62
+offsets:1,1,103,63
+rotate:90
+b_c
+bounds:0,0,120,119
+offsets:1,1,122,121

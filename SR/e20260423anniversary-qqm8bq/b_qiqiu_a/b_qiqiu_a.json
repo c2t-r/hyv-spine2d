@@ -1,0 +1,75 @@
+{
+  "skeleton": {
+    "hash": "GtVRzFQ+qpI",
+    "spine": "4.2.43",
+    "x": -24.5,
+    "y": -0.47,
+    "width": 49,
+    "height": 80
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "b_qiqiu_a",
+      "parent": "root",
+      "x": -0.86,
+      "y": 50.57
+    }
+  ],
+  "slots": [
+    {
+      "name": "b_qiqiu_a",
+      "bone": "b_qiqiu_a",
+      "attachment": "b_qiqiu_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "b_qiqiu_a": {
+          "b_qiqiu_a": {
+            "x": 0.86,
+            "y": -11.04,
+            "width": 49,
+            "height": 80
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "b_qiqiu_a": {
+      "rootBoneName": "b_qiqiu_a",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 4,
+          "moveYAmp": 5,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

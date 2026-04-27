@@ -1,0 +1,12 @@
+map_dfmz_bg.png
+size:2048,512
+filter:Linear,Linear
+c_a
+bounds:3,3,345,345
+offsets:4,4,353,353
+c_b
+bounds:354,3,345,345
+offsets:4,4,353,353
+c_c
+bounds:705,3,345,345
+offsets:4,4,353,353

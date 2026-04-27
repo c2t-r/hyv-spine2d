@@ -1,0 +1,15 @@
+b_bird_a.png
+size:104,217
+filter:Linear,Linear
+scale:0.4
+by
+bounds:0,210,48,7
+offsets:2,2,52,11
+eyr
+bounds:0,0,51,20
+offsets:2,1,55,22
+sy
+bounds:0,75,131,104
+rotate:90
+t
+bounds:0,25,102,44

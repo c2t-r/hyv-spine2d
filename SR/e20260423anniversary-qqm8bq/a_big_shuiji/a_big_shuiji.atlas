@@ -1,0 +1,16 @@
+a_big_shuiji.png
+size:194,436
+filter:Linear,Linear
+d_big_shuiji
+bounds:1,84,192,351
+红_a
+bounds:137,1,81,29
+offsets:4,4,89,37
+rotate:90
+红_b
+bounds:168,16,66,24
+offsets:4,4,74,32
+rotate:90
+红_c
+bounds:1,19,134,63
+offsets:4,4,142,71

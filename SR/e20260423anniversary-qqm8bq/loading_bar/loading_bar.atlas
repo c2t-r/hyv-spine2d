@@ -1,0 +1,9 @@
+loading_bar.png
+size:928,180
+filter:Linear,Linear
+框
+bounds:0,116,928,64
+白底
+bounds:0,54,920,56
+进度
+bounds:0,0,895,48

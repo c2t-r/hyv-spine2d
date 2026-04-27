@@ -1,0 +1,99 @@
+{
+  "skeleton": {
+    "hash": "UGi3/LxOHSE",
+    "spine": "4.2.43",
+    "x": -48.1,
+    "y": -1.14,
+    "width": 107,
+    "height": 147
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "b_eyu",
+      "parent": "root",
+      "length": 50.08,
+      "rotation": -96.45,
+      "x": 7.35,
+      "y": 90.76
+    },
+    {
+      "name": "b_eyu2",
+      "parent": "b_eyu",
+      "length": 17.61,
+      "rotation": 0.81,
+      "x": 50.08
+    },
+    {
+      "name": "b_eyu3",
+      "parent": "b_eyu2",
+      "length": 13.41,
+      "rotation": -4.58,
+      "x": 17.61
+    },
+    {
+      "name": "b_eyu4",
+      "parent": "b_eyu3",
+      "length": 15.03,
+      "rotation": 3.61,
+      "x": 13.41
+    }
+  ],
+  "slots": [
+    {
+      "name": "b_eyu",
+      "bone": "b_eyu",
+      "attachment": "b_eyu"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "b_eyu": {
+          "b_eyu": {
+            "x": 18.5,
+            "y": 0.13,
+            "rotation": 96.45,
+            "width": 107,
+            "height": 147
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "b_eyu": {
+      "rootBoneName": "b_eyu",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 9,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 4.5,
+          "moveYAmp": 6,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

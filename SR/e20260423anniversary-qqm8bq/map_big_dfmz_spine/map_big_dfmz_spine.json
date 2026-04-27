@@ -1,0 +1,296 @@
+{
+  "skeleton": {
+    "hash": "nvdIilYwNsw",
+    "spine": "4.2.43",
+    "x": -184.5,
+    "y": -32.21,
+    "width": 369,
+    "height": 629
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "y": 0.77
+    }
+  ],
+  "slots": [
+    {
+      "name": "ya3",
+      "bone": "bone",
+      "color": "ffffff00",
+      "attachment": "yc",
+      "blend": "additive"
+    },
+    {
+      "name": "ya2",
+      "bone": "bone",
+      "color": "ffffff00",
+      "attachment": "yb"
+    },
+    {
+      "name": "ya",
+      "bone": "bone",
+      "color": "ffffff00",
+      "attachment": "ya"
+    },
+    {
+      "name": "mzzzz",
+      "bone": "bone",
+      "attachment": "mz"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "ya": {
+          "ya": {
+            "y": 281.52,
+            "width": 329,
+            "height": 590
+          }
+        },
+        "ya2": {
+          "ya": {
+            "y": 281.52,
+            "width": 329,
+            "height": 590
+          },
+          "yb": {
+            "y": 281.52,
+            "width": 357,
+            "height": 618
+          }
+        },
+        "ya3": {
+          "ya": {
+            "y": 281.52,
+            "width": 329,
+            "height": 590
+          },
+          "yb": {
+            "y": 281.52,
+            "width": 357,
+            "height": 618
+          },
+          "yc": {
+            "y": 281.52,
+            "width": 369,
+            "height": 629
+          }
+        }
+      }
+    },
+    {
+      "name": "cn",
+      "attachments": {
+        "mzzzz": {
+          "mz": {
+            "y": 281.52,
+            "width": 321,
+            "height": 582
+          }
+        }
+      }
+    },
+    {
+      "name": "hw",
+      "attachments": {
+        "mzzzz": {
+          "mz": {
+            "name": "mzzzz",
+            "y": 281.52,
+            "width": 321,
+            "height": 582
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "phase1": {},
+    "phase3": {
+      "slots": {
+        "ya": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": [
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                1,
+                0.667,
+                0.34
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffff57",
+              "curve": [
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                0.34,
+                1.667,
+                1
+              ]
+            },
+            {
+              "time": 2,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "ya2": {
+          "rgba": [
+            {
+              "color": "ffffffab",
+              "curve": [
+                0.169,
+                1,
+                0.334,
+                1,
+                0.169,
+                1,
+                0.334,
+                1,
+                0.169,
+                1,
+                0.334,
+                1,
+                0.169,
+                0.83,
+                0.334,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "color": "ffffffff",
+              "curve": [
+                0.833,
+                1,
+                1.167,
+                1,
+                0.833,
+                1,
+                1.167,
+                1,
+                0.833,
+                1,
+                1.167,
+                1,
+                0.833,
+                1,
+                1.167,
+                0.34
+              ]
+            },
+            {
+              "time": 1.5,
+              "color": "ffffff57",
+              "curve": [
+                1.668,
+                1,
+                1.836,
+                1,
+                1.668,
+                1,
+                1.836,
+                1,
+                1.668,
+                1,
+                1.836,
+                1,
+                1.668,
+                0.34,
+                1.836,
+                0.5
+              ]
+            },
+            {
+              "time": 2,
+              "color": "ffffffab"
+            }
+          ]
+        },
+        "ya3": {
+          "rgba": [
+            {
+              "color": "ffffff57",
+              "curve": [
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                1,
+                0.667,
+                1,
+                0.333,
+                0.34,
+                0.667,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffffff",
+              "curve": [
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                1,
+                1.333,
+                1,
+                1.667,
+                0.34
+              ]
+            },
+            {
+              "time": 2,
+              "color": "ffffff57"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

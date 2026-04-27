@@ -1,0 +1,195 @@
+{
+  "skeleton": {
+    "hash": "wF9enpcnHyI",
+    "spine": "4.2.43",
+    "x": -1324.89,
+    "y": -751.12,
+    "width": 2684,
+    "height": 1252
+  },
+  "bones": [
+    {
+      "name": "root",
+      "x": 10.61,
+      "y": -2.12
+    },
+    {
+      "name": "波点 拷贝",
+      "parent": "root",
+      "x": 892.51,
+      "y": -167.14
+    },
+    {
+      "name": "波点 拷贝2",
+      "parent": "root",
+      "x": 531.41,
+      "y": -361.69
+    },
+    {
+      "name": "马赛克",
+      "parent": "root",
+      "x": 923.14,
+      "y": -25.95
+    }
+  ],
+  "slots": [
+    {
+      "name": "波点 拷贝",
+      "bone": "波点 拷贝",
+      "attachment": "波点 拷贝"
+    },
+    {
+      "name": "波点 拷贝2",
+      "bone": "波点 拷贝2",
+      "attachment": "波点 拷贝"
+    },
+    {
+      "name": "马赛克",
+      "bone": "马赛克",
+      "attachment": "马赛克"
+    },
+    {
+      "name": "图层 20",
+      "bone": "root",
+      "color": "ffffff35",
+      "blend": "additive"
+    },
+    {
+      "name": "图层 25",
+      "bone": "root",
+      "attachment": "图层 25"
+    },
+    {
+      "name": "图层 718",
+      "bone": "root",
+      "color": "ffffff30",
+      "blend": "additive"
+    },
+    {
+      "name": "图层 719",
+      "bone": "root",
+      "color": "ffffff30",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "图层 25": {
+          "图层 25": {
+            "x": 561.5,
+            "y": -213.5,
+            "width": 1218,
+            "height": 729
+          }
+        },
+        "波点 拷贝": {
+          "波点 拷贝": {
+            "x": 3.49,
+            "y": -14.86,
+            "width": 583,
+            "height": 582
+          }
+        },
+        "波点 拷贝2": {
+          "波点 拷贝": {
+            "x": 3.49,
+            "y": -14.86,
+            "width": 583,
+            "height": 582
+          }
+        },
+        "马赛克": {
+          "马赛克": {
+            "x": -5.14,
+            "y": -14.05,
+            "width": 167,
+            "height": 156
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "波点 拷贝": {
+      "rootBoneName": "波点 拷贝",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 7,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 5626,
+          "scaleXFreq": 10,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "波点 拷贝2": {
+      "rootBoneName": "波点 拷贝2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 7,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 2.0412724494377428,
+          "moveXCenter": 0,
+          "moveXSeed": 5629.2486951880555,
+          "scaleXFreq": 10,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -3.8438422861570323,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "马赛克": {
+      "rootBoneName": "马赛克",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 7,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": -2.4445899903914263,
+          "moveXCenter": 0,
+          "moveXSeed": 5623.29140395759,
+          "scaleXFreq": 10,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0.07236223914900493,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
