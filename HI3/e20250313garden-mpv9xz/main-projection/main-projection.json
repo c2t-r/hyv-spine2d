@@ -1,0 +1,1725 @@
+{
+  "skeleton": {
+    "hash": "7+F50mlKU2k",
+    "spine": "4.0-from-4.1-from-4.2.33",
+    "x": -563.9,
+    "y": -16.04,
+    "width": 1094,
+    "height": 711,
+    "images": "./images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "color": "ff0000ff",
+      "icon": "circle"
+    },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "x": -475.03,
+      "y": 676,
+      "color": "ff0000ff",
+      "icon": "circle"
+    },
+    {
+      "name": "bone117",
+      "parent": "bone",
+      "length": 80.63,
+      "x": -24.38,
+      "y": -137.93,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone3",
+      "parent": "bone117",
+      "length": 148.68,
+      "rotation": 88.56,
+      "x": -1033.79,
+      "y": 355.51,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone4",
+      "parent": "bone3",
+      "length": 132.74,
+      "rotation": 1.44,
+      "x": 148.68,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone5",
+      "parent": "bone4",
+      "length": 136.53,
+      "rotation": 3.73,
+      "x": 134.82,
+      "y": 1.63,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone6",
+      "parent": "bone5",
+      "length": 128.98,
+      "rotation": 3.33,
+      "x": 136.53,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone7",
+      "parent": "bone6",
+      "length": 116.18,
+      "rotation": 0.25,
+      "x": 139.88,
+      "y": -0.22,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone8",
+      "parent": "bone7",
+      "length": 128.26,
+      "rotation": 3.31,
+      "x": 116.18,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone9",
+      "parent": "bone4",
+      "length": 107.18,
+      "rotation": 44.21,
+      "x": 130.89,
+      "y": 30.94,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone10",
+      "parent": "bone9",
+      "length": 84.27,
+      "rotation": 12.63,
+      "x": 107.18,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone11",
+      "parent": "bone10",
+      "length": 87.96,
+      "rotation": 12.71,
+      "x": 84.27,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone12",
+      "parent": "bone4",
+      "length": 87.85,
+      "rotation": -60.99,
+      "x": 109.94,
+      "y": -51.47,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone13",
+      "parent": "bone12",
+      "length": 83.86,
+      "rotation": -14.05,
+      "x": 87.85,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone14",
+      "parent": "bone13",
+      "length": 56.61,
+      "rotation": -17.08,
+      "x": 83.86,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone15",
+      "parent": "bone5",
+      "length": 97.57,
+      "rotation": -44.37,
+      "x": 22.47,
+      "y": -35.08,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone16",
+      "parent": "bone15",
+      "length": 89.51,
+      "rotation": -26.39,
+      "x": 97.57,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone17",
+      "parent": "bone16",
+      "length": 56.92,
+      "rotation": -8.76,
+      "x": 89.51,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone21",
+      "parent": "bone6",
+      "length": 123.58,
+      "rotation": -28.4,
+      "x": 145.97,
+      "y": -70.65,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone22",
+      "parent": "bone21",
+      "length": 83.68,
+      "rotation": -8.73,
+      "x": 123.58,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone23",
+      "parent": "bone22",
+      "length": 58.22,
+      "rotation": -13.87,
+      "x": 83.68,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone18",
+      "parent": "bone6",
+      "length": 117.5,
+      "rotation": 36.01,
+      "x": 127.1,
+      "y": 80.03,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone19",
+      "parent": "bone18",
+      "length": 94.83,
+      "rotation": 4.34,
+      "x": 117.5,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone20",
+      "parent": "bone117",
+      "length": 149.54,
+      "rotation": 89.61,
+      "x": 1174.44,
+      "y": 352.95,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone24",
+      "parent": "bone20",
+      "length": 149.59,
+      "rotation": 1.94,
+      "x": 149.54,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone25",
+      "parent": "bone24",
+      "length": 168.16,
+      "rotation": 2.59,
+      "x": 149.59,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone26",
+      "parent": "bone25",
+      "length": 165.93,
+      "rotation": 2.86,
+      "x": 168.16,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone27",
+      "parent": "bone26",
+      "length": 121.19,
+      "rotation": 0.19,
+      "x": 165.93,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone28",
+      "parent": "bone27",
+      "length": 69.16,
+      "rotation": 4.62,
+      "x": 121.19,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone29",
+      "parent": "bone24",
+      "length": 95.35,
+      "rotation": -64.44,
+      "x": 118.91,
+      "y": -50.72,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone30",
+      "parent": "bone29",
+      "length": 87.39,
+      "rotation": -16.45,
+      "x": 95.35,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone31",
+      "parent": "bone30",
+      "length": 48.5,
+      "rotation": -10.66,
+      "x": 87.39,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone32",
+      "parent": "bone25",
+      "length": 95.09,
+      "rotation": -51.29,
+      "x": 25.6,
+      "y": -38.32,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone33",
+      "parent": "bone32",
+      "length": 81.79,
+      "rotation": -15.65,
+      "x": 95.09,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone34",
+      "parent": "bone33",
+      "length": 62.33,
+      "rotation": -10.23,
+      "x": 81.79,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone35",
+      "parent": "bone24",
+      "length": 91.08,
+      "rotation": 48.4,
+      "x": 143.26,
+      "y": 27.46,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone36",
+      "parent": "bone35",
+      "length": 93.04,
+      "rotation": 5.67,
+      "x": 91.08,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone37",
+      "parent": "bone36",
+      "length": 86.36,
+      "rotation": 5.72,
+      "x": 93.04,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone38",
+      "parent": "bone26",
+      "length": 133.56,
+      "rotation": -25.98,
+      "x": 37.03,
+      "y": -35.08,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone39",
+      "parent": "bone38",
+      "length": 109.88,
+      "rotation": -5.46,
+      "x": 133.56,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone40",
+      "parent": "bone39",
+      "length": 86.32,
+      "rotation": -13.9,
+      "x": 109.88,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone41",
+      "parent": "bone26",
+      "length": 124.89,
+      "rotation": 29.78,
+      "x": 40.47,
+      "y": 51.02,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone42",
+      "parent": "bone41",
+      "length": 123.62,
+      "rotation": 7.23,
+      "x": 124.89,
+      "color": "ff0000ff"
+    },
+    {
+      "name": "bone43",
+      "parent": "bone117",
+      "length": 89.52,
+      "rotation": 103.27,
+      "x": -1143.77,
+      "y": 468.72,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone44",
+      "parent": "bone43",
+      "length": 83.21,
+      "rotation": 10,
+      "x": 89.52,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone45",
+      "parent": "bone44",
+      "length": 53.43,
+      "rotation": 7.24,
+      "x": 83.21,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone46",
+      "parent": "bone45",
+      "length": 35.46,
+      "rotation": 13.55,
+      "x": 53.43,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone47",
+      "parent": "bone117",
+      "length": 72.92,
+      "rotation": 69.32,
+      "x": -1096.2,
+      "y": 418.68,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone48",
+      "parent": "bone47",
+      "length": 77.82,
+      "rotation": -0.83,
+      "x": 72.92,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone49",
+      "parent": "bone48",
+      "length": 93.44,
+      "rotation": -6.96,
+      "x": 77.82,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone50",
+      "parent": "bone49",
+      "length": 80.89,
+      "rotation": -9.18,
+      "x": 93.44,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone51",
+      "parent": "bone117",
+      "length": 71.48,
+      "rotation": 62.53,
+      "x": -1021.31,
+      "y": 393.88,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone52",
+      "parent": "bone51",
+      "length": 64.05,
+      "rotation": -7.85,
+      "x": 71.48,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone53",
+      "parent": "bone52",
+      "length": 52.38,
+      "rotation": -8.89,
+      "x": 64.05,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone54",
+      "parent": "bone53",
+      "length": 49.96,
+      "rotation": -11.13,
+      "x": 52.38,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone55",
+      "parent": "bone117",
+      "length": 59.05,
+      "rotation": 92.97,
+      "x": 970.26,
+      "y": 347.18,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone56",
+      "parent": "bone55",
+      "length": 68.43,
+      "rotation": 2.16,
+      "x": 59.05,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone57",
+      "parent": "bone56",
+      "length": 63.36,
+      "rotation": 2.5,
+      "x": 68.43,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone58",
+      "parent": "bone57",
+      "length": 41.05,
+      "rotation": 6.4,
+      "x": 63.36,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone59",
+      "parent": "bone117",
+      "length": 116.41,
+      "rotation": 110.34,
+      "x": 1222.68,
+      "y": 332.73,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone60",
+      "parent": "bone59",
+      "length": 116.08,
+      "rotation": 7.07,
+      "x": 116.41,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone61",
+      "parent": "bone60",
+      "length": 108.26,
+      "rotation": 8.41,
+      "x": 116.08,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone62",
+      "parent": "bone61",
+      "length": 84.23,
+      "rotation": 10.65,
+      "x": 108.26,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone63",
+      "parent": "bone117",
+      "length": 81.06,
+      "rotation": 62.18,
+      "x": 1187.83,
+      "y": 388.87,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone64",
+      "parent": "bone63",
+      "length": 72.09,
+      "rotation": -4.77,
+      "x": 81.06,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone65",
+      "parent": "bone64",
+      "length": 73.5,
+      "rotation": -3.04,
+      "x": 72.09,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone66",
+      "parent": "bone65",
+      "length": 70.46,
+      "rotation": -11.66,
+      "x": 73.5,
+      "color": "9400ffff"
+    },
+    {
+      "name": "bone67",
+      "parent": "bone117",
+      "length": 51.77,
+      "rotation": 87.46,
+      "x": 138.95,
+      "y": 401.75,
+      "color": "000affff"
+    },
+    {
+      "name": "bone68",
+      "parent": "bone67",
+      "length": 60.93,
+      "rotation": 1.46,
+      "x": 51.77,
+      "color": "000affff"
+    },
+    {
+      "name": "bone69",
+      "parent": "bone68",
+      "length": 57.51,
+      "rotation": 3.37,
+      "x": 60.93,
+      "color": "000affff"
+    },
+    {
+      "name": "bone70",
+      "parent": "bone117",
+      "length": 41.77,
+      "rotation": 82.09,
+      "x": 795.1,
+      "y": 465.93,
+      "color": "000affff"
+    },
+    {
+      "name": "bone71",
+      "parent": "bone70",
+      "length": 43.69,
+      "rotation": 6.4,
+      "x": 41.77,
+      "color": "000affff"
+    },
+    {
+      "name": "bone72",
+      "parent": "bone71",
+      "length": 54.8,
+      "rotation": 11.17,
+      "x": 43.69,
+      "color": "000affff"
+    },
+    {
+      "name": "bone73",
+      "parent": "bone117",
+      "length": 56.32,
+      "rotation": 90,
+      "x": 1049.11,
+      "y": 425.7,
+      "color": "000affff"
+    },
+    {
+      "name": "bone74",
+      "parent": "bone73",
+      "length": 59.87,
+      "rotation": -3.3,
+      "x": 56.32,
+      "color": "000affff"
+    },
+    {
+      "name": "bone75",
+      "parent": "bone74",
+      "length": 49.14,
+      "rotation": -7.48,
+      "x": 59.87,
+      "color": "000affff"
+    },
+    {
+      "name": "bone76",
+      "parent": "bone117",
+      "length": 40.29,
+      "rotation": 72.58,
+      "x": 1126.38,
+      "y": 380.8,
+      "color": "000affff"
+    },
+    {
+      "name": "bone77",
+      "parent": "bone76",
+      "length": 37.23,
+      "rotation": -3.95,
+      "x": 39.57,
+      "y": -0.23,
+      "color": "000affff"
+    },
+    {
+      "name": "bone78",
+      "parent": "bone77",
+      "length": 52.74,
+      "rotation": -9.59,
+      "x": 37.23,
+      "color": "000affff"
+    },
+    {
+      "name": "bone79",
+      "parent": "bone117",
+      "length": 115.06,
+      "rotation": 90.92,
+      "x": -103.66,
+      "y": 405.92,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone80",
+      "parent": "bone79",
+      "length": 105.83,
+      "rotation": 1.09,
+      "x": 115.06,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone81",
+      "parent": "bone80",
+      "length": 126.19,
+      "rotation": -1.17,
+      "x": 106.76,
+      "y": -0.03,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone82",
+      "parent": "bone117",
+      "length": 121.13,
+      "rotation": 119.39,
+      "x": -1162.67,
+      "y": 314.14,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone83",
+      "parent": "bone82",
+      "length": 85.2,
+      "rotation": -9.41,
+      "x": 121.13,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone84",
+      "parent": "bone83",
+      "length": 88.29,
+      "rotation": -7.28,
+      "x": 85.2,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone85",
+      "parent": "bone117",
+      "length": 118.28,
+      "rotation": 111.04,
+      "x": -1011.03,
+      "y": 344.47,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone86",
+      "parent": "bone85",
+      "length": 94.41,
+      "rotation": 6.52,
+      "x": 118.28,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone87",
+      "parent": "bone86",
+      "length": 99.46,
+      "rotation": 2.45,
+      "x": 94.41,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone88",
+      "parent": "bone117",
+      "length": 133.48,
+      "rotation": 82.16,
+      "x": -904.27,
+      "y": 351.75,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone89",
+      "parent": "bone88",
+      "length": 115.87,
+      "rotation": -9.84,
+      "x": 133.48,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone90",
+      "parent": "bone89",
+      "length": 97.12,
+      "rotation": -8.25,
+      "x": 115.87,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone91",
+      "parent": "bone117",
+      "length": 117.68,
+      "rotation": 127.46,
+      "x": -580.36,
+      "y": 356.6,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone92",
+      "parent": "bone91",
+      "length": 79.78,
+      "rotation": 6.92,
+      "x": 117.68,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone93",
+      "parent": "bone92",
+      "length": 59.23,
+      "rotation": 10.62,
+      "x": 79.78,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone94",
+      "parent": "bone117",
+      "length": 124.13,
+      "rotation": 68.2,
+      "x": -204.29,
+      "y": 359.03,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone95",
+      "parent": "bone94",
+      "length": 112.89,
+      "rotation": -6.42,
+      "x": 124.13,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone96",
+      "parent": "bone95",
+      "length": 106.11,
+      "rotation": -2.75,
+      "x": 112.89,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone97",
+      "parent": "bone117",
+      "length": 86.27,
+      "rotation": 93.22,
+      "x": 123.4,
+      "y": 356.44,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone98",
+      "parent": "bone97",
+      "length": 87.56,
+      "rotation": 7.15,
+      "x": 86.27,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone99",
+      "parent": "bone98",
+      "length": 61.2,
+      "rotation": 3.38,
+      "x": 87.56,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone100",
+      "parent": "bone117",
+      "length": 101.61,
+      "rotation": 146.69,
+      "x": 674.69,
+      "y": 435.3,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone101",
+      "parent": "bone100",
+      "length": 87.36,
+      "rotation": 7.81,
+      "x": 101.61,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone102",
+      "parent": "bone101",
+      "length": 67.12,
+      "rotation": 19.27,
+      "x": 87.36,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone103",
+      "parent": "bone117",
+      "length": 121.61,
+      "rotation": 108.62,
+      "x": 843.32,
+      "y": 364.94,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone104",
+      "parent": "bone103",
+      "length": 116.32,
+      "rotation": 11.43,
+      "x": 121.61,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone105",
+      "parent": "bone104",
+      "length": 94.63,
+      "rotation": 6.09,
+      "x": 116.32,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone106",
+      "parent": "bone105",
+      "length": 98.33,
+      "rotation": 14.87,
+      "x": 94.63,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone107",
+      "parent": "bone117",
+      "length": 81.79,
+      "rotation": 110.85,
+      "x": 1143.79,
+      "y": 363.72,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone108",
+      "parent": "bone107",
+      "length": 88.43,
+      "rotation": 6.06,
+      "x": 81.79,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone109",
+      "parent": "bone108",
+      "length": 73.04,
+      "rotation": 5.19,
+      "x": 88.43,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone110",
+      "parent": "bone117",
+      "length": 117.7,
+      "rotation": 88.82,
+      "x": 1252.98,
+      "y": 315.2,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone111",
+      "parent": "bone110",
+      "length": 98.74,
+      "rotation": 6.82,
+      "x": 117.7,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone112",
+      "parent": "bone111",
+      "length": 79.81,
+      "rotation": 13.9,
+      "x": 98.74,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone113",
+      "parent": "bone112",
+      "length": 88.32,
+      "rotation": -3.59,
+      "x": 79.81,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone114",
+      "parent": "bone117",
+      "length": 94.82,
+      "rotation": 106.35,
+      "x": 1419.18,
+      "y": 448.64,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone115",
+      "parent": "bone114",
+      "length": 91.69,
+      "rotation": 9.54,
+      "x": 94.82,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone116",
+      "parent": "bone115",
+      "length": 63.08,
+      "rotation": -3.27,
+      "x": 91.69,
+      "color": "00ff25ff"
+    },
+    {
+      "name": "bone118",
+      "parent": "bone117",
+      "length": 50.55,
+      "rotation": 94.65,
+      "x": -1191.46,
+      "y": 345.46,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone119",
+      "parent": "bone118",
+      "length": 48.04,
+      "rotation": -4.65,
+      "x": 50.55,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone120",
+      "parent": "bone119",
+      "length": 38.71,
+      "rotation": -2.6,
+      "x": 48.04,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone121",
+      "parent": "bone117",
+      "length": 60.19,
+      "rotation": 83.66,
+      "x": -1054.65,
+      "y": 348.64,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone122",
+      "parent": "bone121",
+      "length": 46.58,
+      "rotation": 9.07,
+      "x": 60.19,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone123",
+      "parent": "bone122",
+      "length": 51.85,
+      "rotation": 7.94,
+      "x": 46.58,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone124",
+      "parent": "bone117",
+      "length": 67.11,
+      "rotation": 86.82,
+      "x": -885.08,
+      "y": 370.69,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone125",
+      "parent": "bone124",
+      "length": 43.99,
+      "rotation": 9.25,
+      "x": 67.11,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone126",
+      "parent": "bone125",
+      "length": 46.84,
+      "rotation": 7.14,
+      "x": 43.99,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone127",
+      "parent": "bone117",
+      "length": 51.94,
+      "rotation": 90.64,
+      "x": -845.34,
+      "y": 352.37,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone128",
+      "parent": "bone127",
+      "length": 46.22,
+      "rotation": 2.23,
+      "x": 51.94,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone129",
+      "parent": "bone128",
+      "length": 33.51,
+      "rotation": 0.1,
+      "x": 46.22,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone130",
+      "parent": "bone117",
+      "length": 59.37,
+      "rotation": 90.83,
+      "x": -663.07,
+      "y": 361.12,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone131",
+      "parent": "bone130",
+      "length": 54.64,
+      "rotation": -0.83,
+      "x": 59.37,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone132",
+      "parent": "bone131",
+      "length": 54.64,
+      "rotation": -0.9,
+      "x": 54.64,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone133",
+      "parent": "bone117",
+      "length": 48.55,
+      "rotation": 91.79,
+      "x": -497.16,
+      "y": 355,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone134",
+      "parent": "bone133",
+      "length": 42.09,
+      "rotation": -2.82,
+      "x": 48.55,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone135",
+      "parent": "bone117",
+      "length": 63.32,
+      "rotation": 85.07,
+      "x": -457.63,
+      "y": 368.59,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone136",
+      "parent": "bone135",
+      "length": 48.51,
+      "rotation": 8.78,
+      "x": 63.32,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone137",
+      "parent": "bone136",
+      "length": 38.09,
+      "rotation": 6.01,
+      "x": 48.51,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone138",
+      "parent": "bone117",
+      "length": 65.43,
+      "rotation": 100.53,
+      "x": -207.27,
+      "y": 426.42,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone139",
+      "parent": "bone138",
+      "length": 51.96,
+      "rotation": -6.13,
+      "x": 65.43,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone140",
+      "parent": "bone139",
+      "length": 40.42,
+      "rotation": -5.21,
+      "x": 51.96,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone141",
+      "parent": "bone117",
+      "length": 63.97,
+      "rotation": 93.13,
+      "x": -165.31,
+      "y": 381.72,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone142",
+      "parent": "bone141",
+      "length": 47.41,
+      "rotation": -3.73,
+      "x": 64.47,
+      "y": -0.03,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone143",
+      "parent": "bone142",
+      "length": 42.16,
+      "rotation": -5.51,
+      "x": 47.91,
+      "y": 0.01,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone144",
+      "parent": "bone117",
+      "length": 33.68,
+      "rotation": 95.31,
+      "x": -48.23,
+      "y": 358.34,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone145",
+      "parent": "bone144",
+      "length": 47.59,
+      "rotation": -4.38,
+      "x": 33.68,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone146",
+      "parent": "bone145",
+      "length": 39.01,
+      "rotation": -2.09,
+      "x": 47.59,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone147",
+      "parent": "bone117",
+      "length": 65.74,
+      "rotation": 102.95,
+      "x": 445.73,
+      "y": 347.7,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone148",
+      "parent": "bone147",
+      "length": 63.35,
+      "rotation": 4.65,
+      "x": 65.74,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone149",
+      "parent": "bone117",
+      "length": 54.48,
+      "rotation": 100.93,
+      "x": 643.75,
+      "y": 421.71,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone150",
+      "parent": "bone149",
+      "length": 59.01,
+      "rotation": -13.3,
+      "x": 54.48,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone151",
+      "parent": "bone150",
+      "length": 54.67,
+      "rotation": -5.95,
+      "x": 59.01,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone152",
+      "parent": "bone117",
+      "length": 63.86,
+      "rotation": 83.6,
+      "x": 665,
+      "y": 384.69,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone153",
+      "parent": "bone152",
+      "length": 54.09,
+      "rotation": 2.63,
+      "x": 63.86,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone154",
+      "parent": "bone153",
+      "length": 42.12,
+      "rotation": 2.97,
+      "x": 54.05,
+      "y": 0.59,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone155",
+      "parent": "bone117",
+      "length": 64.54,
+      "rotation": 98.47,
+      "x": 1152.58,
+      "y": 354.55,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone156",
+      "parent": "bone155",
+      "length": 52.18,
+      "rotation": 9.73,
+      "x": 64.54,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone157",
+      "parent": "bone117",
+      "length": 52.86,
+      "rotation": 111.1,
+      "x": 1221.4,
+      "y": 364.8,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone158",
+      "parent": "bone157",
+      "length": 36.81,
+      "rotation": -18.41,
+      "x": 52.86,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone159",
+      "parent": "bone158",
+      "length": 33.75,
+      "rotation": -4.16,
+      "x": 36.81,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone160",
+      "parent": "bone117",
+      "length": 56.45,
+      "rotation": 91.59,
+      "x": 1248.81,
+      "y": 393.87,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone161",
+      "parent": "bone160",
+      "length": 58.13,
+      "rotation": 2.27,
+      "x": 56.45,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone162",
+      "parent": "bone161",
+      "length": 48.33,
+      "rotation": 4.53,
+      "x": 58.13,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone163",
+      "parent": "bone117",
+      "length": 69.74,
+      "rotation": 84.51,
+      "x": -1094.98,
+      "y": 377.64,
+      "color": "000affff"
+    },
+    {
+      "name": "bone164",
+      "parent": "bone163",
+      "length": 69.92,
+      "rotation": -4.96,
+      "x": 69.74,
+      "color": "000affff"
+    },
+    {
+      "name": "bone165",
+      "parent": "bone164",
+      "length": 52.77,
+      "rotation": -7.98,
+      "x": 69.92,
+      "color": "000affff"
+    },
+    {
+      "name": "bone168",
+      "parent": "bone",
+      "length": 258.79,
+      "rotation": -0.34,
+      "x": -90.83,
+      "y": -151.22,
+      "color": "8000ffff"
+    },
+    {
+      "name": "1",
+      "parent": "bone168",
+      "rotation": 0.34,
+      "x": 93.9,
+      "y": 609.34,
+      "color": "ff0000ff",
+      "icon": "gear"
+    },
+    {
+      "name": "bone167",
+      "parent": "1",
+      "x": 0.28,
+      "y": 13.77,
+      "scaleX": 2.6286,
+      "scaleY": 1.7808,
+      "color": "ff0000ff",
+      "icon": "gear"
+    },
+    {
+      "name": "bone169",
+      "parent": "bone",
+      "length": 217.53,
+      "x": -867.88,
+      "y": -81.54,
+      "color": "ff9d00ff"
+    },
+    {
+      "name": "bone170",
+      "parent": "bone117",
+      "length": 1462.22,
+      "rotation": 0.31,
+      "x": -1214.99,
+      "y": 369.78,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone171",
+      "parent": "bone170",
+      "rotation": -0.5,
+      "x": 49.7,
+      "y": 105.86,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone172",
+      "parent": "bone170",
+      "rotation": -0.5,
+      "x": 303.27,
+      "y": 113.34,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone173",
+      "parent": "bone170",
+      "rotation": -0.5,
+      "x": 447.8,
+      "y": 126.32,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone174",
+      "parent": "bone170",
+      "rotation": -0.5,
+      "x": 682.49,
+      "y": 95.58,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone175",
+      "parent": "bone170",
+      "rotation": -0.5,
+      "x": 961.68,
+      "y": 115.7,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone176",
+      "parent": "bone170",
+      "rotation": -0.5,
+      "x": 1169.05,
+      "y": 121.46,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone177",
+      "parent": "bone170",
+      "rotation": -0.5,
+      "x": 1382.95,
+      "y": 60.37,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone178",
+      "parent": "bone117",
+      "length": 1471.97,
+      "rotation": -0.19,
+      "x": 327.49,
+      "y": 379.12,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone179",
+      "parent": "bone178",
+      "x": 131.05,
+      "y": 80.13,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone180",
+      "parent": "bone178",
+      "x": 321.4,
+      "y": 131.5,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone181",
+      "parent": "bone178",
+      "x": 442.56,
+      "y": 127.76,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone182",
+      "parent": "bone178",
+      "x": 742.1,
+      "y": 98.74,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone183",
+      "parent": "bone178",
+      "x": 947.16,
+      "y": 87,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone184",
+      "parent": "bone178",
+      "x": 1129.33,
+      "y": 108.32,
+      "color": "faff00ff"
+    },
+    {
+      "name": "bone185",
+      "parent": "bone178",
+      "x": 1320.87,
+      "y": 92.39,
+      "color": "faff00ff"
+    },
+    {
+      "name": "2",
+      "parent": "bone168",
+      "x": 258.79,
+      "color": "8000ffff"
+    },
+    {
+      "name": "3",
+      "parent": "bone168",
+      "x": 258.79,
+      "color": "8000ffff"
+    }
+  ],
+  "slots": [
+    {
+      "name": "touyingzhuangzhi_5",
+      "bone": "bone168",
+      "attachment": "touyingzhuangzhi_5",
+      "blend": "multiply"
+    },
+    {
+      "name": "touyingzhuangzhi_4",
+      "bone": "bone168",
+      "attachment": "touyingzhuangzhi_4"
+    },
+    {
+      "name": "touyingzhuangzhi_3",
+      "bone": "bone168",
+      "attachment": "touyingzhuangzhi_3"
+    },
+    {
+      "name": "touyingzhuangzhi_2",
+      "bone": "bone168",
+      "attachment": "touyingzhuangzhi_2"
+    },
+    {
+      "name": "touyingzhuangzhi_1",
+      "bone": "bone168",
+      "attachment": "touyingzhuangzhi_1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "touyingzhuangzhi_1": {
+          "touyingzhuangzhi_1": {
+            "x": 109.51,
+            "y": 238.84,
+            "rotation": 0.34,
+            "width": 692,
+            "height": 180
+          }
+        },
+        "touyingzhuangzhi_2": {
+          "touyingzhuangzhi_2": {
+            "x": 109.62,
+            "y": 220.34,
+            "rotation": 0.34,
+            "width": 680,
+            "height": 123
+          }
+        },
+        "touyingzhuangzhi_3": {
+          "touyingzhuangzhi_3": {
+            "x": 109.02,
+            "y": 238.33,
+            "rotation": 0.34,
+            "width": 689,
+            "height": 175
+          }
+        },
+        "touyingzhuangzhi_4": {
+          "touyingzhuangzhi_4": {
+            "x": 70.6,
+            "y": 560.11,
+            "rotation": 0.34,
+            "width": 1094,
+            "height": 573
+          }
+        },
+        "touyingzhuangzhi_5": {
+          "touyingzhuangzhi_5": {
+            "x": 112.36,
+            "y": 181.35,
+            "rotation": 0.34,
+            "width": 751,
+            "height": 91
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "投影仪": {
+      "slots": {
+        "touyingzhuangzhi_4": {
+          "rgba": [
+            {
+              "color": "ffffffbb"
+            },
+            {
+              "time": 0.2333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4667,
+              "color": "ffffffbb",
+              "curve": [
+                0.546,
+                1,
+                0.621,
+                1,
+                0.546,
+                1,
+                0.621,
+                1,
+                0.546,
+                1,
+                0.621,
+                1,
+                0.546,
+                0.73,
+                0.621,
+                1
+              ]
+            },
+            {
+              "time": 0.7,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.9667,
+              "color": "ffffffbb"
+            },
+            {
+              "time": 1.2,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.4333,
+              "color": "ffffffbb",
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "color": "ffffffbb"
+            },
+            {
+              "time": 2.1667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 2.3333,
+              "color": "ffffffbb"
+            },
+            {
+              "time": 2.5,
+              "color": "ffffffff"
+            },
+            {
+              "time": 2.6667,
+              "color": "ffffffbb",
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "color": "ffffffbb"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
