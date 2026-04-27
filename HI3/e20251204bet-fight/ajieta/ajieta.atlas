@@ -1,0 +1,109 @@
+ajieta.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.26
+01
+	bounds: 691, 372, 21, 10
+A眉毛
+	bounds: 312, 371, 144, 11
+	offsets: 24, 27, 192, 63
+	rotate: 180
+A眼珠
+	bounds: 551, 37, 127, 38
+	offsets: 25, 25, 177, 88
+A眼皮
+	bounds: 443, 373, 93, 9
+	offsets: 29, 27, 148, 62
+A眼角
+	bounds: 166, 350, 155, 32
+	offsets: 25, 25, 205, 82
+A睫毛
+	bounds: 2, 356, 170, 26
+	offsets: 26, 24, 220, 75
+A脸
+	bounds: 702, 177, 205, 135
+	offsets: 24, 25, 254, 185
+	rotate: 270
+发1
+	bounds: 736, 2, 123, 128
+	offsets: 24, 25, 172, 178
+	rotate: 90
+发10
+	bounds: 243, 31, 114, 171
+	offsets: 22, 24, 160, 219
+	rotate: 90
+发2
+	bounds: 2, 52, 106, 153
+	offsets: 24, 24, 154, 200
+	rotate: 180
+发3
+	bounds: 2, 224, 43, 120
+	offsets: 25, 25, 93, 170
+发4
+	bounds: 43, 155, 287, 217
+	offsets: 20, 23, 327, 259
+发5
+	bounds: 654, 60, 129, 198
+	offsets: 23, 24, 176, 245
+	rotate: 270
+发6
+	bounds: 261, 84, 203, 157
+	offsets: 23, 24, 250, 205
+	rotate: 180
+发7
+	bounds: 89, 57, 173, 113
+	offsets: 22, 23, 217, 155
+	rotate: 180
+发8
+	bounds: 94, 260, 36, 110
+	offsets: 25, 24, 86, 162
+发9
+	bounds: 436, 120, 262, 267
+	offsets: 23, 21, 305, 309
+	rotate: 90
+右耳坠
+	bounds: 951, 343, 16, 39
+	offsets: 25, 25, 66, 89
+右腿
+	bounds: 318, 316, 57, 165
+	offsets: 24, 24, 106, 212
+	rotate: 90
+右臂
+	bounds: 128, 4, 70, 135
+	offsets: 24, 24, 118, 184
+嘴
+	bounds: 128, 375, 23, 7
+	offsets: 25, 25, 73, 57
+左腿
+	bounds: 445, 63, 59, 173
+	offsets: 24, 24, 107, 221
+	rotate: 90
+左臂
+	bounds: 305, 244, 68, 141
+	offsets: 24, 24, 116, 189
+	rotate: 90
+挂坠
+	bounds: 675, 344, 23, 38
+	offsets: 25, 25, 73, 87
+眼白
+	bounds: 862, 64, 151, 46
+	offsets: 24, 24, 198, 94
+耳坠
+	bounds: 1004, 343, 16, 39
+	offsets: 25, 25, 66, 89
+袖子
+	bounds: 962, 248, 49, 134
+	offsets: 20, 24, 92, 158
+裙摆
+	bounds: 836, 190, 192, 130
+	offsets: 21, 23, 236, 178
+	rotate: 270
+身体
+	bounds: 141, 219, 108, 135
+	offsets: 46, 24, 179, 183
+闭眼 的複製 2 副本
+	bounds: 866, 112, 156, 86
+	offsets: 26, 26, 208, 138
+项链
+	bounds: 118, 259, 39, 33
+	offsets: 24, 24, 87, 82

@@ -1,0 +1,112 @@
+daaijiang.png
+	size: 1024, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.26
+01
+	bounds: 844, 401, 21, 10
+发1
+	bounds: 261, 2, 77, 104
+	offsets: 25, 25, 126, 153
+	rotate: 270
+发2
+	bounds: 275, 49, 144, 132
+	offsets: 24, 24, 192, 180
+	rotate: 90
+发3
+	bounds: 47, 51, 149, 155
+	offsets: 24, 23, 196, 202
+	rotate: 270
+发4
+	bounds: 677, 73, 79, 177
+	offsets: 24, 24, 128, 225
+	rotate: 90
+发5
+	bounds: 104, 135, 264, 279
+	offsets: 22, 23, 308, 324
+	rotate: 270
+右外资
+	bounds: 541, 85, 140, 140
+	offsets: 24, 24, 188, 188
+右耳饰1
+	bounds: 867, 398, 5, 13
+	offsets: 25, 25, 56, 64
+右耳饰2
+	bounds: 822, 388, 20, 23
+	offsets: 25, 25, 71, 73
+右腿
+	bounds: 741, 27, 54, 163
+	offsets: 25, 25, 103, 212
+	rotate: 270
+右臂
+	bounds: 386, 13, 74, 136
+	offsets: 25, 25, 123, 185
+	rotate: 90
+后发
+	bounds: 620, 185, 240, 226
+	offsets: 24, 24, 287, 273
+	rotate: 180
+后裙摆
+	bounds: 394, 67, 166, 148
+	offsets: 22, 23, 201, 188
+嘴巴
+	bounds: 117, 405, 17, 6
+	offsets: 25, 25, 67, 56
+左丸子
+	bounds: 860, 213, 193, 162
+	offsets: 23, 23, 239, 208
+	rotate: 90
+左耳饰1
+	bounds: 794, 397, 5, 14
+	offsets: 25, 25, 56, 64
+左耳饰2
+	bounds: 801, 389, 20, 22
+	offsets: 25, 25, 71, 73
+左腿
+	bounds: 546, 35, 57, 171
+	offsets: 25, 25, 107, 220
+	rotate: 270
+左臂
+	bounds: 220, 87, 66, 140
+	offsets: 25, 24, 116, 188
+	rotate: 270
+披风
+	bounds: 827, 64, 189, 169
+	offsets: 22, 22, 235, 212
+眉毛
+	bounds: 475, 400, 114, 11
+	offsets: 25, 25, 164, 61
+眼珠
+	bounds: 894, 4, 128, 44
+	offsets: 24, 24, 177, 93
+眼白
+	bounds: 2, 30, 154, 52
+	offsets: 24, 24, 202, 100
+眼皮
+	bounds: 589, 404, 100, 7
+	offsets: 25, 26, 150, 59
+眼角
+	bounds: 171, 382, 159, 29
+	offsets: 24, 25, 208, 80
+睫毛
+	bounds: 2, 388, 176, 23
+	offsets: 24, 25, 223, 72
+羽毛
+	bounds: 381, 304, 40, 87
+	offsets: 24, 25, 87, 137
+胸
+	bounds: 60, 329, 72, 69
+	offsets: 25, 24, 121, 117
+胸饰
+	bounds: 33, 403, 8, 35
+	offsets: 25, 25, 58, 85
+	rotate: 90
+脸
+	bounds: 408, 193, 205, 208
+	offsets: 24, 24, 254, 256
+身体
+	bounds: 2, 180, 181, 244
+	offsets: 0, 7, 204, 272
+	rotate: 270
+闭眼
+	bounds: 325, 390, 157, 21
+	offsets: 24, 24, 205, 69

@@ -1,0 +1,252 @@
+chenxue.png
+	size: 2048, 512
+	filter: MipMapLinearLinear, MipMapLinearLinear
+	scale: 0.26
+01
+	bounds: 1116, 449, 21, 10
+E受击
+	bounds: 273, 138, 199, 90
+E右眉毛
+	bounds: 452, 448, 44, 11
+	offsets: 30, 30, 100, 66
+E左眉毛
+	bounds: 641, 46, 110, 62
+E惊吓
+	bounds: 436, 384, 135, 55
+	offsets: 23, 25, 182, 105
+E眼皮
+	bounds: 13, 450, 95, 9
+	offsets: 31, 27, 151, 62
+	rotate: 180
+E眼睛
+	bounds: 1066, 422, 146, 37
+	offsets: 25, 25, 197, 87
+	rotate: 180
+E眼角
+	bounds: 589, 424, 169, 35
+	offsets: 23, 24, 215, 84
+E睫毛
+	bounds: 423, 433, 174, 26
+	offsets: 26, 24, 224, 75
+	rotate: 180
+E笑
+	bounds: 676, 316, 211, 107
+E闭眼
+	bounds: 749, 440, 160, 19
+	offsets: 22, 24, 208, 68
+	rotate: 180
+MO嘴型
+	bounds: 497, 439, 23, 20
+	offsets: 24, 24, 71, 69
+M大嘴型
+	bounds: 653, 423, 43, 31
+	offsets: 25, 25, 93, 81
+M微笑嘴型
+	bounds: 40, 453, 21, 6
+	offsets: 26, 26, 73, 57
+M难受嘴型
+	bounds: 1522, 449, 24, 10
+	offsets: 25, 25, 74, 60
+hit/hit_00000
+	bounds: 951, 112, 156, 156
+hit/hit_00001
+	bounds: 793, 112, 156, 156
+hit/hit_00002
+	bounds: 14, 263, 156, 156
+hit/hit_00003
+	bounds: 918, 270, 156, 156
+内裙子
+	bounds: 1302, 39, 112, 65
+	offsets: 23, 25, 160, 90
+发1
+	bounds: 1769, 9, 99, 195
+	offsets: 23, 24, 146, 244
+	rotate: 90
+发10
+	bounds: 1361, 99, 146, 237
+	offsets: 23, 24, 192, 285
+	rotate: 270
+发11
+	bounds: 208, 227, 201, 304
+	offsets: 24, 21, 246, 345
+	rotate: 90
+发12
+	bounds: 466, 149, 306, 326
+	offsets: 19, 20, 345, 366
+	rotate: 90
+发2
+	bounds: 178, 235, 60, 134
+	offsets: 24, 24, 109, 182
+发3
+	bounds: 110, 64, 160, 162
+	offsets: 23, 23, 206, 207
+	rotate: 90
+发4
+	bounds: 1441, 47, 98, 142
+	offsets: 25, 24, 147, 191
+	rotate: 90
+发5
+	bounds: 592, 64, 110, 197
+	offsets: 22, 21, 157, 240
+	rotate: 90
+发6
+	bounds: 1236, 30, 127, 212
+	offsets: 23, 23, 173, 258
+	rotate: 90
+发7
+	bounds: 307, 21, 174, 208
+	offsets: 31, 24, 229, 256
+	rotate: 270
+发8
+	bounds: 1599, 117, 110, 151
+	offsets: 23, 24, 158, 200
+	rotate: 90
+发9
+	bounds: 547, 3, 57, 113
+	offsets: 25, 24, 106, 162
+	rotate: 90
+发卡
+	bounds: 202, 173, 32, 62
+	offsets: 24, 25, 81, 111
+发带
+	bounds: 1583, 2, 86, 175
+	offsets: 25, 24, 135, 224
+	rotate: 270
+发带2
+	bounds: 842, 5, 56, 172
+	offsets: 24, 23, 103, 218
+	rotate: 90
+右外衣
+	bounds: 995, 41, 78, 170
+	offsets: 24, 24, 126, 218
+	rotate: 90
+右腿
+	bounds: 774, 54, 56, 170
+	offsets: 25, 25, 106, 219
+	rotate: 90
+右臂
+	bounds: 1412, 6, 68, 134
+	offsets: 25, 24, 118, 183
+	rotate: 270
+右袖子
+	bounds: 450, 28, 115, 141
+	offsets: 24, 24, 164, 189
+	rotate: 90
+后发
+	bounds: 1194, 199, 226, 230
+	offsets: 24, 24, 275, 278
+后裙摆
+	bounds: 210, 12, 71, 97
+	offsets: 25, 24, 121, 146
+	rotate: 90
+头
+	bounds: 2, 125, 205, 136
+	offsets: 25, 24, 254, 185
+左下臂
+	bounds: 353, 5, 55, 97
+	offsets: 25, 25, 105, 147
+	rotate: 90
+左外衣
+	bounds: 1985, 14, 61, 167
+	offsets: 24, 24, 123, 215
+	rotate: 180
+左大袖子
+	bounds: 2, 30, 94, 138
+	offsets: 24, 24, 142, 185
+	rotate: 270
+左腿
+	bounds: 184, 369, 56, 162
+	offsets: 25, 25, 105, 212
+	rotate: 90
+左臂扣子
+	bounds: 1076, 279, 29, 52
+	offsets: 25, 25, 78, 101
+左袖子
+	bounds: 1909, 162, 50, 65
+	offsets: 24, 25, 98, 115
+武器
+	bounds: 1109, 88, 160, 160
+	offsets: 23, 22, 206, 204
+	rotate: 180
+残影
+	bounds: 1422, 229, 624, 202
+胸口饰品
+	bounds: 1468, 432, 30, 27
+	offsets: 24, 25, 79, 75
+胸部
+	bounds: 140, 9, 70, 50
+	offsets: 25, 25, 120, 98
+衣服带子右
+	bounds: 1134, 11, 72, 101
+	offsets: 24, 25, 120, 151
+	rotate: 90
+衣服带子左
+	bounds: 359, 233, 49, 105
+	offsets: 24, 25, 97, 155
+	rotate: 90
+衣服底
+	bounds: 1076, 270, 135, 154
+	offsets: 33, 27, 191, 204
+衣服锁链右
+	bounds: 1849, 124, 54, 39
+	offsets: 25, 24, 104, 87
+衣服锁链左
+	bounds: 218, 330, 42, 41
+	offsets: 24, 25, 91, 91
+裙摆
+	bounds: 1902, 84, 121, 143
+	offsets: 24, 22, 169, 173
+身体
+	bounds: 1643, 33, 99, 122
+	offsets: 23, 23, 146, 170
+	rotate: 90
+速度线/速度线_00000
+	bounds: 879, 278, 38, 41
+	offsets: 22, 6, 260, 62
+速度线/速度线_00001
+	bounds: 1251, 137, 78, 62
+	offsets: 7, 0, 260, 62
+	rotate: 180
+速度线/速度线_00002
+	bounds: 770, 276, 105, 38
+	offsets: 17, 6, 260, 62
+速度线/速度线_00003
+	bounds: 1207, 428, 138, 31
+	offsets: 16, 13, 260, 62
+	rotate: 180
+速度线/速度线_00004
+	bounds: 2, 419, 219, 40
+	offsets: 14, 8, 260, 62
+速度线/速度线_00005
+	bounds: 219, 425, 205, 34
+	offsets: 23, 12, 260, 62
+	rotate: 180
+速度线/速度线_00006
+	bounds: 908, 427, 159, 32
+	offsets: 76, 13, 260, 62
+	rotate: 180
+速度线/速度线_00007
+	bounds: 1340, 431, 134, 28
+	offsets: 107, 16, 260, 62
+速度线/速度线_00008
+	bounds: 1530, 195, 102, 32
+	offsets: 137, 15, 260, 62
+速度线/速度线_00009
+	bounds: 513, 144, 96, 31
+	offsets: 146, 12, 260, 62
+速度线/速度线_00010
+	bounds: 1746, 195, 66, 32
+	offsets: 159, 14, 260, 62
+速度线/速度线_00022
+	bounds: 1497, 444, 25, 15
+	offsets: 59, 3, 92, 22
+领子
+	bounds: 1137, 228, 71, 56
+	offsets: 23, 25, 119, 105
+领子 副本
+	bounds: 1750, 77, 150, 157
+	offsets: 0, 0, 150, 178
+	rotate: 90
+飘带
+	bounds: 1259, 26, 42, 73
+	offsets: 24, 25, 91, 127

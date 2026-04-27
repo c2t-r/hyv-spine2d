@@ -1,0 +1,25 @@
+scene_6.png
+	size: 2048, 2048
+	filter: MipMapLinearLinear, MipMapLinearLinear
+BG
+	bounds: 5, 1071, 1911, 897
+	offsets: 68, 68, 2048, 1028
+卫星
+	bounds: 1926, 1945, 23, 23
+	offsets: 99, 99, 221, 221
+圈圈
+	bounds: 5, 154, 542, 542
+	offsets: 87, 89, 719, 719
+外圈1
+	bounds: 1175, 826, 250, 235
+	offsets: 167, 175, 520, 496
+投影光
+	bounds: 5, 706, 842, 355
+正圆点阵圈
+	bounds: 5, 5, 132, 139
+球
+	bounds: 857, 753, 308, 308
+	offsets: 88, 88, 497, 492
+虚影
+	bounds: 557, 433, 281, 263
+	offsets: 99, 96, 479, 459

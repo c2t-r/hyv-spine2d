@@ -1,0 +1,84 @@
+pop_text.png
+	size: 2048, 256
+	filter: MipMapLinearLinear, MipMapLinearLinear
+命中率升高
+	bounds: 346, 149, 295, 75
+	offsets: 83, 97, 475, 272
+	rotate: 180
+命中率降低
+	bounds: 639, 148, 277, 76
+	offsets: 98, 99, 474, 271
+回血
+	bounds: 1857, 32, 124, 71
+	offsets: 99, 97, 322, 267
+	rotate: 270
+已被支配
+	bounds: 239, 79, 236, 75
+	offsets: 98, 99, 432, 268
+	rotate: 180
+引爆标记
+	bounds: 1382, 86, 241, 68
+	offsets: 98, 100, 432, 268
+影子+1
+	bounds: 1154, 14, 205, 70
+	offsets: 95, 98, 400, 267
+护盾
+	bounds: 1597, 7, 131, 70
+	offsets: 96, 99, 326, 268
+支配结束
+	bounds: 911, 154, 248, 70
+	offsets: 93, 99, 438, 268
+攻击升高
+	bounds: 704, 11, 238, 76
+	offsets: 96, 96, 429, 272
+攻击降低
+	bounds: 247, 2, 233, 77
+	offsets: 97, 98, 427, 271
+	rotate: 180
+无法行动
+	bounds: 1152, 154, 242, 70
+	offsets: 95, 99, 436, 268
+浮空状态
+	bounds: 1359, 18, 242, 68
+	offsets: 97, 99, 437, 267
+混乱状态
+	bounds: 1140, 84, 243, 69
+	offsets: 97, 99, 437, 268
+瘫痪状态
+	bounds: 1394, 154, 243, 70
+	offsets: 98, 99, 437, 268
+	rotate: 180
+眩晕
+	bounds: 1721, 7, 126, 71
+	offsets: 98, 99, 323, 268
+结束浮空
+	bounds: 572, 84, 247, 71
+	offsets: 94, 98, 438, 268
+	rotate: 180
+结束混乱状态
+	bounds: 2, 154, 352, 70
+	offsets: 99, 99, 549, 268
+结束瘫痪
+	bounds: 2, 85, 242, 70
+	offsets: 98, 99, 438, 268
+结束麻痹
+	bounds: 1630, 154, 242, 70
+	offsets: 99, 99, 439, 268
+	rotate: 180
+速度升高
+	bounds: 476, 16, 237, 73
+	offsets: 97, 99, 430, 272
+	rotate: 180
+速度降低
+	bounds: 1623, 77, 235, 78
+	offsets: 96, 98, 428, 271
+	rotate: 180
+防御升高
+	bounds: 931, 9, 234, 77
+	offsets: 99, 97, 430, 272
+防御降低
+	bounds: 19, 9, 233, 83
+	offsets: 98, 90, 428, 271
+麻痹状态
+	bounds: 903, 84, 243, 70
+	offsets: 98, 99, 438, 268
