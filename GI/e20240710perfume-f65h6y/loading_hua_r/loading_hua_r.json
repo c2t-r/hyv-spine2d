@@ -1,0 +1,402 @@
+{
+  "skeleton": {
+    "hash": "E95JQz7n/+s",
+    "spine": "4.2.29",
+    "x": -86.5,
+    "y": -109.5,
+    "width": 173,
+    "height": 219,
+    "images": "./loading_hua_r/tex/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "2",
+      "parent": "root",
+      "x": 11.73,
+      "y": -33.06
+    },
+    {
+      "name": "3",
+      "parent": "2",
+      "x": 0.69,
+      "y": 0.69
+    },
+    {
+      "name": "5",
+      "parent": "root",
+      "x": -44.48,
+      "y": 67.91
+    },
+    {
+      "name": "6",
+      "parent": "5",
+      "x": -0.35,
+      "y": 0.69
+    },
+    {
+      "name": "7",
+      "parent": "root",
+      "x": 8.26,
+      "y": 76.59
+    },
+    {
+      "name": "8",
+      "parent": "7",
+      "rotation": -0.08,
+      "y": 0.69
+    }
+  ],
+  "slots": [
+    {
+      "name": "6",
+      "bone": "8",
+      "attachment": "6"
+    },
+    {
+      "name": "5",
+      "bone": "6",
+      "attachment": "5"
+    },
+    {
+      "name": "2",
+      "bone": "3",
+      "attachment": "2"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "2": {
+          "2": {
+            "x": -3.43,
+            "y": -0.13,
+            "width": 155,
+            "height": 154
+          }
+        },
+        "5": {
+          "5": {
+            "x": 0.33,
+            "y": -0.61,
+            "width": 84,
+            "height": 83
+          }
+        },
+        "6": {
+          "6": {
+            "x": -0.26,
+            "y": -1.28,
+            "width": 51,
+            "height": 51
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "in": {
+      "slots": {
+        "2": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": [
+                0.067,
+                1,
+                0.133,
+                1,
+                0.067,
+                1,
+                0.133,
+                1,
+                0.067,
+                1,
+                0.133,
+                1,
+                0.067,
+                0.33,
+                0.133,
+                0.67
+              ]
+            },
+            {
+              "time": 0.2,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "5": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3,
+              "color": "ffffff00",
+              "curve": [
+                0.367,
+                1,
+                0.433,
+                1,
+                0.367,
+                1,
+                0.433,
+                1,
+                0.367,
+                1,
+                0.433,
+                1,
+                0.367,
+                0,
+                0.433,
+                0.67
+              ]
+            },
+            {
+              "time": 0.5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "6": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4333,
+              "color": "ffffff00",
+              "curve": [
+                0.5,
+                1,
+                0.567,
+                1,
+                0.5,
+                1,
+                0.567,
+                1,
+                0.5,
+                1,
+                0.567,
+                1,
+                0.5,
+                0,
+                0.567,
+                0.67
+              ]
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "3": {
+          "scale": [
+            {
+              "x": 0.104,
+              "y": 0.104,
+              "curve": [
+                0.278,
+                0.372,
+                0.556,
+                0.814,
+                0.278,
+                0.372,
+                0.556,
+                0.814
+              ]
+            },
+            {
+              "time": 0.8333,
+              "x": 0.907,
+              "y": 0.907,
+              "curve": [
+                1.111,
+                1,
+                1.389,
+                0.969,
+                1.111,
+                1,
+                1.389,
+                0.969
+              ]
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "6": {
+          "scale": [
+            {
+              "x": 0.104,
+              "y": 0.104,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3,
+              "x": 0.104,
+              "y": 0.104,
+              "curve": [
+                0.578,
+                0.104,
+                0.856,
+                0.814,
+                0.578,
+                0.104,
+                0.856,
+                0.814
+              ]
+            },
+            {
+              "time": 1.1333,
+              "x": 0.907,
+              "y": 0.907,
+              "curve": [
+                1.411,
+                1,
+                1.689,
+                0.969,
+                1.411,
+                1,
+                1.689,
+                0.969
+              ]
+            },
+            {
+              "time": 1.9667
+            }
+          ]
+        },
+        "8": {
+          "scale": [
+            {
+              "x": 0.104,
+              "y": 0.104,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4333,
+              "x": 0.104,
+              "y": 0.104,
+              "curve": [
+                0.711,
+                0.104,
+                0.989,
+                0.814,
+                0.711,
+                0.104,
+                0.989,
+                0.814
+              ]
+            },
+            {
+              "time": 1.2667,
+              "x": 0.907,
+              "y": 0.907,
+              "curve": [
+                1.544,
+                1,
+                1.822,
+                0.969,
+                1.544,
+                1,
+                1.822,
+                0.969
+              ]
+            },
+            {
+              "time": 2.1
+            }
+          ]
+        }
+      }
+    },
+    "loop": {}
+  },
+  "extra": {
+    "2": {
+      "rootBoneName": "2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 25,
+          "moveXOctaves": 0,
+          "moveXDelay": -3.0703803404762042,
+          "moveXCenter": 0,
+          "moveYFreq": 5,
+          "moveYAmp": 5,
+          "moveYOctaves": 0,
+          "moveYDelay": 1.4809016378967266,
+          "moveYCenter": 0,
+          "rotateFreq": 4,
+          "rotateAmp": 15,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.23509877445165647
+        }
+      }
+    },
+    "5": {
+      "rootBoneName": "5",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 25,
+          "moveXOctaves": 0,
+          "moveXDelay": -2.503361084738638,
+          "moveXCenter": 0,
+          "moveYFreq": 5,
+          "moveYAmp": 5,
+          "moveYOctaves": 0,
+          "moveYDelay": 5.180103017279674,
+          "moveYCenter": 0,
+          "rotateFreq": 4,
+          "rotateAmp": 15,
+          "rotateOctaves": 0,
+          "rotateDelay": -0.013235227400019589
+        }
+      }
+    },
+    "7": {
+      "rootBoneName": "7",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 4,
+          "moveXAmp": 15,
+          "moveXOctaves": 0,
+          "moveXDelay": 0.5748215017885849,
+          "moveXCenter": 0,
+          "moveYFreq": 5,
+          "moveYAmp": 5,
+          "moveYOctaves": 0,
+          "moveYDelay": 5.424209216724313,
+          "moveYCenter": 0,
+          "rotateFreq": 4,
+          "rotateAmp": 15,
+          "rotateOctaves": 0,
+          "rotateDelay": 0.09086891287393074
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
