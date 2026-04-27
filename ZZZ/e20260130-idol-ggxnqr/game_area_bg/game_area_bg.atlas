@@ -1,0 +1,7 @@
+game_area_bg.png
+size:918,934
+filter:Linear,Linear
+bg
+bounds:5,5,484,924
+格子
+bounds:499,103,414,826

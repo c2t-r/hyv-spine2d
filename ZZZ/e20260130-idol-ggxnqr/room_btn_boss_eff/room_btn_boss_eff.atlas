@@ -1,0 +1,12 @@
+room_btn_boss_eff.png
+size:195,124
+filter:Linear,Linear
+b_燥波_a
+bounds:0,0,111,36
+offsets:10,10,131,56
+b_燥波_b
+bounds:0,42,186,82
+offsets:10,10,206,102
+b_燥波_c
+bounds:117,8,78,28
+offsets:10,10,98,48

@@ -1,0 +1,13 @@
+game_skill_change.png
+size:468,198
+filter:Linear,Linear
+a
+bounds:401,100,93,62
+offsets:3,3,99,68
+rotate:90
+b
+bounds:203,5,188,188
+offsets:3,3,194,194
+c
+bounds:5,5,188,188
+offsets:1,1,190,190

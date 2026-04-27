@@ -1,0 +1,208 @@
+{
+  "skeleton": {
+    "hash": "XHXntAp7bbQ",
+    "spine": "4.2.42",
+    "x": -440,
+    "y": -440,
+    "width": 880,
+    "height": 880
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "q",
+      "parent": "root"
+    },
+    {
+      "name": "a",
+      "parent": "q"
+    },
+    {
+      "name": "b",
+      "parent": "q"
+    }
+  ],
+  "slots": [
+    {
+      "name": "圈a",
+      "bone": "a",
+      "attachment": "圈a"
+    },
+    {
+      "name": "圈b",
+      "bone": "b",
+      "attachment": "圈b"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "圈a": {
+          "圈a": {
+            "width": 880,
+            "height": 880
+          }
+        },
+        "圈b": {
+          "圈b": {
+            "width": 405,
+            "height": 405
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "slots": {
+        "圈a": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "圈b": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "a": {
+          "scale": [
+            {
+              "x": 0.25,
+              "y": 0.25
+            }
+          ]
+        },
+        "b": {
+          "scale": [
+            {
+              "x": 0.538,
+              "y": 0.538
+            }
+          ]
+        }
+      }
+    },
+    "animation": {
+      "slots": {
+        "圈a": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.0333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "圈b": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.3667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.7333,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "a": {
+          "scale": [
+            {
+              "x": 0.25,
+              "y": 0.25,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3,
+              "x": 0.25,
+              "y": 0.25,
+              "curve": [
+                0.531,
+                0.25,
+                0.769,
+                1,
+                0.531,
+                0.25,
+                0.769,
+                1
+              ]
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.0333,
+              "x": 0.465,
+              "y": 0.465
+            }
+          ]
+        },
+        "b": {
+          "scale": [
+            {
+              "x": 0.415,
+              "y": 0.415,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0333,
+              "x": 0.415,
+              "y": 0.415,
+              "curve": [
+                0.264,
+                0.415,
+                0.469,
+                2.143,
+                0.264,
+                0.415,
+                0.469,
+                2.143
+              ]
+            },
+            {
+              "time": 0.7,
+              "x": 2.143,
+              "y": 2.143,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.7333
+            }
+          ]
+        }
+      }
+    }
+  }
+}

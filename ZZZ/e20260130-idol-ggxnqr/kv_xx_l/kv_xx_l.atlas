@@ -1,0 +1,10 @@
+kv_xx_l.png
+size:73,123
+filter:Linear,Linear
+scale:0.35
+a
+bounds:0,0,55,50
+offsets:3,3,61,56
+b
+bounds:0,56,73,67
+offsets:3,3,79,73

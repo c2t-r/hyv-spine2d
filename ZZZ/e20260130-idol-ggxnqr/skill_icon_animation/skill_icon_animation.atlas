@@ -1,0 +1,12 @@
+skill_icon_animation.png
+size:658,228
+filter:Linear,Linear
+skill_a
+bounds:0,0,237,228
+offsets:10,10,257,248
+skill_b
+bounds:461,1,197,227
+offsets:10,10,217,247
+skill_c
+bounds:243,2,212,226
+offsets:10,10,232,246

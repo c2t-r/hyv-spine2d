@@ -1,0 +1,1475 @@
+{
+  "skeleton": {
+    "hash": "pKj3m/D5yqc",
+    "spine": "4.2.42",
+    "x": -1374,
+    "y": -454,
+    "width": 2671,
+    "height": 1020
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "zb",
+      "parent": "root"
+    },
+    {
+      "name": "ac",
+      "parent": "zb",
+      "x": -1072.02,
+      "y": 535.79
+    },
+    {
+      "name": "ab",
+      "parent": "zb",
+      "x": -970.86,
+      "y": 489.55
+    },
+    {
+      "name": "aa",
+      "parent": "zb",
+      "x": -1078.14,
+      "y": 471.95
+    },
+    {
+      "name": "z",
+      "parent": "zb",
+      "x": -833.88,
+      "y": 293.16
+    },
+    {
+      "name": "y",
+      "parent": "zb",
+      "x": -881.67,
+      "y": 267.58
+    },
+    {
+      "name": "g",
+      "parent": "zb",
+      "x": -977.22,
+      "y": 267.94
+    },
+    {
+      "name": "h",
+      "parent": "zb",
+      "x": -858.42,
+      "y": 237.93
+    },
+    {
+      "name": "f",
+      "parent": "zb",
+      "x": -1271.15,
+      "y": 199.42
+    },
+    {
+      "name": "b",
+      "parent": "zb",
+      "x": -813.01,
+      "y": 42.17
+    },
+    {
+      "name": "c",
+      "parent": "zb",
+      "x": -906.01,
+      "y": 18.56
+    },
+    {
+      "name": "k",
+      "parent": "zb",
+      "x": -837.87,
+      "y": -236.89
+    },
+    {
+      "name": "j",
+      "parent": "zb",
+      "x": -845.91,
+      "y": -278.18
+    },
+    {
+      "name": "e",
+      "parent": "zb",
+      "x": -902.75,
+      "y": -307.13
+    },
+    {
+      "name": "d",
+      "parent": "zb",
+      "x": -1086.11,
+      "y": -327.51
+    },
+    {
+      "name": "i",
+      "parent": "zb",
+      "x": -1092.55,
+      "y": -389.7
+    },
+    {
+      "name": "a",
+      "parent": "zb",
+      "x": -924.19,
+      "y": -429.91
+    },
+    {
+      "name": "x",
+      "parent": "zb",
+      "x": 974.13,
+      "y": 419.96
+    },
+    {
+      "name": "w",
+      "parent": "zb",
+      "x": 1131.75,
+      "y": 374.1
+    },
+    {
+      "name": "v",
+      "parent": "zb",
+      "x": 1089.91,
+      "y": 215.9
+    },
+    {
+      "name": "u",
+      "parent": "zb",
+      "x": 1246.96,
+      "y": 119.04
+    },
+    {
+      "name": "t",
+      "parent": "zb",
+      "x": 972.41,
+      "y": -39.74
+    },
+    {
+      "name": "s",
+      "parent": "zb",
+      "x": 1065.26,
+      "y": -42.6
+    },
+    {
+      "name": "q",
+      "parent": "zb",
+      "x": 1205.69,
+      "y": -102.21
+    },
+    {
+      "name": "r",
+      "parent": "zb",
+      "x": 1006.22,
+      "y": -84.44
+    },
+    {
+      "name": "p",
+      "parent": "zb",
+      "x": 1150.67,
+      "y": -309.91
+    },
+    {
+      "name": "o",
+      "parent": "zb",
+      "x": 1159.26,
+      "y": -332.27
+    },
+    {
+      "name": "n",
+      "parent": "zb",
+      "x": 1241.8,
+      "y": -384.43
+    },
+    {
+      "name": "m",
+      "parent": "zb",
+      "x": 1203.4,
+      "y": -429.71
+    },
+    {
+      "name": "l",
+      "parent": "zb",
+      "x": 1155.82,
+      "y": -443.46
+    }
+  ],
+  "slots": [
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b"
+    },
+    {
+      "name": "c",
+      "bone": "c",
+      "attachment": "c"
+    },
+    {
+      "name": "d",
+      "bone": "d",
+      "attachment": "d"
+    },
+    {
+      "name": "e",
+      "bone": "e",
+      "attachment": "e"
+    },
+    {
+      "name": "f",
+      "bone": "f",
+      "attachment": "f"
+    },
+    {
+      "name": "g",
+      "bone": "g",
+      "attachment": "g"
+    },
+    {
+      "name": "h",
+      "bone": "h",
+      "attachment": "h"
+    },
+    {
+      "name": "i",
+      "bone": "i",
+      "attachment": "i"
+    },
+    {
+      "name": "j",
+      "bone": "j",
+      "attachment": "j"
+    },
+    {
+      "name": "k",
+      "bone": "k",
+      "attachment": "k"
+    },
+    {
+      "name": "l",
+      "bone": "l",
+      "attachment": "l"
+    },
+    {
+      "name": "m",
+      "bone": "m",
+      "attachment": "m"
+    },
+    {
+      "name": "n",
+      "bone": "n",
+      "attachment": "n"
+    },
+    {
+      "name": "o",
+      "bone": "o",
+      "attachment": "o"
+    },
+    {
+      "name": "p",
+      "bone": "p",
+      "attachment": "p"
+    },
+    {
+      "name": "q",
+      "bone": "q",
+      "attachment": "q"
+    },
+    {
+      "name": "r",
+      "bone": "r",
+      "attachment": "r"
+    },
+    {
+      "name": "s",
+      "bone": "s",
+      "attachment": "s"
+    },
+    {
+      "name": "t",
+      "bone": "t",
+      "attachment": "t"
+    },
+    {
+      "name": "u",
+      "bone": "u",
+      "attachment": "u"
+    },
+    {
+      "name": "v",
+      "bone": "v",
+      "attachment": "v"
+    },
+    {
+      "name": "w",
+      "bone": "w",
+      "attachment": "w"
+    },
+    {
+      "name": "x",
+      "bone": "x",
+      "attachment": "x"
+    },
+    {
+      "name": "y",
+      "bone": "y",
+      "attachment": "y"
+    },
+    {
+      "name": "z",
+      "bone": "z",
+      "attachment": "z"
+    },
+    {
+      "name": "aa",
+      "bone": "aa",
+      "attachment": "aa"
+    },
+    {
+      "name": "ab",
+      "bone": "ab",
+      "attachment": "ab"
+    },
+    {
+      "name": "ac",
+      "bone": "ac",
+      "attachment": "ac"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": 2.69,
+            "y": -1.09,
+            "width": 119,
+            "height": 46
+          }
+        },
+        "aa": {
+          "aa": {
+            "x": 9.64,
+            "y": -0.45,
+            "width": 279,
+            "height": 13
+          }
+        },
+        "ab": {
+          "ab": {
+            "x": 6.36,
+            "y": -1.55,
+            "width": 237,
+            "height": 24
+          }
+        },
+        "ac": {
+          "ac": {
+            "x": 4.52,
+            "y": -0.79,
+            "width": 295,
+            "height": 62
+          }
+        },
+        "b": {
+          "b": {
+            "x": 5.01,
+            "y": -0.17,
+            "width": 116,
+            "height": 18
+          }
+        },
+        "c": {
+          "c": {
+            "x": -7.49,
+            "y": 0.44,
+            "width": 89,
+            "height": 30
+          }
+        },
+        "d": {
+          "d": {
+            "x": -13.89,
+            "y": -1.49,
+            "width": 260,
+            "height": 14
+          }
+        },
+        "e": {
+          "e": {
+            "x": -3.25,
+            "y": 3.63,
+            "width": 166,
+            "height": 49
+          }
+        },
+        "f": {
+          "f": {
+            "x": 7.15,
+            "y": -0.42,
+            "width": 220,
+            "height": 50
+          }
+        },
+        "g": {
+          "g": {
+            "x": -0.28,
+            "y": -0.94,
+            "width": 303,
+            "height": 18
+          }
+        },
+        "h": {
+          "h": {
+            "x": 2.42,
+            "y": 0.07,
+            "width": 154,
+            "height": 22
+          }
+        },
+        "i": {
+          "i": {
+            "x": -7.95,
+            "y": 0.2,
+            "width": 487,
+            "height": 21
+          }
+        },
+        "j": {
+          "j": {
+            "x": 7.41,
+            "y": -0.82,
+            "width": 171,
+            "height": 42
+          }
+        },
+        "k": {
+          "k": {
+            "x": -3.13,
+            "y": -1.11,
+            "width": 210,
+            "height": 22
+          }
+        },
+        "l": {
+          "l": {
+            "x": -2.82,
+            "y": -0.04,
+            "width": 54,
+            "height": 17
+          }
+        },
+        "m": {
+          "m": {
+            "x": 2.1,
+            "y": -2.29,
+            "width": 83,
+            "height": 34
+          }
+        },
+        "n": {
+          "n": {
+            "x": 6.7,
+            "y": -3.07,
+            "width": 97,
+            "height": 61
+          }
+        },
+        "o": {
+          "o": {
+            "x": 3.74,
+            "y": -0.73,
+            "width": 268,
+            "height": 18
+          }
+        },
+        "p": {
+          "p": {
+            "x": 11.83,
+            "y": -0.09,
+            "width": 187,
+            "height": 12
+          }
+        },
+        "q": {
+          "q": {
+            "x": 4.81,
+            "y": 0.21,
+            "width": 173,
+            "height": 22
+          }
+        },
+        "r": {
+          "r": {
+            "x": 0.78,
+            "y": -0.06,
+            "width": 52,
+            "height": 27
+          }
+        },
+        "s": {
+          "s": {
+            "x": 3.24,
+            "y": -2.9,
+            "width": 89,
+            "height": 19
+          }
+        },
+        "t": {
+          "t": {
+            "x": -5.91,
+            "y": -2.26,
+            "width": 97,
+            "height": 60
+          }
+        },
+        "u": {
+          "u": {
+            "x": -22.96,
+            "y": 3.96,
+            "width": 146,
+            "height": 70
+          }
+        },
+        "v": {
+          "v": {
+            "x": 4.09,
+            "y": -3.9,
+            "width": 238,
+            "height": 86
+          }
+        },
+        "w": {
+          "w": {
+            "x": -3.25,
+            "y": 0.4,
+            "width": 69,
+            "height": 23
+          }
+        },
+        "x": {
+          "x": {
+            "x": -2.13,
+            "y": -1.46,
+            "width": 108,
+            "height": 35
+          }
+        },
+        "y": {
+          "y": {
+            "x": 0.67,
+            "y": -0.58,
+            "width": 52,
+            "height": 20
+          }
+        },
+        "z": {
+          "z": {
+            "x": 9.38,
+            "y": -2.16,
+            "width": 119,
+            "height": 26
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "aa": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -24.36,
+              "y": -46.51,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 45.73,
+              "y": -897.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 248.21,
+              "y": -595.56,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 145.35,
+              "y": -874.96,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "ab": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 35.3,
+              "y": -23.82,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 105.39,
+              "y": -875.3,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 81.59,
+              "y": -783.11,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 69.29,
+              "y": -853.22,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "ac": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 156.58,
+              "y": -4.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 78.7,
+              "y": -359.34,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 71.33,
+              "y": -266.71,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -101.63,
+              "y": -258.73,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "z": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 67.36,
+              "y": 27.09,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 137.45,
+              "y": -824.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -658,
+              "y": -151.4,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -372.95,
+              "y": -200.16,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "y": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -2.03,
+              "y": 43.84,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 99.21,
+              "y": 194.41,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 140.14,
+              "y": 98.29,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 24.36,
+              "y": 98.24,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "g": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -49.39,
+              "y": -14.66,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 51.85,
+              "y": 135.9,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 73.04,
+              "y": 32.89,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 53.3,
+              "y": -11.45,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "h": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 12.08,
+              "y": -39.52,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 113.32,
+              "y": 111.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 143.87,
+              "y": 57.35,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -179.4,
+              "y": 177.45,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "f": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 68.3,
+              "y": 5.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 169.55,
+              "y": 155.61,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "b": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -77.3,
+              "y": 72.55,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 23.94,
+              "y": 223.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -157.07,
+              "y": 127.49,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "k": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -54.22,
+              "y": 56.98,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 47.03,
+              "y": 207.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "j": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 3.15,
+              "y": -84.78,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 104.39,
+              "y": 65.78,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 161.97,
+              "y": 126.19,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -342.85,
+              "y": -186.53,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "d": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -10.34,
+              "y": 51.18,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 90.9,
+              "y": 201.74,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -10.34,
+              "y": 51.18,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "i": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -48.47,
+              "y": -47.3,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 52.77,
+              "y": 103.26,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 43.8,
+              "y": 212.35,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "a": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -114.32,
+              "y": 56.32,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -13.08,
+              "y": 206.88,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -99.91,
+              "y": 203.17,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 74.27,
+              "y": 188.84,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "e": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -13.89,
+              "y": 63.72,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 87.35,
+              "y": 214.28,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -13.89,
+              "y": 63.72,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "r": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -71.92,
+              "y": -60.74,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 29.33,
+              "y": 89.82,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 41.5,
+              "y": 159.94,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "t": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 42.15,
+              "y": 68.52,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 134.31,
+              "y": 213.89,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 22.68,
+              "y": 400.8,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "s": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -47.07,
+              "y": -51.95,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -231.38,
+              "y": -68.82,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -185.95,
+              "y": -96.08,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "q": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 34.18,
+              "y": 81.62,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -150.13,
+              "y": 64.75,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -235.16,
+              "y": 81.41,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "o": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -60.74,
+              "y": -14.71,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -245.05,
+              "y": -31.58,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -435.86,
+              "y": -36.77,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "p": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 13.36,
+              "y": 81.62,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -170.96,
+              "y": 64.75,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -361.76,
+              "y": 59.56,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "n": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -137.81,
+              "y": -9.05,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -322.12,
+              "y": -25.92,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -353.27,
+              "y": -36.31,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -280.33,
+              "y": -67.51,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "m": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 55.66,
+              "y": -24.78,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -128.65,
+              "y": -41.66,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -159.81,
+              "y": -52.04,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -131.34,
+              "y": -6.71,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "l": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -26.03,
+              "y": -37.69,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -210.35,
+              "y": -54.57,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -241.5,
+              "y": -64.95,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "v": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 29.68,
+              "y": 58.43,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 121.84,
+              "y": -516.58,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -19.64,
+              "y": -521.77,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -39.86,
+              "y": -427.93,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "u": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -103.33,
+              "y": -36.4,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -11.17,
+              "y": 108.97,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -122.8,
+              "y": 295.88,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -61.29,
+              "y": 87.55,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "w": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 64.94,
+              "y": 45.34,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 157.1,
+              "y": -529.66,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 15.62,
+              "y": -534.85,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "x": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -24.06,
+              "y": 55.68,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 68.1,
+              "y": -519.32,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 68.67,
+              "y": -450.51,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "c": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 101.24,
+              "y": 150.57,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -72.27,
+              "y": 75.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -230.62,
+              "y": 138.3,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        }
+      }
+    }
+  }
+}

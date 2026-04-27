@@ -1,0 +1,300 @@
+{
+  "skeleton": {
+    "hash": "D3rbT9qbOWw",
+    "spine": "4.2.42",
+    "x": -219,
+    "y": -219,
+    "width": 438,
+    "height": 438
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "t",
+      "parent": "root",
+      "y": 120
+    },
+    {
+      "name": "d",
+      "parent": "root",
+      "y": -120
+    },
+    {
+      "name": "l",
+      "parent": "root",
+      "x": -120
+    },
+    {
+      "name": "r",
+      "parent": "root",
+      "x": 120
+    }
+  ],
+  "slots": [
+    {
+      "name": "bg",
+      "bone": "root",
+      "attachment": "bg"
+    },
+    {
+      "name": "d",
+      "bone": "t",
+      "attachment": "d"
+    },
+    {
+      "name": "t",
+      "bone": "d",
+      "attachment": "d"
+    },
+    {
+      "name": "l",
+      "bone": "l",
+      "attachment": "d"
+    },
+    {
+      "name": "r",
+      "bone": "r",
+      "attachment": "d"
+    },
+    {
+      "name": "tt",
+      "bone": "t",
+      "attachment": "tt"
+    },
+    {
+      "name": "rr",
+      "bone": "r",
+      "attachment": "rr"
+    },
+    {
+      "name": "ll",
+      "bone": "l",
+      "attachment": "ll"
+    },
+    {
+      "name": "dd",
+      "bone": "d",
+      "attachment": "dd"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "bg": {
+          "bg": {
+            "width": 438,
+            "height": 438
+          }
+        },
+        "d": {
+          "d": {
+            "width": 166,
+            "height": 166
+          },
+          "hover": {
+            "width": 160,
+            "height": 160
+          }
+        },
+        "dd": {
+          "dd": {
+            "x": -1,
+            "y": -7.5,
+            "width": 74,
+            "height": 59
+          }
+        },
+        "l": {
+          "d": {
+            "width": 166,
+            "height": 166
+          },
+          "hover": {
+            "width": 160,
+            "height": 160
+          }
+        },
+        "ll": {
+          "ll": {
+            "x": -11,
+            "y": -0.5,
+            "width": 58,
+            "height": 73
+          }
+        },
+        "r": {
+          "d": {
+            "x": 2,
+            "width": 166,
+            "height": 166
+          },
+          "hover": {
+            "x": 2,
+            "width": 160,
+            "height": 160
+          }
+        },
+        "rr": {
+          "rr": {
+            "x": 12.5,
+            "y": -0.5,
+            "width": 59,
+            "height": 75
+          }
+        },
+        "t": {
+          "d": {
+            "width": 166,
+            "height": 166
+          },
+          "hover": {
+            "width": 160,
+            "height": 160
+          }
+        },
+        "tt": {
+          "tt": {
+            "x": -1,
+            "y": 3.5,
+            "width": 80,
+            "height": 91
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "a": {},
+    "d_click": {
+      "slots": {
+        "t": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "d": {
+          "scale": [
+            {
+              "x": 0.9,
+              "y": 0.9
+            }
+          ]
+        }
+      }
+    },
+    "d_hover": {
+      "slots": {
+        "t": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      }
+    },
+    "l_click": {
+      "slots": {
+        "l": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "l": {
+          "scale": [
+            {
+              "x": 0.9,
+              "y": 0.9
+            }
+          ]
+        }
+      }
+    },
+    "l_hover": {
+      "slots": {
+        "l": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      }
+    },
+    "r_click": {
+      "slots": {
+        "r": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "r": {
+          "scale": [
+            {
+              "x": 0.9,
+              "y": 0.9
+            }
+          ]
+        }
+      }
+    },
+    "r_hover": {
+      "slots": {
+        "r": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      }
+    },
+    "t_click": {
+      "slots": {
+        "d": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "t": {
+          "scale": [
+            {
+              "x": 0.9,
+              "y": 0.9
+            }
+          ]
+        }
+      }
+    },
+    "t_hover": {
+      "slots": {
+        "d": {
+          "attachment": [
+            {
+              "name": "hover"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

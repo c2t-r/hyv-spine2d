@@ -1,0 +1,1154 @@
+{
+  "skeleton": {
+    "hash": "dj0mZBc+EoY",
+    "spine": "4.2.42",
+    "x": -1716.61,
+    "y": -576,
+    "width": 3433.22,
+    "height": 1583.35
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "b",
+      "parent": "root",
+      "x": -959.96,
+      "y": 105.97
+    },
+    {
+      "name": "c",
+      "parent": "root",
+      "x": -121.47,
+      "y": 386.58
+    },
+    {
+      "name": "d",
+      "parent": "root",
+      "x": -122.47,
+      "y": -174.44
+    },
+    {
+      "name": "f",
+      "parent": "root",
+      "x": -609.82,
+      "y": -385.22
+    },
+    {
+      "name": "g",
+      "parent": "root",
+      "x": 578.87,
+      "y": 861.15
+    },
+    {
+      "name": "e",
+      "parent": "root",
+      "x": 1140.56,
+      "y": 245.92
+    },
+    {
+      "name": "a",
+      "parent": "root",
+      "x": 1136.92,
+      "y": -313.35
+    }
+  ],
+  "slots": [
+    {
+      "name": "g",
+      "bone": "g",
+      "attachment": "g"
+    },
+    {
+      "name": "f",
+      "bone": "f",
+      "attachment": "f"
+    },
+    {
+      "name": "e",
+      "bone": "e",
+      "attachment": "e"
+    },
+    {
+      "name": "d",
+      "bone": "d",
+      "attachment": "d"
+    },
+    {
+      "name": "c",
+      "bone": "c",
+      "attachment": "c"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b"
+    },
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a"
+    },
+    {
+      "name": "格子",
+      "bone": "root",
+      "attachment": "gezhi"
+    },
+    {
+      "name": "图层 1130",
+      "bone": "root",
+      "attachment": "bai"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              350.9,
+              -74.65,
+              -212.1,
+              -74.65,
+              -212.1,
+              69.35,
+              350.9,
+              69.35
+            ],
+            "hull": 4
+          }
+        },
+        "b": {
+          "b": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              210.46,
+              -215.97,
+              -72.54,
+              -215.97,
+              -72.54,
+              212.03,
+              210.46,
+              212.03
+            ],
+            "hull": 4
+          }
+        },
+        "c": {
+          "c": {
+            "x": 1.67,
+            "y": 68.32,
+            "width": 424,
+            "height": 285
+          }
+        },
+        "d": {
+          "d": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              213.97,
+              -74.56,
+              -210.03,
+              -74.56,
+              -210.03,
+              208.44,
+              213.97,
+              208.44
+            ],
+            "hull": 4
+          }
+        },
+        "e": {
+          "e": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              210.94,
+              -215.92,
+              -71.06,
+              -215.92,
+              -71.06,
+              209.08,
+              210.94,
+              209.08
+            ],
+            "hull": 4
+          }
+        },
+        "f": {
+          "f": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              143.32,
+              -142.78,
+              -141.68,
+              -142.78,
+              -141.68,
+              140.22,
+              143.32,
+              140.22
+            ],
+            "hull": 4
+          }
+        },
+        "g": {
+          "g": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              213.63,
+              -141.79,
+              -213.37,
+              -141.79,
+              -213.37,
+              146.21,
+              213.63,
+              146.21
+            ],
+            "hull": 4
+          }
+        },
+        "图层 1130": {
+          "bai": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              1716.61,
+              -576,
+              -1716.61,
+              -576,
+              -1716.61,
+              33,
+              1716.61,
+              33
+            ],
+            "hull": 4
+          }
+        },
+        "格子": {
+          "gezhi": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              1406.5,
+              -576,
+              -1448.5,
+              -576,
+              -1448.5,
+              596,
+              1406.5,
+              596
+            ],
+            "hull": 4
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "b": {
+          "translatex": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 4
+            }
+          ],
+          "translatey": [
+            {
+              "value": 1.98,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": -138.73,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -279.44,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "value": -420.14,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "value": -560.85,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "value": -701.56,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "value": -842.27,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "value": 705.52,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "value": 564.81,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "value": 424.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "value": 283.4,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "value": 142.69,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "value": 1.98
+            }
+          ]
+        },
+        "c": {
+          "translatex": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 4
+            }
+          ],
+          "translatey": [
+            {
+              "value": -2.74,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": -143.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -283.46,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "value": -423.82,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "value": -564.18,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "value": -704.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "value": -844.9,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "value": -985.26,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "value": -1125.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "value": -1265.99,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "value": 277.98,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "value": 137.62,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "value": -2.74
+            }
+          ]
+        },
+        "d": {
+          "translatex": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 4
+            }
+          ],
+          "translatey": [
+            {
+              "value": -1.26,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": -141.47,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -281.69,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "value": -421.9,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "value": -562.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "value": -702.33,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "value": 840.03,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "value": 699.82,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "value": 559.6,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "value": 419.39,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "value": 279.17,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "value": 138.96,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "value": -1.26
+            }
+          ]
+        },
+        "f": {
+          "translatex": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 4
+            }
+          ],
+          "translatey": [
+            {
+              "value": -1.01,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": -141.65,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -282.29,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "value": -422.92,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "value": 1124.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "value": 983.46,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "value": 842.82,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "value": 702.18,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "value": 561.55,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "value": 420.91,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "value": 280.27,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "value": 139.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "value": -1.01
+            }
+          ]
+        },
+        "e": {
+          "translatex": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 4
+            }
+          ],
+          "translatey": [
+            {
+              "value": 136.85,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": -2.86,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -142.56,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "value": -282.27,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "value": -421.97,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "value": -561.68,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "value": -701.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "value": -841.09,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "value": -980.79,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "value": 555.96,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "value": 416.26,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "value": 276.55,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "value": 136.85
+            }
+          ]
+        },
+        "a": {
+          "translatex": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "curve": "stepped"
+            },
+            {
+              "time": 4
+            }
+          ],
+          "translatey": [
+            {
+              "value": -2.84,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "value": -143.08,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -283.32,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "value": -423.56,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "value": -563.8,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "value": 978.84,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "value": 838.6,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "value": 698.36,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "value": 558.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "value": 417.88,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "value": 277.64,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "value": 137.4,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "value": -2.84
+            }
+          ]
+        },
+        "g": {
+          "translate": [
+            {
+              "y": -125.8,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "y": -266.21,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "y": -406.62,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "y": -547.03,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "y": -687.43,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667,
+              "y": -827.84,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "y": -968.25,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3333,
+              "y": -1108.66,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.6667,
+              "y": -1249.07,
+              "curve": "stepped"
+            },
+            {
+              "time": 3,
+              "y": -1389.47,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "y": -1529.88,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6667,
+              "y": -1670.29,
+              "curve": "stepped"
+            },
+            {
+              "time": 4,
+              "y": -125.8
+            }
+          ]
+        }
+      }
+    }
+  }
+}

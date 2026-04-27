@@ -1,0 +1,16 @@
+kv_xx_a.png
+size:114,235
+filter:Linear,Linear
+scale:0.35
+星星1
+bounds:0,112,104,123
+offsets:4,3,111,130
+星星2
+bounds:0,45,55,61
+offsets:4,4,62,68
+星星3
+bounds:61,0,39,43
+offsets:4,4,46,50
+星星4
+bounds:61,49,53,57
+offsets:3,3,59,63

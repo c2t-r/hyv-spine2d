@@ -1,0 +1,13 @@
+game_skill_speed.png
+size:469,198
+filter:Linear,Linear
+a
+bounds:401,78,115,63
+offsets:1,1,117,65
+rotate:90
+b
+bounds:203,5,188,188
+offsets:1,1,190,190
+c
+bounds:5,5,188,188
+offsets:1,1,190,190

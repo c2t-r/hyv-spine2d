@@ -1,0 +1,16 @@
+kv_Fairy.png
+size:215,183
+filter:Linear,Linear
+scale:0.35
+Fairy
+bounds:0,7,147,176
+offsets:3,3,153,182
+Fairy眼珠
+bounds:153,0,31,38
+offsets:3,3,37,44
+Fairy眼白
+bounds:153,44,44,54
+offsets:3,3,50,60
+Fairy眼眶
+bounds:153,104,62,79
+offsets:3,3,68,85

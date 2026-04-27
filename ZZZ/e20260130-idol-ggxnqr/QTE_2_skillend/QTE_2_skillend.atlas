@@ -1,0 +1,10 @@
+QTE_2_skillend.png
+size:419,247
+filter:Linear,Linear
+scale:0.8
+btn
+bounds:250,72,172,166
+rotate:90
+light
+bounds:3,3,241,241
+offsets:1,1,243,243

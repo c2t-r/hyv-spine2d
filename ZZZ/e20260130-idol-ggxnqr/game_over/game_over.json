@@ -1,0 +1,719 @@
+{
+  "skeleton": {
+    "hash": "9XefvkufPdM",
+    "spine": "4.2.42",
+    "x": -1306,
+    "y": -599.23,
+    "width": 2603.01,
+    "height": 1477.9
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "light",
+      "parent": "root",
+      "x": -14.83,
+      "y": 502.67
+    },
+    {
+      "name": "白",
+      "parent": "root"
+    },
+    {
+      "name": "light2",
+      "parent": "root"
+    },
+    {
+      "name": "light3",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "黑",
+      "bone": "root",
+      "attachment": "hai"
+    },
+    {
+      "name": "白",
+      "bone": "白",
+      "color": "ffffff00",
+      "attachment": "白",
+      "blend": "additive"
+    },
+    {
+      "name": "light",
+      "bone": "light",
+      "color": "ffffff00",
+      "attachment": "light",
+      "blend": "additive"
+    },
+    {
+      "name": "light2",
+      "bone": "light2",
+      "color": "ffffff00",
+      "attachment": "light",
+      "blend": "additive"
+    },
+    {
+      "name": "light3",
+      "bone": "light3",
+      "color": "ffffff00",
+      "attachment": "light",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "light": {
+          "light": {
+            "width": 752,
+            "height": 752
+          }
+        },
+        "light2": {
+          "light": {
+            "width": 752,
+            "height": 752
+          }
+        },
+        "light3": {
+          "light": {
+            "width": 752,
+            "height": 752
+          }
+        },
+        "白": {
+          "白": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              1297.01,
+              -599.23,
+              -1306,
+              -599.23,
+              -1306,
+              595.63,
+              1297.01,
+              595.63
+            ],
+            "hull": 4
+          }
+        },
+        "黑": {
+          "hai": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              1273.03,
+              -573.46,
+              -1278.43,
+              -573.46,
+              -1278.43,
+              573.46,
+              1273.03,
+              573.46
+            ],
+            "hull": 4
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "slots": {
+        "light": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light2": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light3": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "白": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "黑": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "light": {
+          "translate": [
+            {}
+          ],
+          "scalex": [
+            {}
+          ],
+          "scaley": [
+            {}
+          ]
+        },
+        "light3": {
+          "scale": [
+            {
+              "x": 0.004,
+              "y": 0.079
+            }
+          ]
+        },
+        "light2": {
+          "scale": [
+            {
+              "x": 0.109,
+              "y": 0.003
+            }
+          ]
+        }
+      }
+    },
+    "animation": {
+      "slots": {
+        "light": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": [
+                0.089,
+                1,
+                0.178,
+                1,
+                0.089,
+                1,
+                0.178,
+                1,
+                0.089,
+                1,
+                0.178,
+                1,
+                0.089,
+                0,
+                0.178,
+                0.8
+              ]
+            },
+            {
+              "time": 0.2667,
+              "color": "ffffffcd",
+              "curve": [
+                0.379,
+                1,
+                0.478,
+                1,
+                0.379,
+                1,
+                0.478,
+                1,
+                0.379,
+                1,
+                0.478,
+                1,
+                0.379,
+                0.8,
+                0.478,
+                0.96
+              ]
+            },
+            {
+              "time": 0.6,
+              "color": "ffffffff",
+              "curve": [
+                0.787,
+                1,
+                0.885,
+                1,
+                0.787,
+                1,
+                0.885,
+                1,
+                0.787,
+                1,
+                0.885,
+                1,
+                0.787,
+                1.07,
+                0.885,
+                1.21
+              ]
+            },
+            {
+              "time": 1,
+              "color": "ffffffff",
+              "curve": [
+                1.039,
+                1,
+                1.062,
+                1,
+                1.039,
+                1,
+                1.062,
+                1,
+                1.039,
+                1,
+                1.062,
+                1,
+                1.039,
+                0.93,
+                1.062,
+                0.56
+              ]
+            },
+            {
+              "time": 1.1,
+              "color": "ffffff90",
+              "curve": [
+                1.178,
+                1,
+                1.256,
+                1,
+                1.178,
+                1,
+                1.256,
+                1,
+                1.178,
+                1,
+                1.256,
+                1,
+                1.178,
+                0.56,
+                1.256,
+                0
+              ]
+            },
+            {
+              "time": 1.3333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light2": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1.0667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.3333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light3": {
+          "rgba": [
+            {
+              "color": "ffffff3f",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff3f"
+            },
+            {
+              "time": 1.0667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.3333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "白": {
+          "rgba": [
+            {
+              "time": 0.3333,
+              "color": "ffffff00",
+              "curve": [
+                0.4,
+                1,
+                0.467,
+                1,
+                0.4,
+                1,
+                0.467,
+                1,
+                0.4,
+                1,
+                0.467,
+                1,
+                0.4,
+                0,
+                0.467,
+                1
+              ]
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff",
+              "curve": [
+                0.571,
+                1,
+                0.563,
+                1,
+                0.571,
+                1,
+                0.563,
+                1,
+                0.571,
+                1,
+                0.563,
+                1,
+                0.571,
+                1,
+                0.563,
+                0.32
+              ]
+            },
+            {
+              "time": 0.6,
+              "color": "ffffff1b",
+              "curve": [
+                0.611,
+                1,
+                0.622,
+                1,
+                0.611,
+                1,
+                0.622,
+                1,
+                0.611,
+                1,
+                0.622,
+                1,
+                0.611,
+                0.04,
+                0.622,
+                0
+              ]
+            },
+            {
+              "time": 0.6333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "黑": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "light": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5333,
+              "x": 14.83,
+              "y": -502.67,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6,
+              "x": 14.83,
+              "y": -502.67
+            }
+          ],
+          "scalex": [
+            {
+              "curve": [
+                0.178,
+                1,
+                0.356,
+                8.45
+              ]
+            },
+            {
+              "time": 0.5333,
+              "value": 8.45,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6,
+              "value": 8.45,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "value": 8.45,
+              "curve": [
+                0.908,
+                8.45,
+                0.949,
+                0.041
+              ]
+            },
+            {
+              "time": 1,
+              "value": 0.041,
+              "curve": [
+                1.026,
+                0.041,
+                1.045,
+                0.139
+              ]
+            },
+            {
+              "time": 1.0667,
+              "value": 0.283,
+              "curve": [
+                1.077,
+                0.351,
+                1.088,
+                0.528
+              ]
+            },
+            {
+              "time": 1.1,
+              "value": 0.528,
+              "curve": [
+                1.148,
+                0.528,
+                1.219,
+                0.179
+              ]
+            },
+            {
+              "time": 1.2667,
+              "value": 0.041
+            }
+          ],
+          "scaley": [
+            {
+              "curve": [
+                0.178,
+                1,
+                0.351,
+                8.469
+              ]
+            },
+            {
+              "time": 0.5333,
+              "value": 8.45,
+              "curve": [
+                0.561,
+                8.444,
+                0.577,
+                7.972
+              ]
+            },
+            {
+              "time": 0.6,
+              "value": 7.726,
+              "curve": [
+                0.786,
+                5.844,
+                0.833,
+                0.146
+              ]
+            },
+            {
+              "time": 0.9,
+              "value": 0.146,
+              "curve": [
+                0.929,
+                0.146,
+                0.98,
+                0.025
+              ]
+            },
+            {
+              "time": 1,
+              "value": 0.025,
+              "curve": [
+                1.026,
+                0.025,
+                1.045,
+                0.132
+              ]
+            },
+            {
+              "time": 1.0667,
+              "value": 0.28,
+              "curve": [
+                1.077,
+                0.351,
+                1.088,
+                0.528
+              ]
+            },
+            {
+              "time": 1.1,
+              "value": 0.528,
+              "curve": [
+                1.138,
+                0.528,
+                1.23,
+                0.149
+              ]
+            },
+            {
+              "time": 1.2667,
+              "value": 0.041
+            }
+          ]
+        },
+        "light3": {
+          "scale": [
+            {
+              "x": 0.004,
+              "y": 0.079,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 0.004,
+              "y": 0.079
+            },
+            {
+              "time": 1.0667,
+              "x": 0.027,
+              "y": 0.559
+            },
+            {
+              "time": 1.3333,
+              "x": 0,
+              "y": 0.005
+            }
+          ]
+        },
+        "light2": {
+          "scale": [
+            {
+              "x": 0.109,
+              "y": 0.003,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 0.109,
+              "y": 0.003
+            },
+            {
+              "time": 1.0667,
+              "x": 1.074,
+              "y": 0.035
+            },
+            {
+              "time": 1.3333,
+              "x": 0.01,
+              "y": 0
+            }
+          ]
+        }
+      }
+    },
+    "end": {
+      "slots": {
+        "light": {
+          "attachment": [
+            {}
+          ]
+        },
+        "light2": {
+          "attachment": [
+            {}
+          ]
+        },
+        "light3": {
+          "attachment": [
+            {}
+          ]
+        },
+        "白": {
+          "attachment": [
+            {}
+          ]
+        },
+        "黑": {
+          "attachment": [
+            {}
+          ]
+        }
+      }
+    }
+  }
+}

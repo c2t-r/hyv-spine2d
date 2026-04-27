@@ -1,0 +1,9 @@
+skill_icon_eff.png
+size:1251,860
+filter:Linear,Linear
+圈a
+bounds:0,0,860,860
+offsets:10,10,880,880
+圈b
+bounds:866,475,385,385
+offsets:10,10,405,405

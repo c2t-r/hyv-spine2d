@@ -1,0 +1,9 @@
+gane_skill_RT.png
+size:204,234
+filter:Linear,Linear
+AIcon
+bounds:0,0,40,36
+offsets:4,4,48,44
+按钮
+bounds:0,42,204,192
+offsets:4,4,212,200

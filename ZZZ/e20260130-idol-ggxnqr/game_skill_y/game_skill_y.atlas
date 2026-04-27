@@ -1,0 +1,15 @@
+game_skill_y.png
+size:142,336
+filter:Linear,Linear
+AIcon
+bounds:5,5,42,42
+offsets:1,1,44,44
+b
+bounds:5,57,132,132
+offsets:1,1,134,134
+icon
+bounds:5,199,132,132
+offsets:1,1,134,134
+pc
+bounds:57,9,40,38
+offsets:1,1,42,40

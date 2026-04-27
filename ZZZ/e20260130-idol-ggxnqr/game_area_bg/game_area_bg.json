@@ -1,0 +1,86 @@
+{
+  "skeleton": {
+    "hash": "n1kuqelQcp8",
+    "spine": "4.2.42",
+    "x": -243.14,
+    "y": -462.59,
+    "width": 486.27,
+    "height": 925.19
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "bg",
+      "bone": "root",
+      "dark": "000000",
+      "attachment": "bg"
+    },
+    {
+      "name": "格子",
+      "bone": "root",
+      "attachment": "格子"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "bg": {
+          "bg": {
+            "rotation": 0.14,
+            "width": 484,
+            "height": 924
+          }
+        },
+        "格子": {
+          "格子": {
+            "x": 1,
+            "y": -35,
+            "width": 414,
+            "height": 826
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "bg": {
+          "rgba2": [
+            {
+              "light": "ffffffff",
+              "dark": "000000"
+            }
+          ]
+        }
+      }
+    },
+    "warning": {
+      "slots": {
+        "bg": {
+          "rgba2": [
+            {
+              "light": "cf4032ff",
+              "dark": "38110e"
+            },
+            {
+              "time": 0.5,
+              "light": "cf4032ff",
+              "dark": "cf4032"
+            },
+            {
+              "time": 1,
+              "light": "cf4032ff",
+              "dark": "38110e"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

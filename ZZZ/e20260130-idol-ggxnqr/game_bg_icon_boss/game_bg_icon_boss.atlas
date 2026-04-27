@@ -1,0 +1,9 @@
+game_bg_icon_boss.png
+size:488,278
+filter:Linear,Linear
+弹窗
+bounds:0,0,340,221
+offsets:2,2,344,225
+滚
+bounds:0,227,488,51
+offsets:2,2,492,55

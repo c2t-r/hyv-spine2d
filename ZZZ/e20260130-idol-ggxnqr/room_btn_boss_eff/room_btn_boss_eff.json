@@ -1,0 +1,208 @@
+{
+  "skeleton": {
+    "hash": "S/1Gb4UH5t8",
+    "spine": "4.2.42",
+    "x": -204,
+    "y": -83,
+    "width": 455,
+    "height": 239
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "b_燥波_a",
+      "parent": "root",
+      "x": -128.6,
+      "y": 127.47
+    },
+    {
+      "name": "b_燥波_b",
+      "parent": "root",
+      "x": 143.54,
+      "y": 12.93
+    },
+    {
+      "name": "b_燥波_c",
+      "parent": "root",
+      "x": -158.38,
+      "y": -58.08
+    }
+  ],
+  "slots": [
+    {
+      "name": "b_燥波_c",
+      "bone": "b_燥波_c",
+      "attachment": "b_燥波_c"
+    },
+    {
+      "name": "b_燥波_b",
+      "bone": "b_燥波_b",
+      "attachment": "b_燥波_b"
+    },
+    {
+      "name": "b_燥波_a",
+      "bone": "b_燥波_a",
+      "attachment": "b_燥波_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "b_燥波_a": {
+          "b_燥波_a": {
+            "x": 5.1,
+            "y": 0.53,
+            "width": 131,
+            "height": 56
+          }
+        },
+        "b_燥波_b": {
+          "b_燥波_b": {
+            "x": 4.46,
+            "y": -7.93,
+            "width": 206,
+            "height": 102
+          }
+        },
+        "b_燥波_c": {
+          "b_燥波_c": {
+            "x": 3.38,
+            "y": -0.92,
+            "width": 98,
+            "height": 48
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "a": {
+      "slots": {
+        "b_燥波_a": {
+          "attachment": [
+            {}
+          ]
+        },
+        "b_燥波_b": {
+          "attachment": [
+            {}
+          ]
+        },
+        "b_燥波_c": {
+          "attachment": [
+            {}
+          ]
+        }
+      }
+    },
+    "b": {
+      "bones": {
+        "b_燥波_c": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 336.07,
+              "y": -2.93,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 325.32,
+              "y": -13.68,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 42.01,
+              "y": 121.14,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": 72.29,
+              "y": 139.7,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "b_燥波_b": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -114.3,
+              "y": 82.06,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": -290.43,
+              "y": -49.55,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": -314.85,
+              "y": -40.75,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -11.03,
+              "y": -81.78,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        },
+        "b_燥波_a": {
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": -98.67,
+              "y": -118.21,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 219.81,
+              "y": -83.04,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 272.57,
+              "y": -145.56,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.3333,
+              "x": -55.69,
+              "y": -152.4,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.6667
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+game_countdown.png
+size:492,155
+filter:Linear,Linear
+1
+bounds:425,0,67,155
+offsets:3,3,73,161
+2
+bounds:329,0,90,155
+offsets:3,3,96,161
+3
+bounds:233,0,90,155
+offsets:3,3,96,161
+GO!
+bounds:0,0,227,155
+offsets:3,3,233,161

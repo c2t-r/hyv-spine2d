@@ -1,0 +1,111 @@
+{
+  "skeleton": {
+    "hash": "N3yT/kKOcIY",
+    "spine": "4.2.42",
+    "x": -67,
+    "y": -76,
+    "width": 134,
+    "height": 152
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "y": 9
+    }
+  ],
+  "slots": [
+    {
+      "name": "icon",
+      "bone": "bone",
+      "attachment": "icon"
+    },
+    {
+      "name": "pc",
+      "bone": "root",
+      "attachment": "pc"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "icon": {
+          "b": {
+            "width": 134,
+            "height": 134
+          },
+          "icon": {
+            "width": 134,
+            "height": 134
+          }
+        }
+      }
+    },
+    {
+      "name": "pc",
+      "attachments": {
+        "pc": {
+          "pc": {
+            "x": 2,
+            "y": -53,
+            "width": 42,
+            "height": 40
+          }
+        }
+      }
+    },
+    {
+      "name": "ps",
+      "attachments": {
+        "pc": {
+          "pc": {
+            "name": "AIcon",
+            "x": 1,
+            "y": -54,
+            "width": 44,
+            "height": 44
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "a": {},
+    "click": {
+      "slots": {
+        "icon": {
+          "attachment": [
+            {
+              "name": "b"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "bone": {
+          "scale": [
+            {
+              "x": 0.9,
+              "y": 0.9
+            }
+          ]
+        }
+      }
+    },
+    "hover": {
+      "slots": {
+        "icon": {
+          "attachment": [
+            {
+              "name": "b"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

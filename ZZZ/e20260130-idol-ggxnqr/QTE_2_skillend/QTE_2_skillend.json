@@ -1,0 +1,595 @@
+{
+  "skeleton": {
+    "hash": "SVYU1cw1LFA",
+    "spine": "4.2.42",
+    "x": -115.46,
+    "y": -115.46,
+    "width": 230.91,
+    "height": 230.91
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "light",
+      "parent": "root"
+    },
+    {
+      "name": "btn",
+      "parent": "root"
+    },
+    {
+      "name": "light_loop",
+      "parent": "light",
+      "scaleX": 0.7596,
+      "scaleY": 0.7596
+    },
+    {
+      "name": "btn_click",
+      "parent": "btn",
+      "y": 8.6
+    },
+    {
+      "name": "light2",
+      "parent": "root"
+    },
+    {
+      "name": "light_loop4",
+      "parent": "light2",
+      "scaleX": 0.7596,
+      "scaleY": 0.7596
+    }
+  ],
+  "slots": [
+    {
+      "name": "light",
+      "bone": "light_loop",
+      "attachment": "light"
+    },
+    {
+      "name": "light4",
+      "bone": "light_loop4",
+      "attachment": "light"
+    },
+    {
+      "name": "btn",
+      "bone": "btn_click",
+      "attachment": "btn"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "btn": {
+          "btn": {
+            "x": 7.5,
+            "y": -8.6,
+            "width": 215,
+            "height": 208
+          }
+        },
+        "light": {
+          "light": {
+            "width": 304,
+            "height": 304
+          }
+        },
+        "light4": {
+          "light": {
+            "width": 304,
+            "height": 304
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "slots": {
+        "btn": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light4": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "light": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        },
+        "btn": {
+          "scale": [
+            {
+              "x": 0.085,
+              "y": 0.085
+            }
+          ]
+        },
+        "light_loop": {
+          "scale": [
+            {
+              "x": 0.132,
+              "y": 0.132
+            }
+          ]
+        },
+        "light_loop4": {
+          "scale": [
+            {
+              "x": 0.132,
+              "y": 0.132
+            }
+          ]
+        },
+        "light2": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01
+            }
+          ]
+        }
+      }
+    },
+    "a": {},
+    "click": {
+      "slots": {
+        "btn": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.3,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffffff",
+              "curve": [
+                0.141,
+                1,
+                0.225,
+                1,
+                0.141,
+                1,
+                0.225,
+                1,
+                0.141,
+                1,
+                0.225,
+                1,
+                0.141,
+                1,
+                0.225,
+                0.28
+              ]
+            },
+            {
+              "time": 0.3,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "light4": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "color": "ffffffff",
+              "curve": [
+                0.199,
+                1,
+                0.267,
+                1,
+                0.199,
+                1,
+                0.267,
+                1,
+                0.199,
+                1,
+                0.267,
+                1,
+                0.199,
+                1,
+                0.267,
+                0.37
+              ]
+            },
+            {
+              "time": 0.3667,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "light": {
+          "scale": [
+            {
+              "x": 0.95,
+              "y": 0.95,
+              "curve": [
+                0.081,
+                0.95,
+                0.188,
+                2.906,
+                0.081,
+                0.95,
+                0.188,
+                2.906
+              ]
+            },
+            {
+              "time": 0.2333,
+              "x": 3.345,
+              "y": 3.345
+            }
+          ]
+        },
+        "btn": {
+          "scale": [
+            {}
+          ]
+        },
+        "btn_click": {
+          "scale": [
+            {
+              "curve": [
+                0.045,
+                0.95,
+                0.055,
+                0.9,
+                0.045,
+                0.95,
+                0.055,
+                0.9
+              ]
+            },
+            {
+              "time": 0.1,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": [
+                0.156,
+                0.9,
+                0.244,
+                0.925,
+                0.156,
+                0.9,
+                0.244,
+                0.925
+              ]
+            },
+            {
+              "time": 0.3,
+              "x": 0.95,
+              "y": 0.95
+            }
+          ]
+        },
+        "light2": {
+          "scale": [
+            {
+              "x": 0.95,
+              "y": 0.95,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 0.95,
+              "y": 0.95,
+              "curve": [
+                0.189,
+                0.95,
+                0.317,
+                2.866,
+                0.189,
+                0.95,
+                0.317,
+                2.866
+              ]
+            },
+            {
+              "time": 0.3667,
+              "x": 3.345,
+              "y": 3.345
+            }
+          ]
+        }
+      }
+    },
+    "in": {
+      "slots": {
+        "light": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.1333,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "light4": {
+          "rgba": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.2333,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "btn": {
+          "scale": [
+            {
+              "x": 0.085,
+              "y": 0.085,
+              "curve": [
+                0.111,
+                0.39,
+                0.222,
+                1.099,
+                0.111,
+                0.39,
+                0.222,
+                1.099
+              ]
+            },
+            {
+              "time": 0.3333,
+              "x": 1.099,
+              "y": 1.099,
+              "curve": [
+                0.46,
+                1.099,
+                0.574,
+                0.976,
+                0.46,
+                1.099,
+                0.574,
+                0.976
+              ]
+            },
+            {
+              "time": 0.7,
+              "x": 0.976,
+              "y": 0.976,
+              "curve": [
+                0.867,
+                0.976,
+                1.033,
+                1,
+                0.867,
+                0.976,
+                1.033,
+                1
+              ]
+            },
+            {
+              "time": 1.2
+            }
+          ]
+        },
+        "light": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.133,
+                0.01,
+                0.267,
+                1,
+                0.133,
+                0.01,
+                0.267,
+                1
+              ]
+            },
+            {
+              "time": 0.4
+            }
+          ]
+        },
+        "light2": {
+          "scale": [
+            {
+              "x": 0.01,
+              "y": 0.01,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "x": 0.01,
+              "y": 0.01,
+              "curve": [
+                0.233,
+                0.01,
+                0.367,
+                0.67,
+                0.233,
+                0.01,
+                0.367,
+                0.67
+              ]
+            },
+            {
+              "time": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "loop": {
+      "slots": {
+        "btn": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "light": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "light4": {
+          "rgba": [
+            {
+              "color": "ffffffaa"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4667,
+              "color": "ffffffaa"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "light": {
+          "scale": [
+            {}
+          ]
+        },
+        "btn": {
+          "scale": [
+            {}
+          ]
+        },
+        "light_loop": {
+          "scale": [
+            {
+              "x": 0.918,
+              "y": 0.918
+            },
+            {
+              "time": 0.4,
+              "x": 1.938,
+              "y": 1.938,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "x": 0.918,
+              "y": 0.918
+            }
+          ]
+        },
+        "light_loop4": {
+          "scale": [
+            {
+              "x": 1.53,
+              "y": 1.53
+            },
+            {
+              "time": 0.1667,
+              "x": 1.938,
+              "y": 1.938,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2333,
+              "x": 0.918,
+              "y": 0.918
+            },
+            {
+              "time": 0.4667,
+              "x": 1.53,
+              "y": 1.53
+            }
+          ]
+        },
+        "light2": {
+          "scale": [
+            {}
+          ]
+        }
+      }
+    }
+  },
+  "extra": {},
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

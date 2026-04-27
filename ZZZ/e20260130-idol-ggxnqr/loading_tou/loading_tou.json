@@ -1,0 +1,74 @@
+{
+  "skeleton": {
+    "hash": "8GsvotAsdks",
+    "spine": "4.2.42",
+    "x": -244,
+    "y": -203,
+    "width": 488,
+    "height": 406
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "loading_tou",
+      "parent": "root",
+      "x": -15.87,
+      "y": -108.45
+    }
+  ],
+  "slots": [
+    {
+      "name": "loading_tou",
+      "bone": "loading_tou",
+      "attachment": "loading_tou"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "loading_tou": {
+          "loading_tou": {
+            "x": 15.87,
+            "y": 108.45,
+            "width": 488,
+            "height": 406
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "loading_tou": {
+      "rootBoneName": "loading_tou",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 1.5,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 5,
+          "moveYCenter": 0,
+          "rotateFreq": 1.5,
+          "rotateAmp": 3,
+          "rotateOctaves": 0,
+          "rotateDelay": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

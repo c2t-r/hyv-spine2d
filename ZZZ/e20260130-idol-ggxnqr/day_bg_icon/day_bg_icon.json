@@ -1,0 +1,443 @@
+{
+  "skeleton": {
+    "hash": "4Oh2iC4B498",
+    "spine": "4.2.42",
+    "x": -1402,
+    "y": -519.5,
+    "width": 2804,
+    "height": 1039
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bv",
+      "parent": "root"
+    },
+    {
+      "name": "c",
+      "parent": "bv",
+      "x": -999.38,
+      "y": 352.09
+    },
+    {
+      "name": "c2",
+      "parent": "c",
+      "x": -0.12,
+      "y": 0.45
+    },
+    {
+      "name": "d",
+      "parent": "bv",
+      "x": -1290.02,
+      "y": -231.52
+    },
+    {
+      "name": "e",
+      "parent": "bv",
+      "x": -1050.46,
+      "y": -400.72
+    },
+    {
+      "name": "b",
+      "parent": "bv",
+      "x": 1286.35,
+      "y": -30.44
+    },
+    {
+      "name": "a",
+      "parent": "bv",
+      "x": 1091.4,
+      "y": 414.05
+    },
+    {
+      "name": "cb_a",
+      "parent": "bv",
+      "length": 34.65,
+      "rotation": 97.97,
+      "x": 1085.11,
+      "y": -235.08
+    },
+    {
+      "name": "cb_a_h",
+      "parent": "cb_a",
+      "x": 54.84,
+      "y": 3.33
+    },
+    {
+      "name": "cb_b",
+      "parent": "cb_a",
+      "length": 63.88,
+      "rotation": -71.23,
+      "x": -21.5,
+      "y": -0.27
+    },
+    {
+      "name": "cb_c",
+      "parent": "cb_a",
+      "length": 64.8,
+      "rotation": 72.65,
+      "x": -21.42,
+      "y": 0.31
+    }
+  ],
+  "slots": [
+    {
+      "name": "cb_c_h",
+      "bone": "cb_c",
+      "attachment": "cb_c_h"
+    },
+    {
+      "name": "cb_b_h",
+      "bone": "cb_b",
+      "attachment": "cb_b_h"
+    },
+    {
+      "name": "cb_a_h",
+      "bone": "cb_a_h",
+      "attachment": "cb_a_h"
+    },
+    {
+      "name": "cb_c",
+      "bone": "cb_c",
+      "attachment": "cb_c"
+    },
+    {
+      "name": "cb_b",
+      "bone": "cb_b",
+      "attachment": "cb_b"
+    },
+    {
+      "name": "cb_a",
+      "bone": "cb_a_h",
+      "attachment": "cb_a"
+    },
+    {
+      "name": "b",
+      "bone": "b",
+      "attachment": "b"
+    },
+    {
+      "name": "a",
+      "bone": "a",
+      "attachment": "a"
+    },
+    {
+      "name": "e",
+      "bone": "e",
+      "attachment": "e"
+    },
+    {
+      "name": "d",
+      "bone": "d",
+      "attachment": "d"
+    },
+    {
+      "name": "c",
+      "bone": "c2",
+      "attachment": "c"
+    }
+  ],
+  "transform": [
+    {
+      "name": "cb_b",
+      "bones": [
+        "cb_c"
+      ],
+      "target": "cb_b",
+      "rotation": 143.88,
+      "local": true,
+      "x": 0.08,
+      "y": 0.58,
+      "mixRotate": -1,
+      "mixX": 0,
+      "mixScaleX": 0,
+      "mixShearY": 0
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a": {
+          "a": {
+            "x": -0.9,
+            "y": -26.55,
+            "width": 251,
+            "height": 264
+          }
+        },
+        "b": {
+          "b": {
+            "x": 3.65,
+            "y": -4.06,
+            "width": 224,
+            "height": 174
+          }
+        },
+        "c": {
+          "c": {
+            "y": 1.46,
+            "width": 243,
+            "height": 293
+          }
+        },
+        "cb_a": {
+          "cb_a": {
+            "x": 0.19,
+            "y": -0.32,
+            "rotation": -97.97,
+            "width": 191,
+            "height": 91
+          }
+        },
+        "cb_a_h": {
+          "cb_a_h": {
+            "x": -0.3,
+            "y": -0.25,
+            "rotation": -97.97,
+            "width": 233,
+            "height": 138
+          }
+        },
+        "cb_b": {
+          "cb_b": {
+            "x": 57.98,
+            "y": 2.52,
+            "rotation": -26.74,
+            "width": 102,
+            "height": 99
+          }
+        },
+        "cb_b_h": {
+          "cb_b_h": {
+            "x": 58.42,
+            "y": 2.3,
+            "rotation": -26.74,
+            "width": 151,
+            "height": 147
+          }
+        },
+        "cb_c": {
+          "cb_c": {
+            "x": 60.25,
+            "y": 5.05,
+            "rotation": -170.62,
+            "width": 119,
+            "height": 80
+          }
+        },
+        "cb_c_h": {
+          "cb_c_h": {
+            "x": 60.91,
+            "y": 4.14,
+            "rotation": -170.62,
+            "width": 166,
+            "height": 130
+          }
+        },
+        "d": {
+          "d": {
+            "x": -1.48,
+            "y": -2.98,
+            "width": 221,
+            "height": 174
+          }
+        },
+        "e": {
+          "e": {
+            "x": 3.96,
+            "y": 11.72,
+            "width": 293,
+            "height": 261
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "c": {
+      "rootBoneName": "c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 15,
+          "moveXAmp": 100,
+          "moveXOctaves": 2,
+          "moveXDelay": 1.02,
+          "moveXCenter": 0,
+          "moveXSeed": 836.39,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 1,
+          "scaleXDelay": 1.92,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "c2": {
+      "rootBoneName": "c2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 0.6,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 4.88,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "d": {
+      "rootBoneName": "d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 7,
+          "moveXAmp": 100,
+          "moveXOctaves": 2,
+          "moveXDelay": -2.51,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": 6.1,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "e": {
+      "rootBoneName": "e",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 100,
+          "moveXOctaves": 2,
+          "moveXDelay": 1.73,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": -3.43,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "b": {
+      "rootBoneName": "b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 100,
+          "moveXOctaves": 2,
+          "moveXDelay": 0.01,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": -4.79,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "a": {
+      "rootBoneName": "a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 7,
+          "moveXAmp": 100,
+          "moveXOctaves": 2,
+          "moveXDelay": 4.4,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 0,
+          "moveYDelay": -2.93,
+          "moveYCenter": 0
+        }
+      }
+    },
+    "cb_a": {
+      "rootBoneName": "cb_a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 5,
+          "moveXOctaves": 2,
+          "moveXDelay": -2.08,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 2,
+          "moveYDelay": -2.08,
+          "moveYCenter": 0,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 1,
+          "scaleXDelay": -1.35,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "cb_b": {
+      "rootBoneName": "cb_b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 1,
+          "rotateRange": 6,
+          "rotateOffset": 2.03,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    },
+    "cb_a_h": {
+      "rootBoneName": "cb_a_h",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 5,
+          "moveXOctaves": 2,
+          "moveXDelay": 3.89,
+          "moveXCenter": 0,
+          "moveYFreq": 1,
+          "moveYAmp": 0,
+          "moveYOctaves": 2,
+          "moveYDelay": 3.89,
+          "moveYCenter": 0,
+          "scaleXFreq": 2,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 1,
+          "scaleXDelay": 2.09,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
