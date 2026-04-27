@@ -1,0 +1,12 @@
+role_bg_yl.png
+size:110,250
+filter:Linear,Linear
+yl_a
+bounds:2,141,106,107
+offsets:2,2,110,111
+yl_b
+bounds:2,2,69,60
+offsets:2,2,73,64
+yl_c
+bounds:2,64,86,75
+offsets:2,2,90,79

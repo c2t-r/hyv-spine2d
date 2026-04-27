@@ -1,0 +1,149 @@
+{
+  "skeleton": {
+    "hash": "piikQwP1nCs",
+    "spine": "4.2.32",
+    "x": -787.5,
+    "y": -204.5,
+    "width": 1575,
+    "height": 694
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "nilu_a",
+      "parent": "root",
+      "x": -90,
+      "y": 456.8
+    },
+    {
+      "name": "nilu_b",
+      "parent": "root",
+      "x": -765.28,
+      "y": 16.22
+    },
+    {
+      "name": "nilu_c",
+      "parent": "root",
+      "x": 763.36,
+      "y": -181.42
+    }
+  ],
+  "slots": [
+    {
+      "name": "nilu_c",
+      "bone": "nilu_c",
+      "attachment": "nilu_c"
+    },
+    {
+      "name": "nilu_b",
+      "bone": "nilu_b",
+      "attachment": "nilu_b"
+    },
+    {
+      "name": "nilu_a",
+      "bone": "nilu_a",
+      "attachment": "nilu_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "nilu_a": {
+          "nilu_a": {
+            "y": 2.2,
+            "width": 47,
+            "height": 61
+          }
+        },
+        "nilu_b": {
+          "nilu_b": {
+            "x": 1.78,
+            "y": 3.78,
+            "width": 48,
+            "height": 63
+          }
+        },
+        "nilu_c": {
+          "nilu_c": {
+            "x": 0.14,
+            "y": 8.42,
+            "width": 48,
+            "height": 63
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "nilu_a": {
+      "rootBoneName": "nilu_a",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 9418,
+          "rotateSpeed": 0.05
+        }
+      }
+    },
+    "nilu_b": {
+      "rootBoneName": "nilu_b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": -5.5158212383115215,
+          "moveXCenter": 0,
+          "moveXSeed": 9395.749896118685,
+          "rotateSpeed": 0.05
+        }
+      }
+    },
+    "nilu_c": {
+      "rootBoneName": "nilu_c",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 20,
+          "moveXOctaves": 0,
+          "moveXDelay": 3.0289439169309507,
+          "moveXCenter": 0,
+          "moveXSeed": 9390.877625395051,
+          "rotateSpeed": 0.05
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

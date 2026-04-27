@@ -1,0 +1,222 @@
+{
+  "skeleton": {
+    "hash": "mejaWIf7zxI",
+    "spine": "4.2.33",
+    "x": -39,
+    "y": -111.5,
+    "width": 78,
+    "height": 223,
+    "images": "./other_top/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "y": 379.41
+    },
+    {
+      "name": "other_top_a",
+      "parent": "bone",
+      "length": 99.16,
+      "rotation": -90,
+      "x": 3.94,
+      "y": -99.35
+    },
+    {
+      "name": "other_top_a3",
+      "parent": "other_top_a",
+      "length": 99.16,
+      "x": 99.16
+    },
+    {
+      "name": "other_top_a4",
+      "parent": "other_top_a3",
+      "length": 99.16,
+      "x": 99.16
+    },
+    {
+      "name": "other_top_a2",
+      "parent": "other_top_a4",
+      "length": 91.25,
+      "x": 99.16
+    }
+  ],
+  "slots": [
+    {
+      "name": "other_top_b",
+      "bone": "root",
+      "attachment": "other_top_b"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "other_top_b": {
+          "other_top_b": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0.66667,
+              0,
+              0.33333,
+              0,
+              0,
+              1,
+              0,
+              1,
+              0.33333,
+              1,
+              0.66667
+            ],
+            "triangles": [
+              0,
+              1,
+              7,
+              1,
+              2,
+              7,
+              7,
+              2,
+              6,
+              2,
+              3,
+              6,
+              6,
+              3,
+              5,
+              3,
+              4,
+              5
+            ],
+            "vertices": [
+              1,
+              5,
+              94.06,
+              35.06,
+              1,
+              1,
+              5,
+              94.06,
+              -42.94,
+              1,
+              2,
+              4,
+              118.89,
+              -42.94,
+              0.04984,
+              5,
+              19.73,
+              -42.94,
+              0.95016,
+              3,
+              3,
+              143.72,
+              -42.94,
+              0.01696,
+              4,
+              44.56,
+              -42.94,
+              0.96252,
+              5,
+              -54.6,
+              -42.94,
+              0.02052,
+              2,
+              3,
+              69.39,
+              -42.94,
+              0.92853,
+              4,
+              -29.77,
+              -42.94,
+              0.07147,
+              1,
+              3,
+              69.39,
+              35.06,
+              1,
+              2,
+              3,
+              143.72,
+              35.06,
+              0.05186,
+              4,
+              44.56,
+              35.06,
+              0.94814,
+              2,
+              4,
+              118.89,
+              35.06,
+              0.0962,
+              5,
+              19.73,
+              35.06,
+              0.9038
+            ],
+            "hull": 8,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              6,
+              8,
+              8,
+              10,
+              10,
+              12,
+              12,
+              14,
+              14,
+              0
+            ],
+            "width": 78,
+            "height": 223
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "bone": {
+      "rootBoneName": "bone",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 1,
+          "rotateCenter": 0,
+          "rotateTime": 3,
+          "rotateRange": 2,
+          "rotateOffset": 0,
+          "childOffset": 0.25,
+          "spring": 0,
+          "affectByLevel": 0.1,
+          "springLevel": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

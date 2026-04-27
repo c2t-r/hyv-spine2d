@@ -1,0 +1,15 @@
+role_bg_nl.png
+size:183,48
+filter:Linear,Linear
+nilu_a
+bounds:2,3,43,57
+offsets:2,2,47,61
+rotate:90
+nilu_b
+bounds:61,2,44,59
+offsets:2,2,48,63
+rotate:90
+nilu_c
+bounds:122,2,44,59
+offsets:2,2,48,63
+rotate:90

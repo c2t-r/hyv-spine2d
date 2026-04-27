@@ -1,0 +1,195 @@
+{
+  "skeleton": {
+    "hash": "YcvvhnqDYY8",
+    "spine": "4.2.32",
+    "x": -758.5,
+    "y": -458,
+    "width": 1517,
+    "height": 916,
+    "images": "./role_bg/tex/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "xx_a",
+      "parent": "root",
+      "x": -222.96,
+      "y": 421.7
+    },
+    {
+      "name": "xx_b",
+      "parent": "root",
+      "x": -727.41,
+      "y": -32.49
+    },
+    {
+      "name": "xx_c",
+      "parent": "root",
+      "x": -461.91,
+      "y": -421.93
+    },
+    {
+      "name": "xx_d",
+      "parent": "root",
+      "x": 729.89,
+      "y": -314.43
+    }
+  ],
+  "slots": [
+    {
+      "name": "xx_d",
+      "bone": "xx_d",
+      "attachment": "xx_d"
+    },
+    {
+      "name": "xx_c",
+      "bone": "xx_c",
+      "attachment": "xx_c"
+    },
+    {
+      "name": "xx_b",
+      "bone": "xx_b",
+      "attachment": "xx_b"
+    },
+    {
+      "name": "xx_a",
+      "bone": "xx_a",
+      "attachment": "xx_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "xx_a": {
+          "xx_a": {
+            "x": -1.04,
+            "y": 0.8,
+            "width": 71,
+            "height": 71
+          }
+        },
+        "xx_b": {
+          "xx_b": {
+            "x": -0.09,
+            "y": 0.99,
+            "width": 62,
+            "height": 61
+          }
+        },
+        "xx_c": {
+          "xx_c": {
+            "x": -0.09,
+            "y": -5.57,
+            "width": 49,
+            "height": 61
+          }
+        },
+        "xx_d": {
+          "xx_d": {
+            "x": 0.11,
+            "y": 0.43,
+            "width": 57,
+            "height": 56
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "xx_a": {
+      "rootBoneName": "xx_a",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 8,
+          "moveXAmp": 30,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 1099,
+          "rotateSpeed": 0.1
+        }
+      }
+    },
+    "xx_b": {
+      "rootBoneName": "xx_b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 8,
+          "moveXAmp": 30,
+          "moveXOctaves": 0,
+          "moveXDelay": 0.7147986836951584,
+          "moveXCenter": 0,
+          "moveXSeed": 1101.4525318993506,
+          "rotateSpeed": 0.1
+        }
+      }
+    },
+    "xx_d": {
+      "rootBoneName": "xx_d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 8,
+          "moveXAmp": 30,
+          "moveXOctaves": 0,
+          "moveXDelay": -2.9245744564272833,
+          "moveXCenter": 0,
+          "moveXSeed": 1097.2914253310635,
+          "rotateSpeed": 0.1
+        }
+      }
+    },
+    "xx_c": {
+      "rootBoneName": "xx_c",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 40,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 7197,
+          "scaleXFreq": 0.3,
+          "scaleXAmp": 0.1,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

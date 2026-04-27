@@ -1,0 +1,15 @@
+role_bg_xingxing.png
+size:245,73
+filter:Linear,Linear
+xx_a
+bounds:2,2,69,69
+offsets:1,1,71,71
+xx_b
+bounds:75,12,59,59
+offsets:2,1,62,61
+xx_c
+bounds:196,12,47,59
+offsets:1,1,49,61
+xx_d
+bounds:138,17,54,54
+offsets:1,1,57,56

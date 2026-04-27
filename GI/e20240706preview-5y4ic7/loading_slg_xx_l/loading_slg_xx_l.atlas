@@ -1,0 +1,13 @@
+loading_slg_xx_l.png
+size:228,344
+filter:Linear,Linear
+scale:0.8
+a
+bounds:125,22,55,81
+offsets:0,1,55,82
+b
+bounds:1,105,226,238
+offsets:14,0,240,238
+c
+bounds:1,1,102,122
+rotate:90
