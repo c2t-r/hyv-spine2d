@@ -1,0 +1,134 @@
+{
+  "skeleton": {
+    "hash": "WCBInEMOx4o",
+    "spine": "4.2.43",
+    "x": -228,
+    "y": -360,
+    "width": 456,
+    "height": 720
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "main_d_dianxin",
+      "parent": "root",
+      "length": 204.61,
+      "rotation": 83.63,
+      "x": 22.9,
+      "y": -52.55
+    },
+    {
+      "name": "main_st_b",
+      "parent": "root",
+      "x": 189.16,
+      "y": -28.54
+    }
+  ],
+  "slots": [
+    {
+      "name": "main_d_dianxin",
+      "bone": "main_d_dianxin",
+      "attachment": "main_d_dianxin"
+    },
+    {
+      "name": "main_st_b",
+      "bone": "main_st_b",
+      "attachment": "main_st_b"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "main_d_dianxin": {
+          "main_d_dianxin": {
+            "x": 49.13,
+            "y": 33.56,
+            "rotation": -83.63,
+            "width": 446,
+            "height": 720
+          }
+        },
+        "main_st_b": {
+          "main_st_b": {
+            "x": 0.34,
+            "y": 0.04,
+            "width": 77,
+            "height": 99
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "main_d_dianxin": {
+      "rootBoneName": "main_d_dianxin",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 5,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 6,
+          "moveYAmp": 15,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "scaleXFreq": 10,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0,
+          "rotateFreq": 6,
+          "rotateAmp": 2,
+          "rotateOctaves": 0,
+          "rotateDelay": 5
+        }
+      }
+    },
+    "main_st_b": {
+      "rootBoneName": "main_st_b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 3,
+          "moveXAmp": 10,
+          "moveXOctaves": 1,
+          "moveXDelay": 4.199067782246261,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 15,
+          "moveYOctaves": 0,
+          "moveYDelay": 0.6845099168630091,
+          "moveYCenter": 0,
+          "scaleXFreq": 0.6,
+          "scaleXAmp": 0.15,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 5.961922176774528,
+          "scaleXCenter": -0.15
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

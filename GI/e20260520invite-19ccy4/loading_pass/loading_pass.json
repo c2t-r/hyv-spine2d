@@ -1,0 +1,645 @@
+{
+  "skeleton": {
+    "hash": "8bz4V6IC2zY",
+    "spine": "4.2.43",
+    "x": -1165.79,
+    "y": -349.77,
+    "width": 1982.22,
+    "height": 704.21
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "pass",
+      "parent": "root",
+      "x": -1.48,
+      "y": 1.05
+    },
+    {
+      "name": "p_e",
+      "parent": "root",
+      "x": -1108.37,
+      "y": -27.36
+    },
+    {
+      "name": "p_b",
+      "parent": "root",
+      "x": -1023.85,
+      "y": -110.87
+    },
+    {
+      "name": "p_d",
+      "parent": "root",
+      "x": -667.67,
+      "y": -316.13
+    },
+    {
+      "name": "p_c",
+      "parent": "root",
+      "x": 728.26,
+      "y": 19.54
+    },
+    {
+      "name": "p_a",
+      "parent": "root",
+      "x": 627.65,
+      "y": 238.88
+    }
+  ],
+  "slots": [
+    {
+      "name": "p_b",
+      "bone": "p_b",
+      "attachment": "p_b"
+    },
+    {
+      "name": "p_c",
+      "bone": "p_c",
+      "attachment": "p_c"
+    },
+    {
+      "name": "p_d",
+      "bone": "p_d",
+      "attachment": "p_d"
+    },
+    {
+      "name": "p_e",
+      "bone": "p_e",
+      "attachment": "p_e"
+    },
+    {
+      "name": "p_a",
+      "bone": "p_a",
+      "attachment": "p_a"
+    },
+    {
+      "name": "pass",
+      "bone": "pass",
+      "attachment": "p_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "pass": {
+          "p_a": {
+            "x": 0.71,
+            "y": 1.9,
+            "width": 286,
+            "height": 213
+          }
+        },
+        "p_a": {
+          "p_a": {
+            "x": 1.01,
+            "y": 9.06,
+            "width": 286,
+            "height": 213
+          }
+        },
+        "p_b": {
+          "p_b": {
+            "x": 1.09,
+            "y": -0.67,
+            "width": 61,
+            "height": 44
+          }
+        },
+        "p_c": {
+          "p_c": {
+            "x": -2.33,
+            "y": -7.33,
+            "width": 181,
+            "height": 106
+          }
+        },
+        "p_d": {
+          "p_d": {
+            "x": 1.09,
+            "y": 3.35,
+            "width": 141,
+            "height": 74
+          }
+        },
+        "p_e": {
+          "p_e": {
+            "x": 0.08,
+            "y": -6.71,
+            "width": 115,
+            "height": 77
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "0": {
+      "slots": {
+        "pass": {
+          "attachment": [
+            {}
+          ]
+        },
+        "p_a": {
+          "attachment": [
+            {}
+          ]
+        },
+        "p_b": {
+          "attachment": [
+            {}
+          ]
+        },
+        "p_c": {
+          "attachment": [
+            {}
+          ]
+        },
+        "p_d": {
+          "attachment": [
+            {}
+          ]
+        },
+        "p_e": {
+          "attachment": [
+            {}
+          ]
+        }
+      },
+      "bones": {
+        "pass": {
+          "rotate": [
+            {
+              "value": -141.23
+            }
+          ],
+          "translatex": [
+            {
+              "value": -1790.23
+            }
+          ],
+          "translatey": [
+            {
+              "value": 654.38
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.923,
+              "y": 1.923
+            }
+          ]
+        },
+        "p_a": {
+          "rotate": [
+            {
+              "value": 420.84
+            }
+          ],
+          "translatex": [
+            {
+              "value": -774.19
+            }
+          ],
+          "translatey": [
+            {
+              "value": -419.72
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.682,
+              "y": 0.682
+            }
+          ]
+        },
+        "p_c": {
+          "translatex": [
+            {
+              "value": -296.27
+            }
+          ],
+          "translatey": [
+            {
+              "value": -178.12
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.621,
+              "y": 0.621
+            }
+          ]
+        }
+      }
+    },
+    "animation": {
+      "slots": {
+        "pass": {
+          "attachment": [
+            {
+              "time": 0.9333
+            }
+          ]
+        },
+        "p_a": {
+          "attachment": [
+            {},
+            {
+              "time": 0.6667,
+              "name": "p_a"
+            },
+            {
+              "time": 1.9
+            }
+          ]
+        },
+        "p_b": {
+          "attachment": [
+            {},
+            {
+              "time": 0.6,
+              "name": "p_b"
+            },
+            {
+              "time": 2.2
+            }
+          ]
+        },
+        "p_c": {
+          "attachment": [
+            {},
+            {
+              "time": 0.6667,
+              "name": "p_c"
+            },
+            {
+              "time": 2.3
+            }
+          ]
+        },
+        "p_d": {
+          "attachment": [
+            {},
+            {
+              "time": 0.6,
+              "name": "p_d"
+            },
+            {
+              "time": 2.3667
+            }
+          ]
+        },
+        "p_e": {
+          "attachment": [
+            {},
+            {
+              "time": 0.6,
+              "name": "p_e"
+            },
+            {
+              "time": 2.5333
+            }
+          ]
+        }
+      },
+      "bones": {
+        "pass": {
+          "rotate": [
+            {
+              "value": -141.23,
+              "curve": [
+                0.312,
+                -141.23,
+                0.621,
+                63.89
+              ]
+            },
+            {
+              "time": 0.9333,
+              "value": 63.89
+            }
+          ],
+          "translatex": [
+            {
+              "value": -1790.23,
+              "curve": [
+                0.201,
+                -1382.31,
+                0.4,
+                -1031.12
+              ]
+            },
+            {
+              "time": 0.6,
+              "value": 74.19,
+              "curve": [
+                0.711,
+                688.25,
+                0.846,
+                2596.71
+              ]
+            },
+            {
+              "time": 0.9333,
+              "value": 3367.86
+            }
+          ],
+          "translatey": [
+            {
+              "value": 654.38
+            },
+            {
+              "time": 0.5,
+              "value": -43.09
+            },
+            {
+              "time": 0.6,
+              "value": -12.66
+            },
+            {
+              "time": 0.9333,
+              "value": -757.5
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.923,
+              "y": 1.923
+            },
+            {
+              "time": 0.6667,
+              "x": 18.164,
+              "y": 18.164
+            }
+          ]
+        },
+        "p_a": {
+          "rotate": [
+            {
+              "value": 420.84,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": 420.84
+            },
+            {
+              "time": 1.9,
+              "value": 95.65
+            }
+          ],
+          "translatex": [
+            {
+              "value": -774.19,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -774.19
+            },
+            {
+              "time": 1.9,
+              "value": 645.95
+            }
+          ],
+          "translatey": [
+            {
+              "value": -419.72,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -419.72,
+              "curve": [
+                1.078,
+                -419.72,
+                1.554,
+                251.08
+              ]
+            },
+            {
+              "time": 1.9,
+              "value": 554.39
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.682,
+              "y": 0.682,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 0.682,
+              "y": 0.682
+            },
+            {
+              "time": 1.9
+            }
+          ]
+        },
+        "p_c": {
+          "rotate": [
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 2.3,
+              "value": 234.03
+            }
+          ],
+          "translatex": [
+            {
+              "value": -296.27,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -296.27
+            },
+            {
+              "time": 2.3,
+              "value": 601.68
+            }
+          ],
+          "translatey": [
+            {
+              "value": -178.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": -178.12,
+              "curve": [
+                1.202,
+                -111.15,
+                1.895,
+                319.46
+              ]
+            },
+            {
+              "time": 2.3,
+              "value": 382.34
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.621,
+              "y": 0.621,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 0.621,
+              "y": 0.621
+            },
+            {
+              "time": 2.3
+            }
+          ]
+        },
+        "p_e": {
+          "rotate": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.5333,
+              "value": -425.32
+            }
+          ],
+          "translatex": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.5333,
+              "value": 970.37
+            }
+          ],
+          "translatey": [
+            {
+              "time": 0.6,
+              "curve": [
+                1.115,
+                -317.72,
+                1.889,
+                -692.51
+              ]
+            },
+            {
+              "time": 2.5333,
+              "value": -692.51
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.5333,
+              "x": 1.67,
+              "y": 1.67
+            }
+          ]
+        },
+        "p_b": {
+          "rotate": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.2,
+              "value": 377.96
+            }
+          ],
+          "translatex": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.2,
+              "value": 833.58
+            }
+          ],
+          "translatey": [
+            {
+              "time": 0.6,
+              "curve": [
+                1.065,
+                -216.36,
+                1.667,
+                -474.5
+              ]
+            },
+            {
+              "time": 2.2,
+              "value": -474.5
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.2,
+              "x": 1.67,
+              "y": 1.67
+            }
+          ]
+        },
+        "p_d": {
+          "rotate": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.3667,
+              "value": -516.26
+            }
+          ],
+          "translatex": [
+            {
+              "time": 0.6,
+              "value": -153.89
+            },
+            {
+              "time": 2.3667,
+              "value": 1060.14
+            }
+          ],
+          "translatey": [
+            {
+              "time": 0.6,
+              "value": 62.7,
+              "curve": [
+                1.18,
+                -182.65,
+                1.778,
+                -374.75
+              ]
+            },
+            {
+              "time": 2.3667,
+              "value": -374.75
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.6
+            },
+            {
+              "time": 2.3667,
+              "x": 1.67,
+              "y": 1.67
+            }
+          ]
+        }
+      }
+    }
+  }
+}

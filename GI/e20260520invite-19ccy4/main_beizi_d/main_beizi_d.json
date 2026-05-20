@@ -1,0 +1,169 @@
+{
+  "skeleton": {
+    "hash": "3YwrhRLGPTQ",
+    "spine": "4.2.43",
+    "x": -101,
+    "y": -93.5,
+    "width": 202,
+    "height": 186.25
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "水_a",
+      "parent": "root",
+      "x": -17.75,
+      "y": 39.2
+    },
+    {
+      "name": "t",
+      "parent": "水_a",
+      "length": 20.42,
+      "rotation": 98.84,
+      "x": -3.59,
+      "y": 9.78
+    }
+  ],
+  "slots": [
+    {
+      "name": "茶杯_b",
+      "bone": "root",
+      "attachment": "茶杯_b"
+    },
+    {
+      "name": "水_c",
+      "bone": "水_a",
+      "attachment": "水_c"
+    },
+    {
+      "name": "t",
+      "bone": "t",
+      "attachment": "t"
+    },
+    {
+      "name": "水_a",
+      "bone": "水_a",
+      "attachment": "水_a"
+    },
+    {
+      "name": "茶杯_a",
+      "bone": "root",
+      "attachment": "茶杯_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "t": {
+          "t": {
+            "x": 11.7,
+            "y": 1.89,
+            "rotation": -98.84,
+            "width": 68,
+            "height": 65
+          }
+        },
+        "水_a": {
+          "水_a": {
+            "x": 1.25,
+            "y": -3.7,
+            "width": 123,
+            "height": 64
+          }
+        },
+        "水_c": {
+          "水_c": {
+            "x": 1.25,
+            "y": -1.2,
+            "width": 123,
+            "height": 69
+          }
+        },
+        "茶杯_a": {
+          "茶杯_a": {
+            "y": -2,
+            "width": 202,
+            "height": 161
+          }
+        },
+        "茶杯_b": {
+          "茶杯_b": {
+            "x": -19.5,
+            "y": -1,
+            "width": 163,
+            "height": 185
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "水_a": {
+          "translate": [
+            {
+              "time": 2.9333,
+              "x": -0.15,
+              "y": 0.15
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "t": {
+      "rootBoneName": "t",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 5,
+          "moveXAmp": 3,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveYFreq": 3,
+          "moveYAmp": 3,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": -2,
+          "rotateFreq": 3,
+          "rotateAmp": 5,
+          "rotateOctaves": 1.5,
+          "rotateDelay": 0
+        }
+      }
+    },
+    "水_a": {
+      "rootBoneName": "水_a",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 3,
+          "moveYAmp": 2,
+          "moveYOctaves": 0,
+          "moveYDelay": 1.8,
+          "moveYCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

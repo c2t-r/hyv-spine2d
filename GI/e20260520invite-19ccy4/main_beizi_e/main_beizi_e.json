@@ -1,0 +1,174 @@
+{
+  "skeleton": {
+    "hash": "OS0a6gSQbEs",
+    "spine": "4.2.43",
+    "x": -136.5,
+    "y": -118.5,
+    "width": 273,
+    "height": 237
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "茶杯_d",
+      "parent": "root",
+      "length": 53.81,
+      "rotation": -96.09,
+      "x": 8.65,
+      "y": 38.34
+    },
+    {
+      "name": "茶杯_b",
+      "parent": "茶杯_d",
+      "length": 23.17,
+      "x": -25.01,
+      "y": -0.51
+    },
+    {
+      "name": "茶杯_b2",
+      "parent": "茶杯_b",
+      "x": -1.44,
+      "y": 3.72
+    }
+  ],
+  "slots": [
+    {
+      "name": "方糖盘子",
+      "bone": "root",
+      "attachment": "方糖盘子"
+    },
+    {
+      "name": "茶杯_d",
+      "bone": "茶杯_d",
+      "attachment": "茶杯_d"
+    },
+    {
+      "name": "茶杯_c",
+      "bone": "茶杯_b",
+      "attachment": "茶杯_c"
+    },
+    {
+      "name": "茶杯_b",
+      "bone": "茶杯_b2",
+      "attachment": "茶杯_b"
+    },
+    {
+      "name": "茶杯_a",
+      "bone": "茶杯_d",
+      "attachment": "茶杯_a"
+    }
+  ],
+  "physics": [
+    {
+      "name": "茶杯_b",
+      "bone": "茶杯_b",
+      "x": 0.3522,
+      "y": 0.3559,
+      "rotate": 1,
+      "inertia": 0.5,
+      "strength": 75.2,
+      "damping": 0.85
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "方糖盘子": {
+          "方糖盘子": {
+            "y": -58,
+            "width": 273,
+            "height": 121
+          }
+        },
+        "茶杯_a": {
+          "茶杯_a": {
+            "x": -0.38,
+            "y": 20.92,
+            "rotation": 96.09,
+            "width": 192,
+            "height": 148
+          }
+        },
+        "茶杯_b": {
+          "茶杯_b": {
+            "x": -0.29,
+            "y": 0.83,
+            "rotation": 96.09,
+            "width": 82,
+            "height": 38
+          }
+        },
+        "茶杯_c": {
+          "茶杯_c": {
+            "x": 2.74,
+            "y": 5.02,
+            "rotation": 96.09,
+            "width": 122,
+            "height": 65
+          }
+        },
+        "茶杯_d": {
+          "茶杯_d": {
+            "x": -2.82,
+            "y": 6.08,
+            "rotation": 96.09,
+            "width": 163,
+            "height": 156
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "茶杯_d": {
+      "rootBoneName": "茶杯_d",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 4,
+          "moveYAmp": 10,
+          "moveYOctaves": 0,
+          "moveYDelay": 0,
+          "moveYCenter": 0,
+          "rotateFreq": 4,
+          "rotateAmp": 5,
+          "rotateOctaves": 0,
+          "rotateDelay": 1.8
+        }
+      }
+    },
+    "茶杯_b2": {
+      "rootBoneName": "茶杯_b2",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 3,
+          "scaleXAmp": 0.2,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

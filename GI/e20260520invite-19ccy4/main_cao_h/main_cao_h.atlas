@@ -1,0 +1,17 @@
+main_cao_h.png
+size:116,138
+filter:Linear,Linear
+t_a
+bounds:69,10,66,47
+rotate:270
+t_b
+bounds:0,0,27,63
+rotate:90
+t_c
+bounds:0,86,7,52
+t_d
+bounds:0,33,37,87
+rotate:90
+t_e
+bounds:7,76,62,66
+rotate:270

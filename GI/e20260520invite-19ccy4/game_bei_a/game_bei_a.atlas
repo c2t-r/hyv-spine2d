@@ -1,0 +1,28 @@
+game_bei_a.png
+size:1223,308
+filter:Linear,Linear
+click
+bounds:0,0,324,308
+offsets:10,10,344,328
+jp_a
+bounds:1125,79,98,103
+offsets:10,10,118,123
+jp_b
+bounds:1125,188,94,120
+offsets:10,10,114,140
+la_b
+bounds:771,0,228,201
+offsets:10,10,248,221
+rotate:90
+lb_b
+bounds:548,0,264,217
+offsets:10,10,292,237
+rotate:90
+图层 506
+bounds:330,0,294,212
+offsets:10,10,314,232
+rotate:90
+图层 798
+bounds:978,0,229,141
+offsets:10,10,249,161
+rotate:90

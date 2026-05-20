@@ -1,0 +1,14 @@
+main_d_book_xfl.png
+size:713,252
+filter:Linear,Linear
+书_a
+bounds:424,6,202,289
+offsets:6,0,215,293
+rotate:270
+书_b
+bounds:251,0,252,215
+offsets:1,5,255,225
+rotate:90
+书_c
+bounds:0,2,245,250
+offsets:10,10,265,270

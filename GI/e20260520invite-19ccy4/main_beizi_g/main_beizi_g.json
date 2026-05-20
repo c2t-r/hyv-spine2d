@@ -1,0 +1,77 @@
+{
+  "skeleton": {
+    "hash": "f5pgHqnLDqg",
+    "spine": "4.2.43",
+    "x": -75.5,
+    "y": -76,
+    "width": 151,
+    "height": 152
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "main_beizi_g",
+      "parent": "root",
+      "length": 68.24,
+      "rotation": -52.94,
+      "x": -5.21,
+      "y": -5.86
+    }
+  ],
+  "slots": [
+    {
+      "name": "main_beizi_g",
+      "bone": "main_beizi_g",
+      "attachment": "main_beizi_g"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "main_beizi_g": {
+          "main_beizi_g": {
+            "x": -1.54,
+            "y": 7.69,
+            "rotation": 52.94,
+            "width": 151,
+            "height": 152
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "main_beizi_g": {
+      "rootBoneName": "main_beizi_g",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 4,
+          "moveYAmp": 20,
+          "moveYOctaves": 0,
+          "moveYDelay": 2.5,
+          "moveYCenter": 0,
+          "rotateFreq": 4,
+          "rotateAmp": 5,
+          "rotateOctaves": 0,
+          "rotateDelay": 4.5
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
