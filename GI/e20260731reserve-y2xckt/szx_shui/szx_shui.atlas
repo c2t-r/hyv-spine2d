@@ -1,0 +1,11 @@
+szx_shui.png
+size:644,327
+filter:Linear,Linear
+scale:0.25
+a_A
+bounds:470,37,174,290
+offsets:2,2,178,294
+a_B
+bounds:0,0,327,468
+offsets:2,2,331,472
+rotate:90

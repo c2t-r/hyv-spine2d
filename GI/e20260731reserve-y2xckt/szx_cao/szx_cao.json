@@ -1,0 +1,141 @@
+{
+  "skeleton": {
+    "hash": "z9bkrC8SEg8",
+    "spine": "4.2.43",
+    "x": -106.3,
+    "y": -128,
+    "width": 212.6,
+    "height": 256
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.2,
+      "scaleY": 0.2
+    },
+    {
+      "name": "a_B",
+      "parent": "root",
+      "length": 471.35,
+      "rotation": 125.2,
+      "x": -25.78,
+      "y": 25.64
+    }
+  ],
+  "slots": [
+    {
+      "name": "a_B",
+      "bone": "a_B",
+      "attachment": "a_B"
+    },
+    {
+      "name": "a_A",
+      "bone": "a_B",
+      "attachment": "a_A"
+    },
+    {
+      "name": "a_B2",
+      "bone": "a_B",
+      "color": "ffffff00",
+      "attachment": "a_B",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "a_A": {
+          "a_A": {
+            "x": 57.71,
+            "y": 4.85,
+            "rotation": -125.2,
+            "width": 811,
+            "height": 966
+          }
+        },
+        "a_B": {
+          "a_B": {
+            "x": -35.81,
+            "y": -6.29,
+            "rotation": -125.2,
+            "width": 1063,
+            "height": 1280
+          }
+        },
+        "a_B2": {
+          "a_B": {
+            "x": -35.81,
+            "y": -6.29,
+            "rotation": -125.2,
+            "width": 1063,
+            "height": 1280
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "a_B": {
+      "rootBoneName": "a_B",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveYFreq": 5,
+          "moveYAmp": 40,
+          "moveYOctaves": 0,
+          "moveYDelay": 1,
+          "moveYCenter": 0,
+          "scaleXFreq": 5,
+          "scaleXAmp": 0.03,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -33,
+          "scaleXCenter": 0,
+          "rotateFreq": 5,
+          "rotateAmp": 4,
+          "rotateOctaves": 0,
+          "rotateDelay": 3
+        }
+      }
+    }
+  },
+  "extraSlot": {
+    "a_B2": {
+      "slotName": "a_B2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 3,
+          "delay": 0,
+          "min": 0.05,
+          "max": 0.15
+        }
+      }
+    },
+    "a_B": {
+      "slotName": "a_B",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 3,
+          "delay": 0.25,
+          "min": 0.8,
+          "max": 1
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,11 @@
+szx_bing.png
+size:413,234
+filter:Linear,Linear
+scale:0.25
+a_A
+bounds:247,27,166,207
+offsets:2,2,170,211
+a_B
+bounds:0,0,234,245
+offsets:2,2,238,253
+rotate:90

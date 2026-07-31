@@ -1,0 +1,13 @@
+szx6_sp_b.png
+size:516,313
+filter:Linear,Linear
+scale:0.2
+a_a
+bounds:466,175,28,30
+offsets:1,1,30,32
+a_b
+bounds:466,207,106,50
+offsets:1,1,108,52
+rotate:90
+a_c
+bounds:0,0,464,313

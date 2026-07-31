@@ -1,0 +1,11 @@
+szx_yan.png
+size:642,329
+filter:Linear,Linear
+scale:0.25
+a_A
+bounds:476,0,166,329
+offsets:2,2,170,333
+a_B
+bounds:0,7,322,474
+offsets:2,2,326,478
+rotate:90

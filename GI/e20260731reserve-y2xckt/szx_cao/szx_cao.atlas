@@ -1,0 +1,11 @@
+szx_cao.png
+size:517,262
+filter:Linear,Linear
+scale:0.25
+a_A
+bounds:318,24,199,238
+offsets:2,2,203,242
+a_B
+bounds:0,0,262,316
+offsets:2,2,266,320
+rotate:90

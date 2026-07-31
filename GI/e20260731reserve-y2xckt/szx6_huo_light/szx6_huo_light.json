@@ -1,0 +1,89 @@
+{
+  "skeleton": {
+    "hash": "kq2Jzgk8SOw",
+    "spine": "4.2.43",
+    "x": -262.5,
+    "y": -352,
+    "width": 525,
+    "height": 704
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "szx6_huo_light",
+      "bone": "root",
+      "attachment": "szx6_huo_light"
+    },
+    {
+      "name": "szx6_huo_light2",
+      "bone": "root",
+      "color": "ffffff71",
+      "attachment": "szx6_huo_light",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "a",
+      "attachments": {
+        "szx6_huo_light": {
+          "szx6_huo_light": {
+            "width": 525,
+            "height": 704
+          }
+        }
+      }
+    },
+    {
+      "name": "light",
+      "attachments": {
+        "szx6_huo_light2": {
+          "szx6_huo_light": {
+            "name": "szx6_huo_light2",
+            "path": "szx6_huo_light",
+            "width": 525,
+            "height": 704
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {},
+  "extraSlot": {
+    "szx6_huo_light": {
+      "slotName": "szx6_huo_light",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": 0,
+          "min": 0.95,
+          "max": 1
+        }
+      }
+    },
+    "szx6_huo_light2": {
+      "slotName": "szx6_huo_light2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 1,
+          "blinkTime": 2,
+          "delay": 0.25,
+          "max": 0.05
+        }
+      }
+    }
+  },
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

@@ -1,0 +1,13 @@
+szx5_shui.png
+size:1409,568
+filter:Linear,Linear
+a_a
+bounds:605,67,401,501
+offsets:5,5,411,511
+a_b
+bounds:1008,67,401,501
+offsets:5,5,411,511
+ll_a
+bounds:0,0,568,603
+offsets:5,5,578,613
+rotate:90

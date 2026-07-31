@@ -1,0 +1,13 @@
+szx2_yan.png
+size:1168,477
+filter:Linear,Linear
+aa
+bounds:688,0,239,477
+offsets:5,5,249,487
+ab
+bounds:929,0,239,477
+offsets:5,5,249,487
+light_a
+bounds:0,11,466,686
+offsets:5,5,476,696
+rotate:90

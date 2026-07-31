@@ -1,0 +1,13 @@
+szx4_cao.png
+size:1459,534
+filter:Linear,Linear
+a_a
+bounds:647,50,405,484
+offsets:5,5,415,494
+a_b
+bounds:1054,50,405,484
+offsets:5,5,415,494
+ll_a
+bounds:0,0,534,645
+offsets:5,5,544,655
+rotate:90

@@ -1,0 +1,16 @@
+yy_tree_r.png
+size:665,218
+filter:Linear,Linear
+a_a
+bounds:0,0,218,368
+rotate:90
+a_b
+bounds:370,23,101,195
+a_c
+bounds:473,18,98,131
+offsets:0,1,98,132
+rotate:90
+a_d
+bounds:473,118,100,192
+offsets:0,0,102,192
+rotate:90

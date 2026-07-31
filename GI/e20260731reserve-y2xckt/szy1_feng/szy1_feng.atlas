@@ -1,0 +1,15 @@
+szy1_feng.png
+size:1286,588
+filter:Linear,Linear
+aa
+bounds:795,295,293,491
+offsets:5,5,303,501
+rotate:90
+bb
+bounds:795,0,293,491
+offsets:5,5,303,501
+rotate:90
+cc
+bounds:0,34,554,793
+offsets:5,5,564,803
+rotate:90

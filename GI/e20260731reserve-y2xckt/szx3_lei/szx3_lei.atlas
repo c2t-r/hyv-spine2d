@@ -1,0 +1,12 @@
+szx3_lei.png
+size:1249,496
+filter:Linear,Linear
+a_a
+bounds:527,33,360,463
+offsets:5,5,370,473
+a_b
+bounds:889,33,360,463
+offsets:5,5,370,473
+light_a
+bounds:0,0,525,496
+offsets:5,5,535,506

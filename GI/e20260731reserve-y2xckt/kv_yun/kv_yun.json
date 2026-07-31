@@ -1,0 +1,291 @@
+{
+  "skeleton": {
+    "hash": "TKszjb6yTBU",
+    "spine": "4.2.43",
+    "x": -1264,
+    "y": -173.5,
+    "width": 2528,
+    "height": 347
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "kv_yun_f",
+      "parent": "root",
+      "x": 978.42,
+      "y": 7.79
+    },
+    {
+      "name": "kv_yun_d",
+      "parent": "root",
+      "x": 976.62,
+      "y": -68.08
+    },
+    {
+      "name": "kv_yun_e",
+      "parent": "root",
+      "x": 1112.99,
+      "y": -96.07
+    },
+    {
+      "name": "kv_yun_a",
+      "parent": "root",
+      "x": -878.47,
+      "y": -96.07
+    },
+    {
+      "name": "kv_yun_c",
+      "parent": "root",
+      "x": -1024.78,
+      "y": 90.88
+    },
+    {
+      "name": "kv_yun_b",
+      "parent": "root",
+      "x": -1203.6,
+      "y": 33.98
+    }
+  ],
+  "slots": [
+    {
+      "name": "kv_yun_f",
+      "bone": "kv_yun_f",
+      "attachment": "kv_yun_f"
+    },
+    {
+      "name": "kv_yun_e",
+      "bone": "kv_yun_e",
+      "attachment": "kv_yun_e"
+    },
+    {
+      "name": "kv_yun_d",
+      "bone": "kv_yun_d",
+      "attachment": "kv_yun_d"
+    },
+    {
+      "name": "kv_yun_c",
+      "bone": "kv_yun_c",
+      "attachment": "kv_yun_c"
+    },
+    {
+      "name": "kv_yun_b",
+      "bone": "kv_yun_b",
+      "attachment": "kv_yun_b"
+    },
+    {
+      "name": "kv_yun_a",
+      "bone": "kv_yun_a",
+      "attachment": "kv_yun_a"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "kv_yun_a": {
+          "kv_yun_a": {
+            "x": 64.47,
+            "y": 30.57,
+            "width": 648,
+            "height": 216
+          }
+        },
+        "kv_yun_b": {
+          "kv_yun_b": {
+            "x": 15.6,
+            "y": 2.02,
+            "width": 152,
+            "height": 67
+          }
+        },
+        "kv_yun_c": {
+          "kv_yun_c": {
+            "x": 38.78,
+            "y": -0.88,
+            "width": 390,
+            "height": 135
+          }
+        },
+        "kv_yun_d": {
+          "kv_yun_d": {
+            "x": -21.62,
+            "y": 8.58,
+            "width": 214,
+            "height": 64
+          }
+        },
+        "kv_yun_e": {
+          "kv_yun_e": {
+            "x": -20.99,
+            "y": 7.57,
+            "width": 342,
+            "height": 114
+          }
+        },
+        "kv_yun_f": {
+          "kv_yun_f": {
+            "x": 7.58,
+            "y": 13.21,
+            "width": 556,
+            "height": 305
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  },
+  "extra": {
+    "kv_yun_c": {
+      "rootBoneName": "kv_yun_c",
+      "animation": {
+        "default": {
+          "name": "",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 0,
+          "moveXCenter": 0,
+          "moveXSeed": 4308,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "kv_yun_b": {
+      "rootBoneName": "kv_yun_b",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 4.373814850113957,
+          "moveXCenter": 0,
+          "moveXSeed": 4303.1510055312065,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 3.852430743335354,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "kv_yun_a": {
+      "rootBoneName": "kv_yun_a",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 15,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": -2.5046957884916643,
+          "moveXCenter": 0,
+          "moveXSeed": 4307.0217240146,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": -1.2486250933030378,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "kv_yun_f": {
+      "rootBoneName": "kv_yun_f",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 15,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": -4.407805300891829,
+          "moveXCenter": 0,
+          "moveXSeed": 4305.578593819866,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 3.9031521150533384,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "kv_yun_e": {
+      "rootBoneName": "kv_yun_e",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 2.939651204631772,
+          "moveXCenter": 0,
+          "moveXSeed": 4302.787070752816,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 3.5473802538646746,
+          "scaleXCenter": 0
+        }
+      }
+    },
+    "kv_yun_d": {
+      "rootBoneName": "kv_yun_d",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "moveXFreq": 10,
+          "moveXAmp": 10,
+          "moveXOctaves": 0,
+          "moveXDelay": 3.307074502657805,
+          "moveXCenter": 0,
+          "moveXSeed": 4306.671403084205,
+          "scaleXFreq": 8,
+          "scaleXAmp": 0.05,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 3.2844531198020213,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}

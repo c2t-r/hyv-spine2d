@@ -1,0 +1,721 @@
+{
+  "skeleton": {
+    "hash": "bKID0gZ4zMk",
+    "spine": "4.2.43",
+    "x": -316,
+    "y": -315,
+    "width": 631,
+    "height": 632
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root"
+    },
+    {
+      "name": "bone2",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "b",
+      "bone": "bone",
+      "attachment": "b"
+    },
+    {
+      "name": "aa",
+      "bone": "bone2",
+      "attachment": "aa"
+    },
+    {
+      "name": "星_h",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_h",
+      "blend": "additive"
+    },
+    {
+      "name": "星_g",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_g",
+      "blend": "additive"
+    },
+    {
+      "name": "星_f",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_f",
+      "blend": "additive"
+    },
+    {
+      "name": "星_e",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_e",
+      "blend": "additive"
+    },
+    {
+      "name": "星_d",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_d",
+      "blend": "additive"
+    },
+    {
+      "name": "星_c",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_c",
+      "blend": "additive"
+    },
+    {
+      "name": "星_b",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_b",
+      "blend": "additive"
+    },
+    {
+      "name": "星_a",
+      "bone": "bone2",
+      "color": "ffffff00",
+      "attachment": "星_a",
+      "blend": "additive"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "aa": {
+          "aa": {
+            "x": -0.5,
+            "y": 0.5,
+            "width": 607,
+            "height": 607
+          }
+        },
+        "b": {
+          "b": {
+            "x": -0.5,
+            "y": 1.5,
+            "width": 523,
+            "height": 523
+          }
+        },
+        "星_a": {
+          "星_a": {
+            "y": 281.5,
+            "width": 60,
+            "height": 71
+          }
+        },
+        "星_b": {
+          "星_b": {
+            "x": 199,
+            "y": 200,
+            "width": 52,
+            "height": 52
+          }
+        },
+        "星_c": {
+          "星_c": {
+            "x": 280,
+            "y": 0.5,
+            "width": 70,
+            "height": 61
+          }
+        },
+        "星_d": {
+          "星_d": {
+            "x": 199,
+            "y": -197.5,
+            "width": 52,
+            "height": 51
+          }
+        },
+        "星_e": {
+          "星_e": {
+            "y": -280,
+            "width": 60,
+            "height": 70
+          }
+        },
+        "星_f": {
+          "星_f": {
+            "x": -199,
+            "y": -197.5,
+            "width": 52,
+            "height": 51
+          }
+        },
+        "星_g": {
+          "星_g": {
+            "x": -281,
+            "y": 0.5,
+            "width": 70,
+            "height": 61
+          }
+        },
+        "星_h": {
+          "星_h": {
+            "x": -198.5,
+            "y": 200,
+            "width": 51,
+            "height": 52
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "星_a": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": [
+                0.056,
+                0,
+                0.111,
+                0.73
+              ]
+            },
+            {
+              "time": 0.1667,
+              "value": 0.7328,
+              "curve": [
+                0.511,
+                0.73,
+                0.856,
+                0
+              ]
+            },
+            {
+              "time": 1.2,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.1333,
+              "value": 0,
+              "curve": [
+                3.2,
+                0,
+                3.267,
+                0.36
+              ]
+            },
+            {
+              "time": 3.3333,
+              "value": 0.3581,
+              "curve": [
+                3.596,
+                0.36,
+                3.837,
+                0
+              ]
+            },
+            {
+              "time": 4.1,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        },
+        "星_b": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "curve": [
+                2.056,
+                0,
+                2.111,
+                0.73
+              ]
+            },
+            {
+              "time": 2.1667,
+              "value": 0.7328,
+              "curve": [
+                2.511,
+                0.73,
+                2.856,
+                0
+              ]
+            },
+            {
+              "time": 3.2,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 4.6667,
+              "value": 0,
+              "curve": [
+                4.733,
+                0,
+                4.8,
+                0.36
+              ]
+            },
+            {
+              "time": 4.8667,
+              "value": 0.3581,
+              "curve": [
+                5.13,
+                0.36,
+                5.37,
+                0
+              ]
+            },
+            {
+              "time": 5.6333,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        },
+        "星_c": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.2667,
+              "value": 0,
+              "curve": [
+                1.333,
+                0,
+                1.4,
+                0.36
+              ]
+            },
+            {
+              "time": 1.4667,
+              "value": 0.3581,
+              "curve": [
+                1.73,
+                0.36,
+                1.97,
+                0
+              ]
+            },
+            {
+              "time": 2.2333,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.8333,
+              "value": 0,
+              "curve": [
+                3.889,
+                0,
+                3.944,
+                0.73
+              ]
+            },
+            {
+              "time": 4,
+              "value": 0.7328,
+              "curve": [
+                4.344,
+                0.73,
+                4.689,
+                0
+              ]
+            },
+            {
+              "time": 5.0333,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        },
+        "星_d": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.4,
+              "value": 0,
+              "curve": [
+                2.456,
+                0,
+                2.511,
+                0.73
+              ]
+            },
+            {
+              "time": 2.5667,
+              "value": 0.7328,
+              "curve": [
+                2.911,
+                0.73,
+                3.256,
+                0
+              ]
+            },
+            {
+              "time": 3.6,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 4.8,
+              "value": 0,
+              "curve": [
+                4.867,
+                0,
+                4.933,
+                0.36
+              ]
+            },
+            {
+              "time": 5,
+              "value": 0.3581,
+              "curve": [
+                5.263,
+                0.36,
+                5.504,
+                0
+              ]
+            },
+            {
+              "time": 5.7667,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        },
+        "星_e": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8,
+              "value": 0,
+              "curve": [
+                0.856,
+                0,
+                0.911,
+                0.73
+              ]
+            },
+            {
+              "time": 0.9667,
+              "value": 0.7328,
+              "curve": [
+                1.311,
+                0.73,
+                1.656,
+                0
+              ]
+            },
+            {
+              "time": 2,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 4.6,
+              "value": 0,
+              "curve": [
+                4.667,
+                0,
+                4.733,
+                0.36
+              ]
+            },
+            {
+              "time": 4.8,
+              "value": 0.3581,
+              "curve": [
+                5.063,
+                0.36,
+                5.304,
+                0
+              ]
+            },
+            {
+              "time": 5.5667,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        },
+        "星_f": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4667,
+              "value": 0,
+              "curve": [
+                0.533,
+                0,
+                0.6,
+                0.36
+              ]
+            },
+            {
+              "time": 0.6667,
+              "value": 0.3581,
+              "curve": [
+                0.93,
+                0.36,
+                1.17,
+                0
+              ]
+            },
+            {
+              "time": 1.4333,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 4.6667,
+              "value": 0,
+              "curve": [
+                4.722,
+                0,
+                4.778,
+                0.73
+              ]
+            },
+            {
+              "time": 4.8333,
+              "value": 0.7328,
+              "curve": [
+                5.178,
+                0.73,
+                5.522,
+                0
+              ]
+            },
+            {
+              "time": 5.8667,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        },
+        "星_g": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8667,
+              "value": 0,
+              "curve": [
+                0.933,
+                0,
+                1,
+                0.36
+              ]
+            },
+            {
+              "time": 1.0667,
+              "value": 0.3581,
+              "curve": [
+                1.33,
+                0.36,
+                1.57,
+                0
+              ]
+            },
+            {
+              "time": 1.8333,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "value": 0,
+              "curve": [
+                2.356,
+                0,
+                2.411,
+                0.73
+              ]
+            },
+            {
+              "time": 2.4667,
+              "value": 0.7328,
+              "curve": [
+                2.811,
+                0.73,
+                3.156,
+                0
+              ]
+            },
+            {
+              "time": 3.5,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        },
+        "星_h": {
+          "alpha": [
+            {
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.4667,
+              "value": 0,
+              "curve": [
+                1.533,
+                0,
+                1.6,
+                0.36
+              ]
+            },
+            {
+              "time": 1.6667,
+              "value": 0.3581,
+              "curve": [
+                1.93,
+                0.36,
+                2.17,
+                0
+              ]
+            },
+            {
+              "time": 2.4333,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 4.1667,
+              "value": 0,
+              "curve": [
+                4.222,
+                0,
+                4.278,
+                0.73
+              ]
+            },
+            {
+              "time": 4.3333,
+              "value": 0.7328,
+              "curve": [
+                4.678,
+                0.73,
+                5.022,
+                0
+              ]
+            },
+            {
+              "time": 5.3667,
+              "value": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 6,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "extra": {
+    "bone": {
+      "rootBoneName": "bone",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 3,
+          "scaleXAmp": 0.02,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0,
+          "scaleXCenter": 0,
+          "rotateSpeed": -0.02
+        }
+      }
+    },
+    "bone2": {
+      "rootBoneName": "bone2",
+      "animation": {
+        "default": {
+          "name": "default",
+          "mode": 0
+        },
+        "animation": {
+          "name": "default",
+          "mode": 3,
+          "scaleXFreq": 3,
+          "scaleXAmp": 0.03,
+          "scaleXOctaves": 0,
+          "scaleXDelay": 0.5,
+          "scaleXCenter": 0
+        }
+      }
+    }
+  },
+  "extraSlot": {},
+  "extraConfig": {
+    "timeScale": 1
+  }
+}
